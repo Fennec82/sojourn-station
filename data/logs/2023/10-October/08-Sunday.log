@@ -1,0 +1,1021 @@
+
+
+Starting up. (ID: cqc-aIUe) 23:42.57
+---------------------
+[23:42:57] cqc-aIUe MISC: Saved storyteller is 'healer'
+[23:42:57] cqc-aIUe ADMIN: Loading jobban_rank
+[23:42:57] cqc-aIUe ADMIN: jobban_keylist was empty
+[23:42:57] cqc-aIUe ADMIN: Loading Banlist
+[23:43:51] cqc-aIUe ACCESS: Login: RiotScopez/() from 146.115.147.185-1871707424 || BYOND v514.1582
+[23:43:51] cqc-aIUe ACCESS: Login: RiotScopez/(/(RiotScopez)) from 146.115.147.185-1871707424 || BYOND v514
+[23:43:51] cqc-aIUe DEBUG: Could not find style "ErisStyle" for /mob/new_player.
+[23:43:51] cqc-aIUe ACCESS: Login: RiotScopez/(/(RiotScopez)) from 146.115.147.185-1871707424 || BYOND v514
+[23:44:55] cqc-aIUe ADMIN: EVENT *null* has loaded a character.
+[23:45:02] cqc-aIUe ADMIN: Jerry Hughes try find_inv_position a 14, but not have that slot!
+[23:45:02] cqc-aIUe ADMIN: Jerry Hughes try find_inv_position a 11, but not have that slot!
+[23:45:02] cqc-aIUe ADMIN: Jerry Hughes try find_inv_position a 13, but not have that slot!
+[23:45:02] cqc-aIUe ADMIN: Jerry Hughes try find_inv_position a 12, but not have that slot!
+[23:45:03] cqc-aIUe ADMIN: Patrick Watson try find_inv_position a 14, but not have that slot!
+[23:45:03] cqc-aIUe ADMIN: Patrick Watson try find_inv_position a 11, but not have that slot!
+[23:45:03] cqc-aIUe ADMIN: Patrick Watson try find_inv_position a 13, but not have that slot!
+[23:45:03] cqc-aIUe ADMIN: Patrick Watson try find_inv_position a 12, but not have that slot!
+[23:45:03] cqc-aIUe ADMIN: Kyle Cherry try find_inv_position a 14, but not have that slot!
+[23:45:03] cqc-aIUe ADMIN: Kyle Cherry try find_inv_position a 11, but not have that slot!
+[23:45:03] cqc-aIUe ADMIN: Kyle Cherry try find_inv_position a 13, but not have that slot!
+[23:45:03] cqc-aIUe ADMIN: Kyle Cherry try find_inv_position a 12, but not have that slot!
+[23:45:03] cqc-aIUe EMOTE: Quinton Sauter/ : screams!
+[23:45:03] cqc-aIUe EMOTE: Quinton Sauter/ : <B>Quinton Sauter</B> screams!
+[23:45:03] cqc-aIUe ADMIN: Quinton Sauter try find_inv_position a 14, but not have that slot!
+[23:45:03] cqc-aIUe ADMIN: Quinton Sauter try find_inv_position a 11, but not have that slot!
+[23:45:03] cqc-aIUe ADMIN: Quinton Sauter try find_inv_position a 13, but not have that slot!
+[23:45:03] cqc-aIUe ADMIN: Quinton Sauter try find_inv_position a 12, but not have that slot!
+[23:45:03] cqc-aIUe ADMIN: Luke Joghs try find_inv_position a 14, but not have that slot!
+[23:45:03] cqc-aIUe ADMIN: Luke Joghs try find_inv_position a 11, but not have that slot!
+[23:45:03] cqc-aIUe ADMIN: Luke Joghs try find_inv_position a 13, but not have that slot!
+[23:45:03] cqc-aIUe ADMIN: Luke Joghs try find_inv_position a 12, but not have that slot!
+[23:45:03] cqc-aIUe ADMIN: Butch Mcintosh try find_inv_position a 14, but not have that slot!
+[23:45:03] cqc-aIUe ADMIN: Butch Mcintosh try find_inv_position a 11, but not have that slot!
+[23:45:03] cqc-aIUe ADMIN: Butch Mcintosh try find_inv_position a 13, but not have that slot!
+[23:45:03] cqc-aIUe ADMIN: Butch Mcintosh try find_inv_position a 12, but not have that slot!
+[23:45:44] cqc-aIUe ADMIN: RiotScopez/(/(RiotScopez)) RiotScopez/(/(RiotScopez)) has set border control to learn new keys on connection!
+[23:47:27] cqc-aIUe GAME: neutral 3 loaded at at 51,76,19
+[23:47:35] cqc-aIUe GAME: neutral 2 loaded at at 81,81,19
+[23:47:35] cqc-aIUe GAME: neutral 2 loaded at at 86,26,19
+[23:47:36] cqc-aIUe GAME: neutral 2 loaded at at 11,16,19
+[23:47:36] cqc-aIUe GAME: neutral 3 loaded at at 51,31,19
+[23:47:36] cqc-aIUe GAME: neutral 6 loaded at at 96,56,19
+[23:47:36] cqc-aIUe GAME: neutral 6 loaded at at 31,101,19
+[23:47:36] cqc-aIUe GAME: neutral 9 loaded at at 106,16,19
+[23:47:36] cqc-aIUe GAME: neutral 5 loaded at at 81,11,19
+[23:47:36] cqc-aIUe GAME: neutral 5 loaded at at 76,11,19
+[23:47:36] cqc-aIUe GAME: neutral 8 loaded at at 76,81,19
+[23:47:36] cqc-aIUe GAME: neutral 9 loaded at at 51,66,19
+[23:47:36] cqc-aIUe GAME: neutral 1 loaded at at 41,26,19
+[23:47:36] cqc-aIUe GAME: neutral 6 loaded at at 41,11,19
+[23:47:36] cqc-aIUe GAME: neutral 7 loaded at at 21,46,19
+[23:47:36] cqc-aIUe GAME: neutral 4 loaded at at 106,86,19
+[23:47:37] cqc-aIUe GAME: neutral 5 loaded at at 41,26,19
+[23:47:37] cqc-aIUe GAME: neutral 3 loaded at at 71,61,19
+[23:47:37] cqc-aIUe GAME: neutral 1 loaded at at 76,56,19
+[23:47:37] cqc-aIUe GAME: neutral 6 loaded at at 51,51,19
+[23:47:37] cqc-aIUe GAME: neutral 11 loaded at at 96,31,19
+[23:47:37] cqc-aIUe GAME: neutral 10 loaded at at 66,66,19
+[23:47:37] cqc-aIUe GAME: neutral 10 loaded at at 11,86,19
+[23:47:37] cqc-aIUe GAME: neutral 10 loaded at at 106,106,19
+[23:47:37] cqc-aIUe GAME: neutral 5 loaded at at 71,21,19
+[23:47:37] cqc-aIUe GAME: neutral 2 loaded at at 61,101,19
+[23:47:37] cqc-aIUe GAME: neutral 4 loaded at at 71,61,19
+[23:47:37] cqc-aIUe GAME: neutral 4 loaded at at 11,51,19
+[23:47:37] cqc-aIUe GAME: neutral 7 loaded at at 101,71,19
+[23:47:37] cqc-aIUe GAME: neutral 3 loaded at at 11,91,19
+[23:47:37] cqc-aIUe GAME: neutral 5 loaded at at 11,101,19
+[23:47:37] cqc-aIUe GAME: neutral 11 loaded at at 21,91,19
+[23:47:37] cqc-aIUe GAME: neutral 10 loaded at at 41,41,19
+[23:47:37] cqc-aIUe GAME: neutral 4 loaded at at 76,21,19
+[23:47:37] cqc-aIUe GAME: neutral 5 loaded at at 71,66,19
+[23:47:37] cqc-aIUe GAME: neutral 1 loaded at at 61,106,19
+[23:47:37] cqc-aIUe GAME: neutral 10 loaded at at 106,51,19
+[23:47:37] cqc-aIUe GAME: neutral 4 loaded at at 71,56,19
+[23:47:37] cqc-aIUe GAME: neutral 1 loaded at at 71,66,19
+[23:47:50] cqc-aIUe GAME: Emitter deleted at (0,0,0)
+[23:48:46] cqc-aIUe ASSET: ERROR: Invalid asset: /datum/asset/simple/craft:obj_item_stack_cable_coil.png:1
+[23:48:51] cqc-aIUe ASSET: ERROR: Invalid asset: /datum/asset/simple/craft:obj_item_clothing_glasses_powered_meson.png:1
+[23:48:52] cqc-aIUe ASSET: ERROR: Invalid asset: /datum/asset/simple/craft:obj_item_gun_projectile_boltgun_lever.png:1
+[23:48:52] cqc-aIUe ASSET: ERROR: Invalid asset: /datum/asset/simple/craft:obj_item_gun_projectile_automatic_sts_rifle.png:1
+[23:48:53] cqc-aIUe ASSET: ERROR: Invalid asset: /datum/asset/simple/craft:obj_item_modular_computer_laptop.png:1
+[23:49:13] cqc-aIUe ACCESS: Logout: Pyromaniac1490124/()
+[23:49:35] cqc-aIUe VOTE: Storyteller vote started by server.
+[23:49:39] cqc-aIUe ADMIN: RiotScopez/(/(RiotScopez)) removed the delay.
+[23:49:40] cqc-aIUe ADMIN: RiotScopez/(/(RiotScopez)) delayed the game.
+[23:49:46] cqc-aIUe GAME: Entrance - 1 loaded at at 171,137,20
+[23:49:47] cqc-aIUe GAME: Hallway_4way loaded at at 171,128,20
+[23:49:47] cqc-aIUe GAME: crematorium loaded at at 158,128,20
+[23:49:47] cqc-aIUe GAME: garden loaded at at 145,128,20
+[23:49:48] cqc-aIUe GAME: crematorium loaded at at 132,128,20
+[23:49:48] cqc-aIUe GAME: crematorium loaded at at 119,128,20
+[23:49:48] cqc-aIUe GAME: crematorium loaded at at 106,128,20
+[23:49:49] cqc-aIUe GAME: showers loaded at at 93,128,20
+[23:49:49] cqc-aIUe GAME: showers loaded at at 80,128,20
+[23:49:50] cqc-aIUe GAME: Escape_Pod_West-East loaded at at 67,128,20
+[23:49:50] cqc-aIUe GAME: penitentiary loaded at at 54,128,20
+[23:49:50] cqc-aIUe GAME: showers loaded at at 41,128,20
+[23:49:51] cqc-aIUe GAME: penitentiary loaded at at 28,128,20
+[23:49:51] cqc-aIUe GAME: Escape_Pod_West-East loaded at at 15,128,20
+[23:49:52] cqc-aIUe GAME: autolathe_South-East loaded at at 2,128,20
+[23:49:52] cqc-aIUe GAME: garden loaded at at 2,119,20
+[23:49:52] cqc-aIUe GAME: crematorium loaded at at 15,119,20
+[23:49:53] cqc-aIUe GAME: Hallway_4way loaded at at 15,110,20
+[23:49:53] cqc-aIUe GAME: Escape_Pod_West-East loaded at at 28,110,20
+[23:49:54] cqc-aIUe GAME: garden loaded at at 41,110,20
+[23:49:54] cqc-aIUe GAME: Hallway_4way loaded at at 54,110,20
+[23:49:54] cqc-aIUe GAME: crematorium loaded at at 67,110,20
+[23:49:55] cqc-aIUe GAME: Hallway_4way loaded at at 80,110,20
+[23:49:55] cqc-aIUe GAME: checkpoint_horizontal loaded at at 93,110,20
+[23:49:55] cqc-aIUe GAME: Escape_Pod_West-East loaded at at 106,110,20
+[23:49:56] cqc-aIUe GAME: garden loaded at at 119,110,20
+[23:49:58] cqc-aIUe GAME: garden loaded at at 132,110,20
+[23:49:58] cqc-aIUe GAME: Hallway_4way loaded at at 132,101,20
+[23:49:59] cqc-aIUe GAME: Escape_Pod_West-East loaded at at 145,101,20
+[23:49:59] cqc-aIUe GAME: Hallway_4way loaded at at 158,101,20
+[23:49:59] cqc-aIUe GAME: garden loaded at at 171,101,20
+[23:50:00] cqc-aIUe GAME: Escape_Pod_West-East loaded at at 171,92,20
+[23:50:00] cqc-aIUe GAME: Escape_Pod_West-East loaded at at 158,92,20
+[23:50:01] cqc-aIUe GAME: secure_storage_horizontal loaded at at 145,92,20
+[23:50:01] cqc-aIUe GAME: showers loaded at at 132,92,20
+[23:50:01] cqc-aIUe GAME: checkpoint_horizontal loaded at at 119,92,20
+[23:50:02] cqc-aIUe GAME: Hallway_4way loaded at at 106,92,20
+[23:50:02] cqc-aIUe GAME: showers loaded at at 93,92,20
+[23:50:03] cqc-aIUe GAME: crematorium loaded at at 80,92,20
+[23:50:03] cqc-aIUe GAME: garden loaded at at 80,83,20
+[23:50:03] cqc-aIUe GAME: garden loaded at at 93,83,20
+[23:50:04] cqc-aIUe GAME: checkpoint_horizontal loaded at at 106,83,20
+[23:50:04] cqc-aIUe GAME: crematorium loaded at at 119,83,20
+[23:50:04] cqc-aIUe GAME: hallwayatmos_west-east loaded at at 132,83,20
+[23:50:05] cqc-aIUe GAME: crematorium loaded at at 145,83,20
+[23:50:05] cqc-aIUe GAME: Escape_Pod_West-East loaded at at 158,83,20
+[23:50:05] cqc-aIUe GAME: Hallway_4way loaded at at 171,83,20
+[23:50:06] cqc-aIUe GAME: Hallway_4way loaded at at 184,83,20
+[23:50:07] cqc-aIUe GAME: crematorium loaded at at 197,83,20
+[23:50:08] cqc-aIUe GAME: Escape_Pod_West-East loaded at at 197,74,20
+[23:50:08] cqc-aIUe GAME: Hallway_4way loaded at at 184,74,20
+[23:50:09] cqc-aIUe GAME: Escape_Pod_West-East loaded at at 184,65,20
+[23:50:11] cqc-aIUe GAME: Hallway_4way loaded at at 197,65,20
+[23:50:11] cqc-aIUe ADMIN: RiotScopez/(/(RiotScopez)) RiotScopez/(/(RiotScopez)) has loaded a character.
+[23:50:12] cqc-aIUe GAME: Hallway_4way loaded at at 197,56,20
+[23:50:13] cqc-aIUe GAME: checkpoint_horizontal loaded at at 184,56,20
+[23:50:13] cqc-aIUe GAME: crematorium loaded at at 171,56,20
+[23:50:13] cqc-aIUe GAME: showers loaded at at 158,56,20
+[23:50:14] cqc-aIUe GAME: crematorium loaded at at 145,56,20
+[23:50:14] cqc-aIUe GAME: Hallway_4way loaded at at 132,56,20
+[23:50:14] cqc-aIUe GAME: Escape_Pod_West-East loaded at at 119,56,20
+[23:50:15] cqc-aIUe GAME: checkpoint_horizontal loaded at at 106,56,20
+[23:50:15] cqc-aIUe GAME: Escape_Pod_West-East loaded at at 93,56,20
+[23:50:15] cqc-aIUe GAME: garden loaded at at 80,56,20
+[23:50:16] cqc-aIUe GAME: garden loaded at at 67,56,20
+[23:50:17] cqc-aIUe GAME: Escape_Pod_West-East loaded at at 67,47,20
+[23:50:17] cqc-aIUe GAME: secure_storage_horizontal loaded at at 54,47,20
+[23:50:18] cqc-aIUe GAME: garden loaded at at 41,47,20
+[23:50:18] cqc-aIUe GAME: garden loaded at at 28,47,20
+[23:50:19] cqc-aIUe GAME: checkpoint_horizontal loaded at at 15,47,20
+[23:50:20] cqc-aIUe MISC: a the gibber didn't find an input plate.
+[23:50:20] cqc-aIUe GAME: xenostudy loaded at at 100,65,21
+[23:50:21] cqc-aIUe GAME: dinner loaded at at 76,110,21
+[23:50:21] cqc-aIUe GAME: dinner loaded at at 114,31,21
+[23:50:21] cqc-aIUe MISC: a the gibber didn't find an input plate.
+[23:50:22] cqc-aIUe GAME: xenostudy loaded at at 72,60,21
+[23:50:22] cqc-aIUe GAME: Lab loaded at at 33,47,21
+[23:50:23] cqc-aIUe GAME: vault loaded at at 113,100,21
+[23:50:23] cqc-aIUe GAME: Hallway_4way loaded at at 2,47,20
+[23:50:23] cqc-aIUe GAME: Hallway_4way loaded at at 2,38,20
+[23:50:24] cqc-aIUe GAME: garden loaded at at 15,38,20
+[23:50:24] cqc-aIUe GAME: crematorium loaded at at 28,38,20
+[23:50:25] cqc-aIUe GAME: garden loaded at at 41,38,20
+[23:50:27] cqc-aIUe GAME: garden loaded at at 41,29,20
+[23:50:28] cqc-aIUe GAME: garden loaded at at 54,29,20
+[23:50:28] cqc-aIUe GAME: checkpoint_horizontal loaded at at 67,29,20
+[23:50:28] cqc-aIUe GAME: Escape_Pod_West-East loaded at at 80,29,20
+[23:50:29] cqc-aIUe GAME: Escape_Pod_West-East loaded at at 93,29,20
+[23:50:29] cqc-aIUe GAME: crematorium loaded at at 106,29,20
+[23:50:30] cqc-aIUe GAME: secure_storage_horizontal loaded at at 119,29,20
+[23:50:30] cqc-aIUe GAME: Hallway_4way loaded at at 132,29,20
+[23:50:30] cqc-aIUe GAME: Hallway_4way loaded at at 145,29,20
+[23:50:31] cqc-aIUe GAME: hallwayatmos_west-east loaded at at 158,29,20
+[23:50:31] cqc-aIUe GAME: garden loaded at at 171,29,20
+[23:50:31] cqc-aIUe GAME: Hallway_4way loaded at at 171,20,20
+[23:50:32] cqc-aIUe GAME: crematorium loaded at at 184,20,20
+[23:50:32] cqc-aIUe GAME: Escape_Pod_West-East loaded at at 184,11,20
+[23:50:33] cqc-aIUe GAME: Escape_Pod_West-East loaded at at 171,11,20
+[23:50:35] cqc-aIUe ACCESS: Logout: *no key*/(/(RiotScopez))
+[23:50:35] cqc-aIUe ACCESS: Login: riotscopez/(/(Amaya Paynter)) from 146.115.147.185-1871707424 || BYOND v514
+[23:50:35] cqc-aIUe GAME: Hallway_4way loaded at at 171,2,20
+[23:50:35] cqc-aIUe GAME: checkpoint_horizontal loaded at at 158,2,20
+[23:50:36] cqc-aIUe GAME: Escape_Pod_West-East loaded at at 145,2,20
+[23:50:36] cqc-aIUe GAME: Escape_Pod_West-East loaded at at 132,2,20
+[23:50:36] cqc-aIUe GAME: Escape_Pod_West-East loaded at at 119,2,20
+[23:50:37] cqc-aIUe GAME: Escape_Pod_West-East loaded at at 106,2,20
+[23:50:37] cqc-aIUe GAME: garden loaded at at 93,2,20
+[23:50:38] cqc-aIUe GAME: Escape_Pod_West-East loaded at at 80,2,20
+[23:50:38] cqc-aIUe GAME: Exit - 1 loaded at at 67,2,20
+[23:51:04] cqc-aIUe GAME: armory loaded at at 28,29,20
+[23:51:08] cqc-aIUe GAME: armory loaded at at 80,74,20
+[23:51:09] cqc-aIUe GAME: shooting_range loaded at at 184,92,20
+[23:51:10] cqc-aIUe GAME: shooting_range loaded at at 41,56,20
+[23:51:11] cqc-aIUe GAME: shooting_range loaded at at 132,65,20
+[23:51:11] cqc-aIUe GAME: armory_secure loaded at at 197,20,20
+[23:51:12] cqc-aIUe GAME: surgery loaded at at 171,110,20
+[23:51:15] cqc-aIUe GAME: surgery loaded at at 54,20,20
+[23:51:17] cqc-aIUe GAME: armory loaded at at 41,101,20
+[23:51:20] cqc-aIUe GAME: shooting_range loaded at at 171,38,20
+[23:51:24] cqc-aIUe GAME: shooting_range loaded at at 106,119,20
+[23:51:26] cqc-aIUe GAME: armory_secure loaded at at 184,29,20
+[23:51:27] cqc-aIUe GAME: cargo_vertical loaded at at 67,137,20
+[23:51:28] cqc-aIUe GAME: surgery loaded at at 28,101,20
+[23:51:29] cqc-aIUe GAME: armory loaded at at 106,20,20
+[23:51:29] cqc-aIUe GAME: shooting_range loaded at at 119,119,20
+[23:51:30] cqc-aIUe GAME: shooting_range loaded at at 28,119,20
+[23:51:34] cqc-aIUe GAME: cargo_vertical loaded at at 41,119,20
+[23:51:35] cqc-aIUe GAME: anomaly loaded at at 41,20,20
+[23:51:37] cqc-aIUe GAME: mechbay loaded at at 171,65,20
+[23:51:38] cqc-aIUe GAME: anomaly loaded at at 106,101,20
+[23:51:44] cqc-aIUe GAME: anomaly loaded at at 145,119,20
+[23:51:46] cqc-aIUe GAME: surgery loaded at at 171,47,20
+[23:51:47] cqc-aIUe GAME: surgery loaded at at 15,29,20
+[23:51:50] cqc-aIUe GAME: shooting_range loaded at at 145,38,20
+[23:51:50] cqc-aIUe GAME: cargo_vertical loaded at at 93,38,20
+[23:51:50] cqc-aIUe VOTE: <b>Votes:</b><br>	The Guide - 0 vote.<br><b>	The Healer - 1 vote.<br></b>	The Jester - 0 vote.<br>	The Mime - 0 vote.<br>	Ghost Town - 0 vote.<br>	The Warrior - 0 vote.<br>	The Sleeper - 0 vote.<br>	The Chronicler - 0 vote.<br>	Did not vote - 0<br>
+[23:51:53] cqc-aIUe GAME: surgery loaded at at 145,11,20
+[23:51:53] cqc-aIUe GAME: shooting_range loaded at at 184,2,20
+[23:51:55] cqc-aIUe GAME: surgery loaded at at 119,11,20
+[23:51:59] cqc-aIUe GAME: shooting_range loaded at at 158,110,20
+[23:52:00] cqc-aIUe GAME: refinery loaded at at 67,83,20
+[23:52:00] cqc-aIUe ADMIN: riotscopez/(/(Amaya Paynter)) delayed the game.
+[23:52:02] cqc-aIUe GAME: armory loaded at at 119,74,20
+[23:52:02] cqc-aIUe GAME: cargo_horizontal loaded at at 197,11,20
+[23:52:04] cqc-aIUe GAME: shooting_range loaded at at 132,11,20
+[23:52:08] cqc-aIUe GAME: surgery loaded at at 15,137,20
+[23:52:14] cqc-aIUe GAME: armory loaded at at 145,47,20
+[23:52:14] cqc-aIUe GAME: surgery loaded at at 93,74,20
+[23:52:15] cqc-aIUe GAME: cargo_vertical loaded at at 145,137,20
+[23:52:20] cqc-aIUe GAME: blocker loaded at at 2,137,20
+[23:52:20] cqc-aIUe GAME: blocker loaded at at 28,137,20
+[23:52:21] cqc-aIUe GAME: blocker loaded at at 41,137,20
+[23:52:21] cqc-aIUe GAME: blocker loaded at at 54,137,20
+[23:52:21] cqc-aIUe GAME: blocker loaded at at 80,137,20
+[23:52:21] cqc-aIUe GAME: blocker loaded at at 93,137,20
+[23:52:21] cqc-aIUe GAME: blocker loaded at at 106,137,20
+[23:52:21] cqc-aIUe GAME: blocker loaded at at 119,137,20
+[23:52:21] cqc-aIUe GAME: blocker loaded at at 132,137,20
+[23:52:21] cqc-aIUe GAME: blocker loaded at at 158,137,20
+[23:52:21] cqc-aIUe GAME: blocker loaded at at 184,137,20
+[23:52:21] cqc-aIUe GAME: blocker loaded at at 197,137,20
+[23:52:21] cqc-aIUe GAME: blocker loaded at at 184,128,20
+[23:52:21] cqc-aIUe GAME: blocker loaded at at 197,128,20
+[23:52:21] cqc-aIUe GAME: blocker loaded at at 54,119,20
+[23:52:21] cqc-aIUe GAME: blocker loaded at at 67,119,20
+[23:52:21] cqc-aIUe GAME: blocker loaded at at 80,119,20
+[23:52:21] cqc-aIUe GAME: blocker loaded at at 93,119,20
+[23:52:22] cqc-aIUe GAME: blocker loaded at at 132,119,20
+[23:52:22] cqc-aIUe GAME: blocker loaded at at 158,119,20
+[23:52:22] cqc-aIUe GAME: blocker loaded at at 171,119,20
+[23:52:22] cqc-aIUe GAME: blocker loaded at at 184,119,20
+[23:52:22] cqc-aIUe GAME: blocker loaded at at 197,119,20
+[23:52:22] cqc-aIUe GAME: blocker loaded at at 2,110,20
+[23:52:22] cqc-aIUe GAME: blocker loaded at at 145,110,20
+[23:52:22] cqc-aIUe GAME: blocker loaded at at 184,110,20
+[23:52:22] cqc-aIUe GAME: blocker loaded at at 197,110,20
+[23:52:22] cqc-aIUe GAME: blocker loaded at at 2,101,20
+[23:52:22] cqc-aIUe GAME: blocker loaded at at 15,101,20
+[23:52:22] cqc-aIUe GAME: blocker loaded at at 54,101,20
+[23:52:22] cqc-aIUe GAME: blocker loaded at at 67,101,20
+[23:52:22] cqc-aIUe GAME: blocker loaded at at 80,101,20
+[23:52:22] cqc-aIUe GAME: blocker loaded at at 93,101,20
+[23:52:23] cqc-aIUe GAME: blocker loaded at at 119,101,20
+[23:52:23] cqc-aIUe GAME: blocker loaded at at 184,101,20
+[23:52:23] cqc-aIUe GAME: blocker loaded at at 197,101,20
+[23:52:23] cqc-aIUe GAME: blocker loaded at at 2,92,20
+[23:52:23] cqc-aIUe GAME: blocker loaded at at 15,92,20
+[23:52:23] cqc-aIUe GAME: blocker loaded at at 28,92,20
+[23:52:23] cqc-aIUe GAME: blocker loaded at at 41,92,20
+[23:52:23] cqc-aIUe GAME: blocker loaded at at 54,92,20
+[23:52:23] cqc-aIUe GAME: blocker loaded at at 67,92,20
+[23:52:23] cqc-aIUe GAME: blocker loaded at at 197,92,20
+[23:52:23] cqc-aIUe GAME: blocker loaded at at 2,83,20
+[23:52:23] cqc-aIUe GAME: blocker loaded at at 15,83,20
+[23:52:23] cqc-aIUe GAME: blocker loaded at at 28,83,20
+[23:52:23] cqc-aIUe GAME: blocker loaded at at 41,83,20
+[23:52:23] cqc-aIUe GAME: blocker loaded at at 54,83,20
+[23:52:23] cqc-aIUe GAME: blocker loaded at at 2,74,20
+[23:52:23] cqc-aIUe GAME: blocker loaded at at 15,74,20
+[23:52:23] cqc-aIUe GAME: blocker loaded at at 28,74,20
+[23:52:23] cqc-aIUe GAME: blocker loaded at at 41,74,20
+[23:52:23] cqc-aIUe GAME: blocker loaded at at 54,74,20
+[23:52:24] cqc-aIUe GAME: blocker loaded at at 67,74,20
+[23:52:24] cqc-aIUe GAME: blocker loaded at at 106,74,20
+[23:52:24] cqc-aIUe GAME: blocker loaded at at 132,74,20
+[23:52:24] cqc-aIUe GAME: blocker loaded at at 145,74,20
+[23:52:24] cqc-aIUe GAME: blocker loaded at at 158,74,20
+[23:52:24] cqc-aIUe GAME: blocker loaded at at 171,74,20
+[23:52:24] cqc-aIUe GAME: blocker loaded at at 2,65,20
+[23:52:24] cqc-aIUe GAME: blocker loaded at at 15,65,20
+[23:52:24] cqc-aIUe GAME: blocker loaded at at 28,65,20
+[23:52:24] cqc-aIUe GAME: blocker loaded at at 41,65,20
+[23:52:24] cqc-aIUe GAME: blocker loaded at at 54,65,20
+[23:52:24] cqc-aIUe GAME: blocker loaded at at 67,65,20
+[23:52:24] cqc-aIUe GAME: blocker loaded at at 80,65,20
+[23:52:24] cqc-aIUe GAME: blocker loaded at at 93,65,20
+[23:52:24] cqc-aIUe GAME: blocker loaded at at 106,65,20
+[23:52:24] cqc-aIUe GAME: blocker loaded at at 119,65,20
+[23:52:25] cqc-aIUe GAME: blocker loaded at at 145,65,20
+[23:52:25] cqc-aIUe GAME: blocker loaded at at 158,65,20
+[23:52:25] cqc-aIUe GAME: blocker loaded at at 2,56,20
+[23:52:25] cqc-aIUe GAME: blocker loaded at at 15,56,20
+[23:52:25] cqc-aIUe GAME: blocker loaded at at 28,56,20
+[23:52:25] cqc-aIUe GAME: blocker loaded at at 54,56,20
+[23:52:25] cqc-aIUe GAME: blocker loaded at at 80,47,20
+[23:52:25] cqc-aIUe GAME: blocker loaded at at 93,47,20
+[23:52:25] cqc-aIUe GAME: blocker loaded at at 106,47,20
+[23:52:25] cqc-aIUe GAME: blocker loaded at at 119,47,20
+[23:52:25] cqc-aIUe GAME: blocker loaded at at 132,47,20
+[23:52:25] cqc-aIUe GAME: blocker loaded at at 158,47,20
+[23:52:25] cqc-aIUe GAME: blocker loaded at at 184,47,20
+[23:52:25] cqc-aIUe GAME: blocker loaded at at 197,47,20
+[23:52:26] cqc-aIUe GAME: blocker loaded at at 54,38,20
+[23:52:26] cqc-aIUe GAME: blocker loaded at at 67,38,20
+[23:52:26] cqc-aIUe GAME: blocker loaded at at 80,38,20
+[23:52:26] cqc-aIUe GAME: blocker loaded at at 106,38,20
+[23:52:26] cqc-aIUe GAME: blocker loaded at at 119,38,20
+[23:52:26] cqc-aIUe GAME: blocker loaded at at 132,38,20
+[23:52:26] cqc-aIUe GAME: blocker loaded at at 158,38,20
+[23:52:26] cqc-aIUe GAME: blocker loaded at at 184,38,20
+[23:52:26] cqc-aIUe GAME: blocker loaded at at 197,38,20
+[23:52:26] cqc-aIUe GAME: blocker loaded at at 2,29,20
+[23:52:26] cqc-aIUe GAME: blocker loaded at at 197,29,20
+[23:52:26] cqc-aIUe GAME: blocker loaded at at 2,20,20
+[23:52:26] cqc-aIUe GAME: blocker loaded at at 15,20,20
+[23:52:26] cqc-aIUe GAME: blocker loaded at at 28,20,20
+[23:52:26] cqc-aIUe GAME: blocker loaded at at 67,20,20
+[23:52:26] cqc-aIUe GAME: blocker loaded at at 80,20,20
+[23:52:27] cqc-aIUe GAME: blocker loaded at at 93,20,20
+[23:52:27] cqc-aIUe GAME: blocker loaded at at 119,20,20
+[23:52:27] cqc-aIUe GAME: blocker loaded at at 132,20,20
+[23:52:27] cqc-aIUe GAME: blocker loaded at at 145,20,20
+[23:52:27] cqc-aIUe GAME: blocker loaded at at 158,20,20
+[23:52:27] cqc-aIUe GAME: blocker loaded at at 2,11,20
+[23:52:27] cqc-aIUe GAME: blocker loaded at at 15,11,20
+[23:52:27] cqc-aIUe GAME: blocker loaded at at 28,11,20
+[23:52:27] cqc-aIUe GAME: blocker loaded at at 41,11,20
+[23:52:27] cqc-aIUe GAME: blocker loaded at at 54,11,20
+[23:52:27] cqc-aIUe GAME: blocker loaded at at 67,11,20
+[23:52:27] cqc-aIUe GAME: blocker loaded at at 80,11,20
+[23:52:27] cqc-aIUe GAME: blocker loaded at at 93,11,20
+[23:52:27] cqc-aIUe GAME: blocker loaded at at 106,11,20
+[23:52:27] cqc-aIUe GAME: blocker loaded at at 158,11,20
+[23:52:27] cqc-aIUe GAME: blocker loaded at at 2,2,20
+[23:52:28] cqc-aIUe GAME: blocker loaded at at 15,2,20
+[23:52:28] cqc-aIUe GAME: blocker loaded at at 28,2,20
+[23:52:28] cqc-aIUe GAME: blocker loaded at at 41,2,20
+[23:52:28] cqc-aIUe GAME: blocker loaded at at 54,2,20
+[23:52:28] cqc-aIUe GAME: blocker loaded at at 197,2,20
+[23:53:03] cqc-aIUe GAME: Medical supplies loaded at at 130,137,21
+[23:53:03] cqc-aIUe GAME: morgue loaded at at 71,137,21
+[23:53:03] cqc-aIUe GAME: sm_core loaded at at 28,79,21
+[23:53:03] cqc-aIUe GAME: freezer loaded at at 148,54,21
+[23:53:03] cqc-aIUe GAME: storage loaded at at 99,146,21
+[23:53:03] cqc-aIUe GAME: hydro loaded at at 142,129,21
+[23:53:03] cqc-aIUe GAME: library loaded at at 22,121,21
+[23:53:03] cqc-aIUe GAME: toilet loaded at at 154,94,21
+[23:53:04] cqc-aIUe GAME: morgue loaded at at 23,153,21
+[23:53:04] cqc-aIUe GAME: catwalks loaded at at 13,48,21
+[23:53:04] cqc-aIUe GAME: library loaded at at 145,108,21
+[23:53:04] cqc-aIUe GAME: toilet loaded at at 65,86,21
+[23:53:04] cqc-aIUe GAME: mechbay loaded at at 57,137,21
+[23:53:04] cqc-aIUe GAME: toilet loaded at at 128,73,21
+[23:53:04] cqc-aIUe GAME: freezer loaded at at 86,32,21
+[23:53:04] cqc-aIUe GAME: toilet loaded at at 26,30,21
+[23:53:04] cqc-aIUe GAME: a lost roach loaded at at 36,132,21
+[23:53:05] cqc-aIUe GAME: barricades loaded at at 134,85,21
+[23:53:05] cqc-aIUe GAME: catwalks loaded at at 12,73,21
+[23:53:05] cqc-aIUe GAME: freezer loaded at at 57,31,21
+[23:53:05] cqc-aIUe GAME: office loaded at at 38,27,21
+[23:53:05] cqc-aIUe GAME: sm_core loaded at at 39,111,21
+[23:53:05] cqc-aIUe GAME: Trash loaded at at 57,149,21
+[23:53:05] cqc-aIUe GAME: storage loaded at at 136,58,21
+[23:53:05] cqc-aIUe GAME: sm_core loaded at at 81,149,21
+[23:53:06] cqc-aIUe GAME: freezer loaded at at 138,32,21
+[23:53:06] cqc-aIUe GAME: storage loaded at at 154,36,21
+[23:53:06] cqc-aIUe GAME: catwalks loaded at at 51,124,21
+[23:53:06] cqc-aIUe GAME: catwalks loaded at at 11,144,21
+[23:53:06] cqc-aIUe GAME: sm_core loaded at at 60,44,21
+[23:56:15] cqc-aIUe GAME: Amaya Paynter/riotscopez used abandon mob.
+[23:56:15] cqc-aIUe ACCESS: Logout: *no key*/(/(Amaya Paynter))
+[23:56:15] cqc-aIUe ACCESS: Login: riotscopez/(/(new player)) from 146.115.147.185-1871707424 || BYOND v514
+[23:56:16] cqc-aIUe ACCESS: Login: riotscopez/(/(new player)) from 146.115.147.185-1871707424 || BYOND v514
+[23:56:16] cqc-aIUe DEBUG: Could not find style "ErisStyle" for /mob/new_player.
+[23:56:31] cqc-aIUe ACCESS: Login: Athirson/() from 177.130.226.160-1848351067 || BYOND v514.1585
+[23:56:31] cqc-aIUe ACCESS: Login: Athirson/(/(Athirson)) from 177.130.226.160-1848351067 || BYOND v514
+[23:56:31] cqc-aIUe DEBUG: Could not find style "ErisStyle" for /mob/new_player.
+[23:56:31] cqc-aIUe ACCESS: Login: Athirson/(/(Athirson)) from 177.130.226.160-1848351067 || BYOND v514
+[23:57:12] cqc-aIUe ADMIN: Athirson/(/(Athirson)) athirson has joined and was added to the border whitelist.
+[23:57:12] cqc-aIUe OOC: Athirson/Athirson : CAT JUMPSCARE!
+[23:58:13] cqc-aIUe ADMIN: riotscopez has started the game.
+[23:58:24] cqc-aIUe SAY: Kraftwerk Roach/ : 10101010011100010101.
+[23:58:24] cqc-aIUe SAY: Durable Kraftwerk Roach/ : 10101010011100010101.
+[23:58:24] cqc-aIUe SAY: Kraftwerk Roach/ : 10101010011100010101.
+[23:58:25] cqc-aIUe SAY: Biosilicified Kraftwerk Roach/ : 10101010011100010101.
+[23:58:25] cqc-aIUe SAY: Durable Kraftwerk Roach/ : 10101010011100010101.
+[23:58:26] cqc-aIUe SAY: Durable Kraftwerk Roach/ : 10101010011100010101.
+[23:58:28] cqc-aIUe SAY: *no key*/(/(rat (847))) squeals! 
+[23:58:36] cqc-aIUe GAME: Explosion with size (0, 1, 3) in area Greyson Field Offices 
+[23:58:40] cqc-aIUe SAY: *no key*/(/(rat (70))) squeals! 
+[23:58:42] cqc-aIUe ACCESS: Logout: *no key*/(/(new player))
+[23:58:42] cqc-aIUe ACCESS: Login: riotscopez/(/(Amaya Paynter)) from 146.115.147.185-1871707424 || BYOND v514
+[23:58:42] cqc-aIUe DEBUG: Could not find style "ErisStyle" for /mob/living/carbon/human.
+[23:58:43] cqc-aIUe DEBUG: Creating records for Amaya Paynter
+[23:58:59] cqc-aIUe ACCESS: Logout: RiotScopez/(/(Amaya Paynter))
+[23:58:59] cqc-aIUe ACCESS: Logout: riotscopez[DC]/(/(Amaya Paynter))
+[23:59:02] cqc-aIUe ACCESS: Login: RiotScopez/() from 146.115.147.185-1871707424 || BYOND v514.1582
+[23:59:02] cqc-aIUe ACCESS: Login: RiotScopez/(/(Amaya Paynter)) from 146.115.147.185-1871707424 || BYOND v514
+[23:59:02] cqc-aIUe DEBUG: Could not find style "ErisStyle" for /mob/living/carbon/human.
+[23:59:31] cqc-aIUe GAME: Explosion with size (-1, 1, 2) in area Junk Field 
+[23:59:32] cqc-aIUe SAY: Kraftwerk Roach/ : 10101010011100010101.
+[23:59:32] cqc-aIUe SAY: *no key*/(/(rat (517))) squeals! 
+[23:59:33] cqc-aIUe SAY: *no key*/(/(rat (834))) squeals! 
+[23:59:33] cqc-aIUe SAY: *no key*/(/(rat (257))) squeals! 
+[23:59:33] cqc-aIUe SAY: *no key*/(/(rat (860))) squeals! 
+[23:59:34] cqc-aIUe SAY: *no key*/(/(rat (817))) squeals! 
+[23:59:34] cqc-aIUe SAY: *no key*/(/(rat (916))) squeals! 
+[23:59:34] cqc-aIUe SAY: *no key*/(/(rat (888))) squeals! 
+[23:59:35] cqc-aIUe SAY: *no key*/(/(rat (816))) squeals! 
+[23:59:35] cqc-aIUe SAY: *no key*/(/(rat (736))) squeals! 
+[23:59:35] cqc-aIUe SAY: *no key*/(/(rat (61))) squeals! 
+[23:59:35] cqc-aIUe SAY: *no key*/(/(rat (649))) squeals! 
+[23:59:35] cqc-aIUe SAY: *no key*/(/(rat (717))) squeals! 
+[23:59:35] cqc-aIUe SAY: *no key*/(/(rat (463))) squeals! 
+[23:59:36] cqc-aIUe GAME: Explosion with size (-1, 0, 1) in area Deep Maintenance 
+[23:59:41] cqc-aIUe GAME: Explosion with size (-1, 1, 2) in area Vault Bunker 
+[00:00:12] cqc-aIUe SAY: Biosilicified Kraftwerk Roach/ : 10101010011100010101.
+[00:00:12] cqc-aIUe SAY: *no key*/(/(rat (351))) squeals! 
+[00:00:12] cqc-aIUe SAY: Kraftwerk Roach/ : 10101010011100010101.
+[00:00:13] cqc-aIUe SAY: *no key*/(/(rat (337))) squeals! 
+[00:00:13] cqc-aIUe SAY: Kraftwerk Roach/ : 10101010011100010101.
+[00:00:23] cqc-aIUe GAME: Explosion with size (-1, 0, 1) in area Deep Maintenance 
+[00:00:58] cqc-aIUe SAY: Durable Kraftwerk Roach/ : 10101010011100010101.
+[00:00:59] cqc-aIUe SAY: *no key*/(/(rat (344))) squeals! 
+[00:01:00] cqc-aIUe SAY: *no key*/(/(rat (169))) squeals! 
+[00:01:00] cqc-aIUe SAY: Lambertian Kraftwerk Roach/ : 10101010011100010101.
+[00:01:00] cqc-aIUe SAY: Durable Kraftwerk Roach/ : 10101010011100010101.
+[00:01:08] cqc-aIUe GAME: Explosion with size (-1, 1, 2) in area Deep Maintenance 
+[00:01:10] cqc-aIUe DEBUG: Runtime in unsorted.dm,1381: addtimer called with a callback assigned to a qdeleted object. In the future such timers will not be supported and may refuse to run or run with a 0 wait <A HREF='?_src_=holder;viewruntime=[0x210f9629]'>[view]</A>
+[00:01:12] cqc-aIUe SAY: Durable Kraftwerk Roach/ : 10101010011100010101.
+[00:01:13] cqc-aIUe SAY: grey baby slime (286)/ : Rawr...
+[00:01:35] cqc-aIUe SAY: Durable Kraftwerk Roach/ : 10101010011100010101.
+[00:01:37] cqc-aIUe SAY: *no key*/(/(rat (837))) squeals! 
+[00:01:38] cqc-aIUe SAY: *no key*/(/(rat (132))) squeals! 
+[00:01:38] cqc-aIUe SAY: Lambertian Kraftwerk Roach/ : 10101010011100010101.
+[00:01:38] cqc-aIUe SAY: Kraftwerk Roach/ : 10101010011100010101.
+[00:01:38] cqc-aIUe SAY: Durable Kraftwerk Roach/ : 10101010011100010101.
+[00:02:11] cqc-aIUe GAME: Explosion with size (-1, 1, 2) in area Vault Bunker 
+[00:02:13] cqc-aIUe SAY: *no key*/(/(rat (764))) squeals! 
+[00:03:00] cqc-aIUe SAY: Lambertian Kraftwerk Roach/ : 10101010011100010101.
+[00:03:00] cqc-aIUe SAY: *no key*/(/(rat (419))) squeals! 
+[00:03:17] cqc-aIUe SAY: Lambertian Kraftwerk Roach/ : 10101010011100010101.
+[00:03:27] cqc-aIUe GAME: Explosion with size (0, 1, 3) in area Hunting plains underground caves 
+[00:03:42] cqc-aIUe GAME: Explosion with size (-1, 0, 1) in area Hunting Plains 
+[00:03:45] cqc-aIUe SAY: Lambertian Kraftwerk Roach/ : 10101010011100010101.
+[00:04:10] cqc-aIUe GAME: Explosion with size (-1, 1, 2) in area Prepper Base 
+[00:04:25] cqc-aIUe SAY: Kraftwerk Roach/ : 10101010011100010101.
+[00:04:40] cqc-aIUe SAY: Lambertian Kraftwerk Roach/ : 10101010011100010101.
+[00:04:51] cqc-aIUe SAY: Lambertian Kraftwerk Roach/ : 10101010011100010101.
+[00:05:42] cqc-aIUe GAME: Explosion with size (-1, 0, 1) in area Deep Maintenance 
+[00:05:56] cqc-aIUe SAY: *no key*/(/(rat (813))) squeals! 
+[00:06:32] cqc-aIUe GAME: Explosion with size (-1, 0, 1) in area Deep Maintenance 
+[00:07:19] cqc-aIUe GAME: Explosion with size (-1, 1, 2) in area Vault Bunker 
+[00:07:36] cqc-aIUe SAY: Durable Kraftwerk Roach/ : 10101010011100010101.
+[00:07:41] cqc-aIUe SAY: Kraftwerk Roach/ : 10101010011100010101.
+[00:07:43] cqc-aIUe GAME: Explosion with size (-1, 0, 1) in area Deep Maintenance 
+[00:07:44] cqc-aIUe SAY: Durable Kraftwerk Roach/ : 10101010011100010101.
+[00:07:48] cqc-aIUe SAY: Biosilicified Kraftwerk Roach/ : 10101010011100010101.
+[00:07:51] cqc-aIUe SAY: Durable Kraftwerk Roach/ : 10101010011100010101.
+[00:07:53] cqc-aIUe SAY: Biosilicified Kraftwerk Roach/ : 10101010011100010101.
+[00:08:10] cqc-aIUe SAY: grey baby slime (578)/ : Brother...
+[00:08:56] cqc-aIUe ADMIN: Athirson/(/(Athirson)) Athirson/(/(Athirson)) has saved their preferences.
+[00:08:57] cqc-aIUe ADMIN: Athirson/(/(Athirson)) Athirson/(/(Athirson)) has saved a character.
+[00:12:05] cqc-aIUe ADMIN: RiotScopez/(/(Amaya Paynter)) spawned /obj/item/tool/hammer/ironhammer at (84,190,3) (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=84;Y=190;Z=3'>JMP</a>)
+[00:12:09] cqc-aIUe ADMIN: RiotScopez/(/(Amaya Paynter)) deleted Seinemetall Defense "Ironhammer" Breaching Hammer at (84,190,3)
+[00:13:05] cqc-aIUe ACCESS: Logout: *no key*/(/(Amaya Paynter))
+[00:13:05] cqc-aIUe ACCESS: Login: riotscopez/(/(Amaya Paynter)) from 146.115.147.185-1871707424 || BYOND v514
+[00:13:11] cqc-aIUe GAME: Explosion with size (-1, 0, 1) in area Prepper Base 
+[00:13:14] cqc-aIUe ACCESS: Logout: *no key*/(/(Amaya Paynter))
+[00:13:14] cqc-aIUe ACCESS: Login: riotscopez/(/(Amaya Paynter)) from 146.115.147.185-1871707424 || BYOND v514
+[00:13:14] cqc-aIUe DEBUG: Could not find style "ErisStyle" for /mob/living/carbon/human.
+[00:13:24] cqc-aIUe ADMIN: riotscopez/(/(Amaya Paynter)) spawned /obj/item/tool/baton/maul at (85,154,4) (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=85;Y=154;Z=4'>JMP</a>)
+[00:13:29] cqc-aIUe SAY: grey baby slime (257)/ : Blorble...
+[00:14:41] cqc-aIUe SAY: grey baby slime (257)/ : Rawr...
+[00:16:44] cqc-aIUe SAY: Commander Paynter/riotscopez : Anyone here?
+[00:17:29] cqc-aIUe GAME: Explosion with size (-1, 1, 2) in area Swamp Caves 
+[00:18:44] cqc-aIUe ADMIN: Athirson/(/(Athirson)) Athirson/(/(Athirson)) has saved their preferences.
+[00:18:44] cqc-aIUe ADMIN: Athirson/(/(Athirson)) Athirson/(/(Athirson)) has saved a character.
+[00:19:27] cqc-aIUe SAY: grey baby slime (400)/ : Blop...
+[00:20:03] cqc-aIUe DEBUG: Moved - the combat drone was deleted while still being listened to by /datum/effect/effect/system/trail/ion.
+[00:21:43] cqc-aIUe SAY: *no key*/(/(rat (924))) squeals! 
+[00:22:25] cqc-aIUe GAME: Explosion with size (-1, 0, 1) in area Abandoned Research Lab 
+[00:22:44] cqc-aIUe ADMIN: Athirson/(/(Athirson)) Athirson/(/(Athirson)) has saved their preferences.
+[00:22:44] cqc-aIUe ADMIN: Athirson/(/(Athirson)) Athirson/(/(Athirson)) has saved a character.
+[00:23:12] cqc-aIUe SAY: grey baby slime (257)/ : Blop...
+[00:24:16] cqc-aIUe SAY: grey baby slime (286)/ : Blorble...
+[00:24:49] cqc-aIUe ADMIN: Athirson/(/(Athirson)) Athirson/(/(Athirson)) has saved their preferences.
+[00:24:49] cqc-aIUe ADMIN: Athirson/(/(Athirson)) Athirson/(/(Athirson)) has saved a character.
+[00:26:41] cqc-aIUe ADMIN: Athirson/(/(Athirson)) Athirson/(/(Athirson)) has saved their preferences.
+[00:26:41] cqc-aIUe ADMIN: Athirson/(/(Athirson)) Athirson/(/(Athirson)) has saved a character.
+[00:26:57] cqc-aIUe ACCESS: Logout: *no key*/(/(Athirson))
+[00:26:57] cqc-aIUe ACCESS: Login: Athirson/(/(Robin Blessig)) from 177.130.226.160-1848351067 || BYOND v514
+[00:26:57] cqc-aIUe DEBUG: Could not find style "ErisStyle" for /mob/living/carbon/human.
+[00:26:58] cqc-aIUe DEBUG: Creating records for Robin Blessig
+[00:28:17] cqc-aIUe SAY: Robin Blessig/Athirson : Umm, hi.
+[00:28:33] cqc-aIUe SAY: Commander Paynter/riotscopez : HI!
+[00:28:56] cqc-aIUe ADMIN: riotscopez/(/(Amaya Paynter)) deleted Durable Adept Blattin at (136,118,3)
+[00:29:13] cqc-aIUe OOC: Robin Blessig/Athirson : the game box is smol, I want it bigger
+[00:29:17] cqc-aIUe SAY: Commander Paynter/riotscopez : Birb?
+[00:29:21] cqc-aIUe SAY: Robin Blessig/Athirson : Uh, hey.
+[00:29:27] cqc-aIUe EMOTE: Robin Blessig/Athirson : chirps!
+[00:29:27] cqc-aIUe EMOTE: Robin Blessig/Athirson : <B>Robin Blessig</B> chirps!
+[00:29:29] cqc-aIUe DEBUG: Moved - the combat drone was deleted while still being listened to by /datum/effect/effect/system/trail/ion.
+[00:29:32] cqc-aIUe SAY: Commander Paynter/riotscopez : Hello~
+[00:29:45] cqc-aIUe SAY: Robin Blessig/Athirson : Ack! contact!
+[00:30:05] cqc-aIUe SAY: Commander Paynter/riotscopez : You don&#39;t like headpats?
+[00:30:11] cqc-aIUe SAY: Robin Blessig/Athirson : Mmmm.. a bit..
+[00:30:16] cqc-aIUe SAY: Robin Blessig/Athirson : Perhaps.
+[00:30:18] cqc-aIUe SAY: Robin Blessig/Athirson : Maybe.
+[00:30:33] cqc-aIUe SAY: *no key*/(/(rat (943))) squeals! 
+[00:30:37] cqc-aIUe SAY: Commander Paynter/riotscopez : So, what brings you here?
+[00:30:43] cqc-aIUe SAY: grey baby slime (400)/ : Brother...
+[00:30:49] cqc-aIUe DEBUG: Runtime in _component.dm,115: cloths_missing overridden. Use override = TRUE to suppress this warning <A HREF='?_src_=holder;viewruntime=[0x210f8aa5]'>[view]</A>
+[00:30:57] cqc-aIUe SAY: Robin Blessig/Athirson : Ah well.. you know.. just business right?
+[00:31:03] cqc-aIUe SAY: Commander Paynter/riotscopez : Yeah.
+[00:31:10] cqc-aIUe SAY: Commander Paynter/riotscopez : I&#39;m Amaya.
+[00:31:25] cqc-aIUe SAY: Commander Paynter/riotscopez : I&#39;m the Blackshield Commander.
+[00:31:27] cqc-aIUe GAME: Explosion with size (-1, 1, 2) in area Deep Maintenance 
+[00:31:31] cqc-aIUe SAY: Robin Blessig/Athirson : Robin, nice to meet ya.
+[00:31:44] cqc-aIUe SAY: grey baby slime (400)/ : Rawr...
+[00:31:51] cqc-aIUe SAY: Commander Paynter/riotscopez : I&#39;m in charge of the defense of the colony.
+[00:32:04] cqc-aIUe SAY: Commander Paynter/riotscopez : If you need anything, just ask.
+[00:32:10] cqc-aIUe SAY: grey baby slime (578)/ : Blorble...
+[00:32:14] cqc-aIUe SAY: Robin Blessig/Athirson : Allrighty I&#39;ll be around for sure.
+[00:32:40] cqc-aIUe OOC: (LOCAL) Robin Blessig/Athirson : we even have sanity? guh
+[00:32:42] cqc-aIUe SAY: Commander Paynter/riotscopez : If you wanna go hang out, I&#39;ll be at the gatehouse.
+[00:32:56] cqc-aIUe SAY: grey baby slime (400)/ : Blop...
+[00:34:40] cqc-aIUe SAY: grey baby slime (257)/ : Rawr...
+[00:35:00] cqc-aIUe SAY: Robin Blessig/Athirson : Huh.
+[00:35:27] cqc-aIUe SAY: Robin Blessig/Athirson : HELP.
+[00:35:52] cqc-aIUe SAY: Commander Paynter/riotscopez : What?
+[00:35:59] cqc-aIUe SAY: Robin Blessig/Athirson : Okay, nobody told me about murderous cockroaches.
+[00:36:44] cqc-aIUe ATTACK: Athirson/(/(Robin Blessig)) attacked Athirson/(/(Robin Blessig)) with space beer (INTENT: HARM) (DAMTYE: BRUTE)
+[00:36:53] cqc-aIUe ATTACK: Athirson/(/(Robin Blessig)) attacked *no key*/(/(Kampfer Roach)) with broken bottle (INTENT: HARM) (DAMTYE: BRUTE)
+[00:36:55] cqc-aIUe ATTACK: Athirson/(/(Robin Blessig)) attacked *no key*/(/(Panzer Roach)) with broken bottle (INTENT: HARM) (DAMTYE: BRUTE)
+[00:36:56] cqc-aIUe ATTACK: Athirson/(/(Robin Blessig)) attacked *no key*/(/(Durable Jager Roach)) with broken bottle (INTENT: HARM) (DAMTYE: BRUTE)
+[00:36:57] cqc-aIUe ATTACK: Athirson/(/(Robin Blessig)) attacked *no key*/(/(Durable Jager Roach)) with broken bottle (INTENT: HARM) (DAMTYE: BRUTE)
+[00:36:58] cqc-aIUe ATTACK: Athirson/(/(Robin Blessig)) attacked *no key*/(/(Durable Jager Roach)) with broken bottle (INTENT: HARM) (DAMTYE: BRUTE)
+[00:36:59] cqc-aIUe ATTACK: Athirson/(/(Robin Blessig)) attacked *no key*/(/(Durable Jager Roach)) with broken bottle (INTENT: HARM) (DAMTYE: BRUTE)
+[00:37:00] cqc-aIUe ATTACK: Athirson/(/(Robin Blessig)) attacked *no key*/(/(Kampfer Roach)) with broken bottle (INTENT: HARM) (DAMTYE: BRUTE)
+[00:37:01] cqc-aIUe ATTACK: Athirson/(/(Robin Blessig)) attacked *no key*/(/(Kampfer Roach)) with broken bottle (INTENT: HARM) (DAMTYE: BRUTE)
+[00:37:03] cqc-aIUe ATTACK: Athirson/(/(Robin Blessig)) attacked *no key*/(/(Biosilicified Seuche Roach)) with broken bottle (INTENT: HARM) (DAMTYE: BRUTE)
+[00:37:04] cqc-aIUe ATTACK: Athirson/(/(Robin Blessig)) attacked *no key*/(/(Biosilicified Seuche Roach)) with broken bottle (INTENT: HARM) (DAMTYE: BRUTE)
+[00:37:05] cqc-aIUe ATTACK: Athirson/(/(Robin Blessig)) attacked *no key*/(/(Panzer Roach)) with broken bottle (INTENT: HARM) (DAMTYE: BRUTE)
+[00:37:05] cqc-aIUe ATTACK: Athirson/(/(Robin Blessig)) attacked *no key*/(/(Panzer Roach)) with broken bottle (INTENT: HARM) (DAMTYE: BRUTE)
+[00:37:06] cqc-aIUe ATTACK: Athirson/(/(Robin Blessig)) attacked *no key*/(/(Panzer Roach)) with broken bottle (INTENT: HARM) (DAMTYE: BRUTE)
+[00:37:07] cqc-aIUe ATTACK: Athirson/(/(Robin Blessig)) attacked *no key*/(/(Panzer Roach)) with broken bottle (INTENT: HARM) (DAMTYE: BRUTE)
+[00:37:08] cqc-aIUe ATTACK: Athirson/(/(Robin Blessig)) attacked *no key*/(/(Panzer Roach)) with broken bottle (INTENT: HARM) (DAMTYE: BRUTE)
+[00:37:09] cqc-aIUe ATTACK: Athirson/(/(Robin Blessig)) attacked *no key*/(/(Panzer Roach)) with broken bottle (INTENT: HARM) (DAMTYE: BRUTE)
+[00:37:10] cqc-aIUe ATTACK: Athirson/(/(Robin Blessig)) attacked *no key*/(/(Panzer Roach)) with broken bottle (INTENT: HARM) (DAMTYE: BRUTE)
+[00:37:11] cqc-aIUe ATTACK: Athirson/(/(Robin Blessig)) attacked *no key*/(/(Panzer Roach)) with broken bottle (INTENT: HARM) (DAMTYE: BRUTE)
+[00:37:12] cqc-aIUe ATTACK: Athirson/(/(Robin Blessig)) attacked *no key*/(/(Panzer Roach)) with broken bottle (INTENT: HARM) (DAMTYE: BRUTE)
+[00:37:24] cqc-aIUe SAY: Robin Blessig/Athirson : Right, I need a medic soon.
+[00:37:30] cqc-aIUe SAY: Commander Paynter/riotscopez : Where did it happen?
+[00:37:38] cqc-aIUe SAY: Robin Blessig/Athirson : I&#39;m near some pool area.
+[00:38:07] cqc-aIUe ACCESS: Logout: *no key*/(/(Amaya Paynter))
+[00:38:07] cqc-aIUe ACCESS: Login: riotscopez/(/(Amaya Paynter)) from 146.115.147.185-1871707424 || BYOND v514
+[00:38:20] cqc-aIUe ACCESS: Logout: *no key*/(/(Amaya Paynter))
+[00:38:20] cqc-aIUe ACCESS: Login: riotscopez/(/(Amaya Paynter)) from 146.115.147.185-1871707424 || BYOND v514
+[00:38:20] cqc-aIUe DEBUG: Could not find style "ErisStyle" for /mob/living/carbon/human.
+[00:38:21] cqc-aIUe ATTACK: Athirson/(/(Robin Blessig)) attacked *no key*/(/(Durable Kraftwerk Roach)) with broken bottle (INTENT: HARM) (DAMTYE: BRUTE)
+[00:38:21] cqc-aIUe ATTACK: Athirson/(/(Robin Blessig)) attacked *no key*/(/(Durable Kraftwerk Roach)) with broken bottle (INTENT: HARM) (DAMTYE: BRUTE)
+[00:38:22] cqc-aIUe ATTACK: Athirson/(/(Robin Blessig)) attacked *no key*/(/(Durable Kraftwerk Roach)) with broken bottle (INTENT: HARM) (DAMTYE: BRUTE)
+[00:38:23] cqc-aIUe ATTACK: Athirson/(/(Robin Blessig)) attacked *no key*/(/(Durable Kraftwerk Roach)) with broken bottle (INTENT: HARM) (DAMTYE: BRUTE)
+[00:38:24] cqc-aIUe ATTACK: Athirson/(/(Robin Blessig)) attacked *no key*/(/(Durable Kraftwerk Roach)) with broken bottle (INTENT: HARM) (DAMTYE: BRUTE)
+[00:38:25] cqc-aIUe ATTACK: Athirson/(/(Robin Blessig)) attacked *no key*/(/(Durable Kraftwerk Roach)) with broken bottle (INTENT: HARM) (DAMTYE: BRUTE)
+[00:38:26] cqc-aIUe ATTACK: Athirson/(/(Robin Blessig)) attacked *no key*/(/(Durable Kraftwerk Roach)) with broken bottle (INTENT: HARM) (DAMTYE: BRUTE)
+[00:38:27] cqc-aIUe ATTACK: Athirson/(/(Robin Blessig)) attacked *no key*/(/(Durable Kraftwerk Roach)) with broken bottle (INTENT: HARM) (DAMTYE: BRUTE)
+[00:38:28] cqc-aIUe ATTACK: Athirson/(/(Robin Blessig)) attacked *no key*/(/(Durable Kraftwerk Roach)) with broken bottle (INTENT: HARM) (DAMTYE: BRUTE)
+[00:38:29] cqc-aIUe ATTACK: Athirson/(/(Robin Blessig)) attacked *no key*/(/(Durable Kraftwerk Roach)) with broken bottle (INTENT: HARM) (DAMTYE: BRUTE)
+[00:38:30] cqc-aIUe ATTACK: Athirson/(/(Robin Blessig)) attacked *no key*/(/(Durable Kraftwerk Roach)) with broken bottle (INTENT: HARM) (DAMTYE: BRUTE)
+[00:38:33] cqc-aIUe ATTACK: Athirson/(/(Robin Blessig)) attacked *no key*/(/(Durable Kraftwerk Roach)) with broken bottle (INTENT: HARM) (DAMTYE: BRUTE)
+[00:38:33] cqc-aIUe ATTACK: Athirson/(/(Robin Blessig)) attacked *no key*/(/(Durable Kraftwerk Roach)) with broken bottle (INTENT: HARM) (DAMTYE: BRUTE)
+[00:38:38] cqc-aIUe ATTACK: Athirson/(/(Robin Blessig)) attacked *no key*/(/(Durable Kraftwerk Roach)) with broken bottle (INTENT: HARM) (DAMTYE: BRUTE)
+[00:38:52] cqc-aIUe ATTACK: Athirson/(/(Robin Blessig)) attacked *no key*/(/(Durable Kraftwerk Roach)) with broken bottle (INTENT: HARM) (DAMTYE: BRUTE)
+[00:39:02] cqc-aIUe SAY: Robin Blessig/Athirson : I killed like, five or eight of them.
+[00:39:13] cqc-aIUe SAY: Robin Blessig/Athirson : This bottle is being handy.
+[00:39:31] cqc-aIUe SAY: Robin Blessig/Athirson : Careful.
+[00:39:39] cqc-aIUe SAY: Robin Blessig/Athirson : They fart and I think that&#39;s poison.
+[00:39:54] cqc-aIUe EMOTE: Robin Blessig/Athirson : <B>Robin Blessig</B> furrows a brow.
+[00:39:57] cqc-aIUe ATTACK: Athirson/(/(Robin Blessig)) attacked *no key*/(/(Biosilicified Kampfer Roach)) with broken bottle (INTENT: HARM) (DAMTYE: BRUTE)
+[00:39:58] cqc-aIUe ATTACK: Athirson/(/(Robin Blessig)) attacked *no key*/(/(Biosilicified Kampfer Roach)) with broken bottle (INTENT: HARM) (DAMTYE: BRUTE)
+[00:39:59] cqc-aIUe ATTACK: Athirson/(/(Robin Blessig)) attacked *no key*/(/(Kampfer Roach)) with broken bottle (INTENT: HARM) (DAMTYE: BRUTE)
+[00:40:02] cqc-aIUe ATTACK: Athirson/(/(Robin Blessig)) attacked *no key*/(/(Lambertian Seuche Roach)) with broken bottle (INTENT: HARM) (DAMTYE: BRUTE)
+[00:40:03] cqc-aIUe ATTACK: riotscopez/(/(Amaya Paynter)) stunned *no key*/(/(Lambertian Seuche Roach)) with the HS Power Gloves.
+[00:40:04] cqc-aIUe ATTACK: riotscopez/(/(Amaya Paynter)) stunned *no key*/(/(Durable Kraftwerk Roach)) with the HS Power Gloves.
+[00:40:04] cqc-aIUe ATTACK: Athirson/(/(Robin Blessig)) attacked *no key*/(/(Kampfer Roach)) with broken bottle (INTENT: HARM) (DAMTYE: BRUTE)
+[00:40:05] cqc-aIUe ATTACK: riotscopez/(/(Amaya Paynter)) stunned *no key*/(/(Kampfer Roach)) with the HS Power Gloves.
+[00:40:05] cqc-aIUe ATTACK: Athirson/(/(Robin Blessig)) attacked *no key*/(/(Lambertian Seuche Roach)) with broken bottle (INTENT: HARM) (DAMTYE: BRUTE)
+[00:40:06] cqc-aIUe ATTACK: riotscopez/(/(Amaya Paynter)) stunned *no key*/(/(Kampfer Roach)) with the HS Power Gloves.
+[00:40:06] cqc-aIUe ATTACK: Athirson/(/(Robin Blessig)) attacked *no key*/(/(Gestrahlte Roach)) with broken bottle (INTENT: HARM) (DAMTYE: BRUTE)
+[00:40:07] cqc-aIUe ATTACK: Athirson/(/(Robin Blessig)) attacked *no key*/(/(Gestrahlte Roach)) with broken bottle (INTENT: HARM) (DAMTYE: BRUTE)
+[00:40:08] cqc-aIUe ATTACK: Athirson/(/(Robin Blessig)) attacked *no key*/(/(Gestrahlte Roach)) with broken bottle (INTENT: HARM) (DAMTYE: BRUTE)
+[00:40:10] cqc-aIUe ATTACK: Athirson/(/(Robin Blessig)) attacked *no key*/(/(Gestrahlte Roach)) with broken bottle (INTENT: HARM) (DAMTYE: BRUTE)
+[00:40:11] cqc-aIUe ATTACK: Athirson/(/(Robin Blessig)) attacked *no key*/(/(Gestrahlte Roach)) with broken bottle (INTENT: HARM) (DAMTYE: BRUTE)
+[00:40:24] cqc-aIUe SAY: Robin Blessig/Athirson : This place.. gosh.
+[00:40:42] cqc-aIUe ATTACK: Athirson/(/(Robin Blessig)) attacked *no key*/(/(Quick Gluhend Roach)) with broken bottle (INTENT: HARM) (DAMTYE: BRUTE)
+[00:40:44] cqc-aIUe ATTACK: Athirson/(/(Robin Blessig)) attacked *no key*/(/(Quick Gluhend Roach)) with broken bottle (INTENT: HARM) (DAMTYE: BRUTE)
+[00:40:46] cqc-aIUe ATTACK: riotscopez/(/(Amaya Paynter)) stunned *no key*/(/(Quick Gluhend Roach)) with the HS Power Gloves.
+[00:40:49] cqc-aIUe ATTACK: riotscopez/(/(Amaya Paynter)) stunned *no key*/(/(Quick Gluhend Roach)) with the HS Power Gloves.
+[00:40:54] cqc-aIUe ATTACK: Athirson/(/(Robin Blessig)) attacked *no key*/(/(Quick Gluhend Roach)) with broken bottle (INTENT: HARM) (DAMTYE: BRUTE)
+[00:40:57] cqc-aIUe SAY: Robin Blessig/Athirson : Bled out.
+[00:41:09] cqc-aIUe SAY: Robin Blessig/Athirson : I think I&#39;m fine still, just bruises.
+[00:41:24] cqc-aIUe ATTACK: riotscopez/(/(Amaya Paynter)) stunned *no key*/(/(Durable Kampfer Roach)) with the HS Power Gloves.
+[00:41:34] cqc-aIUe ADMIN: riotscopez/(/(Amaya Paynter)) deleted the burrow at (71,106,3)
+[00:41:38] cqc-aIUe ATTACK: riotscopez/(/(Amaya Paynter)) stunned *no key*/(/(Lustrous carrier spider)) with the HS Power Gloves.
+[00:41:40] cqc-aIUe SAY: Robin Blessig/Athirson : BELOW US.
+[00:41:43] cqc-aIUe ADMIN: riotscopez/(/(Amaya Paynter)) deleted Lustrous carrier spider at (74,106,3)
+[00:41:43] cqc-aIUe ATTACK: Athirson/(/(Robin Blessig)) attacked *no key*/(/(Biosilicified Pushka termite)) with broken bottle (INTENT: HARM) (DAMTYE: BRUTE)
+[00:41:44] cqc-aIUe ATTACK: Athirson/(/(Robin Blessig)) attacked *no key*/(/(Biosilicified Pushka termite)) with broken bottle (INTENT: HARM) (DAMTYE: BRUTE)
+[00:41:45] cqc-aIUe ATTACK: Athirson/(/(Robin Blessig)) attacked *no key*/(/(Biosilicified Pushka termite)) with broken bottle (INTENT: HARM) (DAMTYE: BRUTE)
+[00:41:48] cqc-aIUe ATTACK: Athirson/(/(Robin Blessig)) attacked *no key*/(/(Biosilicified Pushka termite)) with broken bottle (INTENT: HARM) (DAMTYE: BRUTE)
+[00:41:48] cqc-aIUe ATTACK: Athirson/(/(Robin Blessig)) attacked *no key*/(/(Biosilicified Pushka termite)) with broken bottle (INTENT: HARM) (DAMTYE: BRUTE)
+[00:41:49] cqc-aIUe ATTACK: Athirson/(/(Robin Blessig)) attacked *no key*/(/(Biosilicified Pushka termite)) with broken bottle (INTENT: HARM) (DAMTYE: BRUTE)
+[00:41:54] cqc-aIUe SAY: Robin Blessig/Athirson : THERMITES?
+[00:42:00] cqc-aIUe SAY: grey baby slime (286)/ : Brother...
+[00:42:02] cqc-aIUe SAY: Commander Paynter/riotscopez : Weld the door!
+[00:42:06] cqc-aIUe SAY: Robin Blessig/Athirson : We need an exterminator.
+[00:42:23] cqc-aIUe SAY: Robin Blessig/Athirson : I have no welder on me.
+[00:42:52] cqc-aIUe SAY: Robin Blessig/Athirson : Where is the direction for medbay?
+[00:43:59] cqc-aIUe ADMIN: riotscopez/(/(Amaya Paynter)) deleted the burrow at (79,99,3)
+[00:44:41] cqc-aIUe SAY: grey baby slime (578)/ : Blop...
+[00:44:48] cqc-aIUe SAY: Robin Blessig/Athirson : You gonna be ok?
+[00:45:05] cqc-aIUe SAY: Commander Paynter/riotscopez : Yeah.
+[00:46:21] cqc-aIUe EMOTE: Robin Blessig/Athirson : <B>Robin Blessig</B> furrows a brow.
+[00:47:16] cqc-aIUe SAY: Biosilicified Kraftwerk Roach/ : 10101010011100010101.
+[00:50:23] cqc-aIUe SAY: grey baby slime (286)/ : Blop...
+[00:50:31] cqc-aIUe ADMIN: riotscopez/(/(Amaya Paynter)) deleted the burrow at (93,169,4)
+[00:50:38] cqc-aIUe ATTACK: riotscopez/(/(Amaya Paynter)) attacked *no key*/(/(Biosilicified Kop'ye termite)) with "Omnirifle" (INTENT: HELP) (DAMTYE: BRUTE)
+[00:51:15] cqc-aIUe SAY: Kraftwerk Roach/ : 10101010011100010101.
+[00:52:05] cqc-aIUe ADMIN: Athirson/(/(Robin Blessig)) used their Smuggled Tools perk. (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=67;Y=82;Z=3'>JMP</a>)
+[00:52:45] cqc-aIUe SAY: Biosilicified Kraftwerk Roach/ : 10101010011100010101.
+[00:52:55] cqc-aIUe SAY: Biosilicified Kraftwerk Roach/ : 10101010011100010101.
+[00:53:16] cqc-aIUe SAY: grey baby slime (578)/ : Brother...
+[00:55:11] cqc-aIUe SAY: grey baby slime (257)/ : Where is the food?
+[00:55:38] cqc-aIUe DEBUG: passed list to getStat(), statName without a list: /list
+[00:55:45] cqc-aIUe SAY: grey baby slime (257)/ : Hungry...
+[00:56:29] cqc-aIUe SAY: Robin Blessig/Athirson : I found some.. neat stuff.
+[00:56:38] cqc-aIUe SAY: Commander Paynter/riotscopez : Cool!
+[00:57:40] cqc-aIUe SAY: Robin Blessig/Athirson : Uhm.
+[00:57:49] cqc-aIUe SAY: Robin Blessig/Athirson : I think this is some sorta illegal technology.
+[00:58:02] cqc-aIUe SAY: grey baby slime (286)/ : I want to eat...
+[00:58:09] cqc-aIUe SAY: Commander Paynter/riotscopez : Take it to Soteria, I guess.
+[00:59:10] cqc-aIUe SAY: Commander Paynter/riotscopez : Birb?
+[00:59:14] cqc-aIUe SAY: Robin Blessig/Athirson : Yea?
+[00:59:17] cqc-aIUe SAY: Commander Paynter/riotscopez : Where are you?
+[01:00:00] cqc-aIUe DEBUG: passed list to getStat(), statName without a list: /list
+[01:00:08] cqc-aIUe SAY: Commander Paynter/riotscopez : Where are you?
+[01:00:35] cqc-aIUe SAY: grey baby slime (578)/ : Blorble...
+[01:02:57] cqc-aIUe SAY: Commander Paynter/riotscopez : Where are you?
+[01:03:00] cqc-aIUe SAY: grey baby slime (400)/ : Where is the food?
+[01:03:23] cqc-aIUe SAY: Robin Blessig/Athirson : You need something?
+[01:03:44] cqc-aIUe SAY: Robin Blessig/Athirson : Test.
+[01:03:53] cqc-aIUe SAY: Robin Blessig/Athirson : Comms appear to be down.
+[01:04:03] cqc-aIUe DEBUG: Moved - the combat drone was deleted while still being listened to by /datum/effect/effect/system/trail/ion.
+[01:04:32] cqc-aIUe ACCESS: Logout: *no key*/(/(Amaya Paynter))
+[01:04:32] cqc-aIUe ACCESS: Login: riotscopez/(/(Amaya Paynter)) from 146.115.147.185-1871707424 || BYOND v514
+[01:05:53] cqc-aIUe ACCESS: Logout: *no key*/(/(Amaya Paynter))
+[01:05:53] cqc-aIUe ACCESS: Login: riotscopez/(/(Amaya Paynter)) from 146.115.147.185-1871707424 || BYOND v514
+[01:05:53] cqc-aIUe DEBUG: Could not find style "ErisStyle" for /mob/living/carbon/human.
+[01:07:04] cqc-aIUe SAY: grey baby slime (257)/ : Where is the food?
+[01:07:23] cqc-aIUe ATTACK: Athirson/(/(Robin Blessig)) attacked *no key*/(/(Durable Gestrahlte Roach)) with spiked dagger (INTENT: HELP) (DAMTYE: BRUTE)
+[01:07:24] cqc-aIUe SAY: Kraftwerk Roach/ : 10101010011100010101.
+[01:07:25] cqc-aIUe ATTACK: Athirson/(/(Robin Blessig)) attacked *no key*/(/(Kraftwerk Roach)) with spiked dagger (INTENT: HELP) (DAMTYE: BRUTE)
+[01:07:27] cqc-aIUe ATTACK: Athirson/(/(Robin Blessig)) attacked *no key*/(/(Kampfer Roach)) with spiked dagger (INTENT: HELP) (DAMTYE: BRUTE)
+[01:07:33] cqc-aIUe EMOTE: Robin Blessig/Athirson : <B>Robin Blessig</B> shivers a moment.
+[01:07:36] cqc-aIUe ATTACK: Athirson/(/(Robin Blessig)) attacked *no key*/(/(Lambertian Seuche Roach)) with spiked dagger (INTENT: HELP) (DAMTYE: BRUTE)
+[01:07:47] cqc-aIUe ATTACK: Athirson/(/(Robin Blessig)) attacked *no key*/(/(nanite infested miniroach cluster)) with spiked dagger (INTENT: HELP) (DAMTYE: BRUTE)
+[01:07:48] cqc-aIUe ATTACK: Athirson/(/(Robin Blessig)) attacked *no key*/(/(Durable Kampfer Roach)) with spiked dagger (INTENT: HELP) (DAMTYE: BRUTE)
+[01:07:50] cqc-aIUe ADMIN: EVENT Brand Intelligence started on <A HREF='?_src_=holder;adminplayerobservecoodjump=1;X=125;Y=169;Z=4'>Surface Hallway One | 125, 169, 4</a>,
+[01:07:51] cqc-aIUe ATTACK: Athirson/(/(Robin Blessig)) attacked *no key*/(/(Roachling)) with spiked dagger (INTENT: HELP) (DAMTYE: BRUTE)
+[01:08:02] cqc-aIUe ATTACK: Athirson/(/(Robin Blessig)) attacked *no key*/(/(Jager Roach)) with spiked dagger (INTENT: HELP) (DAMTYE: BRUTE)
+[01:08:16] cqc-aIUe SAY: grey baby slime (578)/ : Hungry...
+[01:08:43] cqc-aIUe DEBUG: Event 'Event Manager' has completed at 04:09.
+[01:08:58] cqc-aIUe SAY: grey baby slime (286)/ : Where is the food?
+[01:09:03] cqc-aIUe SAY: Commander Paynter/riotscopez : Oh my god.
+[01:09:15] cqc-aIUe ADMIN: Athirson/(/(Robin Blessig)) used their Smuggled Patch Kit perk. (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=39;Y=71;Z=2'>JMP</a>)
+[01:09:38] cqc-aIUe SAY: Durable Kraftwerk Roach/ : 10101010011100010101.
+[01:09:42] cqc-aIUe SAY: Durable Kraftwerk Roach/ : 10101010011100010101.
+[01:10:07] cqc-aIUe EMOTE: Robin Blessig/Athirson : <B>Robin Blessig</B> shivers a moment.
+[01:10:14] cqc-aIUe SAY: grey baby slime (578)/ : Where is the food?
+[01:10:34] cqc-aIUe ATTACK: Athirson/(/(Robin Blessig)) attacked *no key*/(/(Roachling)) with spiked dagger (INTENT: HELP) (DAMTYE: BRUTE)
+[01:10:38] cqc-aIUe SAY: grey baby slime (578)/ : I want to eat...
+[01:11:28] cqc-aIUe DEBUG: Event 'Event Manager' has completed at 04:11.
+[01:11:33] cqc-aIUe SAY: Commander Paynter/riotscopez : Where are you?
+[01:11:38] cqc-aIUe SAY: grey baby slime (578)/ : Where is the food?
+[01:11:45] cqc-aIUe SAY: Commander Paynter/riotscopez : Is the bird lost?
+[01:12:03] cqc-aIUe SAY: Commander Paynter/riotscopez : I found your box.
+[01:12:12] cqc-aIUe SAY: Commander Paynter/riotscopez : But not you.
+[01:12:49] cqc-aIUe SAY: Robin Blessig/Athirson : I think I fell into some hole.
+[01:12:52] cqc-aIUe TGUI: athirson (as Robin Blessig at 39,74,2)
+Using: /obj/structure/filingcabinet [0x20020a2]
+new FilingCabinet fancy Yes
+[01:12:52] cqc-aIUe TGUI: athirson in tgui-window-1/initialize
+Using: /obj/structure/filingcabinet [0x20020a2]
+[01:12:57] cqc-aIUe TGUI: athirson (as Robin Blessig at 39,74,2) in tgui-window-1
+Using: /obj/structure/filingcabinet [0x20020a2]
+Error: Zombie window detected, closing.
+[01:12:57] cqc-aIUe TGUI: athirson in tgui-window-1/close
+[01:12:58] cqc-aIUe TGUI: athirson (as Robin Blessig at 39,74,2)
+Using: /obj/structure/filingcabinet [0x20020a2]
+new FilingCabinet fancy Yes
+[01:12:58] cqc-aIUe TGUI: athirson in tgui-window-1/initialize
+Using: /obj/structure/filingcabinet [0x20020a2]
+[01:13:01] cqc-aIUe TGUI: athirson in tgui-window-1/close (suspending)
+[01:13:01] cqc-aIUe TGUI: athirson in tgui-window-1/close (suspending)
+[01:13:10] cqc-aIUe ATTACK: Athirson/(/(Robin Blessig)) attacked *no key*/(/(Biosilicified Roachling)) with spiked dagger (INTENT: HELP) (DAMTYE: BRUTE)
+[01:13:14] cqc-aIUe ATTACK: Athirson/(/(Robin Blessig)) attacked *no key*/(/(Panzer Roach)) with spiked dagger (INTENT: HELP) (DAMTYE: BRUTE)
+[01:13:22] cqc-aIUe ATTACK: Athirson/(/(Robin Blessig)) attacked *no key*/(/(Biosilicified Seuche Roach)) with spiked dagger (INTENT: HELP) (DAMTYE: BRUTE)
+[01:13:28] cqc-aIUe SAY: grey baby slime (257)/ : Rawr...
+[01:13:32] cqc-aIUe ATTACK: Athirson/(/(Robin Blessig)) attacked *no key*/(/(Durable Gluhend Roach)) with spiked dagger (INTENT: HELP) (DAMTYE: BRUTE)
+[01:13:33] cqc-aIUe ATTACK: Athirson/(/(Robin Blessig)) attacked *no key*/(/(Durable Kraftwerk Roach)) with spiked dagger (INTENT: HELP) (DAMTYE: BRUTE)
+[01:13:34] cqc-aIUe ATTACK: Athirson/(/(Robin Blessig)) attacked *no key*/(/(Gluhend Roach)) with spiked dagger (INTENT: HELP) (DAMTYE: BRUTE)
+[01:13:41] cqc-aIUe ATTACK: Athirson/(/(Robin Blessig)) attacked *no key*/(/(Durable Kampfer Roach)) with spiked dagger (INTENT: HELP) (DAMTYE: BRUTE)
+[01:13:48] cqc-aIUe GAME: Explosion with size (-1, 0, 1) in area Deep Maintenance 
+[01:14:08] cqc-aIUe DEBUG: passed list to getStat(), statName without a list: /list
+[01:14:11] cqc-aIUe ATTACK: Athirson/(/(Robin Blessig)) attacked *no key*/(/(Durable Seuche Roach)) with spiked dagger (INTENT: HELP) (DAMTYE: BRUTE)
+[01:14:12] cqc-aIUe ATTACK: Athirson/(/(Robin Blessig)) attacked *no key*/(/(Kampfer Roach)) with spiked dagger (INTENT: HELP) (DAMTYE: BRUTE)
+[01:14:46] cqc-aIUe DEBUG: passed list to getStat(), statName without a list: /list
+[01:16:35] cqc-aIUe SAY: grey baby slime (286)/ : I want to eat...
+[01:16:46] cqc-aIUe ACCESS: Logout: *no key*/(/(Amaya Paynter))
+[01:16:46] cqc-aIUe ACCESS: Login: riotscopez/(/(Amaya Paynter)) from 146.115.147.185-1871707424 || BYOND v514
+[01:17:51] cqc-aIUe EMOTE: Robin Blessig/Athirson : <B>Robin Blessig</B> furrows a brow.
+[01:18:27] cqc-aIUe ACCESS: Logout: *no key*/(/(Amaya Paynter))
+[01:18:27] cqc-aIUe ACCESS: Login: riotscopez/(/(Amaya Paynter)) from 146.115.147.185-1871707424 || BYOND v514
+[01:18:27] cqc-aIUe DEBUG: Could not find style "ErisStyle" for /mob/living/carbon/human.
+[01:20:36] cqc-aIUe ATTACK: Athirson/(/(Robin Blessig)) attacked *no key*/(/(Durable Gestrahlte Roach)) with spiked dagger (INTENT: HELP) (DAMTYE: BRUTE)
+[01:20:44] cqc-aIUe SAY: grey baby slime (400)/ : Where is the food?
+[01:21:15] cqc-aIUe ATTACK: Athirson/(/(Robin Blessig)) attacked *no key*/(/(Durable nurse spider)) with spiked dagger (INTENT: HELP) (DAMTYE: BRUTE)
+[01:21:16] cqc-aIUe ATTACK: Athirson/(/(Robin Blessig)) attacked *no key*/(/(Lustrous guardian spider)) with spiked dagger (INTENT: HELP) (DAMTYE: BRUTE)
+[01:21:17] cqc-aIUe ATTACK: Athirson/(/(Robin Blessig)) attacked *no key*/(/(Lustrous guardian spider)) with spiked dagger (INTENT: HELP) (DAMTYE: BRUTE)
+[01:21:25] cqc-aIUe SAY: grey baby slime (257)/ : Blorble...
+[01:21:34] cqc-aIUe ATTACK: Athirson/(/(Robin Blessig)) attacked *no key*/(/(Durable Kampfer Roach)) with spiked dagger (INTENT: HELP) (DAMTYE: BRUTE)
+[01:21:40] cqc-aIUe ATTACK: Athirson/(/(Robin Blessig)) used the autoinjector (inaprovaline) to inject inaprovaline (5u) (5u transferred) into Athirson/(/(Robin Blessig)) (INTENT: HELP) (<A HREF='?_src_=holder;adminplayerobservecoodjump=1;X=40;Y=74;Z=2'>JMP</a>)
+[01:21:50] cqc-aIUe SAY: grey baby slime (578)/ : Blorble...
+[01:22:28] cqc-aIUe ATTACK: Athirson/(/(Robin Blessig)) attacked *no key*/(/(Biosilicified Panzer Roach)) with spiked dagger (INTENT: HELP) (DAMTYE: BRUTE)
+[01:22:33] cqc-aIUe SAY: Quick Kraftwerk Roach/ : 10101010011100010101.
+[01:22:33] cqc-aIUe SAY: Durable Kraftwerk Roach/ : 10101010011100010101.
+[01:23:02] cqc-aIUe SAY: grey baby slime (286)/ : Brother...
+[01:23:09] cqc-aIUe GAME: Explosion with size (-1, 1, 2) in area Residential District Maintenance 
+[01:24:33] cqc-aIUe SAY: grey baby slime (578)/ : Brother...
+[01:25:10] cqc-aIUe SAY: grey baby slime (400)/ : Blorble...
+[01:26:11] cqc-aIUe SAY: grey baby slime (286)/ : Brother...
+[01:27:39] cqc-aIUe SAY: grey baby slime (578)/ : Hungry...
+[01:29:19] cqc-aIUe ATTACK: Athirson/(/(Robin Blessig)) attacked *no key*/(/(Durable Fuhrer Roach)) with tarnished circular saw (INTENT: HELP) (DAMTYE: BRUTE)
+[01:29:20] cqc-aIUe ATTACK: Athirson/(/(Robin Blessig)) attacked *no key*/(/(Durable Fuhrer Roach)) with tarnished circular saw (INTENT: HELP) (DAMTYE: BRUTE)
+[01:29:27] cqc-aIUe ATTACK: Athirson/(/(Robin Blessig)) attacked *no key*/(/(Durable Fuhrer Roach)) with spiked dagger (INTENT: HELP) (DAMTYE: BRUTE)
+[01:29:47] cqc-aIUe ATTACK: Athirson/(/(Robin Blessig)) attacked *no key*/(/(Durable Jager Roach)) with spiked dagger (INTENT: HELP) (DAMTYE: BRUTE)
+[01:29:48] cqc-aIUe ATTACK: Athirson/(/(Robin Blessig)) attacked *no key*/(/(Kampfer Roach)) with spiked dagger (INTENT: HELP) (DAMTYE: BRUTE)
+[01:29:48] cqc-aIUe ATTACK: Athirson/(/(Robin Blessig)) attacked *no key*/(/(Durable Kampfer Roach)) with spiked dagger (INTENT: HELP) (DAMTYE: BRUTE)
+[01:29:49] cqc-aIUe ATTACK: Athirson/(/(Robin Blessig)) attacked *no key*/(/(Kampfer Roach)) with spiked dagger (INTENT: HELP) (DAMTYE: BRUTE)
+[01:29:51] cqc-aIUe ATTACK: Athirson/(/(Robin Blessig)) attacked *no key*/(/(Lambertian Seuche Roach)) with spiked dagger (INTENT: HELP) (DAMTYE: BRUTE)
+[01:29:56] cqc-aIUe ATTACK: Athirson/(/(Robin Blessig)) attacked *no key*/(/(Panzer Roach)) with spiked dagger (INTENT: HELP) (DAMTYE: BRUTE)
+[01:29:58] cqc-aIUe ATTACK: Athirson/(/(Robin Blessig)) attacked *no key*/(/(Quick Panzer Roach)) with spiked dagger (INTENT: HELP) (DAMTYE: BRUTE)
+[01:30:03] cqc-aIUe ATTACK: Athirson/(/(Robin Blessig)) attacked *no key*/(/(Durable Jager Roach)) with spiked dagger (INTENT: HELP) (DAMTYE: BRUTE)
+[01:30:09] cqc-aIUe ATTACK: Athirson/(/(Robin Blessig)) attacked *no key*/(/(Biosilicified Seuche Roach)) with spiked dagger (INTENT: HELP) (DAMTYE: BRUTE)
+[01:30:10] cqc-aIUe ATTACK: Athirson/(/(Robin Blessig)) attacked *no key*/(/(Biosilicified Kampfer Roach)) with spiked dagger (INTENT: HELP) (DAMTYE: BRUTE)
+[01:30:44] cqc-aIUe ATTACK: Athirson/(/(Robin Blessig)) attacked *no key*/(/(Kampfer Roach)) with spiked dagger (INTENT: HELP) (DAMTYE: BRUTE)
+[01:30:45] cqc-aIUe ATTACK: Athirson/(/(Robin Blessig)) attacked *no key*/(/(Durable Gestrahlte Roach)) with spiked dagger (INTENT: HELP) (DAMTYE: BRUTE)
+[01:31:07] cqc-aIUe ATTACK: Athirson/(/(Robin Blessig)) attacked *no key*/(/(Roachling)) with spiked dagger (INTENT: HELP) (DAMTYE: BRUTE)
+[01:31:14] cqc-aIUe SAY: grey baby slime (578)/ : I want to eat...
+[01:31:34] cqc-aIUe ATTACK: Athirson/(/(Robin Blessig)) attacked *no key*/(/(Biosilicified Roachling)) with spiked dagger (INTENT: HELP) (DAMTYE: BRUTE)
+[01:31:38] cqc-aIUe ATTACK: Athirson/(/(Robin Blessig)) attacked *no key*/(/(Durable Jager Roach)) with spiked dagger (INTENT: HELP) (DAMTYE: BRUTE)
+[01:32:00] cqc-aIUe ATTACK: Athirson/(/(Robin Blessig)) attacked *no key*/(/(Quick Kampfer Roach)) with spiked dagger (INTENT: HELP) (DAMTYE: BRUTE)
+[01:32:47] cqc-aIUe SAY: grey baby slime (286)/ : I want to eat...
+[01:32:53] cqc-aIUe SAY: grey baby slime (578)/ : Rawr...
+[01:33:16] cqc-aIUe SAY: grey baby slime (578)/ : Hungry...
+[01:34:08] cqc-aIUe ACCESS: Logout: *no key*/(/(Amaya Paynter))
+[01:34:08] cqc-aIUe ACCESS: Login: riotscopez/(/(Amaya Paynter)) from 146.115.147.185-1871707424 || BYOND v514
+[01:34:30] cqc-aIUe ATTACK: Athirson/(/(Robin Blessig)) attacked *no key*/(/(Young ogre spider)) with spiked dagger (INTENT: HELP) (DAMTYE: BRUTE)
+[01:34:31] cqc-aIUe ATTACK: Athirson/(/(Robin Blessig)) attacked *no key*/(/(Young ogre spider)) with spiked dagger (INTENT: HELP) (DAMTYE: BRUTE)
+[01:34:32] cqc-aIUe ATTACK: Athirson/(/(Robin Blessig)) attacked *no key*/(/(Young ogre spider)) with spiked dagger (INTENT: HELP) (DAMTYE: BRUTE)
+[01:34:37] cqc-aIUe ATTACK: Athirson/(/(Robin Blessig)) attacked *no key*/(/(Durable Jager Roach)) with spiked dagger (INTENT: HELP) (DAMTYE: BRUTE)
+[01:34:38] cqc-aIUe ATTACK: Athirson/(/(Robin Blessig)) attacked *no key*/(/(Biosilicified Panzer Roach)) with spiked dagger (INTENT: HELP) (DAMTYE: BRUTE)
+[01:34:43] cqc-aIUe ATTACK: Athirson/(/(Robin Blessig)) attacked *no key*/(/(Lustrous midwife spider)) with spiked dagger (INTENT: HELP) (DAMTYE: BRUTE)
+[01:34:48] cqc-aIUe SAY: grey baby slime (257)/ : Blop...
+[01:35:48] cqc-aIUe ATTACK: Athirson/(/(Robin Blessig)) attacked *no key*/(/(Durable Panzer Roach)) with spiked dagger (INTENT: HELP) (DAMTYE: BRUTE)
+[01:35:53] cqc-aIUe EMOTE: Robin Blessig/Athirson : <B>Robin Blessig</B> shivers a moment.
+[01:35:54] cqc-aIUe ATTACK: Athirson/(/(Robin Blessig)) attacked *no key*/(/(Panzer Roach)) with spiked dagger (INTENT: HELP) (DAMTYE: BRUTE)
+[01:36:08] cqc-aIUe ATTACK: Athirson/(/(Robin Blessig)) attacked *no key*/(/(Quick Gestrahlte Roach)) with spiked dagger (INTENT: HELP) (DAMTYE: BRUTE)
+[01:36:09] cqc-aIUe ATTACK: Athirson/(/(Robin Blessig)) attacked *no key*/(/(Kampfer Roach)) with spiked dagger (INTENT: HELP) (DAMTYE: BRUTE)
+[01:36:12] cqc-aIUe ATTACK: Athirson/(/(Robin Blessig)) attacked *no key*/(/(Biosilicified Gestrahlte Roach)) with spiked dagger (INTENT: HELP) (DAMTYE: BRUTE)
+[01:36:43] cqc-aIUe ATTACK: Athirson/(/(Robin Blessig)) attacked *no key*/(/(Durable Seuche Roach)) with steel switchblade (INTENT: HELP) (DAMTYE: BRUTE)
+[01:36:44] cqc-aIUe ATTACK: Athirson/(/(Robin Blessig)) attacked *no key*/(/(Durable Seuche Roach)) with steel switchblade (INTENT: HELP) (DAMTYE: BRUTE)
+[01:37:00] cqc-aIUe SAY: grey baby slime (286)/ : Blorble...
+[01:37:35] cqc-aIUe SAY: grey baby slime (400)/ : Blorble...
+[01:37:50] cqc-aIUe SAY: grey baby slime (578)/ : Brother...
+[01:37:56] cqc-aIUe SAY: grey baby slime (257)/ : Blop...
+[01:38:00] cqc-aIUe ATTACK: Athirson/(/(Robin Blessig)) attacked *no key*/(/(Quick Kampfer Roach)) with old knife (INTENT: HELP) (DAMTYE: BRUTE)
+[01:38:09] cqc-aIUe ATTACK: Athirson/(/(Robin Blessig)) attacked *no key*/(/(Durable Jager Roach)) with old knife (INTENT: HELP) (DAMTYE: BRUTE)
+[01:38:11] cqc-aIUe ATTACK: Athirson/(/(Robin Blessig)) attacked *no key*/(/(Durable Jager Roach)) with old knife (INTENT: HELP) (DAMTYE: BRUTE)
+[01:38:12] cqc-aIUe ATTACK: Athirson/(/(Robin Blessig)) attacked *no key*/(/(Jager Roach)) with old knife (INTENT: HELP) (DAMTYE: BRUTE)
+[01:38:13] cqc-aIUe ATTACK: Athirson/(/(Robin Blessig)) attacked *no key*/(/(Jager Roach)) with old knife (INTENT: HELP) (DAMTYE: BRUTE)
+[01:38:22] cqc-aIUe ATTACK: Athirson/(/(Robin Blessig)) attacked *no key*/(/(Lambertian Kampfer Roach)) with old knife (INTENT: HELP) (DAMTYE: BRUTE)
+[01:38:23] cqc-aIUe ATTACK: Athirson/(/(Robin Blessig)) attacked *no key*/(/(Biosilicified Kraftwerk Roach)) with old knife (INTENT: HELP) (DAMTYE: BRUTE)
+[01:38:26] cqc-aIUe ATTACK: Athirson/(/(Robin Blessig)) attacked *no key*/(/(Lambertian Kampfer Roach)) with old knife (INTENT: HELP) (DAMTYE: BRUTE)
+[01:38:27] cqc-aIUe ATTACK: Athirson/(/(Robin Blessig)) attacked *no key*/(/(Biosilicified Kraftwerk Roach)) with old knife (INTENT: HELP) (DAMTYE: BRUTE)
+[01:38:51] cqc-aIUe SAY: grey baby slime (286)/ : Blop...
+[01:39:07] cqc-aIUe ADMIN: EVENT Bluespace nest spawned: 
+[01:39:07] cqc-aIUe DEBUG: Event 'Event Manager' has completed at 04:39.
+[01:39:15] cqc-aIUe ATTACK: Athirson/(/(Robin Blessig)) attacked *no key*/(/(Lambertian Kampfer Roach)) with old knife (INTENT: HELP) (DAMTYE: BRUTE)
+[01:39:17] cqc-aIUe ATTACK: Athirson/(/(Robin Blessig)) attacked *no key*/(/(Lambertian Kampfer Roach)) with old knife (INTENT: HELP) (DAMTYE: BRUTE)
+[01:39:33] cqc-aIUe ATTACK: Athirson/(/(Robin Blessig)) attacked *no key*/(/(Kampfer Roach)) with old knife (INTENT: HELP) (DAMTYE: BRUTE)
+[01:39:35] cqc-aIUe ATTACK: Athirson/(/(Robin Blessig)) attacked *no key*/(/(Panzer Roach)) with old knife (INTENT: HELP) (DAMTYE: BRUTE)
+[01:39:36] cqc-aIUe ATTACK: Athirson/(/(Robin Blessig)) attacked *no key*/(/(Panzer Roach)) with old knife (INTENT: HELP) (DAMTYE: BRUTE)
+[01:39:37] cqc-aIUe ATTACK: Athirson/(/(Robin Blessig)) attacked *no key*/(/(Panzer Roach)) with old knife (INTENT: HELP) (DAMTYE: BRUTE)
+[01:40:04] cqc-aIUe ATTACK: Athirson/(/(Robin Blessig)) attacked *no key*/(/(Durable Panzer Roach)) with old knife (INTENT: HELP) (DAMTYE: BRUTE)
+[01:40:05] cqc-aIUe ATTACK: Athirson/(/(Robin Blessig)) attacked *no key*/(/(Durable Panzer Roach)) with old knife (INTENT: HELP) (DAMTYE: BRUTE)
+[01:40:14] cqc-aIUe ATTACK: Athirson/(/(Robin Blessig)) attacked *no key*/(/(Durable Panzer Roach)) with steel switchblade (INTENT: HELP) (DAMTYE: BRUTE)
+[01:40:15] cqc-aIUe ATTACK: Athirson/(/(Robin Blessig)) attacked *no key*/(/(Durable Panzer Roach)) with steel switchblade (INTENT: HELP) (DAMTYE: BRUTE)
+[01:40:16] cqc-aIUe ATTACK: Athirson/(/(Robin Blessig)) attacked *no key*/(/(Durable Panzer Roach)) with steel switchblade (INTENT: HELP) (DAMTYE: BRUTE)
+[01:40:19] cqc-aIUe SAY: grey baby slime (286)/ : Where is the food?
+[01:41:26] cqc-aIUe SAY: grey baby slime (578)/ : Brother...
+[01:42:04] cqc-aIUe ACCESS: Logout: *no key*/(/(Amaya Paynter))
+[01:42:04] cqc-aIUe ACCESS: Login: riotscopez/(/(Amaya Paynter)) from 146.115.147.185-1871707424 || BYOND v514
+[01:42:04] cqc-aIUe DEBUG: Could not find style "ErisStyle" for /mob/living/carbon/human.
+[01:42:08] cqc-aIUe DEBUG: Runtime in bluespace_crystal_structure.dm,90: pick() from empty list <A HREF='?_src_=holder;viewruntime=[0x210ffe59]'>[view]</A>
+[01:42:17] cqc-aIUe SAY: Biosilicified Kraftwerk Roach/ : 10101010011100010101.
+[01:44:10] cqc-aIUe SAY: Biosilicified Kraftwerk Roach/ : 10101010011100010101.
+[01:44:13] cqc-aIUe ADMIN: Athirson/(/(Robin Blessig)) Athirson/(/(Robin Blessig)) has saved their preferences. (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=30;Y=77;Z=2'>JMP</a>)
+[01:44:13] cqc-aIUe ADMIN: Athirson/(/(Robin Blessig)) Athirson/(/(Robin Blessig)) has saved a character. (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=30;Y=77;Z=2'>JMP</a>)
+[01:44:39] cqc-aIUe ADMIN: riotscopez/(/(Amaya Paynter)) used secret 'Power All SMES' (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=78;Y=188;Z=3'>JMP</a>)
+[01:44:42] cqc-aIUe ADMIN: riotscopez/(/(Amaya Paynter)) used secret 'Make All Areas Powered' (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=78;Y=188;Z=3'>JMP</a>)
+[01:45:36] cqc-aIUe SAY: grey baby slime (286)/ : Hungry...
+[01:45:42] cqc-aIUe EMOTE: Robin Blessig/Athirson : <B>Robin Blessig</B> bobbles up and down.
+[01:46:06] cqc-aIUe SAY: grey baby slime (578)/ : Brother...
+[01:46:24] cqc-aIUe ACCESS: Logout: RiotScopez/(/(Amaya Paynter))
+[01:46:24] cqc-aIUe ACCESS: Logout: riotscopez[DC]/(/(Amaya Paynter))
+[01:46:32] cqc-aIUe ADMIN: EVENT Robin Blessig is affected by breakdown A Lesson Learned with duration 0 seconds.
+[01:47:54] cqc-aIUe GAME: Explosion with size (-1, 0, 1) in area Swamp Caves 
+[01:48:18] cqc-aIUe EMOTE: Commander Paynter/riotscopez : snores.
+[01:48:18] cqc-aIUe EMOTE: Commander Paynter/riotscopez : <B>Commander Paynter</B> snores.
+[01:48:29] cqc-aIUe ATTACK: Athirson/(/(Robin Blessig)) attacked *no key*/(/(Durable Seuche Roach)) with steel switchblade (INTENT: HELP) (DAMTYE: BRUTE)
+[01:48:30] cqc-aIUe ATTACK: Athirson/(/(Robin Blessig)) attacked *no key*/(/(Durable Seuche Roach)) with steel switchblade (INTENT: HELP) (DAMTYE: BRUTE)
+[01:48:35] cqc-aIUe ATTACK: Athirson/(/(Robin Blessig)) attacked *no key*/(/(Kraftwerk Roach)) with steel switchblade (INTENT: HELP) (DAMTYE: BRUTE)
+[01:48:37] cqc-aIUe ATTACK: Athirson/(/(Robin Blessig)) attacked *no key*/(/(Kraftwerk Roach)) with steel switchblade (INTENT: HELP) (DAMTYE: BRUTE)
+[01:48:39] cqc-aIUe ATTACK: Athirson/(/(Robin Blessig)) attacked *no key*/(/(Jager Roach)) with steel switchblade (INTENT: HELP) (DAMTYE: BRUTE)
+[01:48:40] cqc-aIUe ATTACK: Athirson/(/(Robin Blessig)) attacked *no key*/(/(Kampfer Roach)) with steel switchblade (INTENT: HELP) (DAMTYE: BRUTE)
+[01:48:42] cqc-aIUe ATTACK: Athirson/(/(Robin Blessig)) attacked *no key*/(/(Kampfer Roach)) with steel switchblade (INTENT: HELP) (DAMTYE: BRUTE)
+[01:48:42] cqc-aIUe ATTACK: Athirson/(/(Robin Blessig)) attacked *no key*/(/(Jager Roach)) with steel switchblade (INTENT: HELP) (DAMTYE: BRUTE)
+[01:48:43] cqc-aIUe ATTACK: Athirson/(/(Robin Blessig)) attacked *no key*/(/(Kraftwerk Roach)) with steel switchblade (INTENT: HELP) (DAMTYE: BRUTE)
+[01:48:46] cqc-aIUe ATTACK: Athirson/(/(Robin Blessig)) attacked *no key*/(/(Jager Roach)) with steel switchblade (INTENT: HELP) (DAMTYE: BRUTE)
+[01:48:49] cqc-aIUe ATTACK: Athirson/(/(Robin Blessig)) attacked *no key*/(/(Jager Roach)) with steel switchblade (INTENT: HELP) (DAMTYE: BRUTE)
+[01:49:28] cqc-aIUe ATTACK: Athirson/(/(Robin Blessig)) attacked *no key*/(/(Kampfer Roach)) with steel switchblade (INTENT: HELP) (DAMTYE: BRUTE)
+[01:49:29] cqc-aIUe ATTACK: Athirson/(/(Robin Blessig)) attacked *no key*/(/(Kampfer Roach)) with steel switchblade (INTENT: HELP) (DAMTYE: BRUTE)
+[01:49:38] cqc-aIUe ATTACK: Athirson/(/(Robin Blessig)) attacked *no key*/(/(Roachling)) with steel switchblade (INTENT: HELP) (DAMTYE: BRUTE)
+[01:49:54] cqc-aIUe SAY: grey baby slime (286)/ : Rawr...
+[01:50:42] cqc-aIUe ATTACK: Athirson/(/(Robin Blessig)) attacked *no key*/(/(Young viper spider)) with steel switchblade (INTENT: HELP) (DAMTYE: BRUTE)
+[01:50:43] cqc-aIUe ATTACK: Athirson/(/(Robin Blessig)) attacked *no key*/(/(Young viper spider)) with steel switchblade (INTENT: HELP) (DAMTYE: BRUTE)
+[01:50:44] cqc-aIUe ATTACK: Athirson/(/(Robin Blessig)) attacked *no key*/(/(Young viper spider)) with steel switchblade (INTENT: HELP) (DAMTYE: BRUTE)
+[01:50:45] cqc-aIUe ATTACK: Athirson/(/(Robin Blessig)) attacked *no key*/(/(Young viper spider)) with steel switchblade (INTENT: HELP) (DAMTYE: BRUTE)
+[01:50:46] cqc-aIUe ATTACK: Athirson/(/(Robin Blessig)) attacked *no key*/(/(Young viper spider)) with steel switchblade (INTENT: HELP) (DAMTYE: BRUTE)
+[01:51:22] cqc-aIUe EMOTE: Commander Paynter/riotscopez : snores.
+[01:51:22] cqc-aIUe EMOTE: Commander Paynter/riotscopez : <B>Commander Paynter</B> snores.
+[01:51:25] cqc-aIUe SAY: grey baby slime (257)/ : Rawr...
+[01:51:45] cqc-aIUe SAY: Lambertian Kraftwerk Roach/ : 10101010011100010101.
+[01:52:23] cqc-aIUe GAME: Explosion with size (-1, 0, 1) in area Deep Maintenance 
+[01:52:25] cqc-aIUe SAY: grey baby slime (578)/ : Rawr...
+[01:52:33] cqc-aIUe ATTACK: Athirson/(/(Robin Blessig)) attacked *no key*/(/(Lustrous guardian spider)) with spiked dagger (INTENT: HELP) (DAMTYE: BRUTE)
+[01:52:35] cqc-aIUe ATTACK: Athirson/(/(Robin Blessig)) attacked *no key*/(/(Old ogre spider)) with spiked dagger (INTENT: HELP) (DAMTYE: BRUTE)
+[01:52:36] cqc-aIUe ATTACK: Athirson/(/(Robin Blessig)) attacked *no key*/(/(Durable nurse spider)) with spiked dagger (INTENT: HELP) (DAMTYE: BRUTE)
+[01:52:37] cqc-aIUe ATTACK: Athirson/(/(Robin Blessig)) attacked *no key*/(/(Durable pit snapper spider)) with spiked dagger (INTENT: HELP) (DAMTYE: BRUTE)
+[01:52:38] cqc-aIUe ATTACK: Athirson/(/(Robin Blessig)) attacked *no key*/(/(Durable pit snapper spider)) with spiked dagger (INTENT: HELP) (DAMTYE: BRUTE)
+[01:52:39] cqc-aIUe ATTACK: Athirson/(/(Robin Blessig)) attacked *no key*/(/(Durable pit snapper spider)) with spiked dagger (INTENT: HELP) (DAMTYE: BRUTE)
+[01:52:47] cqc-aIUe ATTACK: Athirson/(/(Robin Blessig)) attacked *no key*/(/(Biosilicified Seuche Roach)) with spiked dagger (INTENT: HELP) (DAMTYE: BRUTE)
+[01:52:54] cqc-aIUe SAY: grey baby slime (578)/ : Brother...
+[01:53:04] cqc-aIUe TGUI: athirson (as Robin Blessig at 29,117,2)
+Using: /obj/item/folder/blue [0x208fbd7]
+new Folder fancy Yes
+[01:53:06] cqc-aIUe EMOTE: Commander Paynter/riotscopez : snores.
+[01:53:06] cqc-aIUe EMOTE: Commander Paynter/riotscopez : <B>Commander Paynter</B> snores.
+[01:53:06] cqc-aIUe TGUI: athirson in tgui-window-1/close (suspending)
+[01:53:06] cqc-aIUe TGUI: athirson in tgui-window-1/close (suspending)
+[01:53:07] cqc-aIUe DEBUG: Runtime in folders.dm,61: list index out of bounds <A HREF='?_src_=holder;viewruntime=[0x211016a6]'>[view]</A>
+[01:53:18] cqc-aIUe ATTACK: Athirson/(/(Robin Blessig)) attacked *no key*/(/(Kampfer Roach)) with spiked dagger (INTENT: HELP) (DAMTYE: BRUTE)
+[01:53:28] cqc-aIUe SAY: grey baby slime (578)/ : Hungry...
+[01:54:05] cqc-aIUe SAY: grey baby slime (400)/ : Blop...
+[01:55:28] cqc-aIUe EMOTE: Commander Paynter/riotscopez : snores.
+[01:55:28] cqc-aIUe EMOTE: Commander Paynter/riotscopez : <B>Commander Paynter</B> snores.
+[01:55:43] cqc-aIUe ADMIN: EVENT Robin Blessig is affected by breakdown The Fabric with duration 180 seconds.
+[01:56:07] cqc-aIUe SAY: grey baby slime (257)/ : I want to eat...
+[01:56:32] cqc-aIUe EMOTE: Commander Paynter/riotscopez : snores.
+[01:56:32] cqc-aIUe EMOTE: Commander Paynter/riotscopez : <B>Commander Paynter</B> snores.
+[01:57:00] cqc-aIUe EMOTE: Robin Blessig/Athirson : <B>Robin Blessig</B> bobbles up and down.
+[01:57:23] cqc-aIUe EMOTE: Commander Paynter/riotscopez : snores.
+[01:57:23] cqc-aIUe EMOTE: Commander Paynter/riotscopez : <B>Commander Paynter</B> snores.
+[01:57:29] cqc-aIUe SAY: grey baby slime (400)/ : Brother...
+[01:57:49] cqc-aIUe SAY: grey baby slime (578)/ : Brother...
+[01:58:01] cqc-aIUe ATTACK: Athirson/(/(Robin Blessig)) attacked *no key*/(/(Durable Kraftwerk Roach)) with spiked dagger (INTENT: HELP) (DAMTYE: BRUTE)
+[01:58:20] cqc-aIUe SAY: grey baby slime (286)/ : Rawr...
+[01:58:24] cqc-aIUe EMOTE: Commander Paynter/riotscopez : snores.
+[01:58:24] cqc-aIUe EMOTE: Commander Paynter/riotscopez : <B>Commander Paynter</B> snores.
+[01:58:26] cqc-aIUe ATTACK: Athirson/(/(Robin Blessig)) attacked *no key*/(/(Quick Jager Roach)) with spiked dagger (INTENT: HELP) (DAMTYE: BRUTE)
+[01:58:44] cqc-aIUe ADMIN: Athirson/(/(Robin Blessig)) Robin Blessig is no longer affected by The Fabric (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=50;Y=85;Z=2'>JMP</a>)
+[01:59:24] cqc-aIUe SAY: grey baby slime (257)/ : Where is the food?
+[01:59:49] cqc-aIUe DEBUG: Event 'Event Manager' has completed at 04:59.
+[01:59:58] cqc-aIUe SAY: grey baby slime (286)/ : Brother...
+[02:00:55] cqc-aIUe EMOTE: Commander Paynter/riotscopez : snores.
+[02:00:55] cqc-aIUe EMOTE: Commander Paynter/riotscopez : <B>Commander Paynter</B> snores.
+[02:00:56] cqc-aIUe SAY: Robin Blessig/Athirson : FUCK ME.
+[02:00:57] cqc-aIUe EMOTE: Robin Blessig/Athirson : <B>Robin Blessig</B> turns their head back and forth.
+[02:01:58] cqc-aIUe SAY: grey baby slime (400)/ : Blorble...
+[02:02:20] cqc-aIUe SAY: grey baby slime (400)/ : Must... eat...
+[02:02:40] cqc-aIUe SAY: grey baby slime (400)/ : Must... eat...
+[02:02:44] cqc-aIUe SAY: grey baby slime (400)/ : Blorble...
+[02:02:58] cqc-aIUe EMOTE: Commander Paynter/riotscopez : snores.
+[02:02:58] cqc-aIUe EMOTE: Commander Paynter/riotscopez : <B>Commander Paynter</B> snores.
+[02:04:00] cqc-aIUe ADMIN: <a href='?priv_msg=[0x605163b]'>Athirson</a>/(/(Robin Blessig)) has entered a stasis pod. (<A HREF='?_src_=holder;adminplayerobservecoodjump=1;X=115;Y=119;Z=3'>JMP</a>)
+[02:04:24] cqc-aIUe GAME: <a href='?priv_msg=[0x605163b]'>Athirson</a>/(/(Robin Blessig)) has ghosted.
+[02:04:24] cqc-aIUe ACCESS: Logout: *no key*/(/(Robin Blessig))
+[02:04:24] cqc-aIUe ACCESS: Login: athirson/(/(Robin Blessig)) from 177.130.226.160-1848351067 || BYOND v514
+[02:05:10] cqc-aIUe EMOTE: Robin Blessig/ : snores.
+[02:05:10] cqc-aIUe EMOTE: Robin Blessig/ : <B>Robin Blessig</B> snores.
+[02:05:35] cqc-aIUe EMOTE: Commander Paynter/riotscopez : snores.
+[02:05:35] cqc-aIUe EMOTE: Commander Paynter/riotscopez : <B>Commander Paynter</B> snores.
+[02:05:43] cqc-aIUe SAY: grey baby slime (578)/ : Need... food...
+[02:05:51] cqc-aIUe SAY: grey baby slime (257)/ : Need... food...
+[02:06:25] cqc-aIUe SAY: grey baby slime (286)/ : Very... hungry...
+[02:06:31] cqc-aIUe SAY: grey baby slime (257)/ : Blorble...
+[02:07:12] cqc-aIUe EMOTE: Robin Blessig/ : snores.
+[02:07:12] cqc-aIUe EMOTE: Robin Blessig/ : <B>Robin Blessig</B> snores.
+[02:07:35] cqc-aIUe EMOTE: Robin Blessig/ : snores.
+[02:07:35] cqc-aIUe EMOTE: Robin Blessig/ : <B>Robin Blessig</B> snores.
+[02:07:36] cqc-aIUe EMOTE: Commander Paynter/riotscopez : snores.
+[02:07:36] cqc-aIUe EMOTE: Commander Paynter/riotscopez : <B>Commander Paynter</B> snores.
+[02:07:47] cqc-aIUe EMOTE: Robin Blessig/ : snores.
+[02:07:47] cqc-aIUe EMOTE: Robin Blessig/ : <B>Robin Blessig</B> snores.
+[02:07:50] cqc-aIUe EMOTE: Commander Paynter/riotscopez : snores.
+[02:07:50] cqc-aIUe EMOTE: Commander Paynter/riotscopez : <B>Commander Paynter</B> snores.
+[02:07:55] cqc-aIUe ACCESS: Logout: Athirson/(/(Robin Blessig))
+[02:07:55] cqc-aIUe ACCESS: Logout: athirson[DC]/(/(Robin Blessig))
+[02:08:05] cqc-aIUe EMOTE: Commander Paynter/riotscopez : snores.
+[02:08:05] cqc-aIUe EMOTE: Commander Paynter/riotscopez : <B>Commander Paynter</B> snores.
+[02:08:19] cqc-aIUe SAY: grey baby slime (578)/ : So... hungry...
+[02:10:29] cqc-aIUe SAY: grey baby slime (286)/ : Blorble...
+[02:10:31] cqc-aIUe EMOTE: Robin Blessig/ : snores.
+[02:10:31] cqc-aIUe EMOTE: Robin Blessig/ : <B>Robin Blessig</B> snores.
+[02:10:42] cqc-aIUe EMOTE: Robin Blessig/ : snores.
+[02:10:42] cqc-aIUe EMOTE: Robin Blessig/ : <B>Robin Blessig</B> snores.
+[02:11:38] cqc-aIUe EMOTE: Commander Paynter/riotscopez : snores.
+[02:11:38] cqc-aIUe EMOTE: Commander Paynter/riotscopez : <B>Commander Paynter</B> snores.
+[02:11:39] cqc-aIUe DEBUG: Event 'Event Manager' has completed at 05:11.
+[02:11:45] cqc-aIUe EMOTE: Robin Blessig/ : snores.
+[02:11:45] cqc-aIUe EMOTE: Robin Blessig/ : <B>Robin Blessig</B> snores.
+[02:11:45] cqc-aIUe SAY: Kraftwerk Roach/ : 10101010011100010101.
+[02:12:08] cqc-aIUe SAY: Kraftwerk Roach/ : 10101010011100010101.
+[02:12:34] cqc-aIUe SAY: grey baby slime (257)/ : So... hungry...
+[02:12:50] cqc-aIUe EMOTE: Robin Blessig/ : snores.
+[02:12:50] cqc-aIUe EMOTE: Robin Blessig/ : <B>Robin Blessig</B> snores.
+[02:12:54] cqc-aIUe EMOTE: Robin Blessig/ : snores.
+[02:12:54] cqc-aIUe EMOTE: Robin Blessig/ : <B>Robin Blessig</B> snores.
+[02:13:10] cqc-aIUe SAY: grey baby slime (257)/ : Brother...
+[02:13:20] cqc-aIUe EMOTE: Robin Blessig/ : snores.
+[02:13:20] cqc-aIUe EMOTE: Robin Blessig/ : <B>Robin Blessig</B> snores.
+[02:13:24] cqc-aIUe SAY: grey baby slime (400)/ : Must... eat...
+[02:13:58] cqc-aIUe EMOTE: Commander Paynter/riotscopez : snores.
+[02:13:58] cqc-aIUe EMOTE: Commander Paynter/riotscopez : <B>Commander Paynter</B> snores.
+[02:14:07] cqc-aIUe ADMIN: EVENT *no key*/(/(Robin Blessig)) (Visitor) entered cryostorage.
+[02:14:20] cqc-aIUe EMOTE: Commander Paynter/riotscopez : snores.
+[02:14:20] cqc-aIUe EMOTE: Commander Paynter/riotscopez : <B>Commander Paynter</B> snores.
+[02:15:23] cqc-aIUe EMOTE: Commander Paynter/riotscopez : snores.
+[02:15:23] cqc-aIUe EMOTE: Commander Paynter/riotscopez : <B>Commander Paynter</B> snores.
+[02:15:48] cqc-aIUe SAY: grey baby slime (578)/ : Very... hungry...
+[02:16:40] cqc-aIUe EMOTE: Commander Paynter/riotscopez : snores.
+[02:16:40] cqc-aIUe EMOTE: Commander Paynter/riotscopez : <B>Commander Paynter</B> snores.
+[02:16:49] cqc-aIUe EMOTE: Commander Paynter/riotscopez : snores.
+[02:16:49] cqc-aIUe EMOTE: Commander Paynter/riotscopez : <B>Commander Paynter</B> snores.
+[02:17:39] cqc-aIUe SAY: grey baby slime (286)/ : Rawr...
+[02:19:47] cqc-aIUe EMOTE: Commander Paynter/riotscopez : snores.
+[02:19:47] cqc-aIUe EMOTE: Commander Paynter/riotscopez : <B>Commander Paynter</B> snores.
+[02:20:13] cqc-aIUe SAY: grey baby slime (286)/ : Need... food...
+[02:21:39] cqc-aIUe SAY: grey baby slime (286)/ : Blop...
+[02:21:55] cqc-aIUe EMOTE: Commander Paynter/riotscopez : snores.
+[02:21:55] cqc-aIUe EMOTE: Commander Paynter/riotscopez : <B>Commander Paynter</B> snores.
+[02:23:42] cqc-aIUe SAY: *no key*/(/(rat (356))) squeals! 
+[02:23:46] cqc-aIUe SAY: *no key*/(/(rat (275))) squeals! 
+[02:24:04] cqc-aIUe SAY: grey baby slime (257)/ : Blorble...
+[02:25:14] cqc-aIUe EMOTE: Commander Paynter/riotscopez : snores.
+[02:25:14] cqc-aIUe EMOTE: Commander Paynter/riotscopez : <B>Commander Paynter</B> snores.
+[02:25:46] cqc-aIUe EMOTE: Commander Paynter/riotscopez : snores.
+[02:25:46] cqc-aIUe EMOTE: Commander Paynter/riotscopez : <B>Commander Paynter</B> snores.
+[02:26:34] cqc-aIUe EMOTE: Commander Paynter/riotscopez : snores.
+[02:26:34] cqc-aIUe EMOTE: Commander Paynter/riotscopez : <B>Commander Paynter</B> snores.
+[02:29:08] cqc-aIUe SAY: grey baby slime (578)/ : Must... eat...
+[02:30:00] cqc-aIUe SAY: grey baby slime (257)/ : Blop...
+[02:31:26] cqc-aIUe SAY: grey baby slime (257)/ : Very... hungry...
+[02:33:14] cqc-aIUe EMOTE: Quick Gluhend Roach/ : <B>Quick Gluhend Roach</B> splutters!
+[02:33:19] cqc-aIUe SAY: grey baby slime (286)/ : Rawr...
+[02:33:26] cqc-aIUe EMOTE: Quick Gluhend Roach/ : <B>Quick Gluhend Roach</B> coughs!
+[02:34:11] cqc-aIUe EMOTE: Commander Paynter/riotscopez : snores.
+[02:34:11] cqc-aIUe EMOTE: Commander Paynter/riotscopez : <B>Commander Paynter</B> snores.
+[02:34:32] cqc-aIUe EMOTE: Biosilicified Roachling/ : <B>Biosilicified Roachling</B> splutters!
+[02:34:47] cqc-aIUe EMOTE: Commander Paynter/riotscopez : snores.
+[02:34:47] cqc-aIUe EMOTE: Commander Paynter/riotscopez : <B>Commander Paynter</B> snores.
+[02:35:16] cqc-aIUe EMOTE: Quick Gluhend Roach/ : <B>Quick Gluhend Roach</B> coughs hysterically!
+[02:35:27] cqc-aIUe EMOTE: Commander Paynter/riotscopez : snores.
+[02:35:27] cqc-aIUe EMOTE: Commander Paynter/riotscopez : <B>Commander Paynter</B> snores.
+[02:37:43] cqc-aIUe EMOTE: Commander Paynter/riotscopez : snores.
+[02:37:43] cqc-aIUe EMOTE: Commander Paynter/riotscopez : <B>Commander Paynter</B> snores.
+[02:37:57] cqc-aIUe DEBUG: Event 'Event Manager' has completed at 05:37.
+[02:38:05] cqc-aIUe GAME: [Server] No players were on a server last 30 minutes, restarting server...
+[02:38:05] cqc-aIUe GAME: MC crashed or runtimed, restarting

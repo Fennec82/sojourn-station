@@ -1,0 +1,1038 @@
+## ERROR: File not found (config/dbconfig.txt)
+## ERROR: Failed to load config/mods.txt
+## ERROR: Failed to load config/mentors.txt
+## MYSQL ERROR: The operation completed successfully.
+
+Your server failed to establish a connection with the feedback database.
+## WARNING: File not found: config/jukebox.json
+## ERROR: Failed to load config/mods.txt
+##MAP_ERROR: Multiple stairs at (10,18,7)
+##MAP_ERROR: Multiple stairs at (13,18,7)
+Initialized Jobs subsystem within 453047 seconds!
+Initialized Ticker subsystem within 453047 seconds!
+## MYSQL ERROR: Cannot create a file when that file already exists.
+
+## MYSQL ERROR: The operation completed successfully.
+
+Initialized Mapping subsystem within 453149 seconds!
+Initialized Inventory subsystem within 453149 seconds!
+## MYSQL ERROR: The operation completed successfully.
+
+Initialized Character Setup subsystem within 453149 seconds!
+Initialized Atoms subsystem within 453293 seconds!
+Initialized Machines subsystem within 453296 seconds!
+Initialized Circuit subsystem within 453296 seconds!
+Initialized Chemistry subsystem within 453296 seconds!
+Initialized Evacuation subsystem within 453296 seconds!
+Initialized Event Manager subsystem within 453296 seconds!
+Initialized Inactivity subsystem within 453296 seconds!
+Generating Asteroid Belt: 1 - Affinity: Neutral
+Junk Field build starting at zlevel 19.
+Junk field portal placed at (63, 93, 19)
+Generating edges of junk field at zlevel 19.
+Junk Field build complete at zlevel 19.
+Initialized Misc subsystem within 453302 seconds!
+Initialized Research subsystem within 453313 seconds!
+Initialized Tips and Tricks subsystem within 453313 seconds!
+Initialized Trade subsystem within 453315 seconds!
+Initialized Voting subsystem within 453315 seconds!
+Initialized Weather subsystem within 453315 seconds!
+Initialized Turbolift controller subsystem within 453315 seconds!
+Initialized Air subsystem within 453340 seconds!
+Initialized Alarm subsystem within 453340 seconds!
+Initialized Craft subsystem within 453340 seconds!
+Initialized Assets subsystem within 453398 seconds!
+Initialized Overlay subsystem within 453399 seconds!
+Initialized Admin Tickets subsystem within 453399 seconds!
+Initialized Mentor Tickets subsystem within 453399 seconds!
+Initialized Lighting subsystem within 453416 seconds!
+Initialized Shuttle subsystem within 453416 seconds!
+Initialized Pathfinder subsystem within 453416 seconds!
+Initialized Xenoarch subsystem within 453417 seconds!
+Initialized Economy subsystem within 453417 seconds!
+Initialized Migration subsystem within 453417 seconds!
+Initialized Radiation subsystem within 453418 seconds!
+Initialized Chat subsystem within 453418 seconds!
+Initializations complete within 370.9 seconds!
+## WARNING: Timer buckets has been reset, this may cause timer to lag in code/controllers/subsystems/timer.dm at line 237 src: Timer usr: .
+[21:23:39] Runtime in inspiration_component.dm,29: undefined variable /obj/item/tool/knife/dagger/ceremonial/var/perk
+  proc name: Initialize (/datum/component/inspiration/Initialize)
+  usr: RiotScopez (riotscopez) (/mob/new_player)
+  src: /datum/component/inspiration (/datum/component/inspiration)
+  call stack:
+  /datum/component/inspiration (/datum/component/inspiration): Initialize(/list (/list), /datum/perk/oddity/terrible_fa... (/datum/perk/oddity/terrible_fate))
+  /datum/component/inspiration (/datum/component/inspiration): New(The ceremonial dagger of Katha... (/obj/item/tool/knife/dagger/ceremonial), /list (/list), /datum/perk/oddity/terrible_fa... (/datum/perk/oddity/terrible_fate))
+  The ceremonial dagger of Katha... (/obj/item/tool/knife/dagger/ceremonial): AddComponent(The ceremonial dagger of Katha... (/obj/item/tool/knife/dagger/ceremonial), /list (/list), /datum/perk/oddity/terrible_fa... (/datum/perk/oddity/terrible_fate))
+  Wealthy Upbringing (/datum/perk/noble): assign(Katharine Griffiths (mannequin... (/mob/living/carbon/human/dummy/mannequin))
+  /datum/stat_holder (/datum/stat_holder): addPerk(/datum/perk/noble (/datum/perk/noble))
+  Wealthy Upbringing (/datum/category_item/setup_option/background/bckgrnd/wealthy): apply(Katharine Griffiths (mannequin... (/mob/living/carbon/human/dummy/mannequin))
+  /datum/preferences (/datum/preferences): copy to(Katharine Griffiths (mannequin... (/mob/living/carbon/human/dummy/mannequin), 1)
+  /datum/preferences (/datum/preferences): dress preview mob(Katharine Griffiths (mannequin... (/mob/living/carbon/human/dummy/mannequin), 0)
+  /datum/preferences (/datum/preferences): update preview icon(0)
+  Body (/datum/category_item/player_setup_item/physical/body): content(RiotScopez (/mob/new_player))
+  General (/datum/category_group/player_setup_category/physical_preferences): content(RiotScopez (/mob/new_player))
+  /datum/category_collection/pla... (/datum/category_collection/player_setup_collection): content(RiotScopez (/mob/new_player))
+  /datum/preferences (/datum/preferences): ShowChoices(RiotScopez (/mob/new_player))
+  RiotScopez (/mob/new_player): Topic("src=\[0x3000527];show_preferen...", /list (/list))
+  RiotScopez (/client): Topic("src=\[0x3000527];show_preferen...", /list (/list), RiotScopez (/mob/new_player))
+  RiotScopez (/client): Topic("src=\[0x3000527];show_preferen...", /list (/list), RiotScopez (/mob/new_player))
+## MYSQL ERROR: The operation completed successfully.
+
+[21:25:30] Runtime in inspiration_component.dm,29: undefined variable /obj/item/tool/sword/saber/var/perk
+  proc name: Initialize (/datum/component/inspiration/Initialize)
+  src: /datum/component/inspiration (/datum/component/inspiration)
+  call stack:
+  /datum/component/inspiration (/datum/component/inspiration): Initialize(/list (/list), /datum/perk/oddity/snackivore (/datum/perk/oddity/snackivore))
+  /datum/component/inspiration (/datum/component/inspiration): New(The decorative saber of Kathar... (/obj/item/tool/sword/saber), /list (/list), /datum/perk/oddity/snackivore (/datum/perk/oddity/snackivore))
+  The decorative saber of Kathar... (/obj/item/tool/sword/saber): AddComponent(The decorative saber of Kathar... (/obj/item/tool/sword/saber), /list (/list), /datum/perk/oddity/snackivore (/datum/perk/oddity/snackivore))
+  Wealthy Upbringing (/datum/perk/noble): assign(Katharine Griffiths (/mob/living/carbon/human))
+  /datum/stat_holder (/datum/stat_holder): addPerk(/datum/perk/noble (/datum/perk/noble))
+  Wealthy Upbringing (/datum/category_item/setup_option/background/bckgrnd/wealthy): apply(Katharine Griffiths (/mob/living/carbon/human))
+  /datum/preferences (/datum/preferences): copy to(Katharine Griffiths (/mob/living/carbon/human), 0)
+  RiotScopez (/mob/new_player): create character()
+  Ticker (/datum/controller/subsystem/ticker): create characters()
+  Ticker (/datum/controller/subsystem/ticker): setup()
+  Ticker (/datum/controller/subsystem/ticker): fire()
+  Ticker (/datum/controller/subsystem/ticker): fire(0)
+  Ticker (/datum/controller/subsystem/ticker): ignite(0)
+  Master (/datum/controller/master): RunQueue()
+  Master (/datum/controller/master): Loop()
+  Master (/datum/controller/master): StartProcessing(0)
+Game start took 6.4s
+[21:28:17] Runtime in unsorted.dm,1381: addtimer called with a callback assigned to a qdeleted object. In the future such timers will not be supported and may refuse to run or run with a 0 wait
+  proc name: stack trace (/proc/stack_trace)
+  src: null
+  call stack:
+  stack trace("addtimer called with a callbac...")
+   addtimer(/datum/callback (/datum/callback), 15, 0, null, "code/modules/mob/living/carbon...", 471)
+  Brutish Greyson Positronic RMB... (/mob/living/carbon/superior_animal/robot/greyson/roomba/gun_ba): handle attacking stance(Very healthy warrior (/mob/living/carbon/superior_animal/xenomorph/warrior), 0, 1, 1)
+  Brutish Greyson Positronic RMB... (/mob/living/carbon/superior_animal/robot/greyson/roomba/gun_ba): handle ai()
+  Brutish Greyson Positronic RMB... (/mob/living/carbon/superior_animal/robot/greyson/roomba/gun_ba): Life(2)
+  Mobs (/datum/controller/subsystem/processing/mobs): fire(1)
+  Mobs (/datum/controller/subsystem/processing/mobs): fire(1)
+  Mobs (/datum/controller/subsystem/processing/mobs): ignite(1)
+## TESTING: GC: -- [0x20162b1] | /obj/effect/decal/cleanable/blood/gibs was unable to be GC'd --
+## TESTING: GC: -- [0x2016365] | /obj/effect/decal/cleanable/blood/gibs was unable to be GC'd --
+## TESTING: GC: -- [0x2016393] | /obj/effect/decal/cleanable/blood/gibs was unable to be GC'd --
+## TESTING: GC: -- [0x2016396] | /obj/effect/decal/cleanable/blood/gibs was unable to be GC'd --
+## TESTING: GC: -- [0x20164c2] | /obj/effect/decal/cleanable/blood/gibs was unable to be GC'd --
+## TESTING: GC: -- [0x20164c5] | /obj/effect/decal/cleanable/blood/gibs was unable to be GC'd --
+## TESTING: GC: -- [0x201651e] | /obj/effect/decal/cleanable/blood/gibs was unable to be GC'd --
+## TESTING: GC: -- [0x20165da] | /obj/effect/decal/cleanable/blood/gibs was unable to be GC'd --
+## TESTING: GC: -- [0x2016616] | /obj/effect/decal/cleanable/blood/gibs was unable to be GC'd --
+## TESTING: GC: -- [0x2016647] | /obj/effect/decal/cleanable/blood/gibs was unable to be GC'd --
+## TESTING: GC: -- [0x2016648] | /obj/effect/decal/cleanable/blood/gibs was unable to be GC'd --
+## TESTING: GC: -- [0x2016680] | /obj/effect/decal/cleanable/blood/gibs was unable to be GC'd --
+## TESTING: GC: -- [0x20168b1] | /obj/effect/decal/cleanable/blood/gibs was unable to be GC'd --
+## TESTING: GC: -- [0x20168ec] | /obj/effect/decal/cleanable/blood/gibs was unable to be GC'd --
+## TESTING: GC: -- [0x2016927] | /obj/effect/decal/cleanable/blood/gibs was unable to be GC'd --
+## TESTING: GC: -- [0x2016a60] | /obj/effect/decal/cleanable/blood/gibs was unable to be GC'd --
+## TESTING: GC: -- [0x2016ac2] | /obj/effect/decal/cleanable/blood/gibs was unable to be GC'd --
+## TESTING: GC: -- [0x2016b54] | /obj/effect/decal/cleanable/blood/gibs was unable to be GC'd --
+## TESTING: GC: -- [0x2016bab] | /obj/effect/decal/cleanable/blood/gibs was unable to be GC'd --
+## TESTING: GC: -- [0x2016bd9] | /obj/effect/decal/cleanable/blood/gibs was unable to be GC'd --
+## TESTING: GC: -- [0x2016bee] | /obj/effect/decal/cleanable/blood/gibs was unable to be GC'd --
+## TESTING: GC: -- [0x2032c3c] | /obj/machinery/atmospherics/pipe/simple/hidden/supply was unable to be GC'd --
+## TESTING: GC: -- [0x2032cb6] | /obj/machinery/atmospherics/pipe/simple/hidden/scrubbers was unable to be GC'd --
+## TESTING: GC: -- [0x2032cb1] | /obj/machinery/atmospherics/pipe/simple/hidden/scrubbers was unable to be GC'd --
+## TESTING: GC: -- [0x2032c71] | /obj/machinery/atmospherics/pipe/simple/hidden/scrubbers was unable to be GC'd --
+## TESTING: GC: -- [0x2032c72] | /obj/machinery/atmospherics/pipe/simple/hidden/supply was unable to be GC'd --
+## TESTING: GC: -- [0x2032d80] | /obj/machinery/atmospherics/pipe/simple/hidden/scrubbers was unable to be GC'd --
+## TESTING: GC: -- [0x2032d81] | /obj/machinery/atmospherics/pipe/simple/hidden/supply was unable to be GC'd --
+## TESTING: GC: -- [0x2032d8d] | /obj/machinery/atmospherics/pipe/simple/hidden/scrubbers was unable to be GC'd --
+## TESTING: GC: -- [0x2032d8e] | /obj/machinery/atmospherics/pipe/simple/hidden/supply was unable to be GC'd --
+## TESTING: GC: -- [0x2032da6] | /obj/machinery/atmospherics/pipe/simple/hidden/scrubbers was unable to be GC'd --
+## TESTING: GC: -- [0x2032da7] | /obj/machinery/atmospherics/pipe/simple/hidden/supply was unable to be GC'd --
+## TESTING: GC: -- [0x2032dc3] | /obj/machinery/atmospherics/pipe/simple/hidden/scrubbers was unable to be GC'd --
+## TESTING: GC: -- [0x2032dc4] | /obj/machinery/atmospherics/pipe/simple/hidden/supply was unable to be GC'd --
+## TESTING: GC: -- [0x2032ddf] | /obj/machinery/atmospherics/pipe/simple/hidden/scrubbers was unable to be GC'd --
+## TESTING: GC: -- [0x2032de0] | /obj/machinery/atmospherics/pipe/simple/hidden/supply was unable to be GC'd --
+## TESTING: GC: -- [0x2032df5] | /obj/machinery/atmospherics/pipe/simple/hidden/scrubbers was unable to be GC'd --
+## TESTING: GC: -- [0x2032df6] | /obj/machinery/atmospherics/pipe/simple/hidden/supply was unable to be GC'd --
+## TESTING: GC: -- [0x2032e0f] | /obj/machinery/atmospherics/pipe/simple/hidden/scrubbers was unable to be GC'd --
+## TESTING: GC: -- [0x2032e10] | /obj/machinery/atmospherics/pipe/simple/hidden/supply was unable to be GC'd --
+## TESTING: GC: -- [0x2032e21] | /obj/machinery/atmospherics/pipe/simple/hidden/scrubbers was unable to be GC'd --
+## TESTING: GC: -- [0x2032e22] | /obj/machinery/atmospherics/pipe/simple/hidden/supply was unable to be GC'd --
+## TESTING: GC: -- [0x2032e40] | /obj/machinery/atmospherics/pipe/simple/hidden/scrubbers was unable to be GC'd --
+## TESTING: GC: -- [0x2032e41] | /obj/machinery/atmospherics/pipe/simple/hidden/supply was unable to be GC'd --
+## TESTING: GC: -- [0x2032e58] | /obj/machinery/atmospherics/pipe/simple/hidden/scrubbers was unable to be GC'd --
+## TESTING: GC: -- [0x2032e59] | /obj/machinery/atmospherics/pipe/simple/hidden/supply was unable to be GC'd --
+## TESTING: GC: -- [0x2032e6e] | /obj/machinery/atmospherics/pipe/simple/hidden/supply was unable to be GC'd --
+## TESTING: GC: -- [0x2032e84] | /obj/machinery/atmospherics/pipe/simple/hidden/scrubbers was unable to be GC'd --
+## TESTING: GC: -- [0x2032ea4] | /obj/machinery/atmospherics/pipe/simple/hidden/scrubbers was unable to be GC'd --
+## TESTING: GC: -- [0x2032ea5] | /obj/machinery/atmospherics/pipe/simple/hidden/supply was unable to be GC'd --
+## TESTING: GC: -- [0x2032ebf] | /obj/machinery/atmospherics/pipe/simple/hidden/scrubbers was unable to be GC'd --
+## TESTING: GC: -- [0x2032ec0] | /obj/machinery/atmospherics/pipe/simple/hidden/supply was unable to be GC'd --
+## TESTING: GC: -- [0x2032edc] | /obj/machinery/atmospherics/pipe/simple/hidden/scrubbers was unable to be GC'd --
+## TESTING: GC: -- [0x2032edd] | /obj/machinery/atmospherics/pipe/simple/hidden/supply was unable to be GC'd --
+## TESTING: GC: -- [0x2032eef] | /obj/machinery/atmospherics/pipe/simple/hidden/scrubbers was unable to be GC'd --
+## TESTING: GC: -- [0x2032ef0] | /obj/machinery/atmospherics/pipe/simple/hidden/supply was unable to be GC'd --
+## TESTING: GC: -- [0x2032ed5] | /obj/machinery/atmospherics/pipe/simple/hidden/supply was unable to be GC'd --
+## TESTING: GC: -- [0x2032eea] | /obj/machinery/atmospherics/pipe/simple/hidden/supply was unable to be GC'd --
+## TESTING: GC: -- [0x2032e1c] | /obj/machinery/atmospherics/pipe/simple/visible/yellow was unable to be GC'd --
+## TESTING: GC: -- [0x2032dce] | /obj/machinery/atmospherics/pipe/simple/visible/yellow was unable to be GC'd --
+## TESTING: GC: -- [0x2032dcc] | /obj/machinery/atmospherics/pipe/manifold/visible/yellow was unable to be GC'd --
+## TESTING: GC: -- [0x2032e17] | /obj/machinery/atmospherics/pipe/simple/visible/yellow was unable to be GC'd --
+## TESTING: GC: -- [0x2032e2a] | /obj/machinery/atmospherics/pipe/simple/visible/yellow was unable to be GC'd --
+## TESTING: GC: -- [0x2032e4a] | /obj/machinery/atmospherics/pipe/simple/visible/yellow was unable to be GC'd --
+## TESTING: GC: -- [0x2032c47] | /obj/machinery/atmospherics/pipe/simple/hidden/scrubbers was unable to be GC'd --
+## TESTING: GC: -- [0x2032dac] | /obj/machinery/atmospherics/pipe/simple/hidden/supply was unable to be GC'd --
+## TESTING: GC: -- [0x2032b01] | /obj/machinery/atmospherics/pipe/simple/hidden/scrubbers was unable to be GC'd --
+## TESTING: GC: -- [0x2032ac6] | /obj/machinery/atmospherics/pipe/simple/hidden/supply was unable to be GC'd --
+## TESTING: GC: -- [0x2032bda] | /obj/machinery/atmospherics/pipe/simple/hidden/scrubbers was unable to be GC'd --
+## TESTING: GC: -- [0x2032c46] | /obj/machinery/atmospherics/pipe/simple/hidden/supply was unable to be GC'd --
+## TESTING: GC: -- [0x2032ee2] | /obj/machinery/atmospherics/pipe/simple/hidden/red was unable to be GC'd --
+## TESTING: GC: -- [0x2032e0b] | /obj/machinery/atmospherics/pipe/simple/hidden/red was unable to be GC'd --
+## TESTING: GC: -- [0x2032ffe] | /obj/machinery/atmospherics/pipe/simple/hidden/supply was unable to be GC'd --
+## TESTING: GC: -- [0x203295e] | /obj/machinery/atmospherics/pipe/simple/hidden/scrubbers was unable to be GC'd --
+## TESTING: GC: -- [0x2032db1] | /obj/machinery/atmospherics/pipe/simple/hidden/supply was unable to be GC'd --
+[21:28:24] Runtime in unsorted.dm,1381: addtimer called with a callback assigned to a qdeleted object. In the future such timers will not be supported and may refuse to run or run with a 0 wait
+  proc name: stack trace (/proc/stack_trace)
+  src: null
+  call stack:
+  stack trace("addtimer called with a callbac...")
+   addtimer(/datum/callback (/datum/callback), 15, 0, null, "code/modules/mob/living/carbon...", 471)
+  Greyson Positronic FBP-SEC Mar... (/mob/living/carbon/superior_animal/robot/greyson/synthetic/epistol): handle attacking stance(Fortified defiler (/mob/living/carbon/superior_animal/xenomorph/warrior/defiler), 0, 1, 1)
+  Greyson Positronic FBP-SEC Mar... (/mob/living/carbon/superior_animal/robot/greyson/synthetic/epistol): handle ai()
+  Greyson Positronic FBP-SEC Mar... (/mob/living/carbon/superior_animal/robot/greyson/synthetic/epistol): Life(2)
+  Mobs (/datum/controller/subsystem/processing/mobs): fire(1)
+  Mobs (/datum/controller/subsystem/processing/mobs): fire(1)
+  Mobs (/datum/controller/subsystem/processing/mobs): ignite(1)
+## TESTING: GC: -- [0x2032fed] | /obj/machinery/atmospherics/pipe/simple/hidden/scrubbers was unable to be GC'd --
+## TESTING: GC: -- [0x2032fe6] | /obj/machinery/atmospherics/pipe/simple/hidden/supply was unable to be GC'd --
+## TESTING: GC: -- [0x2032ff1] | /obj/machinery/atmospherics/pipe/simple/hidden/scrubbers was unable to be GC'd --
+## TESTING: GC: -- [0x2033016] | /obj/machinery/atmospherics/pipe/simple/hidden/scrubbers was unable to be GC'd --
+## TESTING: GC: -- [0x2033025] | /obj/machinery/atmospherics/pipe/simple/hidden/supply was unable to be GC'd --
+## TESTING: GC: -- [0x2033080] | /obj/machinery/atmospherics/pipe/simple/hidden/scrubbers was unable to be GC'd --
+## TESTING: GC: -- [0x2033081] | /obj/machinery/atmospherics/pipe/simple/hidden/supply was unable to be GC'd --
+## TESTING: GC: -- [0x2033089] | /obj/machinery/atmospherics/pipe/simple/hidden/scrubbers was unable to be GC'd --
+## TESTING: GC: -- [0x203308a] | /obj/machinery/atmospherics/pipe/simple/hidden/supply was unable to be GC'd --
+## TESTING: GC: -- [0x2033082] | /obj/machinery/atmospherics/pipe/simple/hidden was unable to be GC'd --
+## TESTING: GC: -- [0x2033083] | /obj/machinery/atmospherics/pipe/simple/hidden was unable to be GC'd --
+## TESTING: GC: -- [0x2033072] | /obj/machinery/atmospherics/pipe/simple/hidden/red was unable to be GC'd --
+## TESTING: GC: -- [0x20330d1] | /obj/machinery/atmospherics/pipe/simple/hidden/red was unable to be GC'd --
+## TESTING: GC: -- [0x20330f6] | /obj/machinery/atmospherics/pipe/simple/visible/yellow was unable to be GC'd --
+## TESTING: GC: -- [0x20330f9] | /obj/machinery/atmospherics/pipe/simple/hidden/supply was unable to be GC'd --
+## TESTING: GC: -- [0x20330fa] | /obj/machinery/atmospherics/pipe/simple/hidden/scrubbers was unable to be GC'd --
+## TESTING: GC: -- [0x20330cd] | /obj/machinery/atmospherics/pipe/simple/visible/yellow was unable to be GC'd --
+## TESTING: GC: -- [0x20331f6] | /obj/machinery/atmospherics/pipe/simple/hidden/supply was unable to be GC'd --
+## TESTING: GC: -- [0x20331f7] | /obj/machinery/atmospherics/pipe/simple/hidden/scrubbers was unable to be GC'd --
+## TESTING: GC: -- [0x203318e] | /obj/machinery/atmospherics/pipe/simple/hidden/supply was unable to be GC'd --
+## TESTING: GC: -- [0x2033128] | /obj/machinery/atmospherics/pipe/simple/hidden/scrubbers was unable to be GC'd --
+## TESTING: GC: -- [0x20331d2] | /obj/machinery/atmospherics/pipe/simple/hidden/supply was unable to be GC'd --
+## TESTING: GC: -- [0x20331d5] | /obj/machinery/atmospherics/pipe/simple/hidden/scrubbers was unable to be GC'd --
+## TESTING: GC: -- [0x20332cd] | /obj/machinery/atmospherics/pipe/simple/hidden/scrubbers was unable to be GC'd --
+## TESTING: GC: -- [0x20332cb] | /obj/machinery/atmospherics/pipe/simple/hidden/supply was unable to be GC'd --
+## TESTING: GC: -- [0x20332d6] | /obj/machinery/atmospherics/pipe/simple/hidden/scrubbers was unable to be GC'd --
+## TESTING: GC: -- [0x20332c2] | /obj/machinery/atmospherics/pipe/simple/hidden/supply was unable to be GC'd --
+## TESTING: GC: -- [0x203327b] | /obj/machinery/atmospherics/pipe/simple/hidden/scrubbers was unable to be GC'd --
+## TESTING: GC: -- [0x20332b8] | /obj/machinery/atmospherics/pipe/simple/hidden/supply was unable to be GC'd --
+## TESTING: GC: -- [0x2105e669] | /datum/radio_frequency was unable to be GC'd --
+## TESTING: GC: -- [0x2036a04] | /obj/item/tank/oxygen was unable to be GC'd --
+[21:28:56] Runtime in unsorted.dm,1381: addtimer called with a callback assigned to a qdeleted object. In the future such timers will not be supported and may refuse to run or run with a 0 wait
+  proc name: stack trace (/proc/stack_trace)
+  src: null
+  call stack:
+  stack trace("addtimer called with a callbac...")
+   addtimer(/datum/callback (/datum/callback), 15, 0, null, "code/modules/mob/living/carbon...", 471)
+  Slowdraw Greyson Positronic Se... (/mob/living/carbon/superior_animal/robot/greyson/custodian/chef): handle attacking stance(Glistening spitter (/mob/living/carbon/superior_animal/xenomorph/spitter), 0, 1, 1)
+  Slowdraw Greyson Positronic Se... (/mob/living/carbon/superior_animal/robot/greyson/custodian/chef): handle ai()
+  Slowdraw Greyson Positronic Se... (/mob/living/carbon/superior_animal/robot/greyson/custodian/chef): Life(2)
+  Mobs (/datum/controller/subsystem/processing/mobs): fire(1)
+  Mobs (/datum/controller/subsystem/processing/mobs): fire(1)
+  Mobs (/datum/controller/subsystem/processing/mobs): ignite(1)
+## MYSQL ERROR: The operation completed successfully.
+
+Shutting down Chat subsystem...
+Shutting down Radiation subsystem...
+Shutting down Migration subsystem...
+Shutting down Economy subsystem...
+Shutting down Xenoarch subsystem...
+Shutting down Pathfinder subsystem...
+Shutting down Shuttle subsystem...
+Shutting down Lighting subsystem...
+Shutting down Mentor Tickets subsystem...
+Shutting down Admin Tickets subsystem...
+Shutting down Overlay subsystem...
+Shutting down Assets subsystem...
+Shutting down Craft subsystem...
+Shutting down Alarm subsystem...
+Shutting down Air subsystem...
+Shutting down Wireless subsystem...
+Shutting down Weather subsystem...
+Shutting down Voting subsystem...
+Shutting down Verb Manager subsystem...
+Shutting down Turfs subsystem...
+Shutting down Turbolift controller subsystem...
+Shutting down Trade subsystem...
+Shutting down Tips and Tricks subsystem...
+Shutting down tgui subsystem...
+Shutting down Sun subsystem...
+Shutting down statverbs subsystem...
+Shutting down Research subsystem...
+Shutting down Radio subsystem...
+Shutting down Processing subsystem...
+Shutting down Ping subsystem...
+Shutting down pAI subsystem...
+Shutting down Objects subsystem...
+Shutting down NanoUI subsystem...
+Shutting down Movement Loops subsystem...
+Shutting down Movement Handler subsystem...
+Shutting down Mobs subsystem...
+Shutting down Misc subsystem...
+Shutting down Internal Wounds subsystem...
+Shutting down Inactivity subsystem...
+Shutting down Fast Processing subsystem...
+Shutting down Event Manager subsystem...
+Shutting down Evacuation subsystem...
+Shutting down Datum Component System subsystem...
+Shutting down Circuit Components subsystem...
+Shutting down Chemistry subsystem...
+Shutting down Airflow subsystem...
+Shutting down Timer subsystem...
+Shutting down Circuit subsystem...
+Shutting down Machines subsystem...
+Shutting down Atoms subsystem...
+Shutting down Character Setup subsystem...
+Shutting down Inventory subsystem...
+Shutting down Mapping subsystem...
+Shutting down Ticker subsystem...
+Shutting down Jobs subsystem...
+Shutting down Garbage subsystem...
+Shutdown complete
+## ERROR: File not found (config/dbconfig.txt)
+## ERROR: Failed to load config/mods.txt
+## ERROR: Failed to load config/mentors.txt
+## MYSQL ERROR: The operation completed successfully.
+
+Your server failed to establish a connection with the feedback database.
+## WARNING: File not found: config/jukebox.json
+## ERROR: Failed to load config/mods.txt
+##MAP_ERROR: Multiple stairs at (10,18,7)
+##MAP_ERROR: Multiple stairs at (13,18,7)
+Initialized Jobs subsystem within 454075 seconds!
+Initialized Ticker subsystem within 454075 seconds!
+## MYSQL ERROR: The operation completed successfully.
+
+## MYSQL ERROR: The operation completed successfully.
+
+Initialized Mapping subsystem within 454176 seconds!
+Initialized Inventory subsystem within 454176 seconds!
+## MYSQL ERROR: The operation completed successfully.
+
+Initialized Character Setup subsystem within 454176 seconds!
+Initialized Atoms subsystem within 454320 seconds!
+Initialized Machines subsystem within 454323 seconds!
+Initialized Circuit subsystem within 454323 seconds!
+Initialized Chemistry subsystem within 454323 seconds!
+Initialized Evacuation subsystem within 454323 seconds!
+Initialized Event Manager subsystem within 454323 seconds!
+Initialized Inactivity subsystem within 454323 seconds!
+Generating Asteroid Belt: 0 - Affinity: Military
+Junk Field build starting at zlevel 19.
+Junk field portal placed at (103, 93, 19)
+Generating edges of junk field at zlevel 19.
+Junk Field build complete at zlevel 19.
+Initialized Misc subsystem within 454331 seconds!
+Initialized Research subsystem within 454342 seconds!
+Initialized Tips and Tricks subsystem within 454342 seconds!
+Initialized Trade subsystem within 454344 seconds!
+Initialized Voting subsystem within 454344 seconds!
+Initialized Weather subsystem within 454344 seconds!
+Initialized Turbolift controller subsystem within 454344 seconds!
+Initialized Air subsystem within 454370 seconds!
+Initialized Alarm subsystem within 454370 seconds!
+Initialized Craft subsystem within 454370 seconds!
+Initialized Assets subsystem within 454424 seconds!
+Initialized Overlay subsystem within 454426 seconds!
+Initialized Admin Tickets subsystem within 454426 seconds!
+Initialized Mentor Tickets subsystem within 454426 seconds!
+Initialized Lighting subsystem within 454443 seconds!
+Initialized Shuttle subsystem within 454443 seconds!
+Initialized Pathfinder subsystem within 454443 seconds!
+Initialized Xenoarch subsystem within 454444 seconds!
+Initialized Economy subsystem within 454444 seconds!
+Initialized Migration subsystem within 454444 seconds!
+Initialized Radiation subsystem within 454445 seconds!
+Initialized Chat subsystem within 454445 seconds!
+Initializations complete within 369.9 seconds!
+## WARNING: Timer buckets has been reset, this may cause timer to lag in code/controllers/subsystems/timer.dm at line 237 src: Timer usr: .
+## MYSQL ERROR: The operation completed successfully.
+
+[21:39:57] Runtime in inspiration_component.dm,29: undefined variable /obj/item/tool/knife/ritual/var/perk
+  proc name: Initialize (/datum/component/inspiration/Initialize)
+  src: /datum/component/inspiration (/datum/component/inspiration)
+  call stack:
+  /datum/component/inspiration (/datum/component/inspiration): Initialize(/list (/list), /datum/perk/oddity/snackivore (/datum/perk/oddity/snackivore))
+  /datum/component/inspiration (/datum/component/inspiration): New(The ritual knife of Katharine ... (/obj/item/tool/knife/ritual), /list (/list), /datum/perk/oddity/snackivore (/datum/perk/oddity/snackivore))
+  The ritual knife of Katharine ... (/obj/item/tool/knife/ritual): AddComponent(The ritual knife of Katharine ... (/obj/item/tool/knife/ritual), /list (/list), /datum/perk/oddity/snackivore (/datum/perk/oddity/snackivore))
+  Wealthy Upbringing (/datum/perk/noble): assign(Katharine Griffiths (/mob/living/carbon/human))
+  /datum/stat_holder (/datum/stat_holder): addPerk(/datum/perk/noble (/datum/perk/noble))
+  Wealthy Upbringing (/datum/category_item/setup_option/background/bckgrnd/wealthy): apply(Katharine Griffiths (/mob/living/carbon/human))
+  /datum/preferences (/datum/preferences): copy to(Katharine Griffiths (/mob/living/carbon/human), 0)
+  RiotScopez (/mob/new_player): create character()
+  Ticker (/datum/controller/subsystem/ticker): create characters()
+  Ticker (/datum/controller/subsystem/ticker): setup()
+  Ticker (/datum/controller/subsystem/ticker): fire()
+  Ticker (/datum/controller/subsystem/ticker): fire(0)
+  Ticker (/datum/controller/subsystem/ticker): ignite(0)
+  Master (/datum/controller/master): RunQueue()
+  Master (/datum/controller/master): Loop()
+  Master (/datum/controller/master): StartProcessing(0)
+Game start took 6.6s
+## TESTING: GC: -- [0x20162ae] | /obj/effect/decal/cleanable/blood/gibs was unable to be GC'd --
+## TESTING: GC: -- [0x2016362] | /obj/effect/decal/cleanable/blood/gibs was unable to be GC'd --
+## TESTING: GC: -- [0x2016390] | /obj/effect/decal/cleanable/blood/gibs was unable to be GC'd --
+## TESTING: GC: -- [0x2016393] | /obj/effect/decal/cleanable/blood/gibs was unable to be GC'd --
+## TESTING: GC: -- [0x20164c0] | /obj/effect/decal/cleanable/blood/gibs was unable to be GC'd --
+## TESTING: GC: -- [0x20164c3] | /obj/effect/decal/cleanable/blood/gibs was unable to be GC'd --
+## TESTING: GC: -- [0x201651c] | /obj/effect/decal/cleanable/blood/gibs was unable to be GC'd --
+## TESTING: GC: -- [0x20165d6] | /obj/effect/decal/cleanable/blood/gibs was unable to be GC'd --
+## TESTING: GC: -- [0x2016611] | /obj/effect/decal/cleanable/blood/gibs was unable to be GC'd --
+## TESTING: GC: -- [0x2016642] | /obj/effect/decal/cleanable/blood/gibs was unable to be GC'd --
+## TESTING: GC: -- [0x2016643] | /obj/effect/decal/cleanable/blood/gibs was unable to be GC'd --
+## TESTING: GC: -- [0x201667b] | /obj/effect/decal/cleanable/blood/gibs was unable to be GC'd --
+## TESTING: GC: -- [0x20168ac] | /obj/effect/decal/cleanable/blood/gibs was unable to be GC'd --
+## TESTING: GC: -- [0x20168e7] | /obj/effect/decal/cleanable/blood/gibs was unable to be GC'd --
+## TESTING: GC: -- [0x2016922] | /obj/effect/decal/cleanable/blood/gibs was unable to be GC'd --
+## TESTING: GC: -- [0x2016a5b] | /obj/effect/decal/cleanable/blood/gibs was unable to be GC'd --
+## TESTING: GC: -- [0x2016abd] | /obj/effect/decal/cleanable/blood/gibs was unable to be GC'd --
+## TESTING: GC: -- [0x2016b4f] | /obj/effect/decal/cleanable/blood/gibs was unable to be GC'd --
+## TESTING: GC: -- [0x2016ba6] | /obj/effect/decal/cleanable/blood/gibs was unable to be GC'd --
+## TESTING: GC: -- [0x2016bd4] | /obj/effect/decal/cleanable/blood/gibs was unable to be GC'd --
+## TESTING: GC: -- [0x2016be9] | /obj/effect/decal/cleanable/blood/gibs was unable to be GC'd --
+## TESTING: GC: -- [0x2033997] | /obj/machinery/atmospherics/pipe/simple/hidden/scrubbers was unable to be GC'd --
+## TESTING: GC: -- [0x203345c] | /obj/machinery/atmospherics/pipe/simple/hidden/supply was unable to be GC'd --
+## TESTING: GC: -- [0x20336fc] | /obj/machinery/atmospherics/pipe/simple/hidden/scrubbers was unable to be GC'd --
+## TESTING: GC: -- [0x20336cd] | /obj/machinery/atmospherics/pipe/simple/hidden/supply was unable to be GC'd --
+## TESTING: GC: -- [0x2033933] | /obj/machinery/atmospherics/pipe/simple/hidden/scrubbers was unable to be GC'd --
+## TESTING: GC: -- [0x203391e] | /obj/machinery/atmospherics/pipe/simple/hidden/supply was unable to be GC'd --
+## TESTING: GC: -- [0x2033993] | /obj/machinery/atmospherics/pipe/simple/hidden/red was unable to be GC'd --
+## TESTING: GC: -- [0x20339eb] | /obj/machinery/atmospherics/pipe/simple/hidden/red was unable to be GC'd --
+## TESTING: GC: -- [0x2033c5f] | /obj/machinery/atmospherics/pipe/simple/hidden/red was unable to be GC'd --
+## TESTING: GC: -- [0x2033c78] | /obj/machinery/atmospherics/pipe/simple/hidden/red was unable to be GC'd --
+## TESTING: GC: -- [0x2033cb2] | /obj/machinery/atmospherics/pipe/simple/hidden/supply was unable to be GC'd --
+## TESTING: GC: -- [0x2033cb1] | /obj/machinery/atmospherics/pipe/simple/hidden/scrubbers was unable to be GC'd --
+## TESTING: GC: -- [0x2033ca6] | /obj/machinery/atmospherics/pipe/simple/hidden/supply was unable to be GC'd --
+## TESTING: GC: -- [0x2033ca2] | /obj/machinery/atmospherics/pipe/simple/hidden/scrubbers was unable to be GC'd --
+## TESTING: GC: -- [0x2033c22] | /obj/machinery/atmospherics/pipe/simple/hidden/supply was unable to be GC'd --
+## TESTING: GC: -- [0x2033c96] | /obj/machinery/atmospherics/pipe/simple/hidden/scrubbers was unable to be GC'd --
+## TESTING: GC: -- [0x2033d04] | /obj/machinery/atmospherics/pipe/simple/hidden/supply was unable to be GC'd --
+## TESTING: GC: -- [0x2033d05] | /obj/machinery/atmospherics/pipe/simple/hidden/scrubbers was unable to be GC'd --
+## TESTING: GC: -- [0x2033d0b] | /obj/machinery/atmospherics/pipe/simple/hidden/supply was unable to be GC'd --
+## TESTING: GC: -- [0x2033d0c] | /obj/machinery/atmospherics/pipe/simple/hidden/scrubbers was unable to be GC'd --
+## TESTING: GC: -- [0x2033d16] | /obj/machinery/atmospherics/pipe/simple/hidden/supply was unable to be GC'd --
+## TESTING: GC: -- [0x2033d17] | /obj/machinery/atmospherics/pipe/simple/hidden/scrubbers was unable to be GC'd --
+## TESTING: GC: -- [0x2033d45] | /obj/machinery/atmospherics/pipe/simple/hidden/supply was unable to be GC'd --
+## TESTING: GC: -- [0x2033d46] | /obj/machinery/atmospherics/pipe/simple/hidden/scrubbers was unable to be GC'd --
+## TESTING: GC: -- [0x2033d4c] | /obj/machinery/atmospherics/pipe/simple/hidden/supply was unable to be GC'd --
+## TESTING: GC: -- [0x2033d4d] | /obj/machinery/atmospherics/pipe/simple/hidden/scrubbers was unable to be GC'd --
+## TESTING: GC: -- [0x2033d57] | /obj/machinery/atmospherics/pipe/simple/hidden/supply was unable to be GC'd --
+## TESTING: GC: -- [0x2033d58] | /obj/machinery/atmospherics/pipe/simple/hidden/scrubbers was unable to be GC'd --
+## TESTING: GC: -- [0x2033de1] | /obj/machinery/atmospherics/pipe/simple/hidden/supply was unable to be GC'd --
+## TESTING: GC: -- [0x2033de2] | /obj/machinery/atmospherics/pipe/simple/hidden/scrubbers was unable to be GC'd --
+## TESTING: GC: -- [0x2033dec] | /obj/machinery/atmospherics/pipe/simple/hidden/supply was unable to be GC'd --
+## TESTING: GC: -- [0x2033ded] | /obj/machinery/atmospherics/pipe/simple/hidden/scrubbers was unable to be GC'd --
+## TESTING: GC: -- [0x2033df4] | /obj/machinery/atmospherics/pipe/simple/hidden/supply was unable to be GC'd --
+## TESTING: GC: -- [0x2033df5] | /obj/machinery/atmospherics/pipe/simple/hidden/scrubbers was unable to be GC'd --
+## TESTING: GC: -- [0x2033e10] | /obj/machinery/atmospherics/pipe/simple/hidden was unable to be GC'd --
+## TESTING: GC: -- [0x2033e11] | /obj/machinery/atmospherics/pipe/simple/hidden was unable to be GC'd --
+## TESTING: GC: -- [0x2033e24] | /obj/machinery/atmospherics/pipe/simple/hidden was unable to be GC'd --
+## TESTING: GC: -- [0x2033e23] | /obj/machinery/atmospherics/pipe/simple/hidden was unable to be GC'd --
+## TESTING: GC: -- [0x2033e43] | /obj/machinery/atmospherics/pipe/simple/hidden/red was unable to be GC'd --
+## TESTING: GC: -- [0x2033e57] | /obj/machinery/atmospherics/pipe/simple/hidden/red was unable to be GC'd --
+## TESTING: GC: -- [0x2033e98] | /obj/machinery/atmospherics/pipe/simple/hidden/supply was unable to be GC'd --
+## TESTING: GC: -- [0x2033e99] | /obj/machinery/atmospherics/pipe/simple/hidden/scrubbers was unable to be GC'd --
+## TESTING: GC: -- [0x2033ea3] | /obj/machinery/atmospherics/pipe/simple/hidden/supply was unable to be GC'd --
+## TESTING: GC: -- [0x2033ea4] | /obj/machinery/atmospherics/pipe/simple/hidden/scrubbers was unable to be GC'd --
+## TESTING: GC: -- [0x2033eab] | /obj/machinery/atmospherics/pipe/simple/hidden/supply was unable to be GC'd --
+## TESTING: GC: -- [0x2033eac] | /obj/machinery/atmospherics/pipe/simple/hidden/scrubbers was unable to be GC'd --
+## TESTING: GC: -- [0x2033eed] | /obj/machinery/atmospherics/pipe/simple/hidden was unable to be GC'd --
+## TESTING: GC: -- [0x2033eec] | /obj/machinery/atmospherics/pipe/simple/hidden was unable to be GC'd --
+## TESTING: GC: -- [0x2033fb8] | /obj/machinery/atmospherics/pipe/simple/hidden/scrubbers was unable to be GC'd --
+## TESTING: GC: -- [0x2033fc7] | /obj/machinery/atmospherics/pipe/simple/hidden/supply was unable to be GC'd --
+## TESTING: GC: -- [0x2033f7c] | /obj/machinery/atmospherics/pipe/simple/hidden/scrubbers was unable to be GC'd --
+## TESTING: GC: -- [0x2033f91] | /obj/machinery/atmospherics/pipe/simple/hidden/supply was unable to be GC'd --
+## TESTING: GC: -- [0x2033fa5] | /obj/machinery/atmospherics/pipe/simple/hidden/scrubbers was unable to be GC'd --
+## TESTING: GC: -- [0x2033fa3] | /obj/machinery/atmospherics/pipe/simple/hidden/supply was unable to be GC'd --
+## TESTING: GC: -- [0x2034001] | /obj/machinery/atmospherics/pipe/simple/visible/yellow was unable to be GC'd --
+## TESTING: GC: -- [0x2033ffa] | /obj/machinery/atmospherics/pipe/simple/visible/yellow was unable to be GC'd --
+## TESTING: GC: -- [0x2033fcc] | /obj/machinery/atmospherics/pipe/simple/hidden/supply was unable to be GC'd --
+## TESTING: GC: -- [0x2033fbd] | /obj/machinery/atmospherics/pipe/simple/hidden/scrubbers was unable to be GC'd --
+## TESTING: GC: -- [0x2033fc2] | /obj/machinery/atmospherics/pipe/simple/hidden/supply was unable to be GC'd --
+## TESTING: GC: -- [0x2034022] | /obj/machinery/atmospherics/pipe/simple/hidden/scrubbers was unable to be GC'd --
+## TESTING: GC: -- [0x203403a] | /obj/machinery/atmospherics/pipe/simple/hidden/supply was unable to be GC'd --
+## TESTING: GC: -- [0x203403b] | /obj/machinery/atmospherics/pipe/simple/hidden/scrubbers was unable to be GC'd --
+## TESTING: GC: -- [0x2034042] | /obj/machinery/atmospherics/pipe/simple/hidden/supply was unable to be GC'd --
+## TESTING: GC: -- [0x2034043] | /obj/machinery/atmospherics/pipe/simple/hidden/scrubbers was unable to be GC'd --
+## TESTING: GC: -- [0x2034082] | /obj/machinery/atmospherics/pipe/simple/hidden/supply was unable to be GC'd --
+## TESTING: GC: -- [0x2034083] | /obj/machinery/atmospherics/pipe/simple/hidden/scrubbers was unable to be GC'd --
+## TESTING: GC: -- [0x203408d] | /obj/machinery/atmospherics/pipe/simple/hidden/supply was unable to be GC'd --
+## TESTING: GC: -- [0x203408e] | /obj/machinery/atmospherics/pipe/simple/hidden/scrubbers was unable to be GC'd --
+## TESTING: GC: -- [0x2034095] | /obj/machinery/atmospherics/pipe/simple/hidden/supply was unable to be GC'd --
+## TESTING: GC: -- [0x2034096] | /obj/machinery/atmospherics/pipe/simple/hidden/scrubbers was unable to be GC'd --
+## TESTING: GC: -- [0x203410e] | /obj/machinery/atmospherics/pipe/simple/hidden/scrubbers was unable to be GC'd --
+## TESTING: GC: -- [0x203410f] | /obj/machinery/atmospherics/pipe/simple/hidden/supply was unable to be GC'd --
+## TESTING: GC: -- [0x2034118] | /obj/machinery/atmospherics/pipe/simple/hidden/scrubbers was unable to be GC'd --
+## TESTING: GC: -- [0x2034119] | /obj/machinery/atmospherics/pipe/simple/hidden/supply was unable to be GC'd --
+## TESTING: GC: -- [0x2034121] | /obj/machinery/atmospherics/pipe/simple/hidden/scrubbers was unable to be GC'd --
+## TESTING: GC: -- [0x2034122] | /obj/machinery/atmospherics/pipe/simple/hidden/supply was unable to be GC'd --
+## TESTING: GC: -- [0x203416a] | /obj/machinery/atmospherics/pipe/simple/hidden/red was unable to be GC'd --
+## TESTING: GC: -- [0x20341ee] | /obj/machinery/atmospherics/pipe/simple/hidden/red was unable to be GC'd --
+## TESTING: GC: -- [0x2105eba2] | /datum/radio_frequency was unable to be GC'd --
+## TESTING: GC: -- [0x20378d8] | /obj/item/tank/oxygen was unable to be GC'd --
+## TESTING: GC: -- [0x3000d5c] | /mob/living/carbon/superior_animal/xenomorph/spitter was unable to be GC'd --
+## TESTING: GC: -- [0x3001166] | /mob/living/simple_animal/hostile/hivebot/range was unable to be GC'd --
+## TESTING: GC: -- [0x2086c2c] | /obj/machinery/atmospherics/pipe/simple/visible/yellow was unable to be GC'd --
+## TESTING: GC: -- [0x2086c43] | /obj/machinery/atmospherics/pipe/simple/visible/yellow was unable to be GC'd --
+## TESTING: GC: -- [0x2086c58] | /obj/machinery/atmospherics/pipe/simple/visible/yellow was unable to be GC'd --
+## TESTING: GC: -- [0x2086c69] | /obj/machinery/atmospherics/pipe/simple/visible/yellow was unable to be GC'd --
+## TESTING: GC: -- [0x2086c7d] | /obj/machinery/atmospherics/pipe/simple/visible/yellow was unable to be GC'd --
+## TESTING: GC: -- [0x2086c8f] | /obj/machinery/atmospherics/pipe/simple/visible/yellow was unable to be GC'd --
+## TESTING: GC: -- [0x2086ca4] | /obj/machinery/atmospherics/pipe/simple/visible/yellow was unable to be GC'd --
+## TESTING: GC: -- [0x2086cb4] | /obj/machinery/atmospherics/pipe/simple/visible/yellow was unable to be GC'd --
+## TESTING: GC: -- [0x2086cc5] | /obj/machinery/atmospherics/pipe/simple/visible/yellow was unable to be GC'd --
+## TESTING: GC: -- [0x2086cdc] | /obj/machinery/atmospherics/pipe/simple/visible/yellow was unable to be GC'd --
+## TESTING: GC: -- [0x2086ced] | /obj/machinery/atmospherics/pipe/simple/visible/yellow was unable to be GC'd --
+## TESTING: GC: -- [0x2086c23] | /obj/machinery/atmospherics/pipe/simple/visible/yellow was unable to be GC'd --
+## TESTING: GC: -- [0x2086c32] | /obj/machinery/atmospherics/pipe/simple/visible/yellow was unable to be GC'd --
+## TESTING: GC: -- [0x2086c48] | /obj/machinery/atmospherics/pipe/simple/visible/yellow was unable to be GC'd --
+## TESTING: GC: -- [0x2086c5d] | /obj/machinery/atmospherics/pipe/simple/visible/yellow was unable to be GC'd --
+## TESTING: GC: -- [0x2086c6d] | /obj/machinery/atmospherics/pipe/simple/visible/yellow was unable to be GC'd --
+## TESTING: GC: -- [0x2086c82] | /obj/machinery/atmospherics/pipe/simple/visible/yellow was unable to be GC'd --
+## TESTING: GC: -- [0x2086c93] | /obj/machinery/atmospherics/pipe/simple/visible/yellow was unable to be GC'd --
+## TESTING: GC: -- [0x2086ca8] | /obj/machinery/atmospherics/pipe/simple/visible/yellow was unable to be GC'd --
+## TESTING: GC: -- [0x2086cb9] | /obj/machinery/atmospherics/pipe/simple/visible/yellow was unable to be GC'd --
+## TESTING: GC: -- [0x2086ccc] | /obj/machinery/atmospherics/pipe/simple/visible/yellow was unable to be GC'd --
+## TESTING: GC: -- [0x2086ce0] | /obj/machinery/atmospherics/pipe/simple/visible/yellow was unable to be GC'd --
+## TESTING: GC: -- [0x300112f] | /mob/living/simple_animal/hostile/hivebot/range was unable to be GC'd --
+## TESTING: GC: -- [0x3000bba] | /mob/living/carbon/superior_animal/roach/support was unable to be GC'd --
+## TESTING: GC: -- [0x203394f] | /obj/effect/portal/jtb was unable to be GC'd --
+## TESTING: GC: -- [0x3000bce] | /mob/living/carbon/superior_animal/roach was unable to be GC'd --
+## TESTING: GC: -- [0x3001168] | /mob/living/simple_animal/hostile/retaliate/malf_drone was unable to be GC'd --
+## TESTING: GC: -- [0x3001162] | /mob/living/simple_animal/hostile/hivebot/range was unable to be GC'd --
+## TESTING: GC: -- [0x3001139] | /mob/living/simple_animal/hostile/retaliate/malf_drone was unable to be GC'd --
+## TESTING: GC: -- [0x3001141] | /mob/living/simple_animal/hostile/retaliate/malf_drone was unable to be GC'd --
+## TESTING: GC: -- [0x3001477] | /mob/living/carbon/superior_animal/psi_monster was unable to be GC'd --
+## TESTING: GC: -- [0x3000be5] | /mob/living/carbon/superior_animal/roach was unable to be GC'd --
+## TESTING: GC: -- [0x3001169] | /mob/living/simple_animal/hostile/hivebot/range was unable to be GC'd --
+## TESTING: GC: -- [0x3001163] | /mob/living/simple_animal/hostile/retaliate/malf_drone was unable to be GC'd --
+## TESTING: GC: -- [0x3001161] | /mob/living/simple_animal/hostile/hivebot was unable to be GC'd --
+## TESTING: GC: -- [0x30006fe] | /mob/living/carbon/superior_animal/roach was unable to be GC'd --
+## TESTING: GC: -- [0x300116c] | /mob/living/simple_animal/hostile/hivebot/range was unable to be GC'd --
+## TESTING: GC: -- [0x300116b] | /mob/living/simple_animal/hostile/hivebot was unable to be GC'd --
+## TESTING: GC: -- [0x30005ca] | /mob/living/carbon/superior_animal/roach/hunter was unable to be GC'd --
+## TESTING: GC: -- [0x3001164] | /mob/living/simple_animal/hostile/hivebot was unable to be GC'd --
+## TESTING: GC: -- [0x3001160] | /mob/living/simple_animal/hostile/hivebot was unable to be GC'd --
+## TESTING: GC: -- [0x3000f30] | /mob/living/carbon/superior_animal/roach/nanite was unable to be GC'd --
+## TESTING: GC: -- [0x3001179] | /mob/living/carbon/superior_animal/psi_monster/memory was unable to be GC'd --
+## TESTING: GC: -- [0x300116f] | /mob/living/simple_animal/hostile/hivebot was unable to be GC'd --
+## TESTING: GC: -- [0x3000bd1] | /mob/living/carbon/superior_animal/roach/hunter was unable to be GC'd --
+## TESTING: GC: -- [0x3000b88] | /mob/living/carbon/superior_animal/roach/tank was unable to be GC'd --
+## TESTING: GC: -- [0x300115e] | /mob/living/carbon/superior_animal/giant_spider was unable to be GC'd --
+## TESTING: GC: -- [0x300120b] | /mob/living/carbon/superior_animal/giant_spider/hunter was unable to be GC'd --
+## TESTING: GC: -- [0x3000ac9] | /mob/living/carbon/superior_animal/roach was unable to be GC'd --
+## TESTING: GC: -- [0x3000bbc] | /mob/living/carbon/superior_animal/roach/hunter was unable to be GC'd --
+## TESTING: GC: -- [0x210ec981] | /datum/radial_menu was unable to be GC'd --
+## TESTING: GC: -- [0x21046b23] | /datum/radial_menu was unable to be GC'd --
+## TESTING: GC: -- [0x3001165] | /mob/living/simple_animal/hostile/hivebot/range was unable to be GC'd --
+## TESTING: GC: -- [0x210df5fa] | /datum/radial_menu was unable to be GC'd --
+## TESTING: GC: -- [0x3000b97] | /mob/living/carbon/superior_animal/roach/tank was unable to be GC'd --
+## TESTING: GC: -- [0x3000aaf] | /mob/living/carbon/superior_animal/vox/armord was unable to be GC'd --
+## TESTING: GC: -- [0x3000bbb] | /mob/living/carbon/superior_animal/roach/toxic was unable to be GC'd --
+## TESTING: GC: -- [0x2018feb] | /obj/machinery/filler_object was unable to be GC'd --
+## TESTING: GC: -- [0x3000b83] | /mob/living/carbon/superior_animal/roach/tank was unable to be GC'd --
+## TESTING: GC: -- [0x30005fe] | /mob/living/carbon/superior_animal/roach/nanite was unable to be GC'd --
+## TESTING: GC: -- [0x300009a] | /mob/living/simple_animal/hostile/retaliate/malf_drone was unable to be GC'd --
+## TESTING: GC: -- [0x20192f6] | /obj/machinery/filler_object was unable to be GC'd --
+## TESTING: GC: -- [0x30000a1] | /mob/living/simple_animal/hostile/retaliate/malf_drone was unable to be GC'd --
+[22:05:50] Runtime in door.dm,466: Cannot execute null.set opacity().
+  proc name: open (/obj/machinery/door/proc/open)
+  usr: Forgotten Engineer () (/mob/living/simple_animal/hostile/republicon)
+  usr.loc: The floor (12,188,9) (/turf/simulated/floor/tiled/dark)
+  src: Airlock (/obj/machinery/door/airlock/multi_tile/metal)
+  src.loc: the floor (13,187,9) (/turf/simulated/floor/tiled/dark/monofloor)
+  call stack:
+  Airlock (/obj/machinery/door/airlock/multi_tile/metal): open(0)
+  Airlock (/obj/machinery/door/airlock/multi_tile/metal): open(0)
+  Airlock (/obj/machinery/door/airlock/multi_tile/metal): open(null)
+  Airlock (/obj/machinery/door/airlock/multi_tile/metal): bumpopen(Forgotten Engineer (/mob/living/simple_animal/hostile/republicon))
+  Airlock (/obj/machinery/door/airlock/multi_tile/metal): bumpopen(Forgotten Engineer (/mob/living/simple_animal/hostile/republicon))
+  Airlock (/obj/machinery/door/airlock/multi_tile/metal): Bumped(Forgotten Engineer (/mob/living/simple_animal/hostile/republicon))
+  Airlock (/obj/machinery/door/airlock/multi_tile/metal): Bumped(Forgotten Engineer (/mob/living/simple_animal/hostile/republicon))
+  Forgotten Engineer (/mob/living/simple_animal/hostile/republicon): Bump(Airlock (/obj/machinery/door/airlock/multi_tile/metal), 1)
+## TESTING: GC: -- [0x3000099] | /mob/living/simple_animal/hostile/retaliate/malf_drone was unable to be GC'd --
+## TESTING: GC: -- [0x300004e] | /mob/living/carbon/superior_animal/roach/nanite was unable to be GC'd --
+## TESTING: GC: -- [0x30006f9] | /mob/living/carbon/superior_animal/roach/toxic was unable to be GC'd --
+## TESTING: GC: -- [0x3000ae7] | /mob/living/carbon/superior_animal/roach/glowing was unable to be GC'd --
+## TESTING: GC: -- [0x3000012] | /mob/living/carbon/superior_animal/giant_spider/nurse was unable to be GC'd --
+## TESTING: GC: -- [0x30011e7] | /mob/living/carbon/superior_animal/giant_spider/hunter was unable to be GC'd --
+## TESTING: GC: -- [0x30006f5] | /mob/living/carbon/superior_animal/roach/tank was unable to be GC'd --
+## TESTING: GC: -- [0x3000afc] | /mob/living/carbon/superior_animal/roach/toxic was unable to be GC'd --
+## TESTING: GC: -- [0x3000b79] | /mob/living/carbon/superior_animal/roach/nanite was unable to be GC'd --
+## TESTING: GC: -- [0x3000612] | /mob/living/carbon/superior_animal/roach was unable to be GC'd --
+## TESTING: GC: -- [0x30006fa] | /mob/living/carbon/superior_animal/roach/toxic was unable to be GC'd --
+## TESTING: GC: -- [0x30005de] | /mob/living/carbon/superior_animal/roach was unable to be GC'd --
+## TESTING: GC: -- [0x30007c5] | /mob/living/carbon/superior_animal/giant_spider/nurse/queen was unable to be GC'd --
+## TESTING: GC: -- [0x30011db] | /mob/living/carbon/superior_animal/roach/hunter was unable to be GC'd --
+## TESTING: GC: -- [0x30005d9] | /mob/living/carbon/superior_animal/roach was unable to be GC'd --
+## TESTING: GC: -- [0x300060d] | /mob/living/carbon/superior_animal/roach was unable to be GC'd --
+## TESTING: GC: -- [0x30005da] | /mob/living/carbon/superior_animal/roach was unable to be GC'd --
+[22:25:44] Runtime in door.dm,466: Cannot execute null.set opacity().
+  proc name: open (/obj/machinery/door/proc/open)
+  usr: Forgotten Engineer () (/mob/living/simple_animal/hostile/republicon)
+  usr.loc: The plating (31,183,9) (/turf/simulated/floor/tiled/dark)
+  src: Airlock (/obj/machinery/door/airlock/multi_tile/metal)
+  src.loc: the underplating (30,183,9) (/turf/simulated/floor/tiled/dark/monofloor)
+  call stack:
+  Airlock (/obj/machinery/door/airlock/multi_tile/metal): open(0)
+  Airlock (/obj/machinery/door/airlock/multi_tile/metal): open(0)
+  Airlock (/obj/machinery/door/airlock/multi_tile/metal): open(null)
+  Airlock (/obj/machinery/door/airlock/multi_tile/metal): bumpopen(Forgotten Engineer (/mob/living/simple_animal/hostile/republicon))
+  Airlock (/obj/machinery/door/airlock/multi_tile/metal): bumpopen(Forgotten Engineer (/mob/living/simple_animal/hostile/republicon))
+  Airlock (/obj/machinery/door/airlock/multi_tile/metal): Bumped(Forgotten Engineer (/mob/living/simple_animal/hostile/republicon))
+  Airlock (/obj/machinery/door/airlock/multi_tile/metal): Bumped(Forgotten Engineer (/mob/living/simple_animal/hostile/republicon))
+  Forgotten Engineer (/mob/living/simple_animal/hostile/republicon): Bump(Airlock (/obj/machinery/door/airlock/multi_tile/metal), 1)
+## TESTING: GC: -- [0x3000768] | /mob/living/carbon/superior_animal/roach was unable to be GC'd --
+## TESTING: GC: -- [0x300057b] | /mob/living/carbon/superior_animal/roach/hunter was unable to be GC'd --
+## TESTING: GC: -- [0x3000558] | /mob/living/carbon/superior_animal/giant_spider/hunter was unable to be GC'd --
+## TESTING: GC: -- [0x3000610] | /mob/living/carbon/superior_animal/roach/toxic was unable to be GC'd --
+## TESTING: GC: -- [0x3000691] | /mob/living/carbon/superior_animal/roach was unable to be GC'd --
+## TESTING: GC: -- [0x3000556] | /mob/living/carbon/superior_animal/giant_spider was unable to be GC'd --
+## TESTING: GC: -- [0x300060d] | /mob/living/carbon/superior_animal/roach/roachling was unable to be GC'd --
+## TESTING: GC: -- [0x30005ea] | /mob/living/carbon/superior_animal/roach was unable to be GC'd --
+## TESTING: GC: -- [0x3000590] | /mob/living/carbon/superior_animal/roach/nanite was unable to be GC'd --
+## TESTING: GC: -- [0x3000559] | /mob/living/carbon/superior_animal/giant_spider/hunter was unable to be GC'd --
+## TESTING: GC: -- [0x3000557] | /mob/living/carbon/superior_animal/giant_spider/nurse/orb_weaver was unable to be GC'd --
+## TESTING: GC: -- [0x3000fe8] | /mob/living/carbon/superior_animal/roach was unable to be GC'd --
+## TESTING: GC: -- [0x200d6e9] | /obj/structure/grille was unable to be GC'd --
+## TESTING: GC: -- [0x30007f1] | /mob/living/carbon/superior_animal/giant_spider/hunter was unable to be GC'd --
+## TESTING: GC: -- [0x3001211] | /mob/living/carbon/superior_animal/giant_spider was unable to be GC'd --
+## TESTING: GC: -- [0x200d6e7] | /obj/structure/grille was unable to be GC'd --
+## TESTING: GC: -- [0x30006f7] | /mob/living/carbon/superior_animal/roach/tank was unable to be GC'd --
+[22:57:09] Runtime in portals.dm,65: Cannot read null.icon_state
+  proc name: blend icon (/obj/effect/portal/proc/blend_icon)
+  src: the rift (/obj/effect/portal/wormhole/rift)
+  src.loc: the floor (22,178,9) (/turf/simulated/floor/tiled/dark)
+  call stack:
+  the rift (/obj/effect/portal/wormhole/rift): blend icon(null)
+  the rift (/obj/effect/portal/wormhole/rift): set target(null)
+  the rift (/obj/effect/portal/wormhole/rift): New(the floor (22,178,9) (/turf/simulated/floor/tiled/dark), 0, null)
+  the rift (/obj/effect/portal/wormhole/rift): New(the floor (22,178,9) (/turf/simulated/floor/tiled/dark), null, 1)
+  unknown event (/datum/event/bluespace_rift): start()
+  unknown event (/datum/event/bluespace_rift): Process()
+  Event Manager (/datum/controller/subsystem/event): fire(0)
+  Event Manager (/datum/controller/subsystem/event): ignite(0)
+  Master (/datum/controller/master): RunQueue()
+  Master (/datum/controller/master): Loop()
+  Master (/datum/controller/master): StartProcessing(0)
+## TESTING: GC: -- [0x300078c] | /mob/living/carbon/superior_animal/roach/hunter was unable to be GC'd --
+## TESTING: GC: -- [0x3001216] | /mob/living/carbon/superior_animal/roach was unable to be GC'd --
+## TESTING: GC: -- [0x30007f6] | /mob/living/carbon/superior_animal/termite_no_despawn/iron was unable to be GC'd --
+## TESTING: GC: -- [0x3000616] | /mob/living/carbon/superior_animal/giant_spider/nurse/cave_spider was unable to be GC'd --
+## TESTING: GC: -- [0x3000558] | /mob/living/carbon/superior_animal/roach/roachling was unable to be GC'd --
+## TESTING: GC: -- [0x3000615] | /mob/living/carbon/superior_animal/giant_spider/tarantula/pit was unable to be GC'd --
+## TESTING: GC: -- [0x3000610] | /mob/living/carbon/superior_animal/roach/toxic was unable to be GC'd --
+## TESTING: GC: -- [0x300077c] | /mob/living/carbon/superior_animal/roach/roachling was unable to be GC'd --
+## TESTING: GC: -- [0x300077b] | /mob/living/carbon/superior_animal/roach/hunter was unable to be GC'd --
+## TESTING: GC: -- [0x300084c] | /mob/living/carbon/superior_animal/giant_spider/nurse was unable to be GC'd --
+## TESTING: GC: -- [0x3000028] | /mob/living/carbon/superior_animal/roach/roachling was unable to be GC'd --
+## TESTING: GC: -- [0x30011ca] | /mob/living/carbon/superior_animal/roach was unable to be GC'd --
+## TESTING: GC: -- [0x30007c1] | /mob/living/carbon/superior_animal/giant_spider/hunter/shocker was unable to be GC'd --
+## TESTING: GC: -- [0x300078f] | /mob/living/carbon/superior_animal/roach was unable to be GC'd --
+## TESTING: GC: -- [0x2089735] | /obj/effect/spider/spiderling/near_grown was unable to be GC'd --
+## TESTING: GC: -- [0x3000643] | /mob/living/carbon/superior_animal/roach/roachling was unable to be GC'd --
+## TESTING: GC: -- [0x3000715] | /mob/living/carbon/superior_animal/termite_no_despawn/iron was unable to be GC'd --
+## TESTING: GC: -- [0x30006fa] | /mob/living/carbon/superior_animal/roach/roachling was unable to be GC'd --
+## TESTING: GC: -- [0x20023a6] | /obj/structure/table/rack/shelf was unable to be GC'd --
+## TESTING: GC: -- [0x20023a3] | /obj/structure/table/rack/shelf was unable to be GC'd --
+## TESTING: GC: -- [0x3000068] | /mob/living/carbon/superior_animal/roach was unable to be GC'd --
+## TESTING: GC: -- [0x30005d1] | /mob/living/carbon/superior_animal/giant_spider/hunter/pepper was unable to be GC'd --
+## TESTING: GC: -- [0x3001395] | /mob/living/carbon/superior_animal/giant_spider/nurse/midwife was unable to be GC'd --
+## TESTING: GC: -- [0x3000617] | /mob/living/carbon/superior_animal/giant_spider/nurse/midwife was unable to be GC'd --
+## TESTING: GC: -- [0x30007fa] | /mob/living/carbon/superior_animal/termite_no_despawn/iron was unable to be GC'd --
+## TESTING: GC: -- [0x3000022] | /mob/living/carbon/superior_animal/giant_spider/nurse was unable to be GC'd --
+## TESTING: GC: -- [0x3000713] | /mob/living/carbon/superior_animal/termite_no_despawn/plasma was unable to be GC'd --
+## TESTING: GC: -- [0x3000833] | /mob/living/carbon/superior_animal/giant_spider/nurse/carrier was unable to be GC'd --
+## TESTING: GC: -- [0x30005ee] | /mob/living/carbon/superior_animal/giant_spider/nurse was unable to be GC'd --
+[00:08:59] Runtime in unsorted.dm,1381: addtimer called with a callback assigned to a qdeleted object. In the future such timers will not be supported and may refuse to run or run with a 0 wait
+  proc name: stack trace (/proc/stack_trace)
+  src: null
+  call stack:
+  stack trace("addtimer called with a callbac...")
+   addtimer(/datum/callback (/datum/callback), 1, 0, null, "code/modules/mob/living/carbon...", 83)
+  the ameridian runtling (/mob/living/carbon/superior_animal/ameridian_golem/runtling): bullet act(the sharp stone (/obj/item/projectile/bullet/rock), "torso")
+  the sharp stone (/obj/item/projectile/bullet/rock): attack mob(the ameridian runtling (/mob/living/carbon/superior_animal/ameridian_golem/runtling), -1, 0)
+  the sharp stone (/obj/item/projectile/bullet/rock): attack mob(the ameridian runtling (/mob/living/carbon/superior_animal/ameridian_golem/runtling), -1, null)
+  the sharp stone (/obj/item/projectile/bullet/rock): Bump(the ameridian runtling (/mob/living/carbon/superior_animal/ameridian_golem/runtling), 1)
+  the grass (189,120,9) (/turf/simulated/floor/asteroid/grass): Enter(the sharp stone (/obj/item/projectile/bullet/rock), the grass (190,119,9) (/turf/simulated/floor/asteroid/grass))
+  the sharp stone (/obj/item/projectile/bullet/rock): Move(the grass (189,120,9) (/turf/simulated/floor/asteroid/grass), 0, 0, 0, 0)
+  the sharp stone (/obj/item/projectile/bullet/rock): Move(the grass (189,120,9) (/turf/simulated/floor/asteroid/grass), 0, 0, 0, 0)
+  the sharp stone (/obj/item/projectile/bullet/rock): Move(the grass (189,120,9) (/turf/simulated/floor/asteroid/grass))
+  the sharp stone (/obj/item/projectile/bullet/rock): Process()
+[00:09:00] Runtime in unsorted.dm,1381: addtimer called with a callback assigned to a qdeleted object. In the future such timers will not be supported and may refuse to run or run with a 0 wait
+  proc name: stack trace (/proc/stack_trace)
+  src: null
+  call stack:
+  stack trace("addtimer called with a callbac...")
+   addtimer(/datum/callback (/datum/callback), 1, 0, null, "code/modules/mob/living/carbon...", 83)
+  the ameridian golem (/mob/living/carbon/superior_animal/ameridian_golem): bullet act(the sharp stone (/obj/item/projectile/bullet/rock), "l_arm")
+  the sharp stone (/obj/item/projectile/bullet/rock): attack mob(the ameridian golem (/mob/living/carbon/superior_animal/ameridian_golem), 4, 0)
+  the sharp stone (/obj/item/projectile/bullet/rock): attack mob(the ameridian golem (/mob/living/carbon/superior_animal/ameridian_golem), 4, null)
+  the sharp stone (/obj/item/projectile/bullet/rock): Bump(the ameridian golem (/mob/living/carbon/superior_animal/ameridian_golem), 1)
+  the grass (67,170,9) (/turf/simulated/floor/asteroid/grass): Enter(the sharp stone (/obj/item/projectile/bullet/rock), the grass (66,171,9) (/turf/simulated/floor/asteroid/grass))
+  the sharp stone (/obj/item/projectile/bullet/rock): Move(the grass (67,170,9) (/turf/simulated/floor/asteroid/grass), 0, 0, 0, 0)
+  the sharp stone (/obj/item/projectile/bullet/rock): Move(the grass (67,170,9) (/turf/simulated/floor/asteroid/grass), 0, 0, 0, 0)
+  the sharp stone (/obj/item/projectile/bullet/rock): Move(the grass (67,170,9) (/turf/simulated/floor/asteroid/grass))
+  the sharp stone (/obj/item/projectile/bullet/rock): Process()
+[00:09:44] Runtime in unsorted.dm,1381: addtimer called with a callback assigned to a qdeleted object. In the future such timers will not be supported and may refuse to run or run with a 0 wait
+  proc name: stack trace (/proc/stack_trace)
+  src: null
+  call stack:
+  stack trace("addtimer called with a callbac...")
+   addtimer(/datum/callback (/datum/callback), 1, 0, null, "code/modules/mob/living/carbon...", 83)
+  the ameridian shooter (/mob/living/carbon/superior_animal/ameridian_golem/ameridian_shooter): bullet act(the coated rock fragements (/obj/item/projectile/bullet/spear/toxic), "groin")
+  the coated rock fragements (/obj/item/projectile/bullet/spear/toxic): attack mob(the ameridian shooter (/mob/living/carbon/superior_animal/ameridian_golem/ameridian_shooter), 4, 0)
+  the coated rock fragements (/obj/item/projectile/bullet/spear/toxic): attack mob(the ameridian shooter (/mob/living/carbon/superior_animal/ameridian_golem/ameridian_shooter), 4, null)
+  the coated rock fragements (/obj/item/projectile/bullet/spear/toxic): Bump(the ameridian shooter (/mob/living/carbon/superior_animal/ameridian_golem/ameridian_shooter), 1)
+  the grass (70,166,9) (/turf/simulated/floor/asteroid/grass): Enter(the coated rock fragements (/obj/item/projectile/bullet/spear/toxic), the grass (69,166,9) (/turf/simulated/floor/asteroid/grass))
+  the coated rock fragements (/obj/item/projectile/bullet/spear/toxic): Move(the grass (70,166,9) (/turf/simulated/floor/asteroid/grass), 0, 0, 0, 0)
+  the coated rock fragements (/obj/item/projectile/bullet/spear/toxic): Move(the grass (70,166,9) (/turf/simulated/floor/asteroid/grass), 0, 0, 0, 0)
+  the coated rock fragements (/obj/item/projectile/bullet/spear/toxic): Move(the grass (70,166,9) (/turf/simulated/floor/asteroid/grass))
+  the coated rock fragements (/obj/item/projectile/bullet/spear/toxic): Process()
+[00:10:16] Runtime in unsorted.dm,1381: addtimer called with a callback assigned to a qdeleted object. In the future such timers will not be supported and may refuse to run or run with a 0 wait
+  proc name: stack trace (/proc/stack_trace)
+  src: null
+  call stack:
+  stack trace("addtimer called with a callbac...")
+   addtimer(/datum/callback (/datum/callback), 1, 0, null, "code/modules/mob/living/carbon...", 83)
+  the ameridian runtling (/mob/living/carbon/superior_animal/ameridian_golem/runtling): bullet act(Laser (/obj/item/projectile/beam/drone), "l_arm")
+  Laser (/obj/item/projectile/beam/drone): attack mob(the ameridian runtling (/mob/living/carbon/superior_animal/ameridian_golem/runtling), -1, 0)
+  Laser (/obj/item/projectile/beam/drone): Bump(the ameridian runtling (/mob/living/carbon/superior_animal/ameridian_golem/runtling), 1)
+  the floor (59,131,9) (/turf/simulated/floor/tiled/derelict): Enter(Laser (/obj/item/projectile/beam/drone), the floor (58,131,9) (/turf/simulated/floor/tiled/derelict))
+  Laser (/obj/item/projectile/beam/drone): Move(the floor (59,131,9) (/turf/simulated/floor/tiled/derelict), 0, 0, 0, 0)
+  Laser (/obj/item/projectile/beam/drone): Move(the floor (59,131,9) (/turf/simulated/floor/tiled/derelict), 0, 0, 0, 0)
+  Laser (/obj/item/projectile/beam/drone): Move(the floor (59,131,9) (/turf/simulated/floor/tiled/derelict))
+  Laser (/obj/item/projectile/beam/drone): Process()
+[00:10:29] Runtime in unsorted.dm,1381: addtimer called with a callback assigned to a qdeleted object. In the future such timers will not be supported and may refuse to run or run with a 0 wait
+  proc name: stack trace (/proc/stack_trace)
+  src: null
+  call stack:
+  stack trace("addtimer called with a callbac...")
+   addtimer(/datum/callback (/datum/callback), 1, 0, null, "code/modules/mob/living/carbon...", 83)
+  the ameridian runtling (/mob/living/carbon/superior_animal/ameridian_golem/runtling): bullet act(the sharp stone (/obj/item/projectile/bullet/rock), "torso")
+  the sharp stone (/obj/item/projectile/bullet/rock): attack mob(the ameridian runtling (/mob/living/carbon/superior_animal/ameridian_golem/runtling), -1, 0)
+  the sharp stone (/obj/item/projectile/bullet/rock): attack mob(the ameridian runtling (/mob/living/carbon/superior_animal/ameridian_golem/runtling), -1, null)
+  the sharp stone (/obj/item/projectile/bullet/rock): Bump(the ameridian runtling (/mob/living/carbon/superior_animal/ameridian_golem/runtling), 1)
+  the grass (192,123,9) (/turf/simulated/floor/asteroid/grass): Enter(the sharp stone (/obj/item/projectile/bullet/rock), the grass (193,124,9) (/turf/simulated/floor/asteroid/grass))
+  the sharp stone (/obj/item/projectile/bullet/rock): Move(the grass (192,123,9) (/turf/simulated/floor/asteroid/grass), 0, 0, 0, 0)
+  the sharp stone (/obj/item/projectile/bullet/rock): Move(the grass (192,123,9) (/turf/simulated/floor/asteroid/grass), 0, 0, 0, 0)
+  the sharp stone (/obj/item/projectile/bullet/rock): Move(the grass (192,123,9) (/turf/simulated/floor/asteroid/grass))
+  the sharp stone (/obj/item/projectile/bullet/rock): Process()
+[00:12:14] Runtime in unsorted.dm,1381: addtimer called with a callback assigned to a qdeleted object. In the future such timers will not be supported and may refuse to run or run with a 0 wait
+  proc name: stack trace (/proc/stack_trace)
+  src: null
+  call stack:
+  stack trace("addtimer called with a callbac...")
+   addtimer(/datum/callback (/datum/callback), 1, 0, null, "code/modules/mob/living/carbon...", 83)
+  the ameridian shooter (/mob/living/carbon/superior_animal/ameridian_golem/ameridian_shooter): bullet act(the rock fragements (/obj/item/projectile/bullet/spear), "torso")
+  the rock fragements (/obj/item/projectile/bullet/spear): attack mob(the ameridian shooter (/mob/living/carbon/superior_animal/ameridian_golem/ameridian_shooter), 4, 0)
+  the rock fragements (/obj/item/projectile/bullet/spear): attack mob(the ameridian shooter (/mob/living/carbon/superior_animal/ameridian_golem/ameridian_shooter), 4, null)
+  the rock fragements (/obj/item/projectile/bullet/spear): Bump(the ameridian shooter (/mob/living/carbon/superior_animal/ameridian_golem/ameridian_shooter), 1)
+  the dirt (135,17,9) (/turf/simulated/floor/asteroid/dirt): Enter(the rock fragements (/obj/item/projectile/bullet/spear), the dirt (135,16,9) (/turf/simulated/floor/asteroid/dirt))
+  the rock fragements (/obj/item/projectile/bullet/spear): Move(the dirt (135,17,9) (/turf/simulated/floor/asteroid/dirt), 0, 0, 0, 0)
+  the rock fragements (/obj/item/projectile/bullet/spear): Move(the dirt (135,17,9) (/turf/simulated/floor/asteroid/dirt), 0, 0, 0, 0)
+  the rock fragements (/obj/item/projectile/bullet/spear): Move(the dirt (135,17,9) (/turf/simulated/floor/asteroid/dirt))
+  the rock fragements (/obj/item/projectile/bullet/spear): Process()
+## TESTING: GC: -- [0x2089965] | /obj/random/structures/ameridian_crystal was unable to be GC'd --
+## TESTING: GC: -- [0x2089c53] | /obj/random/structures/ameridian_crystal was unable to be GC'd --
+## TESTING: GC: -- [0x2089c4e] | /obj/random/structures/ameridian_crystal was unable to be GC'd --
+## TESTING: GC: -- [0x2089c4f] | /obj/random/structures/ameridian_crystal was unable to be GC'd --
+## TESTING: GC: -- [0x2089c4a] | /obj/random/structures/ameridian_crystal was unable to be GC'd --
+## TESTING: GC: -- [0x2089c46] | /obj/random/structures/ameridian_crystal was unable to be GC'd --
+## TESTING: GC: -- [0x2089c42] | /obj/random/structures/ameridian_crystal was unable to be GC'd --
+## TESTING: GC: -- [0x2089c3e] | /obj/random/structures/ameridian_crystal was unable to be GC'd --
+## TESTING: GC: -- [0x2089c3a] | /obj/random/structures/ameridian_crystal was unable to be GC'd --
+## TESTING: GC: -- [0x2089c32] | /obj/random/structures/ameridian_crystal was unable to be GC'd --
+## TESTING: GC: -- [0x2089c2d] | /obj/random/structures/ameridian_crystal was unable to be GC'd --
+## TESTING: GC: -- [0x2089c28] | /obj/random/structures/ameridian_crystal was unable to be GC'd --
+## TESTING: GC: -- [0x2089c23] | /obj/random/structures/ameridian_crystal was unable to be GC'd --
+## TESTING: GC: -- [0x2089c1f] | /obj/random/structures/ameridian_crystal was unable to be GC'd --
+## TESTING: GC: -- [0x2089c19] | /obj/random/structures/ameridian_crystal was unable to be GC'd --
+## TESTING: GC: -- [0x2089c18] | /obj/random/structures/ameridian_crystal was unable to be GC'd --
+## TESTING: GC: -- [0x2089c13] | /obj/random/structures/ameridian_crystal was unable to be GC'd --
+## TESTING: GC: -- [0x2089c12] | /obj/random/structures/ameridian_crystal was unable to be GC'd --
+## TESTING: GC: -- [0x2089c0e] | /obj/random/structures/ameridian_crystal was unable to be GC'd --
+## TESTING: GC: -- [0x2089c05] | /obj/random/structures/ameridian_crystal was unable to be GC'd --
+## TESTING: GC: -- [0x2089c01] | /obj/random/structures/ameridian_crystal was unable to be GC'd --
+## TESTING: GC: -- [0x2089bf9] | /obj/random/structures/ameridian_crystal was unable to be GC'd --
+## TESTING: GC: -- [0x2089bfc] | /obj/random/structures/ameridian_crystal was unable to be GC'd --
+## TESTING: GC: -- [0x2089bfd] | /obj/random/structures/ameridian_crystal was unable to be GC'd --
+## TESTING: GC: -- [0x2089b2d] | /obj/random/structures/ameridian_crystal was unable to be GC'd --
+## TESTING: GC: -- [0x208999e] | /obj/random/structures/ameridian_crystal was unable to be GC'd --
+## TESTING: GC: -- [0x2089668] | /obj/random/structures/ameridian_crystal was unable to be GC'd --
+## TESTING: GC: -- [0x2089aca] | /obj/random/structures/ameridian_crystal was unable to be GC'd --
+## TESTING: GC: -- [0x2089b48] | /obj/random/structures/ameridian_crystal was unable to be GC'd --
+## TESTING: GC: -- [0x20899a1] | /obj/random/structures/ameridian_crystal was unable to be GC'd --
+## TESTING: GC: -- [0x2089963] | /obj/random/structures/ameridian_crystal was unable to be GC'd --
+## TESTING: GC: -- [0x2089b02] | /obj/random/structures/ameridian_crystal was unable to be GC'd --
+## TESTING: GC: -- [0x2089b99] | /obj/random/structures/ameridian_crystal was unable to be GC'd --
+## TESTING: GC: -- [0x20899cd] | /obj/random/structures/ameridian_crystal was unable to be GC'd --
+## TESTING: GC: -- [0x208996c] | /obj/random/structures/ameridian_crystal was unable to be GC'd --
+## TESTING: GC: -- [0x2089ac2] | /obj/random/structures/ameridian_crystal was unable to be GC'd --
+## TESTING: GC: -- [0x2089bdb] | /obj/random/structures/ameridian_crystal was unable to be GC'd --
+## TESTING: GC: -- [0x2089be2] | /obj/random/structures/ameridian_crystal was unable to be GC'd --
+## TESTING: GC: -- [0x2089aad] | /obj/random/structures/ameridian_crystal was unable to be GC'd --
+## TESTING: GC: -- [0x2089ab0] | /obj/random/structures/ameridian_crystal was unable to be GC'd --
+## TESTING: GC: -- [0x2089b90] | /obj/random/structures/ameridian_crystal was unable to be GC'd --
+## TESTING: GC: -- [0x2089bcc] | /obj/random/structures/ameridian_crystal was unable to be GC'd --
+## TESTING: GC: -- [0x2089acc] | /obj/random/structures/ameridian_crystal was unable to be GC'd --
+## TESTING: GC: -- [0x2089ad5] | /obj/random/structures/ameridian_crystal was unable to be GC'd --
+[00:12:39] Runtime in unsorted.dm,1381: addtimer called with a callback assigned to a qdeleted object. In the future such timers will not be supported and may refuse to run or run with a 0 wait
+  proc name: stack trace (/proc/stack_trace)
+  src: null
+  call stack:
+  stack trace("addtimer called with a callbac...")
+   addtimer(/datum/callback (/datum/callback), 1, 0, null, "code/modules/mob/living/carbon...", 83)
+  the ameridian runtling (/mob/living/carbon/superior_animal/ameridian_golem/runtling): bullet act(Laser (/obj/item/projectile/beam/drone), "torso")
+  Laser (/obj/item/projectile/beam/drone): attack mob(the ameridian runtling (/mob/living/carbon/superior_animal/ameridian_golem/runtling), 3, 0)
+  Laser (/obj/item/projectile/beam/drone): Bump(the ameridian runtling (/mob/living/carbon/superior_animal/ameridian_golem/runtling), 1)
+  the grass (69,136,9) (/turf/simulated/floor/asteroid/grass): Enter(Laser (/obj/item/projectile/beam/drone), the underplating (70,135,9) (/turf/simulated/floor/plating/under))
+  Laser (/obj/item/projectile/beam/drone): Move(the grass (69,136,9) (/turf/simulated/floor/asteroid/grass), 0, 0, 0, 0)
+  Laser (/obj/item/projectile/beam/drone): Move(the grass (69,136,9) (/turf/simulated/floor/asteroid/grass), 0, 0, 0, 0)
+  Laser (/obj/item/projectile/beam/drone): Move(the grass (69,136,9) (/turf/simulated/floor/asteroid/grass))
+  Laser (/obj/item/projectile/beam/drone): Process()
+[00:13:00] Runtime in unsorted.dm,1381: addtimer called with a callback assigned to a qdeleted object. In the future such timers will not be supported and may refuse to run or run with a 0 wait
+  proc name: stack trace (/proc/stack_trace)
+  src: null
+  call stack:
+  stack trace("addtimer called with a callbac...")
+   addtimer(/datum/callback (/datum/callback), 1, 0, null, "code/modules/mob/living/carbon...", 83)
+  the ameridian runtling (/mob/living/carbon/superior_animal/ameridian_golem/runtling): bullet act(Laser (/obj/item/projectile/beam/midlaser), "torso")
+  Laser (/obj/item/projectile/beam/midlaser): attack mob(the ameridian runtling (/mob/living/carbon/superior_animal/ameridian_golem/runtling), 2, 0)
+  Laser (/obj/item/projectile/beam/midlaser): Bump(the ameridian runtling (/mob/living/carbon/superior_animal/ameridian_golem/runtling), 1)
+  the floor (72,131,9) (/turf/simulated/floor/tiled/derelict/white_small_edges): Enter(Laser (/obj/item/projectile/beam/midlaser), the underplating (73,131,9) (/turf/simulated/floor/plating/under))
+  Laser (/obj/item/projectile/beam/midlaser): Move(the floor (72,131,9) (/turf/simulated/floor/tiled/derelict/white_small_edges), 0, 0, 0, 0)
+  Laser (/obj/item/projectile/beam/midlaser): Move(the floor (72,131,9) (/turf/simulated/floor/tiled/derelict/white_small_edges), 0, 0, 0, 0)
+  Laser (/obj/item/projectile/beam/midlaser): Move(the floor (72,131,9) (/turf/simulated/floor/tiled/derelict/white_small_edges))
+  Laser (/obj/item/projectile/beam/midlaser): Process()
+[00:13:15] Runtime in unsorted.dm,1381: addtimer called with a callback assigned to a qdeleted object. In the future such timers will not be supported and may refuse to run or run with a 0 wait
+  proc name: stack trace (/proc/stack_trace)
+  src: null
+  call stack:
+  stack trace("addtimer called with a callbac...")
+   addtimer(/datum/callback (/datum/callback), 1, 0, null, "code/modules/mob/living/carbon...", 83)
+  the ameridian runtling (/mob/living/carbon/superior_animal/ameridian_golem/runtling): bullet act(Laser (/obj/item/projectile/beam/midlaser), "groin")
+  Laser (/obj/item/projectile/beam/midlaser): attack mob(the ameridian runtling (/mob/living/carbon/superior_animal/ameridian_golem/runtling), 4, 0)
+  Laser (/obj/item/projectile/beam/midlaser): Bump(the ameridian runtling (/mob/living/carbon/superior_animal/ameridian_golem/runtling), 1)
+  the dirt (80,136,9) (/turf/simulated/floor/asteroid/dirt): Enter(Laser (/obj/item/projectile/beam/midlaser), the underplating (79,135,9) (/turf/simulated/floor/plating/under))
+  Laser (/obj/item/projectile/beam/midlaser): Move(the dirt (80,136,9) (/turf/simulated/floor/asteroid/dirt), 0, 0, 0, 0)
+  Laser (/obj/item/projectile/beam/midlaser): Move(the dirt (80,136,9) (/turf/simulated/floor/asteroid/dirt), 0, 0, 0, 0)
+  Laser (/obj/item/projectile/beam/midlaser): Move(the dirt (80,136,9) (/turf/simulated/floor/asteroid/dirt))
+  Laser (/obj/item/projectile/beam/midlaser): Process()
+[00:13:25] Runtime in unsorted.dm,1381: addtimer called with a callback assigned to a qdeleted object. In the future such timers will not be supported and may refuse to run or run with a 0 wait
+  proc name: stack trace (/proc/stack_trace)
+  src: null
+  call stack:
+  stack trace("addtimer called with a callbac...")
+   addtimer(/datum/callback (/datum/callback), 1, 0, null, "code/modules/mob/living/carbon...", 83)
+  the ameridian runtling (/mob/living/carbon/superior_animal/ameridian_golem/runtling): bullet act(the pulse (/obj/item/projectile/beam/pulse/drone), "torso")
+  the pulse (/obj/item/projectile/beam/pulse/drone): attack mob(the ameridian runtling (/mob/living/carbon/superior_animal/ameridian_golem/runtling), 4, 0)
+  the pulse (/obj/item/projectile/beam/pulse/drone): Bump(the ameridian runtling (/mob/living/carbon/superior_animal/ameridian_golem/runtling), 1)
+  the floor (51,130,9) (/turf/simulated/floor/tiled/derelict): Enter(the pulse (/obj/item/projectile/beam/pulse/drone), the floor (51,129,9) (/turf/simulated/floor/tiled/derelict))
+  the pulse (/obj/item/projectile/beam/pulse/drone): Move(the floor (51,130,9) (/turf/simulated/floor/tiled/derelict), 0, 0, 0, 0)
+  the pulse (/obj/item/projectile/beam/pulse/drone): Move(the floor (51,130,9) (/turf/simulated/floor/tiled/derelict), 0, 0, 0, 0)
+  the pulse (/obj/item/projectile/beam/pulse/drone): Move(the floor (51,130,9) (/turf/simulated/floor/tiled/derelict))
+  the pulse (/obj/item/projectile/beam/pulse/drone): Process()
+[00:14:00] Runtime in unsorted.dm,1381: addtimer called with a callback assigned to a qdeleted object. In the future such timers will not be supported and may refuse to run or run with a 0 wait
+  proc name: stack trace (/proc/stack_trace)
+  src: null
+  call stack:
+  stack trace("addtimer called with a callbac...")
+   addtimer(/datum/callback (/datum/callback), 1, 0, null, "code/modules/mob/living/carbon...", 83)
+  the ameridian golem (/mob/living/carbon/superior_animal/ameridian_golem): bullet act(the pulse (/obj/item/projectile/beam/pulse/drone), "l_arm")
+  the pulse (/obj/item/projectile/beam/pulse/drone): attack mob(the ameridian golem (/mob/living/carbon/superior_animal/ameridian_golem), -1, 0)
+  the pulse (/obj/item/projectile/beam/pulse/drone): Bump(the ameridian golem (/mob/living/carbon/superior_animal/ameridian_golem), 1)
+  the floor (50,126,9) (/turf/simulated/floor/tiled/derelict): Enter(the pulse (/obj/item/projectile/beam/pulse/drone), the floor (51,125,9) (/turf/simulated/floor/tiled/derelict))
+  the pulse (/obj/item/projectile/beam/pulse/drone): Move(the floor (50,126,9) (/turf/simulated/floor/tiled/derelict), 0, 0, 0, 0)
+  the pulse (/obj/item/projectile/beam/pulse/drone): Move(the floor (50,126,9) (/turf/simulated/floor/tiled/derelict), 0, 0, 0, 0)
+  the pulse (/obj/item/projectile/beam/pulse/drone): Move(the floor (50,126,9) (/turf/simulated/floor/tiled/derelict))
+  the pulse (/obj/item/projectile/beam/pulse/drone): Process()
+[00:14:06] Runtime in unsorted.dm,1381: addtimer called with a callback assigned to a qdeleted object. In the future such timers will not be supported and may refuse to run or run with a 0 wait
+  proc name: stack trace (/proc/stack_trace)
+  src: null
+  call stack:
+  stack trace("addtimer called with a callbac...")
+   addtimer(/datum/callback (/datum/callback), 1, 0, null, "code/modules/mob/living/carbon...", 83)
+  the ameridian golem (/mob/living/carbon/superior_animal/ameridian_golem): bullet act(the pulse (/obj/item/projectile/beam/pulse/drone), "torso")
+  the pulse (/obj/item/projectile/beam/pulse/drone): attack mob(the ameridian golem (/mob/living/carbon/superior_animal/ameridian_golem), -1, 0)
+  the pulse (/obj/item/projectile/beam/pulse/drone): Bump(the ameridian golem (/mob/living/carbon/superior_animal/ameridian_golem), 1)
+  the floor (52,126,9) (/turf/simulated/floor/tiled/derelict): Enter(the pulse (/obj/item/projectile/beam/pulse/drone), the floor (51,125,9) (/turf/simulated/floor/tiled/derelict))
+  the pulse (/obj/item/projectile/beam/pulse/drone): Move(the floor (52,126,9) (/turf/simulated/floor/tiled/derelict), 0, 0, 0, 0)
+  the pulse (/obj/item/projectile/beam/pulse/drone): Move(the floor (52,126,9) (/turf/simulated/floor/tiled/derelict), 0, 0, 0, 0)
+  the pulse (/obj/item/projectile/beam/pulse/drone): Move(the floor (52,126,9) (/turf/simulated/floor/tiled/derelict))
+  the pulse (/obj/item/projectile/beam/pulse/drone): Process()
+[00:14:12] Runtime in unsorted.dm,1381: addtimer called with a callback assigned to a qdeleted object. In the future such timers will not be supported and may refuse to run or run with a 0 wait
+  proc name: stack trace (/proc/stack_trace)
+  src: null
+  call stack:
+  stack trace("addtimer called with a callbac...")
+   addtimer(/datum/callback (/datum/callback), 1, 0, null, "code/modules/mob/living/carbon...", 83)
+  the ameridian runtling (/mob/living/carbon/superior_animal/ameridian_golem/runtling): bullet act(the pulse (/obj/item/projectile/beam/pulse/drone), "torso")
+  the pulse (/obj/item/projectile/beam/pulse/drone): attack mob(the ameridian runtling (/mob/living/carbon/superior_animal/ameridian_golem/runtling), 3, 0)
+  the pulse (/obj/item/projectile/beam/pulse/drone): Bump(the ameridian runtling (/mob/living/carbon/superior_animal/ameridian_golem/runtling), 1)
+  the grass (47,126,9) (/turf/simulated/floor/asteroid/grass): Enter(the pulse (/obj/item/projectile/beam/pulse/drone), the underplating (48,126,9) (/turf/simulated/floor/plating/under))
+  the pulse (/obj/item/projectile/beam/pulse/drone): Move(the grass (47,126,9) (/turf/simulated/floor/asteroid/grass), 0, 0, 0, 0)
+  the pulse (/obj/item/projectile/beam/pulse/drone): Move(the grass (47,126,9) (/turf/simulated/floor/asteroid/grass), 0, 0, 0, 0)
+  the pulse (/obj/item/projectile/beam/pulse/drone): Move(the grass (47,126,9) (/turf/simulated/floor/asteroid/grass))
+  the pulse (/obj/item/projectile/beam/pulse/drone): Process()
+[00:14:24] Runtime in unsorted.dm,1381: addtimer called with a callback assigned to a qdeleted object. In the future such timers will not be supported and may refuse to run or run with a 0 wait
+  proc name: stack trace (/proc/stack_trace)
+  src: null
+  call stack:
+  stack trace("addtimer called with a callbac...")
+   addtimer(/datum/callback (/datum/callback), 1, 0, null, "code/modules/mob/living/carbon...", 83)
+  the ameridian runtling (/mob/living/carbon/superior_animal/ameridian_golem/runtling): bullet act(the pulse (/obj/item/projectile/beam/pulse/drone), "torso")
+  the pulse (/obj/item/projectile/beam/pulse/drone): attack mob(the ameridian runtling (/mob/living/carbon/superior_animal/ameridian_golem/runtling), 3, 0)
+  the pulse (/obj/item/projectile/beam/pulse/drone): Bump(the ameridian runtling (/mob/living/carbon/superior_animal/ameridian_golem/runtling), 1)
+  the grass (47,124,9) (/turf/simulated/floor/asteroid/grass): Enter(the pulse (/obj/item/projectile/beam/pulse/drone), the underplating (48,124,9) (/turf/simulated/floor/plating/under))
+  the pulse (/obj/item/projectile/beam/pulse/drone): Move(the grass (47,124,9) (/turf/simulated/floor/asteroid/grass), 0, 0, 0, 0)
+  the pulse (/obj/item/projectile/beam/pulse/drone): Move(the grass (47,124,9) (/turf/simulated/floor/asteroid/grass), 0, 0, 0, 0)
+  the pulse (/obj/item/projectile/beam/pulse/drone): Move(the grass (47,124,9) (/turf/simulated/floor/asteroid/grass))
+  the pulse (/obj/item/projectile/beam/pulse/drone): Process()
+[00:14:39] Runtime in unsorted.dm,1381: addtimer called with a callback assigned to a qdeleted object. In the future such timers will not be supported and may refuse to run or run with a 0 wait
+  proc name: stack trace (/proc/stack_trace)
+  src: null
+  call stack:
+  stack trace("addtimer called with a callbac...")
+   addtimer(/datum/callback (/datum/callback), 1, 0, null, "code/modules/mob/living/carbon...", 83)
+  the ameridian runtling (/mob/living/carbon/superior_animal/ameridian_golem/runtling): bullet act(the sharp stone (/obj/item/projectile/bullet/rock), "l_arm")
+  the sharp stone (/obj/item/projectile/bullet/rock): attack mob(the ameridian runtling (/mob/living/carbon/superior_animal/ameridian_golem/runtling), -1, 0)
+  the sharp stone (/obj/item/projectile/bullet/rock): attack mob(the ameridian runtling (/mob/living/carbon/superior_animal/ameridian_golem/runtling), -1, null)
+  the sharp stone (/obj/item/projectile/bullet/rock): Bump(the ameridian runtling (/mob/living/carbon/superior_animal/ameridian_golem/runtling), 1)
+  the grass (18,161,9) (/turf/simulated/floor/asteroid/grass): Enter(the sharp stone (/obj/item/projectile/bullet/rock), the grass (17,161,9) (/turf/simulated/floor/asteroid/grass))
+  the sharp stone (/obj/item/projectile/bullet/rock): Move(the grass (18,161,9) (/turf/simulated/floor/asteroid/grass), 0, 0, 0, 0)
+  the sharp stone (/obj/item/projectile/bullet/rock): Move(the grass (18,161,9) (/turf/simulated/floor/asteroid/grass), 0, 0, 0, 0)
+  the sharp stone (/obj/item/projectile/bullet/rock): Move(the grass (18,161,9) (/turf/simulated/floor/asteroid/grass))
+  the sharp stone (/obj/item/projectile/bullet/rock): Process()
+  (This error will now be item_flags & SILENT for 10 minutes)
+## TESTING: GC: -- [0x300101d] | /mob/living/carbon/superior_animal/giant_spider/hunter was unable to be GC'd --
+[00:24:52] Skipped 12 runtimes in unsorted.dm,1381.
+## TESTING: GC: -- [0x3001216] | /mob/living/carbon/superior_animal/giant_spider/hunter/viper was unable to be GC'd --
+## TESTING: GC: -- [0x300065f] | /mob/living/carbon/superior_animal/giant_spider/hunter/pepper was unable to be GC'd --
+## TESTING: GC: -- [0x30005e4] | /mob/living/carbon/superior_animal/giant_spider was unable to be GC'd --
+## TESTING: GC: -- [0x300067e] | /mob/living/carbon/superior_animal/roach/toxic was unable to be GC'd --
+## TESTING: GC: -- [0x300006f] | /mob/living/carbon/superior_animal/roach was unable to be GC'd --
+## TESTING: GC: -- [0x300000d] | /mob/living/carbon/superior_animal/giant_spider/nurse/recluse was unable to be GC'd --
+## TESTING: GC: -- [0x300000b] | /mob/living/carbon/superior_animal/giant_spider/nurse was unable to be GC'd --
+[00:39:12] Runtime in unsorted.dm,1381: addtimer called with a callback assigned to a qdeleted object. In the future such timers will not be supported and may refuse to run or run with a 0 wait
+  proc name: stack trace (/proc/stack_trace)
+## TESTING: GC: -- [0x300055b] | /mob/living/carbon/superior_animal/giant_spider/hunter was unable to be GC'd --
+## TESTING: GC: -- [0x30005c4] | /mob/living/carbon/superior_animal/roach/hunter was unable to be GC'd --
+## TESTING: GC: -- [0x30007aa] | /mob/living/carbon/superior_animal/termite_no_despawn/silver was unable to be GC'd --
+## TESTING: GC: -- [0x30007a9] | /mob/living/carbon/superior_animal/termite_no_despawn/osmium was unable to be GC'd --
+## TESTING: GC: -- [0x300068b] | /mob/living/carbon/superior_animal/termite_no_despawn/silver was unable to be GC'd --
+## TESTING: GC: -- [0x30006c4] | /mob/living/carbon/superior_animal/termite_no_despawn/iron was unable to be GC'd --
+## TESTING: GC: -- [0x208901b] | /obj/effect/spider/stickyweb was unable to be GC'd --
+## TESTING: GC: -- [0x208903a] | /obj/effect/spider/stickyweb was unable to be GC'd --
+## TESTING: GC: -- [0x2088fba] | /obj/effect/spider/stickyweb was unable to be GC'd --
+## TESTING: GC: -- [0x2089032] | /obj/effect/spider/stickyweb was unable to be GC'd --
+## TESTING: GC: -- [0x2089497] | /obj/effect/spider/stickyweb was unable to be GC'd --
+## TESTING: GC: -- [0x208942d] | /obj/effect/spider/stickyweb was unable to be GC'd --
+## TESTING: GC: -- [0x2088ed1] | /obj/effect/spider/stickyweb was unable to be GC'd --
+## TESTING: GC: -- [0x2003a03] | /obj/structure/railing was unable to be GC'd --
+Shutting down Chat subsystem...
+Shutting down Radiation subsystem...
+Shutting down Migration subsystem...
+Shutting down Economy subsystem...
+Shutting down Xenoarch subsystem...
+Shutting down Pathfinder subsystem...
+Shutting down Shuttle subsystem...
+Shutting down Lighting subsystem...
+Shutting down Mentor Tickets subsystem...
+Shutting down Admin Tickets subsystem...
+Shutting down Overlay subsystem...
+Shutting down Assets subsystem...
+Shutting down Craft subsystem...
+Shutting down Alarm subsystem...
+Shutting down Air subsystem...
+Shutting down Wireless subsystem...
+Shutting down Weather subsystem...
+Shutting down Voting subsystem...
+Shutting down Verb Manager subsystem...
+Shutting down Turfs subsystem...
+Shutting down Turbolift controller subsystem...
+Shutting down Trade subsystem...
+Shutting down Tips and Tricks subsystem...
+Shutting down tgui subsystem...
+Shutting down Sun subsystem...
+Shutting down statverbs subsystem...
+Shutting down Research subsystem...
+Shutting down Radio subsystem...
+Shutting down Processing subsystem...
+Shutting down Ping subsystem...
+Shutting down pAI subsystem...
+Shutting down Objects subsystem...
+Shutting down NanoUI subsystem...
+Shutting down Movement Loops subsystem...
+Shutting down Movement Handler subsystem...
+Shutting down Mobs subsystem...
+Shutting down Misc subsystem...
+Shutting down Internal Wounds subsystem...
+Shutting down Inactivity subsystem...
+Shutting down Fast Processing subsystem...
+Shutting down Event Manager subsystem...
+Shutting down Evacuation subsystem...
+Shutting down Datum Component System subsystem...
+Shutting down Circuit Components subsystem...
+Shutting down Chemistry subsystem...
+Shutting down Airflow subsystem...
+Shutting down Timer subsystem...
+Shutting down Circuit subsystem...
+Shutting down Machines subsystem...
+Shutting down Atoms subsystem...
+Shutting down Character Setup subsystem...
+Shutting down Inventory subsystem...
+Shutting down Mapping subsystem...
+Shutting down Ticker subsystem...
+Shutting down Jobs subsystem...
+Shutting down Garbage subsystem...
+Shutdown complete
+## DEBUG: Wed Nov 22 01:46:35 2023 MC restarted. Reports:
+	 gc_destroyed = 
+	 is_processing = 0
+	 processing = 0
+	 iteration = 581925
+	 stack_end_detector = /datum/stack_end_detector(/datum/stack_end_detector)
+	 last_run = 148847
+	 subsystems = /list
+	 init_timeofday = 95804
+	 init_time = 1968
+	 tickdrift = 5071.53
+	 sleep_delta = 1
+	 skip_ticks = 0
+	 make_runtime = 0
+	 initializations_finished_with_no_players_logged_in = 0
+	 last_type_processed = Ticker(/datum/controller/subsystem/ticker)
+	 queue_head = Ticker(/datum/controller/subsystem/ticker)
+	 queue_tail = Fast Processing(/datum/controller/subsystem/processing/fastprocess)
+	 queue_priority_count = 385
+	 queue_priority_count_bg = 80
+	 map_loading = 0
+	 current_runlevel = 3
+	 sleep_offline_after_initializations = 1
+	 restart_clear = 148947
+	 restart_timeout = 148897
+	 restart_count = 1
+	 random_seed = 1.57602e+008
+	 current_ticklimit = 66
+	 tgui_shared_states = 
+	 active_timers = 
+	 datum_components = 
+	 comp_lookup = 
+	 signal_procs = 
+	 signal_enabled = 0
+	 datum_flags = 0
+	 weak_reference = 
+	 extensions = 
+

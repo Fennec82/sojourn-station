@@ -1,0 +1,583 @@
+## ERROR: File not found (config/dbconfig.txt)
+## ERROR: Failed to load config/mods.txt
+## ERROR: Failed to load config/mentors.txt
+## MYSQL ERROR: The specified module could not be found.
+
+Your server failed to establish a connection with the feedback database.
+## WARNING: File not found: config/jukebox.json
+## ERROR: Failed to load config/mods.txt
+##MAP_ERROR: Multiple stairs at (10,18,7)
+##MAP_ERROR: Multiple stairs at (13,18,7)
+Initialized Jobs subsystem within 0 seconds!
+Initialized Ticker subsystem within 0.04 seconds!
+## MYSQL ERROR: The operation completed successfully.
+
+## MYSQL ERROR: The operation completed successfully.
+
+Initialized Mapping subsystem within 103.25 seconds!
+Initialized Inventory subsystem within 103.27 seconds!
+## MYSQL ERROR: The operation completed successfully.
+
+Initialized Character Setup subsystem within 103.42 seconds!
+Initialized Atoms subsystem within 250.95 seconds!
+Initialized Machines subsystem within 254.06 seconds!
+Initialized Circuit subsystem within 254.23 seconds!
+Initialized Chemistry subsystem within 254.24 seconds!
+Initialized Evacuation subsystem within 254.25 seconds!
+Initialized Event Manager subsystem within 254.26 seconds!
+Initialized Inactivity subsystem within 254.27 seconds!
+Generating Asteroid Belt: 1 - Affinity: Neutral
+Junk Field build starting at zlevel 19.
+Junk field portal placed at (33, 48, 19)
+Generating edges of junk field at zlevel 19.
+Junk Field build complete at zlevel 19.
+Initialized Misc subsystem within 260.59 seconds!
+Initialized Research subsystem within 272.41 seconds!
+Initialized Tips and Tricks subsystem within 272.43 seconds!
+Initialized Trade subsystem within 274.3 seconds!
+Initialized Voting subsystem within 274.33 seconds!
+Initialized Weather subsystem within 274.34 seconds!
+Initialized Turbolift controller subsystem within 274.35 seconds!
+Initialized Air subsystem within 299.48 seconds!
+Initialized Alarm subsystem within 299.49 seconds!
+Initialized Craft subsystem within 299.53 seconds!
+Initialized Assets subsystem within 361.38 seconds!
+Initialized Overlay subsystem within 363.01 seconds!
+Initialized Admin Tickets subsystem within 363.02 seconds!
+Initialized Mentor Tickets subsystem within 363.03 seconds!
+Initialized Lighting subsystem within 380.09 seconds!
+Initialized Shuttle subsystem within 380.12 seconds!
+Initialized Pathfinder subsystem within 380.14 seconds!
+Initialized Xenoarch subsystem within 381.64 seconds!
+Initialized Economy subsystem within 381.65 seconds!
+Initialized Migration subsystem within 381.67 seconds!
+Initialized Radiation subsystem within 381.9 seconds!
+Initialized Chat subsystem within 381.91 seconds!
+Initializations complete within 382.1 seconds!
+## WARNING: Timer buckets has been reset, this may cause timer to lag in code/controllers/subsystems/timer.dm at line 237 src: Timer usr: .
+## WARNING: Asking for null setup_option Gifted in Upbringing.
+## WARNING: Asking for null setup_option Gifted in Upbringing.
+## WARNING: Asking for null setup_option Gifted in Upbringing.
+## WARNING: Asking for null setup_option Gifted in Upbringing.
+## WARNING: Asking for null setup_option Gifted in Upbringing.
+## WARNING: Asking for null setup_option Gifted in Upbringing.
+## WARNING: Asking for null setup_option Gifted in Upbringing.
+## WARNING: Asking for null setup_option Gifted in Upbringing.
+## WARNING: Asking for null setup_option Gifted in Upbringing.
+## WARNING: Asking for null setup_option Gifted in Upbringing.
+## WARNING: Asking for null setup_option Gifted in Upbringing.
+## WARNING: Asking for null setup_option Gifted in Upbringing.
+## WARNING: Asking for null setup_option Gifted in Upbringing.
+## WARNING: Asking for null setup_option Gifted in Upbringing.
+## WARNING: Asking for null setup_option Gifted in Upbringing.
+## WARNING: Asking for null setup_option Gifted in Upbringing.
+## WARNING: Asking for null setup_option Gifted in Upbringing.
+## WARNING: Asking for null setup_option Gifted in Upbringing.
+## WARNING: Asking for null setup_option Gifted in Upbringing.
+## WARNING: Asking for null setup_option Gifted in Upbringing.
+## WARNING: Asking for null setup_option Gifted in Upbringing.
+## WARNING: Asking for null setup_option Gifted in Upbringing.
+## WARNING: Asking for null setup_option Gifted in Upbringing.
+## WARNING: Asking for null setup_option Gifted in Upbringing.
+## WARNING: Asking for null setup_option Gifted in Upbringing.
+## WARNING: Asking for null setup_option Gifted in Upbringing.
+## WARNING: Asking for null setup_option Gifted in Upbringing.
+## WARNING: Asking for null setup_option Gifted in Upbringing.
+## WARNING: Asking for null setup_option Gifted in Upbringing.
+## WARNING: Asking for null setup_option Gifted in Upbringing.
+## WARNING: Asking for null setup_option Gifted in Upbringing.
+## WARNING: Asking for null setup_option Gifted in Upbringing.
+## WARNING: Asking for null setup_option Gifted in Upbringing.
+## WARNING: Asking for null setup_option Gifted in Upbringing.
+## WARNING: Asking for null setup_option Gifted in Upbringing.
+## WARNING: Asking for null setup_option Gifted in Upbringing.
+## WARNING: Asking for null setup_option Gifted in Upbringing.
+## WARNING: Asking for null setup_option Gifted in Upbringing.
+## WARNING: Asking for null setup_option Gifted in Upbringing.
+## WARNING: Asking for null setup_option Gifted in Upbringing.
+## WARNING: Asking for null setup_option Gifted in Upbringing.
+## WARNING: Asking for null setup_option Gifted in Upbringing.
+## WARNING: Asking for null setup_option Gifted in Upbringing.
+## WARNING: Asking for null setup_option Gifted in Upbringing.
+## WARNING: Asking for null setup_option Gifted in Upbringing.
+## WARNING: Asking for null setup_option Gifted in Upbringing.
+## WARNING: Asking for null setup_option Gifted in Upbringing.
+## WARNING: Asking for null setup_option Gifted in Upbringing.
+## WARNING: Asking for null setup_option Gifted in Upbringing.
+## WARNING: Asking for null setup_option Gifted in Upbringing.
+## WARNING: Asking for null setup_option Gifted in Upbringing.
+## WARNING: Asking for null setup_option Gifted in Upbringing.
+## WARNING: Asking for null setup_option Gifted in Upbringing.
+## WARNING: Asking for null setup_option Gifted in Upbringing.
+## WARNING: Asking for null setup_option Gifted in Upbringing.
+## WARNING: Asking for null setup_option Gifted in Upbringing.
+## WARNING: Asking for null setup_option Gifted in Upbringing.
+## WARNING: Asking for null setup_option Gifted in Upbringing.
+## WARNING: Asking for null setup_option Gifted in Upbringing.
+## WARNING: Asking for null setup_option Gifted in Upbringing.
+## WARNING: Asking for null setup_option Gifted in Upbringing.
+## TESTING: GC: -- [0x20162b4] | /obj/effect/decal/cleanable/blood/gibs was unable to be GC'd --
+## TESTING: GC: -- [0x2016368] | /obj/effect/decal/cleanable/blood/gibs was unable to be GC'd --
+## TESTING: GC: -- [0x2016396] | /obj/effect/decal/cleanable/blood/gibs was unable to be GC'd --
+## TESTING: GC: -- [0x2016399] | /obj/effect/decal/cleanable/blood/gibs was unable to be GC'd --
+## TESTING: GC: -- [0x20164c3] | /obj/effect/decal/cleanable/blood/gibs was unable to be GC'd --
+## TESTING: GC: -- [0x20164c6] | /obj/effect/decal/cleanable/blood/gibs was unable to be GC'd --
+## TESTING: GC: -- [0x201651f] | /obj/effect/decal/cleanable/blood/gibs was unable to be GC'd --
+## TESTING: GC: -- [0x20165d9] | /obj/effect/decal/cleanable/blood/gibs was unable to be GC'd --
+## TESTING: GC: -- [0x2016616] | /obj/effect/decal/cleanable/blood/gibs was unable to be GC'd --
+## TESTING: GC: -- [0x2016647] | /obj/effect/decal/cleanable/blood/gibs was unable to be GC'd --
+## TESTING: GC: -- [0x2016648] | /obj/effect/decal/cleanable/blood/gibs was unable to be GC'd --
+## TESTING: GC: -- [0x2016680] | /obj/effect/decal/cleanable/blood/gibs was unable to be GC'd --
+## TESTING: GC: -- [0x20168b1] | /obj/effect/decal/cleanable/blood/gibs was unable to be GC'd --
+## TESTING: GC: -- [0x20168ec] | /obj/effect/decal/cleanable/blood/gibs was unable to be GC'd --
+## TESTING: GC: -- [0x2016927] | /obj/effect/decal/cleanable/blood/gibs was unable to be GC'd --
+## TESTING: GC: -- [0x2016a60] | /obj/effect/decal/cleanable/blood/gibs was unable to be GC'd --
+## TESTING: GC: -- [0x2016ac2] | /obj/effect/decal/cleanable/blood/gibs was unable to be GC'd --
+## TESTING: GC: -- [0x2016b54] | /obj/effect/decal/cleanable/blood/gibs was unable to be GC'd --
+## TESTING: GC: -- [0x2016bab] | /obj/effect/decal/cleanable/blood/gibs was unable to be GC'd --
+## TESTING: GC: -- [0x2016bd9] | /obj/effect/decal/cleanable/blood/gibs was unable to be GC'd --
+## TESTING: GC: -- [0x2016bee] | /obj/effect/decal/cleanable/blood/gibs was unable to be GC'd --
+## TESTING: GC: -- [0x20326a2] | /obj/machinery/atmospherics/pipe/simple/hidden/supply was unable to be GC'd --
+## TESTING: GC: -- [0x20325a8] | /obj/machinery/atmospherics/pipe/simple/hidden/scrubbers was unable to be GC'd --
+## TESTING: GC: -- [0x2032629] | /obj/machinery/atmospherics/pipe/simple/hidden/scrubbers was unable to be GC'd --
+## TESTING: GC: -- [0x20327f6] | /obj/machinery/atmospherics/pipe/simple/hidden/scrubbers was unable to be GC'd --
+## TESTING: GC: -- [0x20327f2] | /obj/machinery/atmospherics/pipe/simple/hidden/supply was unable to be GC'd --
+## TESTING: GC: -- [0x2032619] | /obj/machinery/atmospherics/pipe/simple/hidden/scrubbers was unable to be GC'd --
+## TESTING: GC: -- [0x2032618] | /obj/machinery/atmospherics/pipe/simple/hidden/supply was unable to be GC'd --
+## TESTING: GC: -- [0x2032888] | /obj/machinery/atmospherics/pipe/simple/hidden/scrubbers was unable to be GC'd --
+## TESTING: GC: -- [0x2032889] | /obj/machinery/atmospherics/pipe/simple/hidden/supply was unable to be GC'd --
+## TESTING: GC: -- [0x20328a1] | /obj/machinery/atmospherics/pipe/simple/hidden/scrubbers was unable to be GC'd --
+## TESTING: GC: -- [0x20328a2] | /obj/machinery/atmospherics/pipe/simple/hidden/supply was unable to be GC'd --
+## TESTING: GC: -- [0x20328be] | /obj/machinery/atmospherics/pipe/simple/hidden/scrubbers was unable to be GC'd --
+## TESTING: GC: -- [0x20328bf] | /obj/machinery/atmospherics/pipe/simple/hidden/supply was unable to be GC'd --
+## TESTING: GC: -- [0x20328da] | /obj/machinery/atmospherics/pipe/simple/hidden/scrubbers was unable to be GC'd --
+## TESTING: GC: -- [0x20328db] | /obj/machinery/atmospherics/pipe/simple/hidden/supply was unable to be GC'd --
+## TESTING: GC: -- [0x20328f0] | /obj/machinery/atmospherics/pipe/simple/hidden/scrubbers was unable to be GC'd --
+## TESTING: GC: -- [0x20328f1] | /obj/machinery/atmospherics/pipe/simple/hidden/supply was unable to be GC'd --
+## TESTING: GC: -- [0x203290a] | /obj/machinery/atmospherics/pipe/simple/hidden/scrubbers was unable to be GC'd --
+## TESTING: GC: -- [0x203290b] | /obj/machinery/atmospherics/pipe/simple/hidden/supply was unable to be GC'd --
+## TESTING: GC: -- [0x203291c] | /obj/machinery/atmospherics/pipe/simple/hidden/scrubbers was unable to be GC'd --
+## TESTING: GC: -- [0x203291d] | /obj/machinery/atmospherics/pipe/simple/hidden/supply was unable to be GC'd --
+## TESTING: GC: -- [0x203293b] | /obj/machinery/atmospherics/pipe/simple/hidden/scrubbers was unable to be GC'd --
+## TESTING: GC: -- [0x203293c] | /obj/machinery/atmospherics/pipe/simple/hidden/supply was unable to be GC'd --
+## TESTING: GC: -- [0x2032953] | /obj/machinery/atmospherics/pipe/simple/hidden/scrubbers was unable to be GC'd --
+## TESTING: GC: -- [0x2032954] | /obj/machinery/atmospherics/pipe/simple/hidden/supply was unable to be GC'd --
+## TESTING: GC: -- [0x2032969] | /obj/machinery/atmospherics/pipe/simple/hidden/supply was unable to be GC'd --
+## TESTING: GC: -- [0x203297f] | /obj/machinery/atmospherics/pipe/simple/hidden/scrubbers was unable to be GC'd --
+## TESTING: GC: -- [0x203299f] | /obj/machinery/atmospherics/pipe/simple/hidden/scrubbers was unable to be GC'd --
+## TESTING: GC: -- [0x20329a0] | /obj/machinery/atmospherics/pipe/simple/hidden/supply was unable to be GC'd --
+## TESTING: GC: -- [0x20329ba] | /obj/machinery/atmospherics/pipe/simple/hidden/scrubbers was unable to be GC'd --
+## TESTING: GC: -- [0x20329bb] | /obj/machinery/atmospherics/pipe/simple/hidden/supply was unable to be GC'd --
+## TESTING: GC: -- [0x20329d7] | /obj/machinery/atmospherics/pipe/simple/hidden/scrubbers was unable to be GC'd --
+## TESTING: GC: -- [0x20329d8] | /obj/machinery/atmospherics/pipe/simple/hidden/supply was unable to be GC'd --
+## TESTING: GC: -- [0x20329ea] | /obj/machinery/atmospherics/pipe/simple/hidden/scrubbers was unable to be GC'd --
+## TESTING: GC: -- [0x20329eb] | /obj/machinery/atmospherics/pipe/simple/hidden/supply was unable to be GC'd --
+## TESTING: GC: -- [0x20329d0] | /obj/machinery/atmospherics/pipe/simple/hidden/supply was unable to be GC'd --
+## TESTING: GC: -- [0x20329e5] | /obj/machinery/atmospherics/pipe/simple/hidden/supply was unable to be GC'd --
+## TESTING: GC: -- [0x2032917] | /obj/machinery/atmospherics/pipe/simple/visible/yellow was unable to be GC'd --
+## TESTING: GC: -- [0x20328c9] | /obj/machinery/atmospherics/pipe/simple/visible/yellow was unable to be GC'd --
+## TESTING: GC: -- [0x20328c7] | /obj/machinery/atmospherics/pipe/manifold/visible/yellow was unable to be GC'd --
+## TESTING: GC: -- [0x2032912] | /obj/machinery/atmospherics/pipe/simple/visible/yellow was unable to be GC'd --
+## TESTING: GC: -- [0x2032925] | /obj/machinery/atmospherics/pipe/simple/visible/yellow was unable to be GC'd --
+## TESTING: GC: -- [0x2032945] | /obj/machinery/atmospherics/pipe/simple/visible/yellow was unable to be GC'd --
+## TESTING: GC: -- [0x2032aeb] | /obj/machinery/atmospherics/pipe/simple/visible/yellow was unable to be GC'd --
+## TESTING: GC: -- [0x2032ae9] | /obj/machinery/atmospherics/pipe/manifold/visible/yellow was unable to be GC'd --
+## TESTING: GC: -- [0x2032b29] | /obj/machinery/atmospherics/pipe/simple/visible/yellow was unable to be GC'd --
+## TESTING: GC: -- [0x2032b48] | /obj/machinery/atmospherics/pipe/simple/visible/yellow was unable to be GC'd --
+## TESTING: GC: -- [0x2032b5a] | /obj/machinery/atmospherics/pipe/simple/visible/yellow was unable to be GC'd --
+## TESTING: GC: -- [0x2032b24] | /obj/machinery/atmospherics/pipe/simple/visible/yellow was unable to be GC'd --
+## TESTING: GC: -- [0x2032bd4] | /obj/machinery/atmospherics/pipe/simple/hidden/supply was unable to be GC'd --
+## TESTING: GC: -- [0x2032bf5] | /obj/machinery/atmospherics/pipe/simple/hidden/supply was unable to be GC'd --
+## TESTING: GC: -- [0x203289e] | /obj/machinery/atmospherics/pipe/simple/hidden/scrubbers was unable to be GC'd --
+## TESTING: GC: -- [0x20329fc] | /obj/machinery/atmospherics/pipe/simple/hidden/scrubbers was unable to be GC'd --
+## TESTING: GC: -- [0x2032997] | /obj/machinery/atmospherics/pipe/simple/hidden/scrubbers was unable to be GC'd --
+## TESTING: GC: -- [0x20329b0] | /obj/machinery/atmospherics/pipe/simple/hidden/supply was unable to be GC'd --
+## TESTING: GC: -- [0x2032746] | /obj/machinery/atmospherics/pipe/simple/hidden/scrubbers was unable to be GC'd --
+## TESTING: GC: -- [0x20327ff] | /obj/machinery/atmospherics/pipe/simple/hidden/supply was unable to be GC'd --
+## TESTING: GC: -- [0x2032a16] | /obj/machinery/atmospherics/pipe/simple/hidden/scrubbers was unable to be GC'd --
+## TESTING: GC: -- [0x20327c9] | /obj/machinery/atmospherics/pipe/simple/hidden/supply was unable to be GC'd --
+## TESTING: GC: -- [0x2032731] | /obj/machinery/atmospherics/pipe/simple/hidden/scrubbers was unable to be GC'd --
+## TESTING: GC: -- [0x20325df] | /obj/machinery/atmospherics/pipe/simple/hidden/supply was unable to be GC'd --
+## TESTING: GC: -- [0x203288e] | /obj/machinery/atmospherics/pipe/simple/hidden/scrubbers was unable to be GC'd --
+## TESTING: GC: -- [0x20328f7] | /obj/machinery/atmospherics/pipe/simple/hidden/supply was unable to be GC'd --
+## TESTING: GC: -- [0x2032ad6] | /obj/machinery/atmospherics/pipe/simple/hidden/scrubbers was unable to be GC'd --
+## TESTING: GC: -- [0x2032ad7] | /obj/machinery/atmospherics/pipe/simple/hidden/supply was unable to be GC'd --
+## TESTING: GC: -- [0x2032af4] | /obj/machinery/atmospherics/pipe/simple/hidden/scrubbers was unable to be GC'd --
+## TESTING: GC: -- [0x2032af5] | /obj/machinery/atmospherics/pipe/simple/hidden/supply was unable to be GC'd --
+## TESTING: GC: -- [0x2032b04] | /obj/machinery/atmospherics/pipe/simple/hidden/scrubbers was unable to be GC'd --
+## TESTING: GC: -- [0x2032b05] | /obj/machinery/atmospherics/pipe/simple/hidden/supply was unable to be GC'd --
+## TESTING: GC: -- [0x2032b21] | /obj/machinery/atmospherics/pipe/simple/hidden/scrubbers was unable to be GC'd --
+## TESTING: GC: -- [0x2032b22] | /obj/machinery/atmospherics/pipe/simple/hidden/supply was unable to be GC'd --
+## TESTING: GC: -- [0x2032b33] | /obj/machinery/atmospherics/pipe/simple/hidden/scrubbers was unable to be GC'd --
+## TESTING: GC: -- [0x2032b34] | /obj/machinery/atmospherics/pipe/simple/hidden/supply was unable to be GC'd --
+## TESTING: GC: -- [0x2032b4e] | /obj/machinery/atmospherics/pipe/simple/hidden/scrubbers was unable to be GC'd --
+## TESTING: GC: -- [0x2032b4f] | /obj/machinery/atmospherics/pipe/simple/hidden/supply was unable to be GC'd --
+## TESTING: GC: -- [0x2032b6a] | /obj/machinery/atmospherics/pipe/manifold/hidden/scrubbers was unable to be GC'd --
+## TESTING: GC: -- [0x2032b6b] | /obj/machinery/atmospherics/pipe/simple/hidden/supply was unable to be GC'd --
+## TESTING: GC: -- [0x2032b89] | /obj/machinery/atmospherics/pipe/manifold/hidden/supply was unable to be GC'd --
+## TESTING: GC: -- [0x2032b8a] | /obj/machinery/atmospherics/pipe/simple/hidden/scrubbers was unable to be GC'd --
+## TESTING: GC: -- [0x2032b97] | /obj/machinery/atmospherics/pipe/simple/hidden/scrubbers was unable to be GC'd --
+## TESTING: GC: -- [0x2032b98] | /obj/machinery/atmospherics/pipe/simple/hidden/supply was unable to be GC'd --
+## TESTING: GC: -- [0x2032bb3] | /obj/machinery/atmospherics/pipe/simple/hidden/scrubbers was unable to be GC'd --
+## TESTING: GC: -- [0x2032bb4] | /obj/machinery/atmospherics/pipe/simple/hidden/supply was unable to be GC'd --
+## TESTING: GC: -- [0x2032bce] | /obj/machinery/atmospherics/pipe/simple/hidden/scrubbers was unable to be GC'd --
+## TESTING: GC: -- [0x2032bcf] | /obj/machinery/atmospherics/pipe/simple/hidden/supply was unable to be GC'd --
+## TESTING: GC: -- [0x2032bf0] | /obj/machinery/atmospherics/pipe/simple/hidden/scrubbers was unable to be GC'd --
+## TESTING: GC: -- [0x2032bf1] | /obj/machinery/atmospherics/pipe/simple/hidden/supply was unable to be GC'd --
+## TESTING: GC: -- [0x203277d] | /obj/machinery/atmospherics/pipe/simple/hidden/supply was unable to be GC'd --
+## TESTING: GC: -- [0x2032c27] | /obj/machinery/atmospherics/pipe/simple/hidden/scrubbers was unable to be GC'd --
+## TESTING: GC: -- [0x203277c] | /obj/machinery/atmospherics/pipe/simple/hidden/supply was unable to be GC'd --
+## TESTING: GC: -- [0x2032b28] | /obj/machinery/atmospherics/pipe/simple/hidden/scrubbers was unable to be GC'd --
+## TESTING: GC: -- [0x2032b47] | /obj/machinery/atmospherics/pipe/simple/hidden/supply was unable to be GC'd --
+## TESTING: GC: -- [0x203272f] | /obj/machinery/atmospherics/pipe/simple/hidden/scrubbers was unable to be GC'd --
+## TESTING: GC: -- [0x2032ac6] | /obj/machinery/atmospherics/pipe/simple/hidden/supply was unable to be GC'd --
+## TESTING: GC: -- [0x2032acb] | /obj/machinery/atmospherics/pipe/simple/hidden/red was unable to be GC'd --
+## TESTING: GC: -- [0x2032d0f] | /obj/machinery/atmospherics/pipe/simple/hidden/red was unable to be GC'd --
+## TESTING: GC: -- [0x2032d4e] | /obj/machinery/atmospherics/pipe/simple/hidden/supply was unable to be GC'd --
+## TESTING: GC: -- [0x2032d4f] | /obj/machinery/atmospherics/pipe/simple/hidden/scrubbers was unable to be GC'd --
+## TESTING: GC: -- [0x2032d55] | /obj/machinery/atmospherics/pipe/simple/hidden/supply was unable to be GC'd --
+## TESTING: GC: -- [0x2032d56] | /obj/machinery/atmospherics/pipe/simple/hidden/scrubbers was unable to be GC'd --
+## TESTING: GC: -- [0x2032d60] | /obj/machinery/atmospherics/pipe/simple/hidden/supply was unable to be GC'd --
+## TESTING: GC: -- [0x2032d61] | /obj/machinery/atmospherics/pipe/simple/hidden/scrubbers was unable to be GC'd --
+## TESTING: GC: -- [0x2032d31] | /obj/machinery/atmospherics/pipe/simple/hidden was unable to be GC'd --
+## TESTING: GC: -- [0x2032d3e] | /obj/machinery/atmospherics/pipe/simple/hidden was unable to be GC'd --
+## TESTING: GC: -- [0x2032e14] | /obj/machinery/atmospherics/pipe/simple/hidden was unable to be GC'd --
+## TESTING: GC: -- [0x2032e07] | /obj/machinery/atmospherics/pipe/simple/hidden was unable to be GC'd --
+## TESTING: GC: -- [0x2032e37] | /obj/machinery/atmospherics/pipe/simple/hidden/scrubbers was unable to be GC'd --
+## TESTING: GC: -- [0x2032e36] | /obj/machinery/atmospherics/pipe/simple/hidden/supply was unable to be GC'd --
+## TESTING: GC: -- [0x2032e29] | /obj/machinery/atmospherics/pipe/simple/hidden/scrubbers was unable to be GC'd --
+## TESTING: GC: -- [0x2032e28] | /obj/machinery/atmospherics/pipe/simple/hidden/supply was unable to be GC'd --
+## TESTING: GC: -- [0x2032e7c] | /obj/machinery/atmospherics/pipe/simple/hidden/scrubbers was unable to be GC'd --
+## TESTING: GC: -- [0x2032e7d] | /obj/machinery/atmospherics/pipe/simple/hidden/supply was unable to be GC'd --
+## TESTING: GC: -- [0x2032ead] | /obj/machinery/atmospherics/pipe/simple/hidden/supply was unable to be GC'd --
+## TESTING: GC: -- [0x2032eae] | /obj/machinery/atmospherics/pipe/simple/hidden/scrubbers was unable to be GC'd --
+## TESTING: GC: -- [0x2032eb4] | /obj/machinery/atmospherics/pipe/simple/hidden/supply was unable to be GC'd --
+## TESTING: GC: -- [0x2032eb5] | /obj/machinery/atmospherics/pipe/simple/hidden/scrubbers was unable to be GC'd --
+## TESTING: GC: -- [0x2032ebf] | /obj/machinery/atmospherics/pipe/simple/hidden/supply was unable to be GC'd --
+## TESTING: GC: -- [0x2032ec0] | /obj/machinery/atmospherics/pipe/simple/hidden/scrubbers was unable to be GC'd --
+## TESTING: GC: -- [0x2032f18] | /obj/machinery/atmospherics/pipe/simple/hidden was unable to be GC'd --
+## TESTING: GC: -- [0x2032f19] | /obj/machinery/atmospherics/pipe/simple/hidden was unable to be GC'd --
+## TESTING: GC: -- [0x2032f2d] | /obj/machinery/atmospherics/pipe/simple/hidden/red was unable to be GC'd --
+## TESTING: GC: -- [0x2032f52] | /obj/machinery/atmospherics/pipe/simple/hidden/red was unable to be GC'd --
+## TESTING: GC: -- [0x2105dfba] | /datum/radio_frequency was unable to be GC'd --
+## TESTING: GC: -- [0x2006b8d] | /obj/machinery/atmospherics/pipe/manifold/hidden/scrubbers was unable to be GC'd --
+## TESTING: GC: -- [0x2007c47] | /obj/machinery/atmospherics/pipe/manifold/hidden/supply was unable to be GC'd --
+## TESTING: GC: -- [0x2009a7d] | /obj/machinery/atmospherics/pipe/manifold/hidden/supply was unable to be GC'd --
+## TESTING: GC: -- [0x2036693] | /obj/item/tank/oxygen was unable to be GC'd --
+## TESTING: GC: -- [0x2082294] | /obj/machinery/atmospherics/pipe/manifold4w/hidden was unable to be GC'd --
+## TESTING: GC: -- [0x20820ed] | /obj/machinery/atmospherics/pipe/manifold4w/hidden was unable to be GC'd --
+## TESTING: GC: -- [0x20149eb] | /obj/effect/decal/cleanable/greenglow was unable to be GC'd --
+## TESTING: GC: -- [0x2014b8b] | /obj/effect/decal/cleanable/greenglow was unable to be GC'd --
+## TESTING: GC: -- [0x20150a6] | /obj/effect/decal/cleanable/greenglow was unable to be GC'd --
+Game start took 0s
+## MYSQL ERROR: The operation completed successfully.
+
+[15:58:32] Runtime in unsorted.dm,1381: addtimer called with a callback assigned to a qdeleted object. In the future such timers will not be supported and may refuse to run or run with a 0 wait
+  proc name: stack trace (/proc/stack_trace)
+  src: null
+  call stack:
+  stack trace("addtimer called with a callbac...")
+   addtimer(/datum/callback (/datum/callback), 15, 0, null, "code/modules/mob/living/carbon...", 471)
+  Brutish Greyson Positronic RMB... (/mob/living/carbon/superior_animal/robot/greyson/roomba/gun_ba/plasma): handle attacking stance(Hatchling sentinel (/mob/living/carbon/superior_animal/xenomorph/sentinel), 0, 1, 1)
+  Brutish Greyson Positronic RMB... (/mob/living/carbon/superior_animal/robot/greyson/roomba/gun_ba/plasma): handle ai()
+  Brutish Greyson Positronic RMB... (/mob/living/carbon/superior_animal/robot/greyson/roomba/gun_ba/plasma): Life(2)
+  Mobs (/datum/controller/subsystem/processing/mobs): fire(1)
+  Mobs (/datum/controller/subsystem/processing/mobs): fire(1)
+  Mobs (/datum/controller/subsystem/processing/mobs): ignite(1)
+[15:59:45] Runtime in unsorted.dm,1381: addtimer called with a callback assigned to a qdeleted object. In the future such timers will not be supported and may refuse to run or run with a 0 wait
+  proc name: stack trace (/proc/stack_trace)
+  src: null
+  call stack:
+  stack trace("addtimer called with a callbac...")
+   addtimer(/datum/callback (/datum/callback), 15, 0, null, "code/modules/mob/living/carbon...", 471)
+  Quickfire Greyson Positronic F... (/mob/living/carbon/superior_animal/robot/greyson/synthetic/epistol): handle attacking stance(the screecher (/mob/living/carbon/superior_animal/xenomorph/warrior/shrike/screecher), 0, 1, 1)
+  Quickfire Greyson Positronic F... (/mob/living/carbon/superior_animal/robot/greyson/synthetic/epistol): handle ai()
+  Quickfire Greyson Positronic F... (/mob/living/carbon/superior_animal/robot/greyson/synthetic/epistol): Life(2)
+  Mobs (/datum/controller/subsystem/processing/mobs): fire(1)
+  Mobs (/datum/controller/subsystem/processing/mobs): fire(1)
+  Mobs (/datum/controller/subsystem/processing/mobs): ignite(1)
+[15:59:45] Runtime in unsorted.dm,1381: addtimer called with a callback assigned to a qdeleted object. In the future such timers will not be supported and may refuse to run or run with a 0 wait
+  proc name: stack trace (/proc/stack_trace)
+  src: null
+  call stack:
+  stack trace("addtimer called with a callbac...")
+   addtimer(/datum/callback (/datum/callback), 15, 0, null, "code/modules/mob/living/carbon...", 471)
+  \"Iron Lock Security\" Stalker... (/mob/living/carbon/superior_animal/robot/greyson/stalker): handle attacking stance(Harden hunter (/mob/living/carbon/superior_animal/xenomorph/hunter), 0, 1, 1)
+  \"Iron Lock Security\" Stalker... (/mob/living/carbon/superior_animal/robot/greyson/stalker): handle ai()
+  \"Iron Lock Security\" Stalker... (/mob/living/carbon/superior_animal/robot/greyson/stalker): Life(2)
+  Mobs (/datum/controller/subsystem/processing/mobs): fire(1)
+  Mobs (/datum/controller/subsystem/processing/mobs): fire(1)
+  Mobs (/datum/controller/subsystem/processing/mobs): ignite(1)
+## TESTING: GC: -- [0x3001077] | /mob/living/simple_animal/hostile/hivebot was unable to be GC'd --
+## TESTING: GC: -- [0x3000b9f] | /mob/living/carbon/superior_animal/roach was unable to be GC'd --
+## TESTING: GC: -- [0x300106d] | /mob/living/simple_animal/hostile/retaliate/malf_drone was unable to be GC'd --
+## TESTING: GC: -- [0x300107c] | /mob/living/simple_animal/hostile/hivebot/range was unable to be GC'd --
+## TESTING: GC: -- [0x3000b7a] | /mob/living/carbon/superior_animal/roach/support was unable to be GC'd --
+## MYSQL ERROR: The operation completed successfully.
+
+## TESTING: GC: -- [0x300107b] | /mob/living/simple_animal/hostile/hivebot was unable to be GC'd --
+## TESTING: GC: -- [0x300106e] | /mob/living/simple_animal/hostile/retaliate/malf_drone was unable to be GC'd --
+## TESTING: GC: -- [0x3000b85] | /mob/living/carbon/superior_animal/roach/support was unable to be GC'd --
+## TESTING: GC: -- [0x3001064] | /mob/living/simple_animal/hostile/hivebot/range was unable to be GC'd --
+## TESTING: GC: -- [0x3000b6d] | /mob/living/carbon/superior_animal/roach was unable to be GC'd --
+## TESTING: GC: -- [0x3000b6f] | /mob/living/carbon/superior_animal/roach/tank was unable to be GC'd --
+## ERROR: File not found (config/dbconfig.txt)
+## ERROR: Failed to load config/mods.txt
+## ERROR: Failed to load config/mentors.txt
+## MYSQL ERROR: The operation completed successfully.
+
+Your server failed to establish a connection with the feedback database.
+## WARNING: File not found: config/jukebox.json
+## ERROR: Failed to load config/mods.txt
+##MAP_ERROR: Multiple stairs at (10,18,7)
+##MAP_ERROR: Multiple stairs at (13,18,7)
+Initialized Jobs subsystem within 17885.5 seconds!
+Initialized Ticker subsystem within 17885.6 seconds!
+## MYSQL ERROR: The operation completed successfully.
+
+## MYSQL ERROR: The operation completed successfully.
+
+Initialized Mapping subsystem within 17991.1 seconds!
+Initialized Inventory subsystem within 17991.1 seconds!
+## MYSQL ERROR: The operation completed successfully.
+
+Initialized Character Setup subsystem within 17991.2 seconds!
+Initialized Atoms subsystem within 18148.6 seconds!
+Initialized Machines subsystem within 18151.8 seconds!
+Initialized Circuit subsystem within 18151.8 seconds!
+Initialized Chemistry subsystem within 18151.8 seconds!
+Initialized Evacuation subsystem within 18151.8 seconds!
+Initialized Event Manager subsystem within 18151.9 seconds!
+Initialized Inactivity subsystem within 18151.9 seconds!
+Generating Asteroid Belt: 0 - Affinity: Greyson
+Junk Field build starting at zlevel 19.
+Junk field portal placed at (93, 108, 19)
+Generating edges of junk field at zlevel 19.
+Junk Field build complete at zlevel 19.
+Initialized Misc subsystem within 18162 seconds!
+Initialized Research subsystem within 18173.7 seconds!
+Initialized Tips and Tricks subsystem within 18173.7 seconds!
+Initialized Trade subsystem within 18175.7 seconds!
+Initialized Voting subsystem within 18175.7 seconds!
+Initialized Weather subsystem within 18175.7 seconds!
+Initialized Turbolift controller subsystem within 18175.7 seconds!
+Initialized Air subsystem within 18205 seconds!
+Initialized Alarm subsystem within 18205 seconds!
+Initialized Craft subsystem within 18205.1 seconds!
+Initialized Assets subsystem within 18269.7 seconds!
+Initialized Overlay subsystem within 18271.4 seconds!
+Initialized Admin Tickets subsystem within 18271.4 seconds!
+Initialized Mentor Tickets subsystem within 18271.4 seconds!
+Initialized Lighting subsystem within 18292 seconds!
+Initialized Shuttle subsystem within 18292 seconds!
+Initialized Pathfinder subsystem within 18292 seconds!
+Initialized Xenoarch subsystem within 18293.8 seconds!
+Initialized Economy subsystem within 18293.8 seconds!
+Initialized Migration subsystem within 18293.8 seconds!
+Initialized Radiation subsystem within 18294 seconds!
+Initialized Chat subsystem within 18294 seconds!
+Initializations complete within 408.5 seconds!
+## WARNING: Timer buckets has been reset, this may cause timer to lag in code/controllers/subsystems/timer.dm at line 237 src: Timer usr: .
+Game start took 0s
+## MYSQL ERROR: The operation completed successfully.
+
+## MYSQL ERROR: The operation completed successfully.
+
+[20:51:18] Runtime in unsorted.dm,1381: addtimer called with a callback assigned to a qdeleted object. In the future such timers will not be supported and may refuse to run or run with a 0 wait
+  proc name: stack trace (/proc/stack_trace)
+  src: null
+  call stack:
+  stack trace("addtimer called with a callbac...")
+   addtimer(/datum/callback (/datum/callback), 15, 0, null, "code/modules/mob/living/carbon...", 471)
+  Greyson Positronic RMB-SEC uni... (/mob/living/carbon/superior_animal/robot/greyson/roomba/gun_ba/plasma): handle attacking stance(Harden defender (/mob/living/carbon/superior_animal/xenomorph/defender), 0, 1, 1)
+  Greyson Positronic RMB-SEC uni... (/mob/living/carbon/superior_animal/robot/greyson/roomba/gun_ba/plasma): handle ai()
+  Greyson Positronic RMB-SEC uni... (/mob/living/carbon/superior_animal/robot/greyson/roomba/gun_ba/plasma): Life(2)
+  Mobs (/datum/controller/subsystem/processing/mobs): fire(1)
+  Mobs (/datum/controller/subsystem/processing/mobs): fire(1)
+  Mobs (/datum/controller/subsystem/processing/mobs): ignite(1)
+## TESTING: GC: -- [0x20162af] | /obj/effect/decal/cleanable/blood/gibs was unable to be GC'd --
+## TESTING: GC: -- [0x2016363] | /obj/effect/decal/cleanable/blood/gibs was unable to be GC'd --
+## TESTING: GC: -- [0x2016391] | /obj/effect/decal/cleanable/blood/gibs was unable to be GC'd --
+## TESTING: GC: -- [0x2016394] | /obj/effect/decal/cleanable/blood/gibs was unable to be GC'd --
+## TESTING: GC: -- [0x20164bf] | /obj/effect/decal/cleanable/blood/gibs was unable to be GC'd --
+## TESTING: GC: -- [0x20164c2] | /obj/effect/decal/cleanable/blood/gibs was unable to be GC'd --
+## TESTING: GC: -- [0x201651b] | /obj/effect/decal/cleanable/blood/gibs was unable to be GC'd --
+## TESTING: GC: -- [0x20165d5] | /obj/effect/decal/cleanable/blood/gibs was unable to be GC'd --
+## TESTING: GC: -- [0x2016612] | /obj/effect/decal/cleanable/blood/gibs was unable to be GC'd --
+## TESTING: GC: -- [0x2016643] | /obj/effect/decal/cleanable/blood/gibs was unable to be GC'd --
+## TESTING: GC: -- [0x2016644] | /obj/effect/decal/cleanable/blood/gibs was unable to be GC'd --
+## TESTING: GC: -- [0x201667c] | /obj/effect/decal/cleanable/blood/gibs was unable to be GC'd --
+## TESTING: GC: -- [0x20168ae] | /obj/effect/decal/cleanable/blood/gibs was unable to be GC'd --
+## TESTING: GC: -- [0x20168e9] | /obj/effect/decal/cleanable/blood/gibs was unable to be GC'd --
+## TESTING: GC: -- [0x2016924] | /obj/effect/decal/cleanable/blood/gibs was unable to be GC'd --
+## TESTING: GC: -- [0x2016a5d] | /obj/effect/decal/cleanable/blood/gibs was unable to be GC'd --
+## TESTING: GC: -- [0x2016abf] | /obj/effect/decal/cleanable/blood/gibs was unable to be GC'd --
+## TESTING: GC: -- [0x2016b51] | /obj/effect/decal/cleanable/blood/gibs was unable to be GC'd --
+## TESTING: GC: -- [0x2016ba8] | /obj/effect/decal/cleanable/blood/gibs was unable to be GC'd --
+## TESTING: GC: -- [0x2016bd6] | /obj/effect/decal/cleanable/blood/gibs was unable to be GC'd --
+## TESTING: GC: -- [0x2016beb] | /obj/effect/decal/cleanable/blood/gibs was unable to be GC'd --
+## TESTING: GC: -- [0x2033230] | /obj/machinery/atmospherics/pipe/simple/hidden/scrubbers was unable to be GC'd --
+## TESTING: GC: -- [0x2033386] | /obj/machinery/atmospherics/pipe/simple/hidden/supply was unable to be GC'd --
+## TESTING: GC: -- [0x20331d6] | /obj/machinery/atmospherics/pipe/simple/hidden/scrubbers was unable to be GC'd --
+## TESTING: GC: -- [0x2033228] | /obj/machinery/atmospherics/pipe/simple/hidden/supply was unable to be GC'd --
+## TESTING: GC: -- [0x2033049] | /obj/machinery/atmospherics/pipe/simple/hidden/scrubbers was unable to be GC'd --
+## TESTING: GC: -- [0x2033203] | /obj/machinery/atmospherics/pipe/simple/hidden/supply was unable to be GC'd --
+## TESTING: GC: -- [0x2032d9f] | /obj/machinery/atmospherics/pipe/simple/hidden was unable to be GC'd --
+## TESTING: GC: -- [0x2032eb7] | /obj/machinery/atmospherics/pipe/simple/hidden was unable to be GC'd --
+## TESTING: GC: -- [0x20333e8] | /obj/machinery/atmospherics/pipe/simple/visible/yellow was unable to be GC'd --
+## TESTING: GC: -- [0x20334fc] | /obj/machinery/atmospherics/pipe/simple/visible/yellow was unable to be GC'd --
+## TESTING: GC: -- [0x203354c] | /obj/machinery/atmospherics/pipe/simple/hidden/supply was unable to be GC'd --
+## TESTING: GC: -- [0x20334e3] | /obj/machinery/atmospherics/pipe/simple/hidden/scrubbers was unable to be GC'd --
+## TESTING: GC: -- [0x2033762] | /obj/machinery/atmospherics/pipe/simple/hidden was unable to be GC'd --
+## TESTING: GC: -- [0x2033760] | /obj/machinery/atmospherics/pipe/simple/hidden was unable to be GC'd --
+## TESTING: GC: -- [0x20337d4] | /obj/machinery/atmospherics/pipe/simple/hidden/scrubbers was unable to be GC'd --
+## TESTING: GC: -- [0x20337d5] | /obj/machinery/atmospherics/pipe/simple/hidden/supply was unable to be GC'd --
+## TESTING: GC: -- [0x20337db] | /obj/machinery/atmospherics/pipe/simple/hidden/scrubbers was unable to be GC'd --
+## TESTING: GC: -- [0x20337dc] | /obj/machinery/atmospherics/pipe/simple/hidden/supply was unable to be GC'd --
+## TESTING: GC: -- [0x2033725] | /obj/machinery/atmospherics/pipe/simple/hidden/scrubbers was unable to be GC'd --
+## TESTING: GC: -- [0x20337a0] | /obj/machinery/atmospherics/pipe/simple/hidden/supply was unable to be GC'd --
+## TESTING: GC: -- [0x20337cd] | /obj/machinery/atmospherics/pipe/simple/visible/yellow was unable to be GC'd --
+## TESTING: GC: -- [0x20337a5] | /obj/machinery/atmospherics/pipe/simple/visible/yellow was unable to be GC'd --
+## TESTING: GC: -- [0x203379b] | /obj/machinery/atmospherics/pipe/simple/hidden/supply was unable to be GC'd --
+## TESTING: GC: -- [0x2033801] | /obj/machinery/atmospherics/pipe/simple/hidden/scrubbers was unable to be GC'd --
+## TESTING: GC: -- [0x203380e] | /obj/machinery/atmospherics/pipe/simple/hidden/supply was unable to be GC'd --
+## TESTING: GC: -- [0x203381b] | /obj/machinery/atmospherics/pipe/simple/hidden/scrubbers was unable to be GC'd --
+## TESTING: GC: -- [0x2033816] | /obj/machinery/atmospherics/pipe/simple/hidden/supply was unable to be GC'd --
+## TESTING: GC: -- [0x2033812] | /obj/machinery/atmospherics/pipe/simple/hidden/scrubbers was unable to be GC'd --
+## TESTING: GC: -- [0x20337fa] | /obj/machinery/atmospherics/pipe/simple/hidden/supply was unable to be GC'd --
+## TESTING: GC: -- [0x20337f9] | /obj/machinery/atmospherics/pipe/simple/hidden/scrubbers was unable to be GC'd --
+## TESTING: GC: -- [0x20337ea] | /obj/machinery/atmospherics/pipe/simple/visible/yellow was unable to be GC'd --
+## TESTING: GC: -- [0x203381a] | /obj/machinery/atmospherics/pipe/simple/hidden/supply was unable to be GC'd --
+## TESTING: GC: -- [0x2033832] | /obj/machinery/atmospherics/pipe/simple/hidden/scrubbers was unable to be GC'd --
+## TESTING: GC: -- [0x2033807] | /obj/machinery/atmospherics/pipe/simple/visible/yellow was unable to be GC'd --
+## TESTING: GC: -- [0x20338e0] | /obj/machinery/atmospherics/pipe/simple/hidden/scrubbers was unable to be GC'd --
+## TESTING: GC: -- [0x20338e1] | /obj/machinery/atmospherics/pipe/simple/hidden/supply was unable to be GC'd --
+## TESTING: GC: -- [0x20338e7] | /obj/machinery/atmospherics/pipe/simple/hidden/scrubbers was unable to be GC'd --
+## TESTING: GC: -- [0x20338e8] | /obj/machinery/atmospherics/pipe/simple/hidden/supply was unable to be GC'd --
+## TESTING: GC: -- [0x20338ef] | /obj/machinery/atmospherics/pipe/simple/hidden/scrubbers was unable to be GC'd --
+## TESTING: GC: -- [0x20338f0] | /obj/machinery/atmospherics/pipe/simple/hidden/supply was unable to be GC'd --
+## TESTING: GC: -- [0x20338fa] | /obj/machinery/atmospherics/pipe/simple/hidden/supply was unable to be GC'd --
+## TESTING: GC: -- [0x20338fb] | /obj/machinery/atmospherics/pipe/simple/hidden/scrubbers was unable to be GC'd --
+## TESTING: GC: -- [0x20338e4] | /obj/machinery/atmospherics/pipe/simple/hidden/supply was unable to be GC'd --
+## TESTING: GC: -- [0x20338dd] | /obj/machinery/atmospherics/pipe/simple/hidden/scrubbers was unable to be GC'd --
+## TESTING: GC: -- [0x2033917] | /obj/machinery/atmospherics/pipe/simple/hidden/supply was unable to be GC'd --
+## TESTING: GC: -- [0x2033918] | /obj/machinery/atmospherics/pipe/simple/hidden/scrubbers was unable to be GC'd --
+## TESTING: GC: -- [0x2033949] | /obj/machinery/atmospherics/pipe/simple/hidden/red was unable to be GC'd --
+## TESTING: GC: -- [0x2033963] | /obj/machinery/atmospherics/pipe/simple/hidden/red was unable to be GC'd --
+## TESTING: GC: -- [0x20339a0] | /obj/machinery/atmospherics/pipe/simple/hidden/scrubbers was unable to be GC'd --
+## TESTING: GC: -- [0x20339a1] | /obj/machinery/atmospherics/pipe/simple/hidden/supply was unable to be GC'd --
+## TESTING: GC: -- [0x20339aa] | /obj/machinery/atmospherics/pipe/simple/hidden/scrubbers was unable to be GC'd --
+## TESTING: GC: -- [0x20339ab] | /obj/machinery/atmospherics/pipe/simple/hidden/supply was unable to be GC'd --
+## TESTING: GC: -- [0x20339b3] | /obj/machinery/atmospherics/pipe/simple/hidden/scrubbers was unable to be GC'd --
+## TESTING: GC: -- [0x20339b4] | /obj/machinery/atmospherics/pipe/simple/hidden/supply was unable to be GC'd --
+## TESTING: GC: -- [0x2033a44] | /obj/machinery/atmospherics/pipe/simple/visible/yellow was unable to be GC'd --
+## TESTING: GC: -- [0x2033a40] | /obj/machinery/atmospherics/pipe/simple/hidden/supply was unable to be GC'd --
+## TESTING: GC: -- [0x2033a3f] | /obj/machinery/atmospherics/pipe/simple/hidden/scrubbers was unable to be GC'd --
+## TESTING: GC: -- [0x2033a3a] | /obj/machinery/atmospherics/pipe/simple/visible/yellow was unable to be GC'd --
+## TESTING: GC: -- [0x2033b31] | /obj/machinery/atmospherics/pipe/simple/hidden/scrubbers was unable to be GC'd --
+## TESTING: GC: -- [0x2033b30] | /obj/machinery/atmospherics/pipe/simple/hidden/supply was unable to be GC'd --
+## TESTING: GC: -- [0x203398b] | /obj/machinery/atmospherics/pipe/simple/hidden/scrubbers was unable to be GC'd --
+## TESTING: GC: -- [0x2033abd] | /obj/machinery/atmospherics/pipe/simple/hidden/supply was unable to be GC'd --
+## TESTING: GC: -- [0x2033b1f] | /obj/machinery/atmospherics/pipe/simple/hidden/scrubbers was unable to be GC'd --
+## TESTING: GC: -- [0x2033b1c] | /obj/machinery/atmospherics/pipe/simple/hidden/supply was unable to be GC'd --
+## TESTING: GC: -- [0x2105f2af] | /datum/radio_frequency was unable to be GC'd --
+## TESTING: GC: -- [0x2037252] | /obj/item/tank/oxygen was unable to be GC'd --
+## TESTING: GC: -- [0x2083e81] | /obj/machinery/atmospherics/pipe/simple/visible/yellow was unable to be GC'd --
+## TESTING: GC: -- [0x3000bda] | /mob/living/carbon/superior_animal/roach was unable to be GC'd --
+## TESTING: GC: -- [0x2083fd1] | /obj/machinery/atmospherics/pipe/simple/visible/yellow was unable to be GC'd --
+## TESTING: GC: -- [0x2083e06] | /obj/machinery/atmospherics/pipe/simple/visible/yellow was unable to be GC'd --
+## TESTING: GC: -- [0x2083f37] | /obj/machinery/atmospherics/pipe/simple/visible/yellow was unable to be GC'd --
+## TESTING: GC: -- [0x2083d04] | /obj/machinery/atmospherics/pipe/simple/visible/yellow was unable to be GC'd --
+## TESTING: GC: -- [0x2084523] | /obj/machinery/atmospherics/pipe/simple/visible/yellow was unable to be GC'd --
+## TESTING: GC: -- [0x2083d1e] | /obj/machinery/atmospherics/pipe/simple/visible/yellow was unable to be GC'd --
+## TESTING: GC: -- [0x2083c6d] | /obj/machinery/atmospherics/pipe/simple/visible/yellow was unable to be GC'd --
+## TESTING: GC: -- [0x2083af1] | /obj/machinery/atmospherics/pipe/simple/visible/yellow was unable to be GC'd --
+## TESTING: GC: -- [0x2084be7] | /obj/machinery/atmospherics/pipe/simple/visible/yellow was unable to be GC'd --
+## TESTING: GC: -- [0x2084991] | /obj/machinery/atmospherics/pipe/simple/visible/yellow was unable to be GC'd --
+## TESTING: GC: -- [0x2083bf9] | /obj/machinery/atmospherics/pipe/simple/visible/yellow was unable to be GC'd --
+## TESTING: GC: -- [0x2083ad3] | /obj/machinery/atmospherics/pipe/simple/visible/yellow was unable to be GC'd --
+## TESTING: GC: -- [0x20847b8] | /obj/machinery/atmospherics/pipe/simple/visible/yellow was unable to be GC'd --
+## TESTING: GC: -- [0x20847be] | /obj/machinery/atmospherics/pipe/simple/visible/yellow was unable to be GC'd --
+## TESTING: GC: -- [0x20847f2] | /obj/machinery/atmospherics/pipe/simple/visible/yellow was unable to be GC'd --
+## TESTING: GC: -- [0x20839e1] | /obj/machinery/atmospherics/pipe/simple/visible/yellow was unable to be GC'd --
+## TESTING: GC: -- [0x2083a28] | /obj/machinery/atmospherics/pipe/simple/visible/yellow was unable to be GC'd --
+## TESTING: GC: -- [0x208398f] | /obj/machinery/atmospherics/pipe/simple/visible/yellow was unable to be GC'd --
+## TESTING: GC: -- [0x20839aa] | /obj/machinery/atmospherics/pipe/simple/visible/yellow was unable to be GC'd --
+## TESTING: GC: -- [0x208490f] | /obj/machinery/atmospherics/pipe/simple/visible/yellow was unable to be GC'd --
+## TESTING: GC: -- [0x2084930] | /obj/machinery/atmospherics/pipe/simple/visible/yellow was unable to be GC'd --
+## TESTING: GC: -- [0x2084a7e] | /obj/machinery/atmospherics/pipe/simple/visible/yellow was unable to be GC'd --
+## TESTING: GC: -- [0x2083cbe] | /obj/machinery/atmospherics/pipe/simple/visible/yellow was unable to be GC'd --
+## TESTING: GC: -- [0x2084bb7] | /obj/machinery/atmospherics/pipe/simple/visible/yellow was unable to be GC'd --
+## TESTING: GC: -- [0x2084b5e] | /obj/machinery/atmospherics/pipe/simple/visible/yellow was unable to be GC'd --
+## TESTING: GC: -- [0x208497b] | /obj/machinery/atmospherics/pipe/simple/visible/yellow was unable to be GC'd --
+## TESTING: GC: -- [0x20849ad] | /obj/machinery/atmospherics/pipe/simple/visible/yellow was unable to be GC'd --
+## TESTING: GC: -- [0x2084a28] | /obj/machinery/atmospherics/pipe/simple/visible/yellow was unable to be GC'd --
+## TESTING: GC: -- [0x2084a38] | /obj/machinery/atmospherics/pipe/simple/visible/yellow was unable to be GC'd --
+## TESTING: GC: -- [0x2084a68] | /obj/machinery/atmospherics/pipe/simple/visible/yellow was unable to be GC'd --
+## TESTING: GC: -- [0x2083c17] | /obj/machinery/atmospherics/pipe/simple/visible/yellow was unable to be GC'd --
+## TESTING: GC: -- [0x2083ad5] | /obj/machinery/atmospherics/pipe/simple/visible/yellow was unable to be GC'd --
+## TESTING: GC: -- [0x2083e54] | /obj/machinery/atmospherics/pipe/simple/visible/yellow was unable to be GC'd --
+## TESTING: GC: -- [0x2083ed9] | /obj/machinery/atmospherics/pipe/simple/visible/yellow was unable to be GC'd --
+## TESTING: GC: -- [0x2083f0f] | /obj/machinery/atmospherics/pipe/simple/visible/yellow was unable to be GC'd --
+## TESTING: GC: -- [0x2083e92] | /obj/machinery/atmospherics/pipe/simple/visible/yellow was unable to be GC'd --
+## TESTING: GC: -- [0x2083f9e] | /obj/machinery/atmospherics/pipe/simple/visible/yellow was unable to be GC'd --
+## TESTING: GC: -- [0x2083cea] | /obj/machinery/atmospherics/pipe/simple/visible/yellow was unable to be GC'd --
+## TESTING: GC: -- [0x2084550] | /obj/machinery/atmospherics/pipe/simple/visible/yellow was unable to be GC'd --
+## TESTING: GC: -- [0x20842d8] | /obj/machinery/atmospherics/pipe/simple/visible/yellow was unable to be GC'd --
+## TESTING: GC: -- [0x2083c04] | /obj/machinery/atmospherics/pipe/simple/visible/yellow was unable to be GC'd --
+## TESTING: GC: -- [0x2084b45] | /obj/machinery/atmospherics/pipe/simple/visible/yellow was unable to be GC'd --
+## TESTING: GC: -- [0x2084988] | /obj/machinery/atmospherics/pipe/simple/visible/yellow was unable to be GC'd --
+## TESTING: GC: -- [0x2084aaa] | /obj/machinery/atmospherics/pipe/simple/visible/yellow was unable to be GC'd --
+## TESTING: GC: -- [0x2083c23] | /obj/machinery/atmospherics/pipe/simple/visible/yellow was unable to be GC'd --
+## TESTING: GC: -- [0x2084b99] | /obj/machinery/atmospherics/pipe/simple/visible/yellow was unable to be GC'd --
+## TESTING: GC: -- [0x20847e5] | /obj/machinery/atmospherics/pipe/simple/visible/yellow was unable to be GC'd --
+## TESTING: GC: -- [0x2083a3c] | /obj/machinery/atmospherics/pipe/simple/visible/yellow was unable to be GC'd --
+## TESTING: GC: -- [0x20839f6] | /obj/machinery/atmospherics/pipe/simple/visible/yellow was unable to be GC'd --
+## TESTING: GC: -- [0x20839a9] | /obj/machinery/atmospherics/pipe/simple/visible/yellow was unable to be GC'd --
+## TESTING: GC: -- [0x20847bc] | /obj/machinery/atmospherics/pipe/simple/visible/yellow was unable to be GC'd --
+## TESTING: GC: -- [0x20847ba] | /obj/machinery/atmospherics/pipe/simple/visible/yellow was unable to be GC'd --
+## TESTING: GC: -- [0x2083977] | /obj/machinery/atmospherics/pipe/simple/visible/yellow was unable to be GC'd --
+## TESTING: GC: -- [0x2084934] | /obj/machinery/atmospherics/pipe/simple/visible/yellow was unable to be GC'd --
+## TESTING: GC: -- [0x2084a75] | /obj/machinery/atmospherics/pipe/simple/visible/yellow was unable to be GC'd --
+## TESTING: GC: -- [0x2084a84] | /obj/machinery/atmospherics/pipe/simple/visible/yellow was unable to be GC'd --
+## TESTING: GC: -- [0x2083c3b] | /obj/machinery/atmospherics/pipe/simple/visible/yellow was unable to be GC'd --
+## TESTING: GC: -- [0x2084a02] | /obj/machinery/atmospherics/pipe/simple/visible/yellow was unable to be GC'd --
+## TESTING: GC: -- [0x2084bd1] | /obj/machinery/atmospherics/pipe/simple/visible/yellow was unable to be GC'd --
+## TESTING: GC: -- [0x2084980] | /obj/machinery/atmospherics/pipe/simple/visible/yellow was unable to be GC'd --
+## TESTING: GC: -- [0x20849b1] | /obj/machinery/atmospherics/pipe/simple/visible/yellow was unable to be GC'd --
+## TESTING: GC: -- [0x2084a2c] | /obj/machinery/atmospherics/pipe/simple/visible/yellow was unable to be GC'd --
+## TESTING: GC: -- [0x2084a5b] | /obj/machinery/atmospherics/pipe/simple/visible/yellow was unable to be GC'd --
+## TESTING: GC: -- [0x2084a6f] | /obj/machinery/atmospherics/pipe/simple/visible/yellow was unable to be GC'd --
+## TESTING: GC: -- [0x2083b35] | /obj/machinery/atmospherics/pipe/simple/visible/yellow was unable to be GC'd --
+[20:58:31] Runtime in unsorted.dm,1381: addtimer called with a callback assigned to a qdeleted object. In the future such timers will not be supported and may refuse to run or run with a 0 wait
+  proc name: stack trace (/proc/stack_trace)
+  src: null
+  call stack:
+  stack trace("addtimer called with a callbac...")
+   addtimer(/datum/callback (/datum/callback), 15, 0, null, "code/modules/mob/living/carbon...", 471)
+  Unarmored Durable \"Iron Lock ... (/mob/living/carbon/superior_animal/robot/greyson/stalker): handle attacking stance(Harden defiler (/mob/living/carbon/superior_animal/xenomorph/warrior/defiler), 0, 1, 1)
+  Unarmored Durable \"Iron Lock ... (/mob/living/carbon/superior_animal/robot/greyson/stalker): handle ai()
+  Unarmored Durable \"Iron Lock ... (/mob/living/carbon/superior_animal/robot/greyson/stalker): Life(2)
+  Mobs (/datum/controller/subsystem/processing/mobs): fire(1)
+  Mobs (/datum/controller/subsystem/processing/mobs): fire(1)
+  Mobs (/datum/controller/subsystem/processing/mobs): ignite(1)
+## TESTING: GC: -- [0x30014ae] | /mob/living/simple_animal/hostile/naniteswarm was unable to be GC'd --
+## TESTING: GC: -- [0x300141c] | /mob/living/carbon/superior_animal/psi_monster/thought_melter was unable to be GC'd --
+## TESTING: GC: -- [0x30005cf] | /mob/living/carbon/superior_animal/roach/support was unable to be GC'd --
+## TESTING: GC: -- [0x300147d] | /mob/living/carbon/superior_animal/psi_monster was unable to be GC'd --
+## TESTING: GC: -- [0x3000630] | /mob/living/carbon/superior_animal/roach/hunter was unable to be GC'd --
+## TESTING: GC: -- [0x300001c] | /mob/living/carbon/superior_animal/giant_spider/nurse was unable to be GC'd --
+## TESTING: GC: -- [0x3000572] | /mob/living/carbon/superior_animal/roach was unable to be GC'd --
+## TESTING: GC: -- [0x3000bc2] | /mob/living/carbon/superior_animal/roach/tank was unable to be GC'd --
+## TESTING: GC: -- [0x3000baf] | /mob/living/carbon/superior_animal/roach/hunter was unable to be GC'd --
+## TESTING: GC: -- [0x3000bc4] | /mob/living/carbon/superior_animal/roach/tank was unable to be GC'd --
+## TESTING: GC: -- [0x3000bc8] | /mob/living/carbon/superior_animal/roach/tank was unable to be GC'd --
+## TESTING: GC: -- [0x3000582] | /mob/living/carbon/superior_animal/giant_spider was unable to be GC'd --
+## TESTING: GC: -- [0x3000584] | /mob/living/carbon/superior_animal/giant_spider/hunter/viper was unable to be GC'd --
+## TESTING: GC: -- [0x30000a1] | /mob/living/simple_animal/hostile/retaliate/malf_drone was unable to be GC'd --
+## TESTING: GC: -- [0x300009a] | /mob/living/simple_animal/hostile/retaliate/malf_drone was unable to be GC'd --
+## TESTING: GC: -- [0x30005d6] | /mob/living/carbon/superior_animal/roach was unable to be GC'd --
+## TESTING: GC: -- [0x3000b76] | /mob/living/carbon/superior_animal/roach was unable to be GC'd --
+## TESTING: GC: -- [0x3000be2] | /mob/living/carbon/superior_animal/roach/toxic was unable to be GC'd --
+## TESTING: GC: -- [0x3000647] | /mob/living/carbon/superior_animal/roach/glowing was unable to be GC'd --
+## TESTING: GC: -- [0x3000593] | /mob/living/carbon/superior_animal/roach/support was unable to be GC'd --

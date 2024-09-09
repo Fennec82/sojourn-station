@@ -1,0 +1,384 @@
+
+
+Starting up. (ID: cqd-aVuP) 01:03.34
+---------------------
+[01:03:34] cqd-aVuP MISC: Saved storyteller is 'healer'
+[01:03:34] cqd-aVuP ADMIN: Loading jobban_rank
+[01:03:34] cqd-aVuP ADMIN: jobban_keylist was empty
+[01:03:34] cqd-aVuP ADMIN: Loading Banlist
+[01:05:24] cqd-aVuP ADMIN: Sybil Alliman try find_inv_position a 14, but not have that slot!
+[01:05:24] cqd-aVuP ADMIN: Sybil Alliman try find_inv_position a 11, but not have that slot!
+[01:05:24] cqd-aVuP ADMIN: Sybil Alliman try find_inv_position a 13, but not have that slot!
+[01:05:24] cqd-aVuP ADMIN: Sybil Alliman try find_inv_position a 12, but not have that slot!
+[01:05:24] cqd-aVuP ADMIN: Zane Pinney try find_inv_position a 14, but not have that slot!
+[01:05:24] cqd-aVuP ADMIN: Zane Pinney try find_inv_position a 11, but not have that slot!
+[01:05:24] cqd-aVuP ADMIN: Zane Pinney try find_inv_position a 13, but not have that slot!
+[01:05:24] cqd-aVuP ADMIN: Zane Pinney try find_inv_position a 12, but not have that slot!
+[01:05:24] cqd-aVuP ADMIN: Reid Werner try find_inv_position a 14, but not have that slot!
+[01:05:24] cqd-aVuP ADMIN: Reid Werner try find_inv_position a 11, but not have that slot!
+[01:05:24] cqd-aVuP ADMIN: Reid Werner try find_inv_position a 13, but not have that slot!
+[01:05:24] cqd-aVuP ADMIN: Reid Werner try find_inv_position a 12, but not have that slot!
+[01:05:24] cqd-aVuP ADMIN: Brayden Laborde try find_inv_position a 14, but not have that slot!
+[01:05:24] cqd-aVuP ADMIN: Brayden Laborde try find_inv_position a 11, but not have that slot!
+[01:05:24] cqd-aVuP ADMIN: Brayden Laborde try find_inv_position a 13, but not have that slot!
+[01:05:24] cqd-aVuP ADMIN: Brayden Laborde try find_inv_position a 12, but not have that slot!
+[01:05:24] cqd-aVuP ADMIN: Rocco Stall try find_inv_position a 14, but not have that slot!
+[01:05:24] cqd-aVuP ADMIN: Rocco Stall try find_inv_position a 11, but not have that slot!
+[01:05:24] cqd-aVuP ADMIN: Rocco Stall try find_inv_position a 13, but not have that slot!
+[01:05:24] cqd-aVuP ADMIN: Rocco Stall try find_inv_position a 12, but not have that slot!
+[01:05:25] cqd-aVuP ADMIN: Sam Evans try find_inv_position a 14, but not have that slot!
+[01:05:25] cqd-aVuP ADMIN: Sam Evans try find_inv_position a 11, but not have that slot!
+[01:05:25] cqd-aVuP ADMIN: Sam Evans try find_inv_position a 13, but not have that slot!
+[01:05:25] cqd-aVuP ADMIN: Sam Evans try find_inv_position a 12, but not have that slot!
+[01:07:47] cqd-aVuP GAME: onestar 2 loaded at at 71,86,19
+[01:07:47] cqd-aVuP GAME: onestar 1 loaded at at 86,41,19
+[01:07:48] cqd-aVuP GAME: onestar 1 loaded at at 86,16,19
+[01:07:49] cqd-aVuP GAME: onestar 3 loaded at at 31,11,19
+[01:07:49] cqd-aVuP GAME: neutral 2 loaded at at 56,51,19
+[01:07:49] cqd-aVuP GAME: neutral 2 loaded at at 71,46,19
+[01:07:49] cqd-aVuP GAME: neutral 4 loaded at at 66,66,19
+[01:07:49] cqd-aVuP GAME: neutral 9 loaded at at 26,36,19
+[01:07:49] cqd-aVuP GAME: neutral 2 loaded at at 81,51,19
+[01:07:49] cqd-aVuP GAME: neutral 10 loaded at at 76,81,19
+[01:07:49] cqd-aVuP GAME: neutral 1 loaded at at 51,76,19
+[01:07:49] cqd-aVuP GAME: neutral 3 loaded at at 21,76,19
+[01:07:49] cqd-aVuP GAME: neutral 1 loaded at at 71,36,19
+[01:07:49] cqd-aVuP GAME: neutral 3 loaded at at 66,46,19
+[01:07:49] cqd-aVuP GAME: neutral 2 loaded at at 71,81,19
+[01:07:49] cqd-aVuP GAME: neutral 7 loaded at at 101,81,19
+[01:07:49] cqd-aVuP GAME: neutral 6 loaded at at 81,16,19
+[01:07:49] cqd-aVuP GAME: neutral 1 loaded at at 106,106,19
+[01:07:49] cqd-aVuP GAME: neutral 4 loaded at at 76,21,19
+[01:07:49] cqd-aVuP GAME: neutral 6 loaded at at 16,51,19
+[01:07:50] cqd-aVuP GAME: neutral 5 loaded at at 16,21,19
+[01:07:50] cqd-aVuP GAME: neutral 9 loaded at at 61,56,19
+[01:07:50] cqd-aVuP GAME: neutral 11 loaded at at 56,11,19
+[01:07:50] cqd-aVuP GAME: neutral 1 loaded at at 96,106,19
+[01:07:50] cqd-aVuP GAME: neutral 9 loaded at at 36,101,19
+[01:07:50] cqd-aVuP GAME: neutral 3 loaded at at 46,96,19
+[01:07:50] cqd-aVuP GAME: neutral 11 loaded at at 31,56,19
+[01:07:50] cqd-aVuP GAME: neutral 3 loaded at at 26,11,19
+[01:07:50] cqd-aVuP GAME: neutral 6 loaded at at 101,71,19
+[01:07:50] cqd-aVuP GAME: neutral 8 loaded at at 66,81,19
+[01:07:50] cqd-aVuP GAME: neutral 3 loaded at at 21,31,19
+[01:07:50] cqd-aVuP GAME: neutral 10 loaded at at 56,26,19
+[01:07:50] cqd-aVuP GAME: neutral 9 loaded at at 21,21,19
+[01:07:50] cqd-aVuP GAME: neutral 9 loaded at at 11,96,19
+[01:07:50] cqd-aVuP GAME: neutral 1 loaded at at 61,56,19
+[01:07:50] cqd-aVuP GAME: neutral 5 loaded at at 41,11,19
+[01:07:50] cqd-aVuP GAME: neutral 10 loaded at at 26,66,19
+[01:07:50] cqd-aVuP GAME: neutral 9 loaded at at 46,106,19
+[01:07:50] cqd-aVuP GAME: neutral 6 loaded at at 101,41,19
+[01:08:04] cqd-aVuP GAME: Emitter deleted at (0,0,0)
+[01:08:56] cqd-aVuP ASSET: ERROR: Invalid asset: /datum/asset/simple/craft:obj_item_stack_cable_coil.png:1
+[01:09:00] cqd-aVuP ASSET: ERROR: Invalid asset: /datum/asset/simple/craft:obj_item_clothing_glasses_powered_meson.png:1
+[01:09:01] cqd-aVuP ASSET: ERROR: Invalid asset: /datum/asset/simple/craft:obj_item_gun_projectile_boltgun_lever.png:1
+[01:09:01] cqd-aVuP ASSET: ERROR: Invalid asset: /datum/asset/simple/craft:obj_item_gun_projectile_automatic_sts_rifle.png:1
+[01:09:02] cqd-aVuP ASSET: ERROR: Invalid asset: /datum/asset/simple/craft:obj_item_modular_computer_laptop.png:1
+[01:09:48] cqd-aVuP GAME: Entrance - 1 loaded at at 197,137,20
+[01:09:49] cqd-aVuP GAME: checkpoint_horizontal loaded at at 184,137,20
+[01:09:49] cqd-aVuP GAME: crematorium loaded at at 171,137,20
+[01:09:49] cqd-aVuP GAME: Escape_Pod_West-East loaded at at 158,137,20
+[01:09:50] cqd-aVuP GAME: secure_storage_horizontal loaded at at 145,137,20
+[01:09:50] cqd-aVuP GAME: showers loaded at at 132,137,20
+[01:09:50] cqd-aVuP GAME: crematorium loaded at at 119,137,20
+[01:09:51] cqd-aVuP GAME: secure_storage_horizontal loaded at at 106,137,20
+[01:09:51] cqd-aVuP GAME: Hallway_4way loaded at at 93,137,20
+[01:09:52] cqd-aVuP GAME: Escape_Pod_West-East loaded at at 80,137,20
+[01:09:52] cqd-aVuP GAME: checkpoint_horizontal loaded at at 67,137,20
+[01:09:52] cqd-aVuP GAME: crematorium loaded at at 54,137,20
+[01:09:53] cqd-aVuP GAME: crematorium loaded at at 41,137,20
+[01:09:53] cqd-aVuP GAME: Hallway_4way loaded at at 28,137,20
+[01:09:53] cqd-aVuP GAME: penitentiary loaded at at 15,137,20
+[01:09:54] cqd-aVuP GAME: Hallway_4way loaded at at 2,137,20
+[01:09:54] cqd-aVuP GAME: Hallway_4way loaded at at 2,128,20
+[01:09:55] cqd-aVuP GAME: Hallway_4way loaded at at 15,128,20
+[01:09:55] cqd-aVuP GAME: crematorium loaded at at 28,128,20
+[01:09:55] cqd-aVuP GAME: showers loaded at at 41,128,20
+[01:09:56] cqd-aVuP GAME: penitentiary loaded at at 54,128,20
+[01:09:56] cqd-aVuP GAME: showers loaded at at 67,128,20
+[01:09:57] cqd-aVuP GAME: showers loaded at at 80,128,20
+[01:09:57] cqd-aVuP GAME: Escape_Pod_West-East loaded at at 93,128,20
+[01:09:57] cqd-aVuP GAME: garden loaded at at 93,119,20
+[01:09:59] cqd-aVuP GAME: garden loaded at at 106,119,20
+[01:09:59] cqd-aVuP GAME: Escape_Pod_West-East loaded at at 106,110,20
+[01:09:59] cqd-aVuP GAME: garden loaded at at 106,101,20
+[01:10:00] cqd-aVuP GAME: crematorium loaded at at 119,101,20
+[01:10:00] cqd-aVuP GAME: hallwayatmos_west-east loaded at at 132,101,20
+[01:10:00] cqd-aVuP GAME: crematorium loaded at at 145,101,20
+[01:10:01] cqd-aVuP GAME: Escape_Pod_West-East loaded at at 158,101,20
+[01:10:01] cqd-aVuP GAME: garden loaded at at 171,101,20
+[01:10:01] cqd-aVuP GAME: penitentiary loaded at at 184,101,20
+[01:10:02] cqd-aVuP GAME: Hallway_4way loaded at at 197,101,20
+[01:10:03] cqd-aVuP GAME: Escape_Pod_West-East loaded at at 197,92,20
+[01:10:03] cqd-aVuP GAME: garden loaded at at 184,92,20
+[01:10:04] cqd-aVuP GAME: Escape_Pod_West-East loaded at at 171,92,20
+[01:10:04] cqd-aVuP GAME: Escape_Pod_West-East loaded at at 158,92,20
+[01:10:04] cqd-aVuP GAME: showers loaded at at 145,92,20
+[01:10:05] cqd-aVuP GAME: crematorium loaded at at 132,92,20
+[01:10:05] cqd-aVuP GAME: Escape_Pod_West-East loaded at at 119,92,20
+[01:10:06] cqd-aVuP GAME: Hallway_4way loaded at at 106,92,20
+[01:10:06] cqd-aVuP GAME: garden loaded at at 106,83,20
+[01:10:06] cqd-aVuP GAME: crematorium loaded at at 93,83,20
+[01:10:07] cqd-aVuP GAME: garden loaded at at 80,83,20
+[01:10:08] cqd-aVuP GAME: Escape_Pod_West-East loaded at at 80,74,20
+[01:10:09] cqd-aVuP GAME: Hallway_4way loaded at at 93,74,20
+[01:10:09] cqd-aVuP GAME: garden loaded at at 93,65,20
+[01:10:09] cqd-aVuP GAME: garden loaded at at 106,65,20
+[01:10:10] cqd-aVuP GAME: Escape_Pod_West-East loaded at at 106,56,20
+[01:10:11] cqd-aVuP GAME: showers loaded at at 93,56,20
+[01:10:11] cqd-aVuP GAME: Hallway_4way loaded at at 80,56,20
+[01:10:11] cqd-aVuP GAME: hallwayatmos_west-east loaded at at 67,56,20
+[01:10:12] cqd-aVuP GAME: Escape_Pod_West-East loaded at at 54,56,20
+[01:10:12] cqd-aVuP GAME: garden loaded at at 54,47,20
+[01:10:13] cqd-aVuP GAME: crematorium loaded at at 67,47,20
+[01:10:13] cqd-aVuP GAME: showers loaded at at 80,47,20
+[01:10:13] cqd-aVuP GAME: secure_storage_horizontal loaded at at 93,47,20
+[01:10:14] cqd-aVuP GAME: secure_storage_horizontal loaded at at 106,47,20
+[01:10:14] cqd-aVuP GAME: garden loaded at at 119,47,20
+[01:10:15] cqd-aVuP GAME: Escape_Pod_West-East loaded at at 132,47,20
+[01:10:15] cqd-aVuP GAME: garden loaded at at 145,47,20
+[01:10:15] cqd-aVuP GAME: garden loaded at at 158,47,20
+[01:10:16] cqd-aVuP GAME: garden loaded at at 171,47,20
+[01:10:16] cqd-aVuP GAME: Escape_Pod_West-East loaded at at 184,47,20
+[01:10:17] cqd-aVuP GAME: crematorium loaded at at 197,47,20
+[01:10:18] cqd-aVuP GAME: Escape_Pod_West-East loaded at at 197,38,20
+[01:10:18] cqd-aVuP GAME: checkpoint_horizontal loaded at at 184,38,20
+[01:10:19] cqd-aVuP GAME: Escape_Pod_West-East loaded at at 171,38,20
+[01:10:19] cqd-aVuP GAME: checkpoint_vertical loaded at at 171,29,20
+[01:10:19] cqd-aVuP GAME: Hallway_4way loaded at at 171,20,20
+[01:10:20] cqd-aVuP GAME: hallwayatmos_west-east loaded at at 158,20,20
+[01:10:20] cqd-aVuP GAME: Hallway_4way loaded at at 145,20,20
+[01:10:21] cqd-aVuP GAME: crematorium loaded at at 132,20,20
+[01:10:21] cqd-aVuP GAME: Escape_Pod_West-East loaded at at 119,20,20
+[01:10:22] cqd-aVuP GAME: archive loaded at at 106,73,21
+[01:10:22] cqd-aVuP GAME: maintenance asteroid loaded at at 44,45,21
+[01:10:22] cqd-aVuP GAME: dinner loaded at at 34,104,21
+[01:10:23] cqd-aVuP GAME: lab5 loaded at at 115,43,21
+[01:10:23] cqd-aVuP GAME: medbay loaded at at 71,90,21
+[01:10:24] cqd-aVuP GAME: Lab2 loaded at at 107,97,21
+[01:10:24] cqd-aVuP GAME: crematorium loaded at at 106,20,20
+[01:10:25] cqd-aVuP GAME: Hallway_4way loaded at at 106,11,20
+[01:10:27] cqd-aVuP GAME: garden loaded at at 93,11,20
+[01:10:28] cqd-aVuP GAME: Escape_Pod_West-East loaded at at 93,2,20
+[01:10:29] cqd-aVuP GAME: Escape_Pod_West-East loaded at at 106,2,20
+[01:10:29] cqd-aVuP GAME: hallwayatmos_west-east loaded at at 119,2,20
+[01:10:29] cqd-aVuP GAME: Hallway_4way loaded at at 132,2,20
+[01:10:30] cqd-aVuP GAME: showers loaded at at 145,2,20
+[01:10:30] cqd-aVuP GAME: Hallway_4way loaded at at 158,2,20
+[01:10:30] cqd-aVuP GAME: secure_storage_horizontal loaded at at 171,2,20
+[01:10:31] cqd-aVuP GAME: Hallway_4way loaded at at 184,2,20
+[01:10:31] cqd-aVuP GAME: Exit - 1 loaded at at 197,2,20
+[01:10:57] cqd-aVuP GAME: armory_secure loaded at at 119,11,20
+[01:10:57] cqd-aVuP GAME: mechbay loaded at at 93,101,20
+[01:11:00] cqd-aVuP GAME: armory loaded at at 2,119,20
+[01:11:01] cqd-aVuP GAME: shooting_range loaded at at 171,11,20
+[01:11:04] cqd-aVuP GAME: office loaded at at 41,47,20
+[01:11:05] cqd-aVuP GAME: shooting_range loaded at at 171,110,20
+[01:11:06] cqd-aVuP GAME: armory loaded at at 28,119,20
+[01:11:07] cqd-aVuP GAME: commanderoffice loaded at at 158,38,20
+[01:11:09] cqd-aVuP GAME: shooting_range loaded at at 67,38,20
+[01:11:10] cqd-aVuP GAME: shooting_range loaded at at 158,128,20
+[01:11:10] cqd-aVuP GAME: shooting_range loaded at at 119,83,20
+[01:11:15] cqd-aVuP GAME: cargo_vertical loaded at at 158,110,20
+[01:11:18] cqd-aVuP GAME: shooting_range loaded at at 119,56,20
+[01:11:18] cqd-aVuP GAME: armory loaded at at 197,128,20
+[01:11:21] cqd-aVuP GAME: shooting_range loaded at at 197,11,20
+[01:11:21] cqd-aVuP GAME: cargo_horizontal loaded at at 184,20,20
+[01:11:24] cqd-aVuP GAME: armory_secure loaded at at 106,74,20
+[01:11:25] cqd-aVuP GAME: shooting_range loaded at at 119,38,20
+[01:11:29] cqd-aVuP GAME: surgery loaded at at 119,74,20
+[01:11:32] cqd-aVuP GAME: mechbay loaded at at 98,148,21
+[01:11:32] cqd-aVuP GAME: mechbay loaded at at 145,133,21
+[01:11:32] cqd-aVuP GAME: storage loaded at at 138,81,21
+[01:11:32] cqd-aVuP GAME: a lost roach loaded at at 12,80,21
+[01:11:32] cqd-aVuP GAME: Medical supplies loaded at at 62,21,21
+[01:11:32] cqd-aVuP GAME: freezer loaded at at 11,46,21
+[01:11:33] cqd-aVuP GAME: library loaded at at 115,154,21
+[01:11:33] cqd-aVuP GAME: library loaded at at 25,82,21
+[01:11:33] cqd-aVuP GAME: barricades loaded at at 125,122,21
+[01:11:33] cqd-aVuP GAME: hydro loaded at at 142,103,21
+[01:11:33] cqd-aVuP GAME: cryo loaded at at 83,34,21
+[01:11:33] cqd-aVuP GAME: toilet loaded at at 84,149,21
+[01:11:33] cqd-aVuP GAME: hydro loaded at at 150,28,21
+[01:11:33] cqd-aVuP GAME: barricades loaded at at 57,141,21
+[01:11:33] cqd-aVuP GAME: cryo loaded at at 29,24,21
+[01:11:34] cqd-aVuP GAME: cryo loaded at at 17,112,21
+[01:11:34] cqd-aVuP GAME: anomalysci loaded at at 41,139,21
+[01:11:34] cqd-aVuP GAME: storage loaded at at 133,29,21
+[01:11:34] cqd-aVuP GAME: storage loaded at at 12,93,21
+[01:11:34] cqd-aVuP GAME: catwalks loaded at at 86,131,21
+[01:11:34] cqd-aVuP GAME: freezer loaded at at 29,54,21
+[01:11:34] cqd-aVuP GAME: freezer loaded at at 144,152,21
+[01:11:34] cqd-aVuP GAME: mechbay loaded at at 25,39,21
+[01:11:34] cqd-aVuP GAME: storage loaded at at 45,29,21
+[01:11:35] cqd-aVuP GAME: cryo loaded at at 111,29,21
+[01:11:35] cqd-aVuP GAME: Medical supplies loaded at at 20,126,21
+[01:11:35] cqd-aVuP GAME: anomalysci loaded at at 140,60,21
+[01:11:35] cqd-aVuP GAME: cryo loaded at at 55,74,21
+[01:11:35] cqd-aVuP GAME: mechbay loaded at at 96,36,21
+[01:11:35] cqd-aVuP GAME: sm_core loaded at at 79,113,21
+[01:11:35] cqd-aVuP GAME: anomaly loaded at at 158,119,20
+[01:11:36] cqd-aVuP GAME: shooting_range loaded at at 119,65,20
+[01:11:37] cqd-aVuP GAME: office loaded at at 67,74,20
+[01:11:44] cqd-aVuP GAME: surgery loaded at at 171,119,20
+[01:11:52] cqd-aVuP GAME: blocker loaded at at 106,128,20
+[01:11:52] cqd-aVuP GAME: blocker loaded at at 119,128,20
+[01:11:52] cqd-aVuP GAME: blocker loaded at at 132,128,20
+[01:11:52] cqd-aVuP GAME: blocker loaded at at 145,128,20
+[01:11:52] cqd-aVuP GAME: blocker loaded at at 171,128,20
+[01:11:53] cqd-aVuP GAME: blocker loaded at at 184,128,20
+[01:11:53] cqd-aVuP GAME: blocker loaded at at 15,119,20
+[01:11:53] cqd-aVuP GAME: blocker loaded at at 41,119,20
+[01:11:53] cqd-aVuP GAME: blocker loaded at at 54,119,20
+[01:11:53] cqd-aVuP GAME: blocker loaded at at 67,119,20
+[01:11:53] cqd-aVuP GAME: blocker loaded at at 80,119,20
+[01:11:53] cqd-aVuP GAME: blocker loaded at at 119,119,20
+[01:11:53] cqd-aVuP GAME: blocker loaded at at 132,119,20
+[01:11:53] cqd-aVuP GAME: blocker loaded at at 145,119,20
+[01:11:53] cqd-aVuP GAME: blocker loaded at at 184,119,20
+[01:11:53] cqd-aVuP GAME: blocker loaded at at 197,119,20
+[01:11:53] cqd-aVuP GAME: blocker loaded at at 2,110,20
+[01:11:53] cqd-aVuP GAME: blocker loaded at at 15,110,20
+[01:11:53] cqd-aVuP GAME: blocker loaded at at 28,110,20
+[01:11:53] cqd-aVuP GAME: blocker loaded at at 41,110,20
+[01:11:53] cqd-aVuP GAME: blocker loaded at at 54,110,20
+[01:11:53] cqd-aVuP GAME: blocker loaded at at 67,110,20
+[01:11:53] cqd-aVuP GAME: blocker loaded at at 80,110,20
+[01:11:54] cqd-aVuP GAME: blocker loaded at at 93,110,20
+[01:11:54] cqd-aVuP GAME: blocker loaded at at 119,110,20
+[01:11:54] cqd-aVuP GAME: blocker loaded at at 132,110,20
+[01:11:54] cqd-aVuP GAME: blocker loaded at at 145,110,20
+[01:11:54] cqd-aVuP GAME: blocker loaded at at 184,110,20
+[01:11:54] cqd-aVuP GAME: blocker loaded at at 197,110,20
+[01:11:54] cqd-aVuP GAME: blocker loaded at at 2,101,20
+[01:11:54] cqd-aVuP GAME: blocker loaded at at 15,101,20
+[01:11:54] cqd-aVuP GAME: blocker loaded at at 28,101,20
+[01:11:54] cqd-aVuP GAME: blocker loaded at at 41,101,20
+[01:11:54] cqd-aVuP GAME: blocker loaded at at 54,101,20
+[01:11:54] cqd-aVuP GAME: blocker loaded at at 67,101,20
+[01:11:54] cqd-aVuP GAME: blocker loaded at at 80,101,20
+[01:11:54] cqd-aVuP GAME: blocker loaded at at 2,92,20
+[01:11:54] cqd-aVuP GAME: blocker loaded at at 15,92,20
+[01:11:54] cqd-aVuP GAME: blocker loaded at at 28,92,20
+[01:11:54] cqd-aVuP GAME: blocker loaded at at 41,92,20
+[01:11:54] cqd-aVuP GAME: blocker loaded at at 54,92,20
+[01:11:54] cqd-aVuP GAME: blocker loaded at at 67,92,20
+[01:11:55] cqd-aVuP GAME: blocker loaded at at 80,92,20
+[01:11:55] cqd-aVuP GAME: blocker loaded at at 93,92,20
+[01:11:55] cqd-aVuP GAME: blocker loaded at at 2,83,20
+[01:11:55] cqd-aVuP GAME: blocker loaded at at 15,83,20
+[01:11:55] cqd-aVuP GAME: blocker loaded at at 28,83,20
+[01:11:55] cqd-aVuP GAME: blocker loaded at at 41,83,20
+[01:11:55] cqd-aVuP GAME: blocker loaded at at 54,83,20
+[01:11:55] cqd-aVuP GAME: blocker loaded at at 67,83,20
+[01:11:55] cqd-aVuP GAME: blocker loaded at at 132,83,20
+[01:11:55] cqd-aVuP GAME: blocker loaded at at 145,83,20
+[01:11:55] cqd-aVuP GAME: blocker loaded at at 158,83,20
+[01:11:55] cqd-aVuP GAME: blocker loaded at at 171,83,20
+[01:11:55] cqd-aVuP GAME: blocker loaded at at 184,83,20
+[01:11:55] cqd-aVuP GAME: blocker loaded at at 197,83,20
+[01:11:55] cqd-aVuP GAME: blocker loaded at at 2,74,20
+[01:11:55] cqd-aVuP GAME: blocker loaded at at 15,74,20
+[01:11:55] cqd-aVuP GAME: blocker loaded at at 28,74,20
+[01:11:55] cqd-aVuP GAME: blocker loaded at at 41,74,20
+[01:11:55] cqd-aVuP GAME: blocker loaded at at 54,74,20
+[01:11:56] cqd-aVuP GAME: blocker loaded at at 132,74,20
+[01:11:56] cqd-aVuP GAME: blocker loaded at at 145,74,20
+[01:11:56] cqd-aVuP GAME: blocker loaded at at 158,74,20
+[01:11:56] cqd-aVuP GAME: blocker loaded at at 171,74,20
+[01:11:56] cqd-aVuP GAME: blocker loaded at at 184,74,20
+[01:11:56] cqd-aVuP GAME: blocker loaded at at 197,74,20
+[01:11:56] cqd-aVuP GAME: blocker loaded at at 2,65,20
+[01:11:56] cqd-aVuP GAME: blocker loaded at at 15,65,20
+[01:11:56] cqd-aVuP GAME: blocker loaded at at 28,65,20
+[01:11:56] cqd-aVuP GAME: blocker loaded at at 41,65,20
+[01:11:56] cqd-aVuP GAME: blocker loaded at at 54,65,20
+[01:11:56] cqd-aVuP GAME: blocker loaded at at 67,65,20
+[01:11:56] cqd-aVuP GAME: blocker loaded at at 80,65,20
+[01:11:56] cqd-aVuP GAME: blocker loaded at at 132,65,20
+[01:11:56] cqd-aVuP GAME: blocker loaded at at 145,65,20
+[01:11:56] cqd-aVuP GAME: blocker loaded at at 158,65,20
+[01:11:56] cqd-aVuP GAME: blocker loaded at at 171,65,20
+[01:11:56] cqd-aVuP GAME: blocker loaded at at 184,65,20
+[01:11:56] cqd-aVuP GAME: blocker loaded at at 197,65,20
+[01:11:56] cqd-aVuP GAME: blocker loaded at at 2,56,20
+[01:11:56] cqd-aVuP GAME: blocker loaded at at 15,56,20
+[01:11:57] cqd-aVuP GAME: blocker loaded at at 28,56,20
+[01:11:57] cqd-aVuP GAME: blocker loaded at at 41,56,20
+[01:11:57] cqd-aVuP GAME: blocker loaded at at 132,56,20
+[01:11:57] cqd-aVuP GAME: blocker loaded at at 145,56,20
+[01:11:57] cqd-aVuP GAME: blocker loaded at at 158,56,20
+[01:11:57] cqd-aVuP GAME: blocker loaded at at 171,56,20
+[01:11:57] cqd-aVuP GAME: blocker loaded at at 184,56,20
+[01:11:57] cqd-aVuP GAME: blocker loaded at at 197,56,20
+[01:11:57] cqd-aVuP GAME: blocker loaded at at 2,47,20
+[01:11:57] cqd-aVuP GAME: blocker loaded at at 15,47,20
+[01:11:57] cqd-aVuP GAME: blocker loaded at at 28,47,20
+[01:11:57] cqd-aVuP GAME: blocker loaded at at 2,38,20
+[01:11:57] cqd-aVuP GAME: blocker loaded at at 15,38,20
+[01:11:57] cqd-aVuP GAME: blocker loaded at at 28,38,20
+[01:11:57] cqd-aVuP GAME: blocker loaded at at 41,38,20
+[01:11:57] cqd-aVuP GAME: blocker loaded at at 54,38,20
+[01:11:57] cqd-aVuP GAME: blocker loaded at at 80,38,20
+[01:11:57] cqd-aVuP GAME: blocker loaded at at 93,38,20
+[01:11:58] cqd-aVuP GAME: blocker loaded at at 106,38,20
+[01:11:58] cqd-aVuP GAME: blocker loaded at at 132,38,20
+[01:11:58] cqd-aVuP GAME: blocker loaded at at 145,38,20
+[01:11:58] cqd-aVuP GAME: blocker loaded at at 2,29,20
+[01:11:58] cqd-aVuP GAME: blocker loaded at at 15,29,20
+[01:11:58] cqd-aVuP GAME: blocker loaded at at 28,29,20
+[01:11:58] cqd-aVuP GAME: blocker loaded at at 41,29,20
+[01:11:58] cqd-aVuP GAME: blocker loaded at at 54,29,20
+[01:11:58] cqd-aVuP GAME: blocker loaded at at 67,29,20
+[01:11:58] cqd-aVuP GAME: blocker loaded at at 80,29,20
+[01:11:58] cqd-aVuP GAME: blocker loaded at at 93,29,20
+[01:11:58] cqd-aVuP GAME: blocker loaded at at 106,29,20
+[01:11:58] cqd-aVuP GAME: blocker loaded at at 119,29,20
+[01:11:58] cqd-aVuP GAME: blocker loaded at at 132,29,20
+[01:11:58] cqd-aVuP GAME: blocker loaded at at 145,29,20
+[01:11:58] cqd-aVuP GAME: blocker loaded at at 158,29,20
+[01:11:58] cqd-aVuP GAME: blocker loaded at at 184,29,20
+[01:11:59] cqd-aVuP GAME: blocker loaded at at 197,29,20
+[01:11:59] cqd-aVuP GAME: blocker loaded at at 2,20,20
+[01:11:59] cqd-aVuP GAME: blocker loaded at at 15,20,20
+[01:11:59] cqd-aVuP GAME: blocker loaded at at 28,20,20
+[01:11:59] cqd-aVuP GAME: blocker loaded at at 41,20,20
+[01:11:59] cqd-aVuP GAME: blocker loaded at at 54,20,20
+[01:11:59] cqd-aVuP GAME: blocker loaded at at 67,20,20
+[01:11:59] cqd-aVuP GAME: blocker loaded at at 80,20,20
+[01:11:59] cqd-aVuP GAME: blocker loaded at at 93,20,20
+[01:11:59] cqd-aVuP GAME: blocker loaded at at 197,20,20
+[01:11:59] cqd-aVuP GAME: blocker loaded at at 2,11,20
+[01:11:59] cqd-aVuP GAME: blocker loaded at at 15,11,20
+[01:11:59] cqd-aVuP GAME: blocker loaded at at 28,11,20
+[01:11:59] cqd-aVuP GAME: blocker loaded at at 41,11,20
+[01:11:59] cqd-aVuP GAME: blocker loaded at at 54,11,20
+[01:11:59] cqd-aVuP GAME: blocker loaded at at 67,11,20
+[01:11:59] cqd-aVuP GAME: blocker loaded at at 80,11,20
+[01:11:59] cqd-aVuP GAME: blocker loaded at at 132,11,20
+[01:11:59] cqd-aVuP GAME: blocker loaded at at 145,11,20
+[01:12:00] cqd-aVuP GAME: blocker loaded at at 158,11,20
+[01:12:00] cqd-aVuP GAME: blocker loaded at at 184,11,20
+[01:12:00] cqd-aVuP GAME: blocker loaded at at 2,2,20
+[01:12:00] cqd-aVuP GAME: blocker loaded at at 15,2,20
+[01:12:00] cqd-aVuP GAME: blocker loaded at at 28,2,20
+[01:12:00] cqd-aVuP GAME: blocker loaded at at 41,2,20
+[01:12:00] cqd-aVuP GAME: blocker loaded at at 54,2,20
+[01:12:00] cqd-aVuP GAME: blocker loaded at at 67,2,20
+[01:12:00] cqd-aVuP GAME: blocker loaded at at 80,2,20
+[16:12:15] cqd-aVuP ACCESS: Login: SandPoot/() from 177.235.249.153-2060186634 || BYOND v514.1589
+[16:12:15] cqd-aVuP ACCESS: Login: SandPoot/(/(SandPoot)) from 177.235.249.153-2060186634 || BYOND v514
+[16:12:16] cqd-aVuP DEBUG: Could not find style "ErisStyle" for /mob/new_player.
+[16:12:16] cqd-aVuP ACCESS: Login: SandPoot/(/(SandPoot)) from 177.235.249.153-2060186634 || BYOND v514
+[16:12:19] cqd-aVuP VOTE: Storyteller vote started by server.
+[16:13:02] cqd-aVuP ACCESS: Logout: SandPoot/(/(SandPoot))
+[16:13:02] cqd-aVuP ACCESS: Logout: SandPoot[DC]/(/(SandPoot))
+[16:14:30] cqd-aVuP VOTE: <b>Votes:</b><br><b>	The Guide - 0 vote.<br></b>	The Jester - 0 vote.<br>	Ghost Town - 0 vote.<br>	The Mime - 0 vote.<br>	The Sleeper - 0 vote.<br>	The Healer - 0 vote.<br>	The Warrior - 0 vote.<br>	The Chronicler - 0 vote.<br>	Did not vote - 0<br>
+[20:57:52] cqd-aVuP ADMIN: EVENT *null* has loaded a character.
+[20:57:53] cqd-aVuP ACCESS: Login: RiotScopez/() from 146.115.147.185-1871707424 || BYOND v514.1582
+[20:57:53] cqd-aVuP ACCESS: Login: RiotScopez/(/(RiotScopez)) from 146.115.147.185-1871707424 || BYOND v514
+[20:57:56] cqd-aVuP DEBUG: Could not find style "ErisStyle" for /mob/new_player.
+[20:57:56] cqd-aVuP ACCESS: Login: RiotScopez/(/(RiotScopez)) from 146.115.147.185-1871707424 || BYOND v514
+[20:58:07] cqd-aVuP ACCESS: Logout: RiotScopez/(/(RiotScopez))
+[20:58:07] cqd-aVuP ACCESS: Logout: RiotScopez[DC]/(/(RiotScopez))

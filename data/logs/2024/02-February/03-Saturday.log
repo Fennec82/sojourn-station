@@ -1,0 +1,373 @@
+
+
+Starting up. (ID: cr6-a0fd) 01:31.41
+---------------------
+[01:31:41] cr6-a0fd MISC: Saved storyteller is 'healer'
+[01:31:41] cr6-a0fd ADMIN: Loading jobban_rank
+[01:31:41] cr6-a0fd ADMIN: jobban_keylist was empty
+[01:31:41] cr6-a0fd ADMIN: Loading Banlist
+[01:33:31] cr6-a0fd ADMIN: Godwin Harrison try find_inv_position a 14, but not have that slot!
+[01:33:31] cr6-a0fd ADMIN: Godwin Harrison try find_inv_position a 11, but not have that slot!
+[01:33:31] cr6-a0fd ADMIN: Godwin Harrison try find_inv_position a 13, but not have that slot!
+[01:33:31] cr6-a0fd ADMIN: Godwin Harrison try find_inv_position a 12, but not have that slot!
+[01:33:31] cr6-a0fd EMOTE: Jared Edwards/ : screams!
+[01:33:31] cr6-a0fd EMOTE: Jared Edwards/ : <B>Jared Edwards</B> screams!
+[01:33:31] cr6-a0fd EMOTE: Jared Edwards/ : screams!
+[01:33:31] cr6-a0fd EMOTE: Jared Edwards/ : <B>Jared Edwards</B> screams!
+[01:33:31] cr6-a0fd ADMIN: Jared Edwards try find_inv_position a 14, but not have that slot!
+[01:33:31] cr6-a0fd ADMIN: Jared Edwards try find_inv_position a 11, but not have that slot!
+[01:33:31] cr6-a0fd ADMIN: Jared Edwards try find_inv_position a 13, but not have that slot!
+[01:33:31] cr6-a0fd ADMIN: Jared Edwards try find_inv_position a 12, but not have that slot!
+[01:33:31] cr6-a0fd ADMIN: Maddox Kuster try find_inv_position a 14, but not have that slot!
+[01:33:31] cr6-a0fd ADMIN: Maddox Kuster try find_inv_position a 11, but not have that slot!
+[01:33:31] cr6-a0fd ADMIN: Maddox Kuster try find_inv_position a 13, but not have that slot!
+[01:33:31] cr6-a0fd ADMIN: Maddox Kuster try find_inv_position a 12, but not have that slot!
+[01:33:32] cr6-a0fd ADMIN: Jonathon Martins try find_inv_position a 14, but not have that slot!
+[01:33:32] cr6-a0fd ADMIN: Jonathon Martins try find_inv_position a 11, but not have that slot!
+[01:33:32] cr6-a0fd ADMIN: Jonathon Martins try find_inv_position a 13, but not have that slot!
+[01:33:32] cr6-a0fd ADMIN: Jonathon Martins try find_inv_position a 12, but not have that slot!
+[01:33:32] cr6-a0fd ADMIN: Isaias Boyer try find_inv_position a 14, but not have that slot!
+[01:33:32] cr6-a0fd ADMIN: Isaias Boyer try find_inv_position a 11, but not have that slot!
+[01:33:32] cr6-a0fd ADMIN: Isaias Boyer try find_inv_position a 13, but not have that slot!
+[01:33:32] cr6-a0fd ADMIN: Isaias Boyer try find_inv_position a 12, but not have that slot!
+[01:33:32] cr6-a0fd ADMIN: Mario Kiefer try find_inv_position a 14, but not have that slot!
+[01:33:32] cr6-a0fd ADMIN: Mario Kiefer try find_inv_position a 11, but not have that slot!
+[01:33:32] cr6-a0fd ADMIN: Mario Kiefer try find_inv_position a 13, but not have that slot!
+[01:33:32] cr6-a0fd ADMIN: Mario Kiefer try find_inv_position a 12, but not have that slot!
+[01:35:59] cr6-a0fd GAME: neutral 2 loaded at at 56,71,19
+[01:36:00] cr6-a0fd GAME: neutral 2 loaded at at 76,26,19
+[01:36:00] cr6-a0fd GAME: neutral 2 loaded at at 66,26,19
+[01:36:01] cr6-a0fd GAME: neutral 3 loaded at at 41,16,19
+[01:36:01] cr6-a0fd GAME: neutral 10 loaded at at 101,51,19
+[01:36:01] cr6-a0fd GAME: neutral 4 loaded at at 106,101,19
+[01:36:01] cr6-a0fd GAME: neutral 4 loaded at at 81,11,19
+[01:36:01] cr6-a0fd GAME: neutral 5 loaded at at 51,56,19
+[01:36:01] cr6-a0fd GAME: neutral 3 loaded at at 26,46,19
+[01:36:01] cr6-a0fd GAME: neutral 7 loaded at at 56,101,19
+[01:36:01] cr6-a0fd GAME: neutral 8 loaded at at 36,16,19
+[01:36:01] cr6-a0fd GAME: neutral 8 loaded at at 21,91,19
+[01:36:01] cr6-a0fd GAME: neutral 5 loaded at at 106,41,19
+[01:36:01] cr6-a0fd GAME: neutral 4 loaded at at 46,91,19
+[01:36:01] cr6-a0fd GAME: neutral 7 loaded at at 51,76,19
+[01:36:01] cr6-a0fd GAME: neutral 8 loaded at at 76,106,19
+[01:36:01] cr6-a0fd GAME: neutral 9 loaded at at 81,51,19
+[01:36:01] cr6-a0fd GAME: neutral 11 loaded at at 81,86,19
+[01:36:01] cr6-a0fd GAME: neutral 5 loaded at at 66,101,19
+[01:36:01] cr6-a0fd GAME: neutral 1 loaded at at 106,11,19
+[01:36:01] cr6-a0fd GAME: neutral 7 loaded at at 61,41,19
+[01:36:01] cr6-a0fd GAME: neutral 11 loaded at at 86,76,19
+[01:36:02] cr6-a0fd GAME: neutral 1 loaded at at 91,11,19
+[01:36:02] cr6-a0fd GAME: neutral 9 loaded at at 66,26,19
+[01:36:02] cr6-a0fd GAME: neutral 6 loaded at at 96,96,19
+[01:36:02] cr6-a0fd GAME: neutral 11 loaded at at 16,11,19
+[01:36:02] cr6-a0fd GAME: neutral 6 loaded at at 16,71,19
+[01:36:02] cr6-a0fd GAME: neutral 7 loaded at at 71,11,19
+[01:36:02] cr6-a0fd GAME: neutral 11 loaded at at 101,96,19
+[01:36:02] cr6-a0fd GAME: neutral 6 loaded at at 21,16,19
+[01:36:02] cr6-a0fd GAME: neutral 8 loaded at at 31,46,19
+[01:36:02] cr6-a0fd GAME: neutral 8 loaded at at 51,11,19
+[01:36:02] cr6-a0fd GAME: neutral 8 loaded at at 96,91,19
+[01:36:02] cr6-a0fd GAME: neutral 1 loaded at at 106,106,19
+[01:36:02] cr6-a0fd GAME: neutral 11 loaded at at 21,31,19
+[01:36:02] cr6-a0fd GAME: neutral 3 loaded at at 56,36,19
+[01:36:02] cr6-a0fd GAME: neutral 8 loaded at at 66,76,19
+[01:36:02] cr6-a0fd GAME: neutral 9 loaded at at 56,16,19
+[01:36:02] cr6-a0fd GAME: neutral 9 loaded at at 66,16,19
+[01:36:15] cr6-a0fd GAME: Emitter deleted at (0,0,0)
+[01:37:19] cr6-a0fd ASSET: ERROR: Invalid asset: /datum/asset/simple/craft:obj_item_stack_cable_coil.png:1
+[01:37:24] cr6-a0fd ASSET: ERROR: Invalid asset: /datum/asset/simple/craft:obj_item_clothing_glasses_powered_meson.png:1
+[01:37:25] cr6-a0fd ASSET: ERROR: Invalid asset: /datum/asset/simple/craft:obj_item_gun_projectile_boltgun_lever.png:1
+[01:37:25] cr6-a0fd ASSET: ERROR: Invalid asset: /datum/asset/simple/craft:obj_item_gun_projectile_automatic_sts_rifle.png:1
+[01:37:27] cr6-a0fd ASSET: ERROR: Invalid asset: /datum/asset/simple/craft:obj_item_modular_computer_laptop.png:1
+[01:38:24] cr6-a0fd GAME: Entrance - 1 loaded at at 132,137,20
+[01:38:24] cr6-a0fd GAME: Hallway_4way loaded at at 145,137,20
+[01:38:24] cr6-a0fd GAME: penitentiary loaded at at 158,137,20
+[01:38:25] cr6-a0fd GAME: secure_storage_horizontal loaded at at 171,137,20
+[01:38:25] cr6-a0fd GAME: hallwayatmos_west-east loaded at at 184,137,20
+[01:38:26] cr6-a0fd GAME: Hallway_4way loaded at at 197,137,20
+[01:38:26] cr6-a0fd GAME: garden loaded at at 197,128,20
+[01:38:27] cr6-a0fd GAME: secure_storage_horizontal loaded at at 184,128,20
+[01:38:27] cr6-a0fd GAME: secure_storage_horizontal loaded at at 171,128,20
+[01:38:28] cr6-a0fd GAME: autolathe_South-East loaded at at 158,128,20
+[01:38:28] cr6-a0fd GAME: Hallway_4way loaded at at 158,119,20
+[01:38:28] cr6-a0fd GAME: autolathe_South-East loaded at at 145,119,20
+[01:38:29] cr6-a0fd GAME: Hallway_4way loaded at at 145,110,20
+[01:38:29] cr6-a0fd GAME: crematorium loaded at at 158,110,20
+[01:38:29] cr6-a0fd GAME: Escape_Pod_West-East loaded at at 171,110,20
+[01:38:30] cr6-a0fd GAME: secure_storage_horizontal loaded at at 184,110,20
+[01:38:30] cr6-a0fd GAME: crematorium loaded at at 197,110,20
+[01:38:31] cr6-a0fd GAME: Hallway_4way loaded at at 197,101,20
+[01:38:31] cr6-a0fd GAME: garden loaded at at 184,101,20
+[01:38:31] cr6-a0fd GAME: Escape_Pod_West-East loaded at at 171,101,20
+[01:38:32] cr6-a0fd GAME: garden loaded at at 158,101,20
+[01:38:32] cr6-a0fd GAME: garden loaded at at 145,101,20
+[01:38:33] cr6-a0fd GAME: garden loaded at at 132,101,20
+[01:38:33] cr6-a0fd GAME: crematorium loaded at at 119,101,20
+[01:38:33] cr6-a0fd GAME: hallwayatmos_west-east loaded at at 106,101,20
+[01:38:34] cr6-a0fd GAME: checkpoint_horizontal loaded at at 93,101,20
+[01:38:34] cr6-a0fd GAME: checkpoint_horizontal loaded at at 80,101,20
+[01:38:34] cr6-a0fd GAME: hallwayatmos_west-east loaded at at 67,101,20
+[01:38:35] cr6-a0fd GAME: crematorium loaded at at 54,101,20
+[01:38:35] cr6-a0fd GAME: checkpoint_horizontal loaded at at 41,101,20
+[01:38:35] cr6-a0fd GAME: crematorium loaded at at 28,101,20
+[01:38:36] cr6-a0fd GAME: crematorium loaded at at 15,101,20
+[01:38:36] cr6-a0fd GAME: crematorium loaded at at 2,101,20
+[01:38:37] cr6-a0fd GAME: garden loaded at at 2,92,20
+[01:38:37] cr6-a0fd GAME: Hallway_4way loaded at at 15,92,20
+[01:38:37] cr6-a0fd GAME: Hallway_4way loaded at at 28,92,20
+[01:38:38] cr6-a0fd GAME: penitentiary loaded at at 41,92,20
+[01:38:38] cr6-a0fd GAME: Escape_Pod_West-East loaded at at 54,92,20
+[01:38:39] cr6-a0fd GAME: crematorium loaded at at 67,92,20
+[01:38:39] cr6-a0fd GAME: Escape_Pod_West-East loaded at at 67,83,20
+[01:38:40] cr6-a0fd GAME: checkpoint_horizontal loaded at at 54,83,20
+[01:38:40] cr6-a0fd GAME: garden loaded at at 41,83,20
+[01:38:40] cr6-a0fd GAME: Hallway_4way loaded at at 28,83,20
+[01:38:41] cr6-a0fd GAME: Hallway_4way loaded at at 28,74,20
+[01:38:41] cr6-a0fd GAME: hallwayatmos_west-east loaded at at 41,74,20
+[01:38:42] cr6-a0fd GAME: secure_storage_horizontal loaded at at 54,74,20
+[01:38:42] cr6-a0fd GAME: crematorium loaded at at 67,74,20
+[01:38:43] cr6-a0fd GAME: crematorium loaded at at 80,74,20
+[01:38:43] cr6-a0fd GAME: Escape_Pod_West-East loaded at at 93,74,20
+[01:38:43] cr6-a0fd GAME: garden loaded at at 106,74,20
+[01:38:44] cr6-a0fd GAME: Escape_Pod_West-East loaded at at 106,65,20
+[01:38:44] cr6-a0fd GAME: checkpoint_horizontal loaded at at 119,65,20
+[01:38:44] cr6-a0fd GAME: garden loaded at at 132,65,20
+[01:38:45] cr6-a0fd GAME: Escape_Pod_West-East loaded at at 145,65,20
+[01:38:45] cr6-a0fd GAME: secure_storage_horizontal loaded at at 158,65,20
+[01:38:46] cr6-a0fd GAME: Escape_Pod_West-East loaded at at 171,65,20
+[01:38:46] cr6-a0fd GAME: garden loaded at at 184,65,20
+[01:38:47] cr6-a0fd GAME: Hallway_4way loaded at at 197,65,20
+[01:38:47] cr6-a0fd GAME: Hallway_4way loaded at at 197,56,20
+[01:38:48] cr6-a0fd GAME: showers loaded at at 184,56,20
+[01:38:48] cr6-a0fd GAME: Escape_Pod_West-East loaded at at 171,56,20
+[01:38:49] cr6-a0fd GAME: secure_storage_horizontal loaded at at 158,56,20
+[01:38:49] cr6-a0fd GAME: penitentiary loaded at at 145,56,20
+[01:38:49] cr6-a0fd GAME: garden loaded at at 132,56,20
+[01:38:50] cr6-a0fd GAME: crematorium loaded at at 119,56,20
+[01:38:50] cr6-a0fd GAME: Escape_Pod_West-East loaded at at 119,47,20
+[01:38:51] cr6-a0fd GAME: crematorium loaded at at 132,47,20
+[01:38:51] cr6-a0fd GAME: showers loaded at at 145,47,20
+[01:38:52] cr6-a0fd GAME: Escape_Pod_West-East loaded at at 158,47,20
+[01:38:52] cr6-a0fd GAME: crematorium loaded at at 171,47,20
+[01:38:52] cr6-a0fd GAME: Hallway_4way loaded at at 184,47,20
+[01:38:53] cr6-a0fd GAME: garden loaded at at 184,38,20
+[01:38:53] cr6-a0fd GAME: penitentiary loaded at at 171,38,20
+[01:38:54] cr6-a0fd GAME: garden loaded at at 158,38,20
+[01:38:54] cr6-a0fd GAME: Escape_Pod_West-East loaded at at 145,38,20
+[01:38:55] cr6-a0fd GAME: Escape_Pod_West-East loaded at at 132,38,20
+[01:38:56] cr6-a0fd GAME: Hallway_4way loaded at at 132,29,20
+[01:38:56] cr6-a0fd GAME: garden loaded at at 119,29,20
+[01:38:57] cr6-a0fd GAME: Hallway_4way loaded at at 119,20,20
+[01:38:57] cr6-a0fd GAME: crematorium loaded at at 132,20,20
+[01:38:58] cr6-a0fd GAME: Escape_Pod_West-East loaded at at 145,20,20
+[01:38:58] cr6-a0fd GAME: checkpoint_horizontal loaded at at 158,20,20
+[01:38:58] cr6-a0fd GAME: Escape_Pod_West-East loaded at at 171,20,20
+[01:38:59] cr6-a0fd GAME: crematorium loaded at at 184,20,20
+[01:39:00] cr6-a0fd GAME: Escape_Pod_West-East loaded at at 184,11,20
+[01:39:01] cr6-a0fd GAME: crematorium loaded at at 197,11,20
+[01:39:01] cr6-a0fd GAME: garden loaded at at 197,2,20
+[01:39:01] cr6-a0fd GAME: Exit - 1 loaded at at 184,2,20
+[01:39:26] cr6-a0fd GAME: armory loaded at at 67,65,20
+[01:39:26] cr6-a0fd GAME: surgery loaded at at 158,92,20
+[01:39:28] cr6-a0fd GAME: anomaly loaded at at 184,29,20
+[01:39:30] cr6-a0fd GAME: cargo_vertical loaded at at 171,74,20
+[01:39:32] cr6-a0fd GAME: vault loaded at at 86,87,21
+[01:39:33] cr6-a0fd GAME: dinner loaded at at 64,59,21
+[01:39:33] cr6-a0fd GAME: medbay loaded at at 104,48,21
+[01:39:34] cr6-a0fd GAME: Lab loaded at at 40,39,21
+[01:39:34] cr6-a0fd GAME: dinner loaded at at 36,76,21
+[01:39:34] cr6-a0fd GAME: maintenance asteroid loaded at at 62,35,21
+[01:39:35] cr6-a0fd GAME: shooting_range loaded at at 184,74,20
+[01:39:36] cr6-a0fd GAME: armory_secure loaded at at 197,20,20
+[01:39:38] cr6-a0fd GAME: armory loaded at at 145,29,20
+[01:39:39] cr6-a0fd GAME: anomaly loaded at at 15,83,20
+[01:39:39] cr6-a0fd GAME: surgery loaded at at 197,47,20
+[01:39:41] cr6-a0fd GAME: armory_secure loaded at at 171,119,20
+[01:39:43] cr6-a0fd GAME: commanderoffice loaded at at 93,65,20
+[01:39:49] cr6-a0fd GAME: armory loaded at at 132,128,20
+[01:39:51] cr6-a0fd GAME: armory loaded at at 2,83,20
+[01:39:56] cr6-a0fd GAME: shooting_range loaded at at 171,92,20
+[01:39:56] cr6-a0fd GAME: refinery loaded at at 132,110,20
+[01:39:59] cr6-a0fd GAME: cargo_horizontal loaded at at 197,38,20
+[01:39:59] cr6-a0fd GAME: shooting_range loaded at at 132,74,20
+[01:40:04] cr6-a0fd GAME: armory loaded at at 171,11,20
+[01:40:06] cr6-a0fd GAME: cargo_vertical loaded at at 171,29,20
+[01:40:07] cr6-a0fd GAME: armory_secure loaded at at 119,74,20
+[01:40:19] cr6-a0fd GAME: armory_secure loaded at at 80,92,20
+[01:40:26] cr6-a0fd GAME: cargo_vertical loaded at at 145,74,20
+[01:40:28] cr6-a0fd GAME: anomaly loaded at at 197,119,20
+[01:40:31] cr6-a0fd GAME: shooting_range loaded at at 106,56,20
+[01:40:33] cr6-a0fd GAME: surgery loaded at at 106,47,20
+[01:40:33] cr6-a0fd GAME: refinery loaded at at 119,38,20
+[01:40:34] cr6-a0fd GAME: anomaly loaded at at 28,65,20
+[01:40:38] cr6-a0fd GAME: anomaly loaded at at 145,128,20
+[01:40:42] cr6-a0fd GAME: office loaded at at 15,74,20
+[01:40:43] cr6-a0fd GAME: shooting_range loaded at at 119,92,20
+[01:40:51] cr6-a0fd GAME: surgery loaded at at 106,38,20
+[01:40:51] cr6-a0fd GAME: shooting_range loaded at at 132,92,20
+[01:40:54] cr6-a0fd GAME: blocker loaded at at 2,137,20
+[01:40:54] cr6-a0fd GAME: blocker loaded at at 15,137,20
+[01:40:54] cr6-a0fd GAME: blocker loaded at at 28,137,20
+[01:40:54] cr6-a0fd GAME: blocker loaded at at 41,137,20
+[01:40:54] cr6-a0fd GAME: blocker loaded at at 54,137,20
+[01:40:54] cr6-a0fd GAME: blocker loaded at at 67,137,20
+[01:40:54] cr6-a0fd GAME: blocker loaded at at 80,137,20
+[01:40:54] cr6-a0fd GAME: blocker loaded at at 93,137,20
+[01:40:54] cr6-a0fd GAME: blocker loaded at at 106,137,20
+[01:40:54] cr6-a0fd GAME: blocker loaded at at 119,137,20
+[01:40:54] cr6-a0fd GAME: blocker loaded at at 2,128,20
+[01:40:54] cr6-a0fd GAME: blocker loaded at at 15,128,20
+[01:40:54] cr6-a0fd GAME: blocker loaded at at 28,128,20
+[01:40:54] cr6-a0fd GAME: blocker loaded at at 41,128,20
+[01:40:55] cr6-a0fd GAME: blocker loaded at at 54,128,20
+[01:40:55] cr6-a0fd GAME: blocker loaded at at 67,128,20
+[01:40:55] cr6-a0fd GAME: blocker loaded at at 80,128,20
+[01:40:55] cr6-a0fd GAME: blocker loaded at at 93,128,20
+[01:40:55] cr6-a0fd GAME: blocker loaded at at 106,128,20
+[01:40:55] cr6-a0fd GAME: blocker loaded at at 119,128,20
+[01:40:55] cr6-a0fd GAME: blocker loaded at at 2,119,20
+[01:40:55] cr6-a0fd GAME: blocker loaded at at 15,119,20
+[01:40:55] cr6-a0fd GAME: blocker loaded at at 28,119,20
+[01:40:55] cr6-a0fd GAME: blocker loaded at at 41,119,20
+[01:40:55] cr6-a0fd GAME: blocker loaded at at 54,119,20
+[01:40:55] cr6-a0fd GAME: blocker loaded at at 67,119,20
+[01:40:55] cr6-a0fd GAME: blocker loaded at at 80,119,20
+[01:40:55] cr6-a0fd GAME: blocker loaded at at 93,119,20
+[01:40:55] cr6-a0fd GAME: blocker loaded at at 106,119,20
+[01:40:55] cr6-a0fd GAME: blocker loaded at at 119,119,20
+[01:40:55] cr6-a0fd GAME: blocker loaded at at 132,119,20
+[01:40:55] cr6-a0fd GAME: blocker loaded at at 184,119,20
+[01:40:56] cr6-a0fd GAME: blocker loaded at at 2,110,20
+[01:40:56] cr6-a0fd GAME: blocker loaded at at 15,110,20
+[01:40:56] cr6-a0fd GAME: blocker loaded at at 28,110,20
+[01:40:56] cr6-a0fd GAME: blocker loaded at at 41,110,20
+[01:40:56] cr6-a0fd GAME: blocker loaded at at 54,110,20
+[01:40:56] cr6-a0fd GAME: blocker loaded at at 67,110,20
+[01:40:56] cr6-a0fd GAME: blocker loaded at at 80,110,20
+[01:40:56] cr6-a0fd GAME: blocker loaded at at 93,110,20
+[01:40:56] cr6-a0fd GAME: blocker loaded at at 106,110,20
+[01:40:56] cr6-a0fd GAME: blocker loaded at at 119,110,20
+[01:40:56] cr6-a0fd GAME: blocker loaded at at 93,92,20
+[01:40:56] cr6-a0fd GAME: blocker loaded at at 106,92,20
+[01:40:56] cr6-a0fd GAME: blocker loaded at at 145,92,20
+[01:40:56] cr6-a0fd GAME: blocker loaded at at 184,92,20
+[01:40:57] cr6-a0fd GAME: blocker loaded at at 197,92,20
+[01:40:57] cr6-a0fd GAME: blocker loaded at at 80,83,20
+[01:40:57] cr6-a0fd GAME: blocker loaded at at 93,83,20
+[01:40:57] cr6-a0fd GAME: blocker loaded at at 106,83,20
+[01:40:57] cr6-a0fd GAME: blocker loaded at at 119,83,20
+[01:40:57] cr6-a0fd GAME: blocker loaded at at 132,83,20
+[01:40:57] cr6-a0fd GAME: blocker loaded at at 145,83,20
+[01:40:57] cr6-a0fd GAME: blocker loaded at at 158,83,20
+[01:40:57] cr6-a0fd GAME: blocker loaded at at 171,83,20
+[01:40:57] cr6-a0fd GAME: blocker loaded at at 184,83,20
+[01:40:57] cr6-a0fd GAME: blocker loaded at at 197,83,20
+[01:40:57] cr6-a0fd GAME: blocker loaded at at 2,74,20
+[01:40:57] cr6-a0fd GAME: blocker loaded at at 158,74,20
+[01:40:58] cr6-a0fd GAME: blocker loaded at at 197,74,20
+[01:40:58] cr6-a0fd GAME: blocker loaded at at 2,65,20
+[01:40:58] cr6-a0fd GAME: blocker loaded at at 15,65,20
+[01:40:58] cr6-a0fd GAME: blocker loaded at at 41,65,20
+[01:40:58] cr6-a0fd GAME: blocker loaded at at 54,65,20
+[01:40:58] cr6-a0fd GAME: blocker loaded at at 80,65,20
+[01:40:58] cr6-a0fd GAME: blocker loaded at at 2,56,20
+[01:40:58] cr6-a0fd GAME: blocker loaded at at 15,56,20
+[01:40:58] cr6-a0fd GAME: blocker loaded at at 28,56,20
+[01:40:58] cr6-a0fd GAME: blocker loaded at at 41,56,20
+[01:40:58] cr6-a0fd GAME: blocker loaded at at 54,56,20
+[01:40:58] cr6-a0fd GAME: blocker loaded at at 67,56,20
+[01:40:58] cr6-a0fd GAME: blocker loaded at at 80,56,20
+[01:40:58] cr6-a0fd GAME: blocker loaded at at 93,56,20
+[01:40:58] cr6-a0fd GAME: blocker loaded at at 2,47,20
+[01:40:58] cr6-a0fd GAME: blocker loaded at at 15,47,20
+[01:40:58] cr6-a0fd GAME: blocker loaded at at 28,47,20
+[01:40:58] cr6-a0fd GAME: blocker loaded at at 41,47,20
+[01:40:59] cr6-a0fd GAME: blocker loaded at at 54,47,20
+[01:40:59] cr6-a0fd GAME: blocker loaded at at 67,47,20
+[01:40:59] cr6-a0fd GAME: blocker loaded at at 80,47,20
+[01:40:59] cr6-a0fd GAME: blocker loaded at at 93,47,20
+[01:40:59] cr6-a0fd GAME: blocker loaded at at 2,38,20
+[01:40:59] cr6-a0fd GAME: blocker loaded at at 15,38,20
+[01:40:59] cr6-a0fd GAME: blocker loaded at at 28,38,20
+[01:40:59] cr6-a0fd GAME: blocker loaded at at 41,38,20
+[01:40:59] cr6-a0fd GAME: blocker loaded at at 54,38,20
+[01:40:59] cr6-a0fd GAME: blocker loaded at at 67,38,20
+[01:40:59] cr6-a0fd GAME: blocker loaded at at 80,38,20
+[01:40:59] cr6-a0fd GAME: blocker loaded at at 93,38,20
+[01:40:59] cr6-a0fd GAME: blocker loaded at at 2,29,20
+[01:40:59] cr6-a0fd GAME: blocker loaded at at 15,29,20
+[01:40:59] cr6-a0fd GAME: blocker loaded at at 28,29,20
+[01:40:59] cr6-a0fd GAME: blocker loaded at at 41,29,20
+[01:40:59] cr6-a0fd GAME: blocker loaded at at 54,29,20
+[01:40:59] cr6-a0fd GAME: blocker loaded at at 67,29,20
+[01:40:59] cr6-a0fd GAME: blocker loaded at at 80,29,20
+[01:40:59] cr6-a0fd GAME: blocker loaded at at 93,29,20
+[01:40:59] cr6-a0fd GAME: blocker loaded at at 106,29,20
+[01:41:00] cr6-a0fd GAME: blocker loaded at at 158,29,20
+[01:41:00] cr6-a0fd GAME: blocker loaded at at 197,29,20
+[01:41:00] cr6-a0fd GAME: blocker loaded at at 2,20,20
+[01:41:00] cr6-a0fd GAME: blocker loaded at at 15,20,20
+[01:41:00] cr6-a0fd GAME: blocker loaded at at 28,20,20
+[01:41:00] cr6-a0fd GAME: blocker loaded at at 41,20,20
+[01:41:00] cr6-a0fd GAME: blocker loaded at at 54,20,20
+[01:41:00] cr6-a0fd GAME: blocker loaded at at 67,20,20
+[01:41:00] cr6-a0fd GAME: blocker loaded at at 80,20,20
+[01:41:00] cr6-a0fd GAME: blocker loaded at at 93,20,20
+[01:41:00] cr6-a0fd GAME: blocker loaded at at 106,20,20
+[01:41:00] cr6-a0fd GAME: blocker loaded at at 2,11,20
+[01:41:00] cr6-a0fd GAME: blocker loaded at at 15,11,20
+[01:41:00] cr6-a0fd GAME: blocker loaded at at 28,11,20
+[01:41:00] cr6-a0fd GAME: blocker loaded at at 41,11,20
+[01:41:00] cr6-a0fd GAME: blocker loaded at at 54,11,20
+[01:41:00] cr6-a0fd GAME: blocker loaded at at 67,11,20
+[01:41:00] cr6-a0fd GAME: blocker loaded at at 80,11,20
+[01:41:00] cr6-a0fd GAME: blocker loaded at at 93,11,20
+[01:41:01] cr6-a0fd GAME: blocker loaded at at 106,11,20
+[01:41:01] cr6-a0fd GAME: blocker loaded at at 119,11,20
+[01:41:01] cr6-a0fd GAME: blocker loaded at at 132,11,20
+[01:41:01] cr6-a0fd GAME: blocker loaded at at 145,11,20
+[01:41:01] cr6-a0fd GAME: blocker loaded at at 158,11,20
+[01:41:01] cr6-a0fd GAME: blocker loaded at at 2,2,20
+[01:41:01] cr6-a0fd GAME: blocker loaded at at 15,2,20
+[01:41:01] cr6-a0fd GAME: blocker loaded at at 28,2,20
+[01:41:01] cr6-a0fd GAME: blocker loaded at at 41,2,20
+[01:41:01] cr6-a0fd GAME: blocker loaded at at 54,2,20
+[01:41:01] cr6-a0fd GAME: blocker loaded at at 67,2,20
+[01:41:01] cr6-a0fd GAME: blocker loaded at at 80,2,20
+[01:41:01] cr6-a0fd GAME: blocker loaded at at 93,2,20
+[01:41:01] cr6-a0fd GAME: blocker loaded at at 106,2,20
+[01:41:01] cr6-a0fd GAME: blocker loaded at at 119,2,20
+[01:41:01] cr6-a0fd GAME: blocker loaded at at 132,2,20
+[01:41:01] cr6-a0fd GAME: blocker loaded at at 145,2,20
+[01:41:01] cr6-a0fd GAME: blocker loaded at at 158,2,20
+[01:41:01] cr6-a0fd GAME: blocker loaded at at 171,2,20
+[01:41:32] cr6-a0fd GAME: catwalks loaded at at 121,106,21
+[01:41:32] cr6-a0fd GAME: Trash loaded at at 24,55,21
+[01:41:32] cr6-a0fd GAME: toilet loaded at at 37,62,21
+[01:41:33] cr6-a0fd GAME: hydro loaded at at 128,73,21
+[01:41:33] cr6-a0fd GAME: freezer loaded at at 138,131,21
+[01:41:33] cr6-a0fd GAME: Trash loaded at at 152,50,21
+[01:41:33] cr6-a0fd GAME: office loaded at at 88,115,21
+[01:41:33] cr6-a0fd GAME: anomalysci loaded at at 121,128,21
+[01:41:33] cr6-a0fd GAME: toilet loaded at at 51,108,21
+[01:41:33] cr6-a0fd GAME: Medical supplies loaded at at 153,94,21
+[01:41:34] cr6-a0fd GAME: cryo loaded at at 66,87,21
+[01:41:34] cr6-a0fd GAME: barricades loaded at at 19,71,21
+[01:41:34] cr6-a0fd GAME: cryo loaded at at 55,134,21
+[01:41:34] cr6-a0fd GAME: office loaded at at 99,26,21
+[01:41:34] cr6-a0fd GAME: Trash loaded at at 20,92,21
+[01:41:34] cr6-a0fd GAME: catwalks loaded at at 147,28,21
+[01:41:34] cr6-a0fd GAME: hydro loaded at at 34,110,21
+[01:41:34] cr6-a0fd GAME: anomalysci loaded at at 125,21,21
+[01:41:34] cr6-a0fd GAME: Medical supplies loaded at at 108,121,21
+[01:41:35] cr6-a0fd GAME: a lost roach loaded at at 21,147,21
+[01:41:35] cr6-a0fd GAME: Trash loaded at at 66,153,21
+[01:41:35] cr6-a0fd GAME: library loaded at at 50,121,21
+[01:41:35] cr6-a0fd GAME: catwalks loaded at at 137,117,21
+[01:41:35] cr6-a0fd GAME: anomalysci loaded at at 18,34,21
+[01:41:35] cr6-a0fd GAME: freezer loaded at at 139,59,21
+[01:41:35] cr6-a0fd GAME: cryo loaded at at 87,42,21
+[01:41:35] cr6-a0fd GAME: Medical supplies loaded at at 137,86,21
+[01:41:36] cr6-a0fd GAME: storage loaded at at 12,54,21
+[01:41:36] cr6-a0fd GAME: a lost roach loaded at at 46,149,21
+[01:41:36] cr6-a0fd GAME: hydro loaded at at 120,144,21

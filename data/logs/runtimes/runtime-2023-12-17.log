@@ -1,0 +1,498 @@
+## ERROR: File not found (config/dbconfig.txt)
+## ERROR: Failed to load config/mods.txt
+## ERROR: Failed to load config/mentors.txt
+## MYSQL ERROR: The specified module could not be found.
+
+Your server failed to establish a connection with the feedback database.
+## WARNING: File not found: config/jukebox.json
+## ERROR: Failed to load config/mods.txt
+##MAP_ERROR: Multiple stairs at (10,18,7)
+##MAP_ERROR: Multiple stairs at (13,18,7)
+Initialized Jobs subsystem within 0 seconds!
+Initialized Ticker subsystem within 0.01 seconds!
+Initialized Mapping subsystem within 118.17 seconds!
+Initialized Inventory subsystem within 118.55 seconds!
+Initialized Character Setup subsystem within 118.57 seconds!
+Initialized Atoms subsystem within 281.06 seconds!
+Initialized Machines subsystem within 284.46 seconds!
+Initialized Circuit subsystem within 284.5 seconds!
+Initialized Chemistry subsystem within 284.51 seconds!
+Initialized Evacuation subsystem within 284.52 seconds!
+Initialized Event Manager subsystem within 284.52 seconds!
+Initialized Inactivity subsystem within 284.53 seconds!
+Generating Asteroid Belt: 1 - Affinity: Greyson
+Junk Field build starting at zlevel 19.
+Junk field portal placed at (13, 93, 19)
+Generating edges of junk field at zlevel 19.
+Junk Field build complete at zlevel 19.
+Initialized Misc subsystem within 291.21 seconds!
+Initialized Research subsystem within 310.44 seconds!
+Initialized Tips and Tricks subsystem within 310.46 seconds!
+Initialized Trade subsystem within 312.34 seconds!
+Initialized Voting subsystem within 312.37 seconds!
+Initialized Weather subsystem within 312.38 seconds!
+Initialized Turbolift controller subsystem within 312.39 seconds!
+Initialized Air subsystem within 341.6 seconds!
+Initialized Alarm subsystem within 341.6 seconds!
+Initialized Craft subsystem within 341.64 seconds!
+Initialized Assets subsystem within 430.56 seconds!
+Initialized Overlay subsystem within 432.23 seconds!
+Initialized Admin Tickets subsystem within 432.24 seconds!
+Initialized Mentor Tickets subsystem within 432.25 seconds!
+Initialized Lighting subsystem within 450 seconds!
+Initialized Shuttle subsystem within 450.01 seconds!
+Initialized Pathfinder subsystem within 450.02 seconds!
+Initialized Xenoarch subsystem within 451.49 seconds!
+Initialized Economy subsystem within 451.5 seconds!
+Initialized Migration subsystem within 451.5 seconds!
+Initialized Radiation subsystem within 451.64 seconds!
+Initialized Chat subsystem within 451.65 seconds!
+Initializations complete within 451.7 seconds!
+## WARNING: Timer buckets has been reset, this may cause timer to lag in code/controllers/subsystems/timer.dm at line 237 src: Timer usr: .
+## TESTING: GC: -- [0x20162be] | /obj/effect/decal/cleanable/blood/gibs was unable to be GC'd --
+## TESTING: GC: -- [0x2016372] | /obj/effect/decal/cleanable/blood/gibs was unable to be GC'd --
+## TESTING: GC: -- [0x20163a0] | /obj/effect/decal/cleanable/blood/gibs was unable to be GC'd --
+## TESTING: GC: -- [0x20163a3] | /obj/effect/decal/cleanable/blood/gibs was unable to be GC'd --
+## TESTING: GC: -- [0x20164d1] | /obj/effect/decal/cleanable/blood/gibs was unable to be GC'd --
+## TESTING: GC: -- [0x20164d4] | /obj/effect/decal/cleanable/blood/gibs was unable to be GC'd --
+## TESTING: GC: -- [0x201652d] | /obj/effect/decal/cleanable/blood/gibs was unable to be GC'd --
+## TESTING: GC: -- [0x20165e8] | /obj/effect/decal/cleanable/blood/gibs was unable to be GC'd --
+## TESTING: GC: -- [0x2016623] | /obj/effect/decal/cleanable/blood/gibs was unable to be GC'd --
+## TESTING: GC: -- [0x2016654] | /obj/effect/decal/cleanable/blood/gibs was unable to be GC'd --
+## TESTING: GC: -- [0x2016655] | /obj/effect/decal/cleanable/blood/gibs was unable to be GC'd --
+## TESTING: GC: -- [0x201668d] | /obj/effect/decal/cleanable/blood/gibs was unable to be GC'd --
+## TESTING: GC: -- [0x20168be] | /obj/effect/decal/cleanable/blood/gibs was unable to be GC'd --
+## TESTING: GC: -- [0x20168f9] | /obj/effect/decal/cleanable/blood/gibs was unable to be GC'd --
+## TESTING: GC: -- [0x2016934] | /obj/effect/decal/cleanable/blood/gibs was unable to be GC'd --
+## TESTING: GC: -- [0x2016a6d] | /obj/effect/decal/cleanable/blood/gibs was unable to be GC'd --
+## TESTING: GC: -- [0x2016acf] | /obj/effect/decal/cleanable/blood/gibs was unable to be GC'd --
+## TESTING: GC: -- [0x2016b61] | /obj/effect/decal/cleanable/blood/gibs was unable to be GC'd --
+## TESTING: GC: -- [0x2016bb8] | /obj/effect/decal/cleanable/blood/gibs was unable to be GC'd --
+## TESTING: GC: -- [0x2016be6] | /obj/effect/decal/cleanable/blood/gibs was unable to be GC'd --
+## TESTING: GC: -- [0x2016bfb] | /obj/effect/decal/cleanable/blood/gibs was unable to be GC'd --
+## TESTING: GC: -- [0x2032a2e] | /obj/machinery/atmospherics/pipe/simple/hidden/scrubbers was unable to be GC'd --
+## TESTING: GC: -- [0x2032a06] | /obj/machinery/atmospherics/pipe/simple/hidden/supply was unable to be GC'd --
+## TESTING: GC: -- [0x20326ba] | /obj/machinery/atmospherics/pipe/simple/hidden/scrubbers was unable to be GC'd --
+## TESTING: GC: -- [0x2032a3a] | /obj/machinery/atmospherics/pipe/simple/hidden/supply was unable to be GC'd --
+## TESTING: GC: -- [0x20329e6] | /obj/machinery/atmospherics/pipe/simple/hidden/scrubbers was unable to be GC'd --
+## TESTING: GC: -- [0x20329eb] | /obj/machinery/atmospherics/pipe/simple/hidden/supply was unable to be GC'd --
+## TESTING: GC: -- [0x2032b94] | /obj/machinery/atmospherics/pipe/simple/hidden/supply was unable to be GC'd --
+## TESTING: GC: -- [0x2032b8c] | /obj/machinery/atmospherics/pipe/simple/hidden/scrubbers was unable to be GC'd --
+## TESTING: GC: -- [0x2032baa] | /obj/machinery/atmospherics/pipe/simple/hidden/supply was unable to be GC'd --
+## TESTING: GC: -- [0x2032bab] | /obj/machinery/atmospherics/pipe/simple/hidden/scrubbers was unable to be GC'd --
+## TESTING: GC: -- [0x2032bb5] | /obj/machinery/atmospherics/pipe/simple/hidden/supply was unable to be GC'd --
+## TESTING: GC: -- [0x2032bb6] | /obj/machinery/atmospherics/pipe/simple/hidden/scrubbers was unable to be GC'd --
+## TESTING: GC: -- [0x2032bde] | /obj/machinery/atmospherics/pipe/simple/hidden/scrubbers was unable to be GC'd --
+## TESTING: GC: -- [0x2032bf6] | /obj/machinery/atmospherics/pipe/simple/hidden/supply was unable to be GC'd --
+## TESTING: GC: -- [0x2032be6] | /obj/machinery/atmospherics/pipe/simple/hidden/scrubbers was unable to be GC'd --
+## TESTING: GC: -- [0x2032be1] | /obj/machinery/atmospherics/pipe/simple/hidden/supply was unable to be GC'd --
+## TESTING: GC: -- [0x2032bcd] | /obj/machinery/atmospherics/pipe/simple/hidden/scrubbers was unable to be GC'd --
+## TESTING: GC: -- [0x2032bb1] | /obj/machinery/atmospherics/pipe/simple/hidden/supply was unable to be GC'd --
+## TESTING: GC: -- [0x2032c1b] | /obj/machinery/atmospherics/pipe/simple/hidden/supply was unable to be GC'd --
+## TESTING: GC: -- [0x2032c1c] | /obj/machinery/atmospherics/pipe/simple/hidden/scrubbers was unable to be GC'd --
+## TESTING: GC: -- [0x2032c22] | /obj/machinery/atmospherics/pipe/simple/hidden/supply was unable to be GC'd --
+## TESTING: GC: -- [0x2032c23] | /obj/machinery/atmospherics/pipe/simple/hidden/scrubbers was unable to be GC'd --
+## TESTING: GC: -- [0x2032c2d] | /obj/machinery/atmospherics/pipe/simple/hidden/supply was unable to be GC'd --
+## TESTING: GC: -- [0x2032c2e] | /obj/machinery/atmospherics/pipe/simple/hidden/scrubbers was unable to be GC'd --
+## TESTING: GC: -- [0x2032c65] | /obj/machinery/atmospherics/pipe/simple/hidden/scrubbers was unable to be GC'd --
+## TESTING: GC: -- [0x2032c64] | /obj/machinery/atmospherics/pipe/simple/hidden/supply was unable to be GC'd --
+## TESTING: GC: -- [0x2032c8c] | /obj/machinery/atmospherics/pipe/simple/hidden/scrubbers was unable to be GC'd --
+## TESTING: GC: -- [0x2032c8d] | /obj/machinery/atmospherics/pipe/simple/hidden/supply was unable to be GC'd --
+## TESTING: GC: -- [0x2032c94] | /obj/machinery/atmospherics/pipe/simple/hidden/scrubbers was unable to be GC'd --
+## TESTING: GC: -- [0x2032c95] | /obj/machinery/atmospherics/pipe/simple/hidden/supply was unable to be GC'd --
+## TESTING: GC: -- [0x2032d48] | /obj/machinery/atmospherics/pipe/simple/hidden/red was unable to be GC'd --
+## TESTING: GC: -- [0x2032d6d] | /obj/machinery/atmospherics/pipe/simple/hidden/red was unable to be GC'd --
+## TESTING: GC: -- [0x2032d94] | /obj/machinery/atmospherics/pipe/simple/hidden/red was unable to be GC'd --
+## TESTING: GC: -- [0x2032db9] | /obj/machinery/atmospherics/pipe/simple/hidden/red was unable to be GC'd --
+## TESTING: GC: -- [0x2032dd6] | /obj/machinery/atmospherics/pipe/simple/hidden/supply was unable to be GC'd --
+## TESTING: GC: -- [0x2032dd5] | /obj/machinery/atmospherics/pipe/simple/hidden/scrubbers was unable to be GC'd --
+## TESTING: GC: -- [0x2032d98] | /obj/machinery/atmospherics/pipe/simple/hidden/supply was unable to be GC'd --
+## TESTING: GC: -- [0x2032da6] | /obj/machinery/atmospherics/pipe/simple/hidden/scrubbers was unable to be GC'd --
+## TESTING: GC: -- [0x2032db5] | /obj/machinery/atmospherics/pipe/simple/hidden/supply was unable to be GC'd --
+## TESTING: GC: -- [0x2032d6a] | /obj/machinery/atmospherics/pipe/simple/hidden/scrubbers was unable to be GC'd --
+## TESTING: GC: -- [0x2032e3e] | /obj/machinery/atmospherics/pipe/simple/hidden/scrubbers was unable to be GC'd --
+## TESTING: GC: -- [0x2032e3f] | /obj/machinery/atmospherics/pipe/simple/hidden/supply was unable to be GC'd --
+## TESTING: GC: -- [0x2032e48] | /obj/machinery/atmospherics/pipe/simple/hidden/scrubbers was unable to be GC'd --
+## TESTING: GC: -- [0x2032e49] | /obj/machinery/atmospherics/pipe/simple/hidden/supply was unable to be GC'd --
+## TESTING: GC: -- [0x2032e51] | /obj/machinery/atmospherics/pipe/simple/hidden/scrubbers was unable to be GC'd --
+## TESTING: GC: -- [0x2032e52] | /obj/machinery/atmospherics/pipe/simple/hidden/supply was unable to be GC'd --
+## TESTING: GC: -- [0x2105df19] | /datum/radio_frequency was unable to be GC'd --
+## TESTING: GC: -- [0x2006b96] | /obj/machinery/atmospherics/pipe/manifold/hidden/scrubbers was unable to be GC'd --
+## TESTING: GC: -- [0x2007c51] | /obj/machinery/atmospherics/pipe/manifold/hidden/supply was unable to be GC'd --
+## TESTING: GC: -- [0x2009a87] | /obj/machinery/atmospherics/pipe/manifold/hidden/supply was unable to be GC'd --
+## TESTING: GC: -- [0x203656c] | /obj/item/tank/oxygen was unable to be GC'd --
+## TESTING: GC: -- [0x20149f6] | /obj/effect/decal/cleanable/greenglow was unable to be GC'd --
+## TESTING: GC: -- [0x2014b96] | /obj/effect/decal/cleanable/greenglow was unable to be GC'd --
+## TESTING: GC: -- [0x20150b1] | /obj/effect/decal/cleanable/greenglow was unable to be GC'd --
+## MYSQL ERROR: The operation completed successfully.
+
+## MYSQL ERROR: The operation completed successfully.
+
+[23:51:13] Runtime in inspiration_component.dm,29: undefined variable /obj/item/gun/projectile/revolver/rev10/var/perk
+  proc name: Initialize (/datum/component/inspiration/Initialize)
+  usr: RiotScopez (riotscopez) (/mob/new_player)
+  src: /datum/component/inspiration (/datum/component/inspiration)
+  call stack:
+  /datum/component/inspiration (/datum/component/inspiration): Initialize(/list (/list), /datum/perk/oddity/better_toxi... (/datum/perk/oddity/better_toxins))
+  /datum/component/inspiration (/datum/component/inspiration): New(\"Frontier\" magnum revolver o... (/obj/item/gun/projectile/revolver/rev10), /list (/list), /datum/perk/oddity/better_toxi... (/datum/perk/oddity/better_toxins))
+  \"Frontier\" magnum revolver o... (/obj/item/gun/projectile/revolver/rev10): AddComponent(\"Frontier\" magnum revolver o... (/obj/item/gun/projectile/revolver/rev10), /list (/list), /datum/perk/oddity/better_toxi... (/datum/perk/oddity/better_toxins))
+  Wealthy Upbringing (/datum/perk/noble): assign(Katharine Griffiths (mannequin... (/mob/living/carbon/human/dummy/mannequin))
+  /datum/stat_holder (/datum/stat_holder): addPerk(/datum/perk/noble (/datum/perk/noble))
+  Wealthy Upbringing (/datum/category_item/setup_option/background/bckgrnd/wealthy): apply(Katharine Griffiths (mannequin... (/mob/living/carbon/human/dummy/mannequin))
+  /datum/preferences (/datum/preferences): copy to(Katharine Griffiths (mannequin... (/mob/living/carbon/human/dummy/mannequin), 1)
+  /datum/preferences (/datum/preferences): dress preview mob(Katharine Griffiths (mannequin... (/mob/living/carbon/human/dummy/mannequin), 0)
+  /datum/preferences (/datum/preferences): update preview icon(0)
+  Body (/datum/category_item/player_setup_item/physical/body): content(RiotScopez (/mob/new_player))
+  General (/datum/category_group/player_setup_category/physical_preferences): content(RiotScopez (/mob/new_player))
+  /datum/category_collection/pla... (/datum/category_collection/player_setup_collection): content(RiotScopez (/mob/new_player))
+  /datum/preferences (/datum/preferences): ShowChoices(RiotScopez (/mob/new_player))
+  RiotScopez (/mob/new_player): Topic("src=\[0x300133c];show_preferen...", /list (/list))
+  RiotScopez (/client): Topic("src=\[0x300133c];show_preferen...", /list (/list), RiotScopez (/mob/new_player))
+  RiotScopez (/client): Topic("src=\[0x300133c];show_preferen...", /list (/list), RiotScopez (/mob/new_player))
+## WARNING: Asking for null setup_option Gifted in Upbringing.
+## WARNING: Asking for null setup_option Gifted in Upbringing.
+## WARNING: Asking for null setup_option Gifted in Upbringing.
+## WARNING: Asking for null setup_option Gifted in Upbringing.
+## WARNING: Asking for null setup_option Gifted in Upbringing.
+## WARNING: Asking for null setup_option Gifted in Upbringing.
+## WARNING: Asking for null setup_option Gifted in Upbringing.
+## WARNING: Asking for null setup_option Gifted in Upbringing.
+## WARNING: Asking for null setup_option Gifted in Upbringing.
+## WARNING: Asking for null setup_option Gifted in Upbringing.
+## WARNING: Asking for null setup_option Gifted in Upbringing.
+## WARNING: Asking for null setup_option Gifted in Upbringing.
+## WARNING: Asking for null setup_option Gifted in Upbringing.
+## WARNING: Asking for null setup_option Gifted in Upbringing.
+## WARNING: Asking for null setup_option Gifted in Upbringing.
+## WARNING: Asking for null setup_option Gifted in Upbringing.
+## WARNING: Asking for null setup_option Gifted in Upbringing.
+## WARNING: Asking for null setup_option Gifted in Upbringing.
+## WARNING: Asking for null setup_option Gifted in Upbringing.
+## WARNING: Asking for null setup_option Gifted in Upbringing.
+## WARNING: Asking for null setup_option Gifted in Upbringing.
+## WARNING: Asking for null setup_option Gifted in Upbringing.
+## WARNING: Asking for null setup_option Gifted in Upbringing.
+## WARNING: Asking for null setup_option Gifted in Upbringing.
+## WARNING: Asking for null setup_option Gifted in Upbringing.
+## WARNING: Asking for null setup_option Gifted in Upbringing.
+## WARNING: Asking for null setup_option Gifted in Upbringing.
+## WARNING: Asking for null setup_option Gifted in Upbringing.
+## WARNING: Asking for null setup_option Gifted in Upbringing.
+## WARNING: Asking for null setup_option Gifted in Upbringing.
+## WARNING: Asking for null setup_option Gifted in Upbringing.
+## WARNING: Asking for null setup_option Gifted in Upbringing.
+## WARNING: Asking for null setup_option Gifted in Upbringing.
+## MYSQL ERROR: The operation completed successfully.
+
+## WARNING: Asking for null setup_option Gifted in Upbringing.
+## WARNING: Asking for null setup_option Gifted in Upbringing.
+## WARNING: Asking for null setup_option Gifted in Upbringing.
+## WARNING: Asking for null setup_option Gifted in Upbringing.
+## WARNING: Asking for null setup_option Gifted in Upbringing.
+## WARNING: Asking for null setup_option Gifted in Upbringing.
+## WARNING: Asking for null setup_option Gifted in Upbringing.
+## WARNING: Asking for null setup_option Gifted in Upbringing.
+## WARNING: Asking for null setup_option Gifted in Upbringing.
+## WARNING: Asking for null setup_option Gifted in Upbringing.
+## WARNING: Asking for null setup_option Gifted in Upbringing.
+## WARNING: Asking for null setup_option Gifted in Upbringing.
+## WARNING: Asking for null setup_option Gifted in Upbringing.
+## WARNING: Asking for null setup_option Gifted in Upbringing.
+## WARNING: Asking for null setup_option Gifted in Upbringing.
+## WARNING: Asking for null setup_option Gifted in Upbringing.
+## WARNING: Asking for null setup_option Gifted in Upbringing.
+## WARNING: Asking for null setup_option Gifted in Upbringing.
+## WARNING: Asking for null setup_option Gifted in Upbringing.
+## WARNING: Asking for null setup_option Gifted in Upbringing.
+## WARNING: Asking for null setup_option Gifted in Upbringing.
+## WARNING: Asking for null setup_option Gifted in Upbringing.
+## WARNING: Asking for null setup_option Gifted in Upbringing.
+## WARNING: Asking for null setup_option Gifted in Upbringing.
+## WARNING: Asking for null setup_option Gifted in Upbringing.
+## WARNING: Asking for null setup_option Gifted in Upbringing.
+## WARNING: Asking for null setup_option Gifted in Upbringing.
+## WARNING: Asking for null setup_option Gifted in Upbringing.
+## WARNING: Asking for null setup_option Gifted in Upbringing.
+## WARNING: Asking for null setup_option Gifted in Upbringing.
+## WARNING: Asking for null setup_option Gifted in Upbringing.
+Game start took 9.1s
+[23:54:22] Runtime in unsorted.dm,1381: addtimer called with a callback assigned to a qdeleted object. In the future such timers will not be supported and may refuse to run or run with a 0 wait
+  proc name: stack trace (/proc/stack_trace)
+  src: null
+  call stack:
+  stack trace("addtimer called with a callbac...")
+   addtimer(/datum/callback (/datum/callback), 12, 0, null, "code/modules/mob/living/carbon...", 471)
+  Pristine Greyson Positronic FB... (/mob/living/carbon/superior_animal/robot/greyson/synthetic/epistol): handle attacking stance(Durable ravager (/mob/living/carbon/superior_animal/xenomorph/runner/ravager), 0, 1, 1)
+  Pristine Greyson Positronic FB... (/mob/living/carbon/superior_animal/robot/greyson/synthetic/epistol): handle ai()
+  Pristine Greyson Positronic FB... (/mob/living/carbon/superior_animal/robot/greyson/synthetic/epistol): Life(2)
+  Mobs (/datum/controller/subsystem/processing/mobs): fire(1)
+  Mobs (/datum/controller/subsystem/processing/mobs): fire(1)
+  Mobs (/datum/controller/subsystem/processing/mobs): ignite(1)
+[23:56:01] Runtime in unsorted.dm,1381: addtimer called with a callback assigned to a qdeleted object. In the future such timers will not be supported and may refuse to run or run with a 0 wait
+  proc name: stack trace (/proc/stack_trace)
+  src: null
+  call stack:
+  stack trace("addtimer called with a callbac...")
+   addtimer(/datum/callback (/datum/callback), 15, 0, null, "code/modules/mob/living/carbon...", 471)
+  Brutish Greyson Positronic Eng... (/mob/living/carbon/superior_animal/robot/greyson/custodian/engineer): handle attacking stance(Hatchling bull (/mob/living/carbon/superior_animal/xenomorph/warrior/bull), 1, 1, 1)
+  Brutish Greyson Positronic Eng... (/mob/living/carbon/superior_animal/robot/greyson/custodian/engineer): handle hostile stance(Hatchling bull (/mob/living/carbon/superior_animal/xenomorph/warrior/bull))
+  Brutish Greyson Positronic Eng... (/mob/living/carbon/superior_animal/robot/greyson/custodian/engineer): handle ai()
+  Brutish Greyson Positronic Eng... (/mob/living/carbon/superior_animal/robot/greyson/custodian/engineer): Life(2)
+  Mobs (/datum/controller/subsystem/processing/mobs): fire(1)
+  Mobs (/datum/controller/subsystem/processing/mobs): fire(1)
+  Mobs (/datum/controller/subsystem/processing/mobs): ignite(1)
+## TESTING: GC: -- [0x200127d] | /obj/effect/spider/spiderling/near_grown was unable to be GC'd --
+## TESTING: GC: -- [0x300006a] | /mob/living/carbon/superior_animal/roach/golden was unable to be GC'd --
+## TESTING: GC: -- [0x3000b9a] | /mob/living/carbon/superior_animal/roach was unable to be GC'd --
+## TESTING: GC: -- [0x30005f0] | /mob/living/carbon/superior_animal/roach was unable to be GC'd --
+## TESTING: GC: -- [0x3000960] | /mob/living/carbon/superior_animal/roach was unable to be GC'd --
+## TESTING: GC: -- [0x3001220] | /mob/living/carbon/superior_animal/psi_monster/thought_melter was unable to be GC'd --
+## TESTING: GC: -- [0x3000bed] | /mob/living/carbon/superior_animal/roach/support was unable to be GC'd --
+## TESTING: GC: -- [0x30005f5] | /mob/living/carbon/superior_animal/roach/toxic was unable to be GC'd --
+## TESTING: GC: -- [0x30005dd] | /mob/living/carbon/superior_animal/roach was unable to be GC'd --
+## TESTING: GC: -- [0x2083fd5] | /obj/effect/spider/eggcluster was unable to be GC'd --
+## TESTING: GC: -- [0x300063d] | /mob/living/carbon/superior_animal/roach/hunter was unable to be GC'd --
+## TESTING: GC: -- [0x3000607] | /mob/living/carbon/superior_animal/roach was unable to be GC'd --
+## TESTING: GC: -- [0x30005cf] | /mob/living/carbon/superior_animal/roach/toxic was unable to be GC'd --
+## TESTING: GC: -- [0x30005da] | /mob/living/carbon/superior_animal/roach was unable to be GC'd --
+## TESTING: GC: -- [0x3000603] | /mob/living/carbon/superior_animal/roach/hunter was unable to be GC'd --
+## TESTING: GC: -- [0x3000683] | /mob/living/carbon/superior_animal/roach/support was unable to be GC'd --
+## TESTING: GC: -- [0x3000f32] | /mob/living/carbon/superior_animal/roach/support was unable to be GC'd --
+## TESTING: GC: -- [0x3000f18] | /mob/living/carbon/superior_animal/roach/nanite was unable to be GC'd --
+## TESTING: GC: -- [0x30005cc] | /mob/living/carbon/superior_animal/roach was unable to be GC'd --
+## TESTING: GC: -- [0x30006cd] | /mob/living/carbon/superior_animal/termite_no_despawn/iron was unable to be GC'd --
+## TESTING: GC: -- [0x30005df] | /mob/living/carbon/superior_animal/roach/toxic was unable to be GC'd --
+## TESTING: GC: -- [0x3000602] | /mob/living/carbon/superior_animal/roach was unable to be GC'd --
+## TESTING: GC: -- [0x3000f1f] | /mob/living/carbon/superior_animal/roach/hunter was unable to be GC'd --
+## TESTING: GC: -- [0x30005d8] | /mob/living/carbon/superior_animal/roach/toxic was unable to be GC'd --
+## TESTING: GC: -- [0x30005c9] | /mob/living/carbon/superior_animal/roach/nanite was unable to be GC'd --
+## TESTING: GC: -- [0x300009a] | /mob/living/simple_animal/hostile/retaliate/malf_drone was unable to be GC'd --
+## TESTING: GC: -- [0x300072c] | /mob/living/carbon/superior_animal/termite_no_despawn/uranium was unable to be GC'd --
+## TESTING: GC: -- [0x30005d3] | /mob/living/carbon/superior_animal/roach was unable to be GC'd --
+## TESTING: GC: -- [0x30000a1] | /mob/living/simple_animal/hostile/retaliate/malf_drone was unable to be GC'd --
+## TESTING: GC: -- [0x30005e6] | /mob/living/carbon/superior_animal/giant_spider/hunter/pepper was unable to be GC'd --
+## TESTING: GC: -- [0x30007f5] | /mob/living/carbon/superior_animal/termite_no_despawn/silver was unable to be GC'd --
+## TESTING: GC: -- [0x30006b5] | /mob/living/carbon/superior_animal/roach/tank was unable to be GC'd --
+## TESTING: GC: -- [0x300084a] | /mob/living/carbon/superior_animal/giant_spider/nurse/orb_weaver was unable to be GC'd --
+## TESTING: GC: -- [0x3000794] | /mob/living/carbon/superior_animal/roach/nanite was unable to be GC'd --
+## TESTING: GC: -- [0x30005d6] | /mob/living/carbon/superior_animal/roach/toxic was unable to be GC'd --
+## TESTING: GC: -- [0x3000691] | /mob/living/carbon/superior_animal/termite_no_despawn/uranium was unable to be GC'd --
+## TESTING: GC: -- [0x30005e5] | /mob/living/carbon/superior_animal/giant_spider/hunter was unable to be GC'd --
+## TESTING: GC: -- [0x30005c0] | /mob/living/carbon/superior_animal/giant_spider/nurse was unable to be GC'd --
+## TESTING: GC: -- [0x300079d] | /mob/living/carbon/superior_animal/roach/support was unable to be GC'd --
+## TESTING: GC: -- [0x30011bd] | /mob/living/carbon/superior_animal/psi_monster/thought_melter was unable to be GC'd --
+## TESTING: GC: -- [0x3000576] | /mob/living/carbon/superior_animal/roach was unable to be GC'd --
+## TESTING: GC: -- [0x3000099] | /mob/living/simple_animal/hostile/retaliate/malf_drone was unable to be GC'd --
+## TESTING: GC: -- [0x20875fe] | /obj/effect/spider/spiderling/near_grown was unable to be GC'd --
+## TESTING: GC: -- [0x3000ae8] | /mob/living/carbon/superior_animal/roach/nanite was unable to be GC'd --
+## TESTING: GC: -- [0x3000a82] | /mob/living/carbon/superior_animal/vox/hider was unable to be GC'd --
+## TESTING: GC: -- [0x3000a86] | /mob/living/carbon/superior_animal/vox/weak was unable to be GC'd --
+## TESTING: GC: -- [0x3000082] | /mob/living/carbon/superior_animal/termite_no_despawn/iron was unable to be GC'd --
+## TESTING: GC: -- [0x300065c] | /mob/living/carbon/superior_animal/roach/tank was unable to be GC'd --
+## TESTING: GC: -- [0x30005a0] | /mob/living/carbon/superior_animal/giant_spider/hunter was unable to be GC'd --
+## TESTING: GC: -- [0x3000662] | /mob/living/carbon/superior_animal/roach was unable to be GC'd --
+## TESTING: GC: -- [0x3000aee] | /mob/living/carbon/superior_animal/roach/glowing was unable to be GC'd --
+## TESTING: GC: -- [0x3000765] | /mob/living/carbon/superior_animal/giant_spider/tarantula/pit was unable to be GC'd --
+## TESTING: GC: -- [0x3001143] | /mob/living/carbon/superior_animal/psi_monster was unable to be GC'd --
+## TESTING: GC: -- [0x300062d] | /mob/living/carbon/superior_animal/giant_spider/nurse was unable to be GC'd --
+## TESTING: GC: -- [0x3000566] | /mob/living/carbon/superior_animal/giant_spider/nurse/midwife was unable to be GC'd --
+## TESTING: GC: -- [0x20234cf] | /obj/item/beartrap/makeshift/armed was unable to be GC'd --
+## TESTING: GC: -- [0x3000a74] | /mob/living/carbon/superior_animal/vox/armord was unable to be GC'd --
+## TESTING: GC: -- [0x3000577] | /mob/living/carbon/superior_animal/roach was unable to be GC'd --
+## TESTING: GC: -- [0x30006ee] | /mob/living/carbon/superior_animal/roach was unable to be GC'd --
+## TESTING: GC: -- [0x30007a4] | /mob/living/carbon/superior_animal/roach was unable to be GC'd --
+## TESTING: GC: -- [0x30006d1] | /mob/living/carbon/superior_animal/roach/support was unable to be GC'd --
+## TESTING: GC: -- [0x3000802] | /mob/living/carbon/superior_animal/termite_no_despawn/iron was unable to be GC'd --
+## TESTING: GC: -- [0x300057b] | /mob/living/carbon/superior_animal/roach/nanite was unable to be GC'd --
+## TESTING: GC: -- [0x300000c] | /mob/living/carbon/superior_animal/giant_spider/nurse/queen was unable to be GC'd --
+## TESTING: GC: -- [0x300004c] | /mob/living/carbon/superior_animal/roach/nanite was unable to be GC'd --
+## TESTING: GC: -- [0x3000747] | /mob/living/carbon/superior_animal/giant_spider/hunter was unable to be GC'd --
+## TESTING: GC: -- [0x3001032] | /mob/living/carbon/superior_animal/roach was unable to be GC'd --
+## TESTING: GC: -- [0x30005ce] | /mob/living/carbon/superior_animal/roach/tank was unable to be GC'd --
+[01:37:25] Runtime in asset_transport.dm,90: Invalid argument: client: ``
+  proc name: send assets (/datum/asset_transport/proc/send_assets)
+  usr: Klara Scott () (/mob/observer/ghost)
+  usr.loc: The floor (100,150,3) (/turf/simulated/floor/tiled/dark/techfloor_grid)
+  src: Simple browse_rsc asset transp... (/datum/asset_transport)
+  call stack:
+  Simple browse_rsc asset transp... (/datum/asset_transport): send assets(null, /list (/list))
+  /datum/asset/simple/directorie... (/datum/asset/simple/directories/nanoui): send(null)
+  /datum/nanoui (/datum/nanoui): New(Klara Scott (/mob/observer/ghost), PDA (/obj/item/modular_computer/pda/captain), "main", "mpc_mainscreen.tmpl", "NTOS Main Menu", 400, 500, null, null, /datum/nano_topic_state/defaul... (/datum/nano_topic_state/default))
+  PDA (/obj/item/modular_computer/pda/captain): nano ui interact(Klara Scott (/mob/observer/ghost), "main", null, 2)
+  PDA (/obj/item/modular_computer/pda/captain): kill program(1)
+  PDA (/obj/item/modular_computer/pda/captain): Destroy(0)
+  qdel(PDA (/obj/item/modular_computer/pda/captain), 0)
+  Bluespace Technician (/mob/living/carbon/human/bst): equip to slot or del(PDA (/obj/item/modular_computer/pda/captain), 18)
+  RiotScopez (/client): Spawn Bluespace Tech()
+## TESTING: GC: -- [0x3000639] | /mob/living/carbon/superior_animal/giant_spider/hunter/pepper was unable to be GC'd --
+## TESTING: GC: -- [0x30005ad] | /mob/living/carbon/superior_animal/roach/hunter was unable to be GC'd --
+## TESTING: GC: -- [0x3001003] | /mob/living/carbon/superior_animal/roach/support was unable to be GC'd --
+## MYSQL ERROR: The operation completed successfully.
+
+## MYSQL ERROR: The operation completed successfully.
+
+## TESTING: GC: -- [0x3000684] | /mob/living/carbon/superior_animal/giant_spider was unable to be GC'd --
+[01:41:22] Runtime in asset_transport.dm,90: Invalid argument: client: ``
+  proc name: send assets (/datum/asset_transport/proc/send_assets)
+  usr: The riotscopez BSTech () (/mob/observer/ghost)
+  usr.loc: The floor (103,148,3) (/turf/simulated/floor/tiled/dark/techfloor_grid)
+  src: Simple browse_rsc asset transp... (/datum/asset_transport)
+  call stack:
+  Simple browse_rsc asset transp... (/datum/asset_transport): send assets(null, /list (/list))
+  /datum/asset/simple/directorie... (/datum/asset/simple/directories/nanoui): send(null)
+  /datum/nanoui (/datum/nanoui): New(the riotscopez BSTech (/mob/observer/ghost), PDA (/obj/item/modular_computer/pda/captain), "main", "mpc_mainscreen.tmpl", "NTOS Main Menu", 400, 500, null, null, /datum/nano_topic_state/defaul... (/datum/nano_topic_state/default))
+  PDA (/obj/item/modular_computer/pda/captain): nano ui interact(the riotscopez BSTech (/mob/observer/ghost), "main", null, 2)
+  PDA (/obj/item/modular_computer/pda/captain): kill program(1)
+  PDA (/obj/item/modular_computer/pda/captain): Destroy(0)
+  qdel(PDA (/obj/item/modular_computer/pda/captain), 0)
+  Bluespace Technician (/mob/living/carbon/human/bst): equip to slot or del(PDA (/obj/item/modular_computer/pda/captain), 18)
+  RiotScopez (/client): Spawn Bluespace Tech()
+## TESTING: GC: -- [0x30005ce] | /mob/observer/ghost was unable to be GC'd --
+## TESTING: GC: -- [0x30006e5] | /mob/living/carbon/superior_animal/giant_spider/hunter/shocker was unable to be GC'd --
+## TESTING: GC: -- [0x30005f6] | /mob/living/carbon/human/bst was unable to be GC'd --
+## TESTING: GC: -- [0x30005cf] | /mob/living/carbon/superior_animal/roach/nanite was unable to be GC'd --
+## ERROR: Underground Floor 1 North Maintenance is an area and is trying to make the sound: sound/weapons/shield/shieldpen.ogg
+## TESTING: GC: -- [0x300074f] | /mob/living/carbon/superior_animal/roach was unable to be GC'd --
+## ERROR: Underground Floor 1 West Maintenance is an area and is trying to make the sound: sound/weapons/shield/shieldpen.ogg
+## ERROR: Underground Floor 1 West Maintenance is an area and is trying to make the sound: sound/weapons/shield/shieldpen.ogg
+## ERROR: Underground Floor 1 West Maintenance is an area and is trying to make the sound: sound/weapons/shield/shieldpen.ogg
+## TESTING: GC: -- [0x300081e] | /mob/living/carbon/superior_animal/termite_no_despawn/iron was unable to be GC'd --
+## TESTING: GC: -- [0x300062f] | /mob/living/carbon/superior_animal/roach was unable to be GC'd --
+## TESTING: GC: -- [0x3000657] | /mob/living/carbon/superior_animal/roach/support was unable to be GC'd --
+## ERROR: Underground Floor 1 West Maintenance is an area and is trying to make the sound: sound/weapons/shield/shieldpen.ogg
+## TESTING: GC: -- [0x30005fa] | /mob/living/carbon/superior_animal/roach/hunter was unable to be GC'd --
+## TESTING: GC: -- [0x300063c] | /mob/living/carbon/superior_animal/giant_spider/hunter was unable to be GC'd --
+## TESTING: GC: -- [0x3000698] | /mob/living/carbon/superior_animal/roach/hunter was unable to be GC'd --
+## TESTING: GC: -- [0x3000560] | /mob/living/carbon/superior_animal/giant_spider/nurse was unable to be GC'd --
+## TESTING: GC: -- [0x3000578] | /mob/living/carbon/superior_animal/roach/hunter was unable to be GC'd --
+## TESTING: GC: -- [0x3000740] | /mob/living/carbon/superior_animal/roach was unable to be GC'd --
+## TESTING: GC: -- [0x300063a] | /mob/living/carbon/superior_animal/giant_spider/hunter was unable to be GC'd --
+[02:09:35] Runtime in obelisk.dm,117: Cannot execute null.removePerk().
+  proc name: check for faithful (/obj/machinery/power/nt_obelisk/proc/check_for_faithful)
+  src: Absolutism obelisk (/obj/machinery/power/nt_obelisk)
+  src.loc: the floor (173,132,3) (/turf/simulated/floor/tiled/dark/techfloor)
+  call stack:
+  Absolutism obelisk (/obj/machinery/power/nt_obelisk): check for faithful(/list (/list))
+  Absolutism obelisk (/obj/machinery/power/nt_obelisk): Process(2)
+  Machines (/datum/controller/subsystem/machines): fire(1)
+  Machines (/datum/controller/subsystem/machines): ignite(1)
+  Master (/datum/controller/master): RunQueue()
+  Master (/datum/controller/master): Loop()
+  Master (/datum/controller/master): StartProcessing(0)
+[02:09:37] Runtime in obelisk.dm,117: Cannot execute null.removePerk().
+  proc name: check for faithful (/obj/machinery/power/nt_obelisk/proc/check_for_faithful)
+  src: Absolutism obelisk (/obj/machinery/power/nt_obelisk)
+  src.loc: the floor (173,132,3) (/turf/simulated/floor/tiled/dark/techfloor)
+  call stack:
+  Absolutism obelisk (/obj/machinery/power/nt_obelisk): check for faithful(/list (/list))
+  Absolutism obelisk (/obj/machinery/power/nt_obelisk): Process(2)
+  Machines (/datum/controller/subsystem/machines): fire(1)
+  Machines (/datum/controller/subsystem/machines): ignite(1)
+  Master (/datum/controller/master): RunQueue()
+  Master (/datum/controller/master): Loop()
+  Master (/datum/controller/master): StartProcessing(0)
+[02:09:39] Runtime in obelisk.dm,117: Cannot execute null.removePerk().
+  proc name: check for faithful (/obj/machinery/power/nt_obelisk/proc/check_for_faithful)
+  src: Absolutism obelisk (/obj/machinery/power/nt_obelisk)
+  src.loc: the floor (173,132,3) (/turf/simulated/floor/tiled/dark/techfloor)
+  call stack:
+  Absolutism obelisk (/obj/machinery/power/nt_obelisk): check for faithful(/list (/list))
+  Absolutism obelisk (/obj/machinery/power/nt_obelisk): Process(2)
+  Machines (/datum/controller/subsystem/machines): fire(1)
+  Machines (/datum/controller/subsystem/machines): ignite(1)
+  Master (/datum/controller/master): RunQueue()
+  Master (/datum/controller/master): Loop()
+  Master (/datum/controller/master): StartProcessing(0)
+[02:09:41] Runtime in obelisk.dm,117: Cannot execute null.removePerk().
+  proc name: check for faithful (/obj/machinery/power/nt_obelisk/proc/check_for_faithful)
+  src: Absolutism obelisk (/obj/machinery/power/nt_obelisk)
+  src.loc: the floor (173,132,3) (/turf/simulated/floor/tiled/dark/techfloor)
+  call stack:
+  Absolutism obelisk (/obj/machinery/power/nt_obelisk): check for faithful(/list (/list))
+  Absolutism obelisk (/obj/machinery/power/nt_obelisk): Process(2)
+  Machines (/datum/controller/subsystem/machines): fire(1)
+  Machines (/datum/controller/subsystem/machines): ignite(1)
+  Master (/datum/controller/master): RunQueue()
+  Master (/datum/controller/master): Loop()
+  Master (/datum/controller/master): StartProcessing(0)
+[02:09:43] Runtime in obelisk.dm,117: Cannot execute null.removePerk().
+  proc name: check for faithful (/obj/machinery/power/nt_obelisk/proc/check_for_faithful)
+  src: Absolutism obelisk (/obj/machinery/power/nt_obelisk)
+  src.loc: the floor (173,132,3) (/turf/simulated/floor/tiled/dark/techfloor)
+  call stack:
+  Absolutism obelisk (/obj/machinery/power/nt_obelisk): check for faithful(/list (/list))
+  Absolutism obelisk (/obj/machinery/power/nt_obelisk): Process(2)
+  Machines (/datum/controller/subsystem/machines): fire(1)
+  Machines (/datum/controller/subsystem/machines): ignite(1)
+  Master (/datum/controller/master): RunQueue()
+  Master (/datum/controller/master): Loop()
+  Master (/datum/controller/master): StartProcessing(0)
+[02:09:45] Runtime in obelisk.dm,117: Cannot execute null.removePerk().
+  proc name: check for faithful (/obj/machinery/power/nt_obelisk/proc/check_for_faithful)
+  src: Absolutism obelisk (/obj/machinery/power/nt_obelisk)
+  src.loc: the floor (173,132,3) (/turf/simulated/floor/tiled/dark/techfloor)
+  call stack:
+  Absolutism obelisk (/obj/machinery/power/nt_obelisk): check for faithful(/list (/list))
+  Absolutism obelisk (/obj/machinery/power/nt_obelisk): Process(2)
+  Machines (/datum/controller/subsystem/machines): fire(1)
+  Machines (/datum/controller/subsystem/machines): ignite(1)
+  Master (/datum/controller/master): RunQueue()
+  Master (/datum/controller/master): Loop()
+  Master (/datum/controller/master): StartProcessing(0)
+[02:09:47] Runtime in obelisk.dm,117: Cannot execute null.removePerk().
+  proc name: check for faithful (/obj/machinery/power/nt_obelisk/proc/check_for_faithful)
+  src: Absolutism obelisk (/obj/machinery/power/nt_obelisk)
+  src.loc: the floor (173,132,3) (/turf/simulated/floor/tiled/dark/techfloor)
+  call stack:
+  Absolutism obelisk (/obj/machinery/power/nt_obelisk): check for faithful(/list (/list))
+  Absolutism obelisk (/obj/machinery/power/nt_obelisk): Process(2)
+  Machines (/datum/controller/subsystem/machines): fire(1)
+  Machines (/datum/controller/subsystem/machines): ignite(1)
+  Master (/datum/controller/master): RunQueue()
+  Master (/datum/controller/master): Loop()
+  Master (/datum/controller/master): StartProcessing(0)
+[02:09:49] Runtime in obelisk.dm,117: Cannot execute null.removePerk().
+  proc name: check for faithful (/obj/machinery/power/nt_obelisk/proc/check_for_faithful)
+  src: Absolutism obelisk (/obj/machinery/power/nt_obelisk)
+  src.loc: the floor (173,132,3) (/turf/simulated/floor/tiled/dark/techfloor)
+  call stack:
+  Absolutism obelisk (/obj/machinery/power/nt_obelisk): check for faithful(/list (/list))
+  Absolutism obelisk (/obj/machinery/power/nt_obelisk): Process(2)
+  Machines (/datum/controller/subsystem/machines): fire(1)
+  Machines (/datum/controller/subsystem/machines): ignite(1)
+  Master (/datum/controller/master): RunQueue()
+  Master (/datum/controller/master): Loop()
+  Master (/datum/controller/master): StartProcessing(0)
+[02:09:51] Runtime in obelisk.dm,117: Cannot execute null.removePerk().
+  proc name: check for faithful (/obj/machinery/power/nt_obelisk/proc/check_for_faithful)
+  src: Absolutism obelisk (/obj/machinery/power/nt_obelisk)
+  src.loc: the floor (173,132,3) (/turf/simulated/floor/tiled/dark/techfloor)
+  call stack:
+  Absolutism obelisk (/obj/machinery/power/nt_obelisk): check for faithful(/list (/list))
+  Absolutism obelisk (/obj/machinery/power/nt_obelisk): Process(2)
+  Machines (/datum/controller/subsystem/machines): fire(1)
+  Machines (/datum/controller/subsystem/machines): ignite(1)
+  Master (/datum/controller/master): RunQueue()
+  Master (/datum/controller/master): Loop()
+  Master (/datum/controller/master): StartProcessing(0)
+[02:09:53] Runtime in obelisk.dm,117: Cannot execute null.removePerk().
+  proc name: check for faithful (/obj/machinery/power/nt_obelisk/proc/check_for_faithful)
+  src: Absolutism obelisk (/obj/machinery/power/nt_obelisk)
+  src.loc: the floor (173,132,3) (/turf/simulated/floor/tiled/dark/techfloor)
+  call stack:
+  Absolutism obelisk (/obj/machinery/power/nt_obelisk): check for faithful(/list (/list))
+  Absolutism obelisk (/obj/machinery/power/nt_obelisk): Process(2)
+  Machines (/datum/controller/subsystem/machines): fire(1)
+  Machines (/datum/controller/subsystem/machines): ignite(1)
+  Master (/datum/controller/master): RunQueue()
+  Master (/datum/controller/master): Loop()
+  Master (/datum/controller/master): StartProcessing(0)
+  (This error will now be item_flags & SILENT for 10 minutes)
+[02:10:37] Runtime in outfit.dm,172: Cannot execute null.get access().
+  proc name: equip id (/decl/hierarchy/outfit/proc/equip_id)
+  usr: Bennett Leech (riotscopez) (/mob/living/carbon/human)
+  usr.loc: The floor (162,130,3) (/turf/simulated/floor/tiled/dark/gray_platform)
+[02:10:37] Runtime in job.dm,21: Cannot modify null.associated_email_login.
+  proc name: equip id (/decl/hierarchy/outfit/job/equip_id)
+  usr: Bennett Leech (riotscopez) (/mob/living/carbon/human)
+  usr.loc: The floor (162,130,3) (/turf/simulated/floor/tiled/dark/gray_platform)
