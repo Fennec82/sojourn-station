@@ -1,0 +1,1026 @@
+
+
+Starting up. (ID: crk-aPZJ) 23:28.25
+---------------------
+[23:28:25] crk-aPZJ MISC: Saved storyteller is 'guide'
+[23:28:25] crk-aPZJ ADMIN: Loading jobban_rank
+[23:28:25] crk-aPZJ ADMIN: jobban_keylist was empty
+[23:28:25] crk-aPZJ ADMIN: Loading Banlist
+[23:29:21] crk-aPZJ ACCESS: Logout: RiotScopez/()
+[23:30:35] crk-aPZJ ADMIN: George Hook try find_inv_position a 14, but not have that slot!
+[23:30:35] crk-aPZJ ADMIN: George Hook try find_inv_position a 11, but not have that slot!
+[23:30:35] crk-aPZJ ADMIN: George Hook try find_inv_position a 13, but not have that slot!
+[23:30:35] crk-aPZJ ADMIN: George Hook try find_inv_position a 12, but not have that slot!
+[23:30:35] crk-aPZJ ADMIN: Carl Swabey try find_inv_position a 14, but not have that slot!
+[23:30:35] crk-aPZJ ADMIN: Carl Swabey try find_inv_position a 11, but not have that slot!
+[23:30:35] crk-aPZJ ADMIN: Carl Swabey try find_inv_position a 13, but not have that slot!
+[23:30:35] crk-aPZJ ADMIN: Carl Swabey try find_inv_position a 12, but not have that slot!
+[23:30:36] crk-aPZJ ADMIN: Aaden Scott try find_inv_position a 14, but not have that slot!
+[23:30:36] crk-aPZJ ADMIN: Aaden Scott try find_inv_position a 11, but not have that slot!
+[23:30:36] crk-aPZJ ADMIN: Aaden Scott try find_inv_position a 13, but not have that slot!
+[23:30:36] crk-aPZJ ADMIN: Aaden Scott try find_inv_position a 12, but not have that slot!
+[23:30:36] crk-aPZJ ADMIN: Kade Fleming try find_inv_position a 14, but not have that slot!
+[23:30:36] crk-aPZJ ADMIN: Kade Fleming try find_inv_position a 11, but not have that slot!
+[23:30:36] crk-aPZJ ADMIN: Kade Fleming try find_inv_position a 13, but not have that slot!
+[23:30:36] crk-aPZJ ADMIN: Kade Fleming try find_inv_position a 12, but not have that slot!
+[23:30:37] crk-aPZJ ADMIN: John Turner try find_inv_position a 14, but not have that slot!
+[23:30:37] crk-aPZJ ADMIN: John Turner try find_inv_position a 11, but not have that slot!
+[23:30:37] crk-aPZJ ADMIN: John Turner try find_inv_position a 13, but not have that slot!
+[23:30:37] crk-aPZJ ADMIN: John Turner try find_inv_position a 12, but not have that slot!
+[23:30:37] crk-aPZJ ADMIN: Ali Isaman try find_inv_position a 14, but not have that slot!
+[23:30:37] crk-aPZJ ADMIN: Ali Isaman try find_inv_position a 11, but not have that slot!
+[23:30:37] crk-aPZJ ADMIN: Ali Isaman try find_inv_position a 13, but not have that slot!
+[23:30:37] crk-aPZJ ADMIN: Ali Isaman try find_inv_position a 12, but not have that slot!
+[23:30:55] crk-aPZJ ACCESS: Logout: RiotScopez/()
+[23:31:38] crk-aPZJ ACCESS: Logout: RiotScopez/()
+[23:33:15] crk-aPZJ GAME: onestar 2 loaded at at 61,31,19
+[23:33:15] crk-aPZJ GAME: onestar 4 loaded at at 11,66,19
+[23:33:16] crk-aPZJ GAME: onestar 2 loaded at at 86,86,19
+[23:33:17] crk-aPZJ GAME: onestar 2 loaded at at 11,31,19
+[23:33:17] crk-aPZJ GAME: neutral 4 loaded at at 56,51,19
+[23:33:17] crk-aPZJ GAME: neutral 3 loaded at at 76,96,19
+[23:33:17] crk-aPZJ GAME: neutral 11 loaded at at 31,101,19
+[23:33:17] crk-aPZJ GAME: neutral 4 loaded at at 106,61,19
+[23:33:17] crk-aPZJ GAME: neutral 4 loaded at at 81,76,19
+[23:33:17] crk-aPZJ GAME: neutral 1 loaded at at 16,41,19
+[23:33:17] crk-aPZJ GAME: neutral 8 loaded at at 36,86,19
+[23:33:17] crk-aPZJ GAME: neutral 10 loaded at at 36,106,19
+[23:33:17] crk-aPZJ GAME: neutral 6 loaded at at 21,101,19
+[23:33:17] crk-aPZJ GAME: neutral 2 loaded at at 51,61,19
+[23:33:17] crk-aPZJ GAME: neutral 8 loaded at at 101,56,19
+[23:33:17] crk-aPZJ GAME: neutral 10 loaded at at 31,51,19
+[23:33:17] crk-aPZJ GAME: neutral 3 loaded at at 51,41,19
+[23:33:17] crk-aPZJ GAME: neutral 2 loaded at at 11,26,19
+[23:33:17] crk-aPZJ GAME: neutral 2 loaded at at 61,86,19
+[23:33:17] crk-aPZJ GAME: neutral 1 loaded at at 46,51,19
+[23:33:17] crk-aPZJ GAME: neutral 8 loaded at at 106,56,19
+[23:33:17] crk-aPZJ GAME: neutral 6 loaded at at 76,101,19
+[23:33:17] crk-aPZJ GAME: neutral 11 loaded at at 56,76,19
+[23:33:17] crk-aPZJ GAME: neutral 5 loaded at at 96,51,19
+[23:33:17] crk-aPZJ GAME: neutral 9 loaded at at 41,91,19
+[23:33:17] crk-aPZJ GAME: neutral 5 loaded at at 31,11,19
+[23:33:17] crk-aPZJ GAME: neutral 6 loaded at at 106,76,19
+[23:33:17] crk-aPZJ GAME: neutral 7 loaded at at 106,71,19
+[23:33:18] crk-aPZJ GAME: neutral 6 loaded at at 101,66,19
+[23:33:18] crk-aPZJ GAME: neutral 3 loaded at at 91,81,19
+[23:33:18] crk-aPZJ GAME: neutral 7 loaded at at 46,101,19
+[23:33:18] crk-aPZJ GAME: neutral 11 loaded at at 101,26,19
+[23:33:18] crk-aPZJ GAME: neutral 5 loaded at at 36,106,19
+[23:33:18] crk-aPZJ GAME: neutral 1 loaded at at 86,21,19
+[23:33:18] crk-aPZJ GAME: neutral 10 loaded at at 21,56,19
+[23:33:18] crk-aPZJ GAME: neutral 5 loaded at at 16,51,19
+[23:33:18] crk-aPZJ GAME: neutral 8 loaded at at 76,61,19
+[23:33:18] crk-aPZJ GAME: neutral 7 loaded at at 21,81,19
+[23:33:18] crk-aPZJ GAME: neutral 5 loaded at at 36,66,19
+[23:33:39] crk-aPZJ GAME: Emitter deleted at (0,0,0)
+[23:34:58] crk-aPZJ ASSET: ERROR: Invalid asset: /datum/asset/simple/craft:obj_item_stack_cable_coil.png:1
+[23:35:05] crk-aPZJ ASSET: ERROR: Invalid asset: /datum/asset/simple/craft:obj_item_clothing_glasses_powered_meson.png:1
+[23:35:07] crk-aPZJ ASSET: ERROR: Invalid asset: /datum/asset/simple/craft:obj_item_gun_projectile_boltgun_lever.png:1
+[23:35:07] crk-aPZJ ASSET: ERROR: Invalid asset: /datum/asset/simple/craft:obj_item_gun_projectile_automatic_sts_rifle.png:1
+[23:35:09] crk-aPZJ ASSET: ERROR: Invalid asset: /datum/asset/simple/craft:obj_item_modular_computer_laptop.png:1
+[23:35:31] crk-aPZJ ACCESS: Logout: RiotScopez/()
+[23:36:14] crk-aPZJ GAME: archive loaded at at 40,56,21
+[23:36:14] crk-aPZJ GAME: medbay loaded at at 111,46,21
+[23:36:14] crk-aPZJ GAME: dinner loaded at at 96,77,21
+[23:36:15] crk-aPZJ MISC: a the gibber didn't find an input plate.
+[23:36:15] crk-aPZJ GAME: xenostudy loaded at at 31,80,21
+[23:36:16] crk-aPZJ GAME: pod bay loaded at at 62,112,21
+[23:36:16] crk-aPZJ MISC: a the gibber didn't find an input plate.
+[23:36:16] crk-aPZJ GAME: xenostudy loaded at at 69,31,21
+[23:36:25] crk-aPZJ GAME: Entrance - 1 loaded at at 184,137,20
+[23:36:26] crk-aPZJ GAME: garden loaded at at 197,137,20
+[23:36:27] crk-aPZJ GAME: garden loaded at at 197,128,20
+[23:36:27] crk-aPZJ GAME: Hallway_4way loaded at at 184,128,20
+[23:36:28] crk-aPZJ GAME: Escape_Pod_West-East loaded at at 171,128,20
+[23:36:28] crk-aPZJ GAME: checkpoint_horizontal loaded at at 158,128,20
+[23:36:29] crk-aPZJ GAME: crematorium loaded at at 145,128,20
+[23:36:30] crk-aPZJ GAME: crematorium loaded at at 132,128,20
+[23:36:31] crk-aPZJ GAME: crematorium loaded at at 119,128,20
+[23:36:32] crk-aPZJ GAME: Hallway_4way loaded at at 106,128,20
+[23:36:33] crk-aPZJ GAME: Escape_Pod_West-East loaded at at 106,119,20
+[23:36:34] crk-aPZJ GAME: crematorium loaded at at 119,119,20
+[23:36:35] crk-aPZJ GAME: secure_storage_horizontal loaded at at 132,119,20
+[23:36:35] crk-aPZJ GAME: Escape_Pod_West-East loaded at at 145,119,20
+[23:36:36] crk-aPZJ GAME: Escape_Pod_West-East loaded at at 158,119,20
+[23:36:36] crk-aPZJ GAME: showers loaded at at 171,119,20
+[23:36:36] crk-aPZJ GAME: showers loaded at at 184,119,20
+[23:36:37] crk-aPZJ GAME: garden loaded at at 197,119,20
+[23:36:37] crk-aPZJ GAME: Escape_Pod_West-East loaded at at 197,110,20
+[23:36:38] crk-aPZJ GAME: secure_storage_horizontal loaded at at 184,110,20
+[23:36:38] crk-aPZJ GAME: garden loaded at at 171,110,20
+[23:36:39] crk-aPZJ GAME: garden loaded at at 171,101,20
+[23:36:39] crk-aPZJ GAME: showers loaded at at 184,101,20
+[23:36:40] crk-aPZJ GAME: garden loaded at at 197,101,20
+[23:36:41] crk-aPZJ GAME: Escape_Pod_West-East loaded at at 197,92,20
+[23:36:41] crk-aPZJ GAME: hallwayatmos_west-east loaded at at 184,92,20
+[23:36:42] crk-aPZJ GAME: crematorium loaded at at 171,92,20
+[23:36:42] crk-aPZJ GAME: Escape_Pod_West-East loaded at at 158,92,20
+[23:36:43] crk-aPZJ GAME: Escape_Pod_West-East loaded at at 145,92,20
+[23:36:43] crk-aPZJ GAME: garden loaded at at 145,83,20
+[23:36:43] crk-aPZJ GAME: Escape_Pod_West-East loaded at at 158,83,20
+[23:36:44] crk-aPZJ GAME: checkpoint_horizontal loaded at at 171,83,20
+[23:36:45] crk-aPZJ GAME: crematorium loaded at at 184,83,20
+[23:36:45] crk-aPZJ GAME: Hallway_4way loaded at at 184,74,20
+[23:36:46] crk-aPZJ GAME: autolathe_South-East loaded at at 171,74,20
+[23:36:46] crk-aPZJ GAME: Escape_Pod_West-East loaded at at 171,65,20
+[23:36:46] crk-aPZJ GAME: Hallway_4way loaded at at 158,65,20
+[23:36:47] crk-aPZJ GAME: showers loaded at at 145,65,20
+[23:36:48] crk-aPZJ GAME: crematorium loaded at at 132,65,20
+[23:36:48] crk-aPZJ GAME: Escape_Pod_West-East loaded at at 132,56,20
+[23:36:48] crk-aPZJ GAME: showers loaded at at 145,56,20
+[23:36:49] crk-aPZJ GAME: Hallway_4way loaded at at 158,56,20
+[23:36:49] crk-aPZJ GAME: penitentiary loaded at at 171,56,20
+[23:36:50] crk-aPZJ GAME: secure_storage_horizontal loaded at at 184,56,20
+[23:36:50] crk-aPZJ GAME: Hallway_4way loaded at at 197,56,20
+[23:36:51] crk-aPZJ GAME: hallway_storage loaded at at 197,47,20
+[23:36:51] crk-aPZJ GAME: Escape_Pod_West-East loaded at at 197,38,20
+[23:36:52] crk-aPZJ GAME: Escape_Pod_West-East loaded at at 197,29,20
+[23:36:52] crk-aPZJ GAME: Hallway_4way loaded at at 184,29,20
+[23:36:53] crk-aPZJ GAME: Hallway_4way loaded at at 171,29,20
+[23:36:54] crk-aPZJ GAME: checkpoint_vertical loaded at at 171,20,20
+[23:36:55] crk-aPZJ GAME: Hallway_4way loaded at at 171,11,20
+[23:36:55] crk-aPZJ GAME: garden loaded at at 184,11,20
+[23:36:56] crk-aPZJ GAME: garden loaded at at 197,11,20
+[23:36:57] crk-aPZJ GAME: garden loaded at at 197,2,20
+[23:36:57] crk-aPZJ GAME: penitentiary loaded at at 184,2,20
+[23:36:57] crk-aPZJ GAME: showers loaded at at 171,2,20
+[23:36:58] crk-aPZJ GAME: Exit - 1 loaded at at 158,2,20
+[23:37:23] crk-aPZJ GAME: cargo_vertical loaded at at 171,38,20
+[23:37:24] crk-aPZJ GAME: mechbay loaded at at 158,110,20
+[23:37:24] crk-aPZJ GAME: mechbay loaded at at 132,83,20
+[23:37:25] crk-aPZJ GAME: armory loaded at at 106,110,20
+[23:37:27] crk-aPZJ GAME: library loaded at at 62,149,21
+[23:37:27] crk-aPZJ GAME: library loaded at at 137,35,21
+[23:37:27] crk-aPZJ GAME: freezer loaded at at 32,115,21
+[23:37:27] crk-aPZJ GAME: toilet loaded at at 45,25,21
+[23:37:28] crk-aPZJ GAME: cryo loaded at at 143,120,21
+[23:37:28] crk-aPZJ GAME: toilet loaded at at 32,139,21
+[23:37:28] crk-aPZJ GAME: mechbay loaded at at 130,121,21
+[23:37:28] crk-aPZJ GAME: Medical supplies loaded at at 134,51,21
+[23:37:28] crk-aPZJ GAME: hydro loaded at at 83,86,21
+[23:37:28] crk-aPZJ GAME: cryo loaded at at 11,46,21
+[23:37:28] crk-aPZJ GAME: morgue loaded at at 133,141,21
+[23:37:28] crk-aPZJ GAME: toilet loaded at at 100,33,21
+[23:37:29] crk-aPZJ GAME: cryo loaded at at 128,71,21
+[23:37:29] crk-aPZJ GAME: sm_core loaded at at 152,99,21
+[23:37:29] crk-aPZJ GAME: office loaded at at 73,65,21
+[23:37:29] crk-aPZJ GAME: Trash loaded at at 15,150,21
+[23:37:29] crk-aPZJ GAME: cryo loaded at at 101,134,21
+[23:37:29] crk-aPZJ GAME: morgue loaded at at 108,116,21
+[23:37:29] crk-aPZJ GAME: library loaded at at 112,154,21
+[23:37:29] crk-aPZJ GAME: morgue loaded at at 154,143,21
+[23:37:30] crk-aPZJ GAME: storage loaded at at 98,61,21
+[23:37:30] crk-aPZJ GAME: toilet loaded at at 45,123,21
+[23:37:30] crk-aPZJ GAME: mechbay loaded at at 78,145,21
+[23:37:30] crk-aPZJ GAME: barricades loaded at at 126,102,21
+[23:37:30] crk-aPZJ GAME: freezer loaded at at 134,89,21
+[23:37:30] crk-aPZJ GAME: sm_core loaded at at 15,97,21
+[23:37:30] crk-aPZJ GAME: storage loaded at at 68,84,21
+[23:37:30] crk-aPZJ GAME: hydro loaded at at 93,107,21
+[23:37:31] crk-aPZJ GAME: anomalysci loaded at at 20,30,21
+[23:37:31] crk-aPZJ GAME: barricades loaded at at 127,20,21
+[23:37:31] crk-aPZJ GAME: anomaly loaded at at 158,74,20
+[23:37:32] crk-aPZJ GAME: armory_secure loaded at at 197,83,20
+[23:37:40] crk-aPZJ GAME: refinery loaded at at 132,92,20
+[23:37:43] crk-aPZJ GAME: cargo_vertical loaded at at 197,65,20
+[23:37:44] crk-aPZJ GAME: commanderoffice loaded at at 93,119,20
+[23:37:45] crk-aPZJ GAME: office loaded at at 158,11,20
+[23:37:46] crk-aPZJ GAME: surgery loaded at at 171,137,20
+[23:37:54] crk-aPZJ GAME: shooting_range loaded at at 184,20,20
+[23:37:54] crk-aPZJ GAME: shooting_range loaded at at 197,74,20
+[23:38:00] crk-aPZJ GAME: refinery loaded at at 145,2,20
+[23:38:01] crk-aPZJ GAME: commanderoffice loaded at at 158,29,20
+[23:38:03] crk-aPZJ GAME: blocker loaded at at 2,137,20
+[23:38:04] crk-aPZJ GAME: blocker loaded at at 15,137,20
+[23:38:04] crk-aPZJ GAME: blocker loaded at at 28,137,20
+[23:38:04] crk-aPZJ GAME: blocker loaded at at 41,137,20
+[23:38:04] crk-aPZJ GAME: blocker loaded at at 54,137,20
+[23:38:04] crk-aPZJ GAME: blocker loaded at at 67,137,20
+[23:38:04] crk-aPZJ GAME: blocker loaded at at 80,137,20
+[23:38:04] crk-aPZJ GAME: blocker loaded at at 93,137,20
+[23:38:04] crk-aPZJ GAME: blocker loaded at at 106,137,20
+[23:38:04] crk-aPZJ GAME: blocker loaded at at 119,137,20
+[23:38:04] crk-aPZJ GAME: blocker loaded at at 132,137,20
+[23:38:04] crk-aPZJ GAME: blocker loaded at at 145,137,20
+[23:38:04] crk-aPZJ GAME: blocker loaded at at 158,137,20
+[23:38:04] crk-aPZJ GAME: blocker loaded at at 2,128,20
+[23:38:04] crk-aPZJ GAME: blocker loaded at at 15,128,20
+[23:38:04] crk-aPZJ GAME: blocker loaded at at 28,128,20
+[23:38:04] crk-aPZJ GAME: blocker loaded at at 41,128,20
+[23:38:04] crk-aPZJ GAME: blocker loaded at at 54,128,20
+[23:38:04] crk-aPZJ GAME: blocker loaded at at 67,128,20
+[23:38:04] crk-aPZJ GAME: blocker loaded at at 80,128,20
+[23:38:05] crk-aPZJ GAME: blocker loaded at at 93,128,20
+[23:38:05] crk-aPZJ GAME: blocker loaded at at 2,119,20
+[23:38:05] crk-aPZJ GAME: blocker loaded at at 15,119,20
+[23:38:05] crk-aPZJ GAME: blocker loaded at at 28,119,20
+[23:38:05] crk-aPZJ GAME: blocker loaded at at 41,119,20
+[23:38:05] crk-aPZJ GAME: blocker loaded at at 54,119,20
+[23:38:05] crk-aPZJ GAME: blocker loaded at at 67,119,20
+[23:38:05] crk-aPZJ GAME: blocker loaded at at 80,119,20
+[23:38:05] crk-aPZJ GAME: blocker loaded at at 2,110,20
+[23:38:05] crk-aPZJ GAME: blocker loaded at at 15,110,20
+[23:38:05] crk-aPZJ GAME: blocker loaded at at 28,110,20
+[23:38:05] crk-aPZJ GAME: blocker loaded at at 41,110,20
+[23:38:05] crk-aPZJ GAME: blocker loaded at at 54,110,20
+[23:38:05] crk-aPZJ GAME: blocker loaded at at 67,110,20
+[23:38:05] crk-aPZJ GAME: blocker loaded at at 80,110,20
+[23:38:05] crk-aPZJ GAME: blocker loaded at at 93,110,20
+[23:38:05] crk-aPZJ GAME: blocker loaded at at 119,110,20
+[23:38:05] crk-aPZJ GAME: blocker loaded at at 132,110,20
+[23:38:06] crk-aPZJ GAME: blocker loaded at at 145,110,20
+[23:38:06] crk-aPZJ GAME: blocker loaded at at 2,101,20
+[23:38:06] crk-aPZJ GAME: blocker loaded at at 15,101,20
+[23:38:06] crk-aPZJ GAME: blocker loaded at at 28,101,20
+[23:38:06] crk-aPZJ GAME: blocker loaded at at 41,101,20
+[23:38:06] crk-aPZJ GAME: blocker loaded at at 54,101,20
+[23:38:06] crk-aPZJ GAME: blocker loaded at at 67,101,20
+[23:38:06] crk-aPZJ GAME: blocker loaded at at 80,101,20
+[23:38:06] crk-aPZJ GAME: blocker loaded at at 93,101,20
+[23:38:06] crk-aPZJ GAME: blocker loaded at at 106,101,20
+[23:38:06] crk-aPZJ GAME: blocker loaded at at 119,101,20
+[23:38:06] crk-aPZJ GAME: blocker loaded at at 132,101,20
+[23:38:06] crk-aPZJ GAME: blocker loaded at at 145,101,20
+[23:38:06] crk-aPZJ GAME: blocker loaded at at 158,101,20
+[23:38:06] crk-aPZJ GAME: blocker loaded at at 2,92,20
+[23:38:06] crk-aPZJ GAME: blocker loaded at at 15,92,20
+[23:38:06] crk-aPZJ GAME: blocker loaded at at 28,92,20
+[23:38:06] crk-aPZJ GAME: blocker loaded at at 41,92,20
+[23:38:06] crk-aPZJ GAME: blocker loaded at at 54,92,20
+[23:38:06] crk-aPZJ GAME: blocker loaded at at 67,92,20
+[23:38:06] crk-aPZJ GAME: blocker loaded at at 80,92,20
+[23:38:07] crk-aPZJ GAME: blocker loaded at at 93,92,20
+[23:38:07] crk-aPZJ GAME: blocker loaded at at 106,92,20
+[23:38:07] crk-aPZJ GAME: blocker loaded at at 119,92,20
+[23:38:07] crk-aPZJ GAME: blocker loaded at at 2,83,20
+[23:38:07] crk-aPZJ GAME: blocker loaded at at 15,83,20
+[23:38:07] crk-aPZJ GAME: blocker loaded at at 28,83,20
+[23:38:07] crk-aPZJ GAME: blocker loaded at at 41,83,20
+[23:38:07] crk-aPZJ GAME: blocker loaded at at 54,83,20
+[23:38:07] crk-aPZJ GAME: blocker loaded at at 67,83,20
+[23:38:07] crk-aPZJ GAME: blocker loaded at at 80,83,20
+[23:38:07] crk-aPZJ GAME: blocker loaded at at 93,83,20
+[23:38:07] crk-aPZJ GAME: blocker loaded at at 106,83,20
+[23:38:07] crk-aPZJ GAME: blocker loaded at at 119,83,20
+[23:38:07] crk-aPZJ GAME: blocker loaded at at 2,74,20
+[23:38:07] crk-aPZJ GAME: blocker loaded at at 15,74,20
+[23:38:07] crk-aPZJ GAME: blocker loaded at at 28,74,20
+[23:38:07] crk-aPZJ GAME: blocker loaded at at 41,74,20
+[23:38:07] crk-aPZJ GAME: blocker loaded at at 54,74,20
+[23:38:07] crk-aPZJ GAME: blocker loaded at at 67,74,20
+[23:38:07] crk-aPZJ GAME: blocker loaded at at 80,74,20
+[23:38:07] crk-aPZJ GAME: blocker loaded at at 93,74,20
+[23:38:08] crk-aPZJ GAME: blocker loaded at at 106,74,20
+[23:38:08] crk-aPZJ GAME: blocker loaded at at 119,74,20
+[23:38:08] crk-aPZJ GAME: blocker loaded at at 132,74,20
+[23:38:08] crk-aPZJ GAME: blocker loaded at at 145,74,20
+[23:38:08] crk-aPZJ GAME: blocker loaded at at 2,65,20
+[23:38:08] crk-aPZJ GAME: blocker loaded at at 15,65,20
+[23:38:08] crk-aPZJ GAME: blocker loaded at at 28,65,20
+[23:38:08] crk-aPZJ GAME: blocker loaded at at 41,65,20
+[23:38:08] crk-aPZJ GAME: blocker loaded at at 54,65,20
+[23:38:08] crk-aPZJ GAME: blocker loaded at at 67,65,20
+[23:38:08] crk-aPZJ GAME: blocker loaded at at 80,65,20
+[23:38:08] crk-aPZJ GAME: blocker loaded at at 93,65,20
+[23:38:08] crk-aPZJ GAME: blocker loaded at at 106,65,20
+[23:38:08] crk-aPZJ GAME: blocker loaded at at 119,65,20
+[23:38:08] crk-aPZJ GAME: blocker loaded at at 184,65,20
+[23:38:08] crk-aPZJ GAME: blocker loaded at at 2,56,20
+[23:38:08] crk-aPZJ GAME: blocker loaded at at 15,56,20
+[23:38:08] crk-aPZJ GAME: blocker loaded at at 28,56,20
+[23:38:08] crk-aPZJ GAME: blocker loaded at at 41,56,20
+[23:38:09] crk-aPZJ GAME: blocker loaded at at 54,56,20
+[23:38:09] crk-aPZJ GAME: blocker loaded at at 67,56,20
+[23:38:09] crk-aPZJ GAME: blocker loaded at at 80,56,20
+[23:38:09] crk-aPZJ GAME: blocker loaded at at 93,56,20
+[23:38:09] crk-aPZJ GAME: blocker loaded at at 106,56,20
+[23:38:09] crk-aPZJ GAME: blocker loaded at at 119,56,20
+[23:38:09] crk-aPZJ GAME: blocker loaded at at 2,47,20
+[23:38:09] crk-aPZJ GAME: blocker loaded at at 15,47,20
+[23:38:09] crk-aPZJ GAME: blocker loaded at at 28,47,20
+[23:38:09] crk-aPZJ GAME: blocker loaded at at 41,47,20
+[23:38:09] crk-aPZJ GAME: blocker loaded at at 54,47,20
+[23:38:09] crk-aPZJ GAME: blocker loaded at at 67,47,20
+[23:38:09] crk-aPZJ GAME: blocker loaded at at 80,47,20
+[23:38:09] crk-aPZJ GAME: blocker loaded at at 93,47,20
+[23:38:09] crk-aPZJ GAME: blocker loaded at at 106,47,20
+[23:38:09] crk-aPZJ GAME: blocker loaded at at 119,47,20
+[23:38:09] crk-aPZJ GAME: blocker loaded at at 132,47,20
+[23:38:09] crk-aPZJ GAME: blocker loaded at at 145,47,20
+[23:38:09] crk-aPZJ GAME: blocker loaded at at 158,47,20
+[23:38:10] crk-aPZJ GAME: blocker loaded at at 171,47,20
+[23:38:10] crk-aPZJ GAME: blocker loaded at at 184,47,20
+[23:38:10] crk-aPZJ GAME: blocker loaded at at 2,38,20
+[23:38:10] crk-aPZJ GAME: blocker loaded at at 15,38,20
+[23:38:10] crk-aPZJ GAME: blocker loaded at at 28,38,20
+[23:38:10] crk-aPZJ GAME: blocker loaded at at 41,38,20
+[23:38:10] crk-aPZJ GAME: blocker loaded at at 54,38,20
+[23:38:10] crk-aPZJ GAME: blocker loaded at at 67,38,20
+[23:38:10] crk-aPZJ GAME: blocker loaded at at 80,38,20
+[23:38:10] crk-aPZJ GAME: blocker loaded at at 93,38,20
+[23:38:10] crk-aPZJ GAME: blocker loaded at at 106,38,20
+[23:38:10] crk-aPZJ GAME: blocker loaded at at 119,38,20
+[23:38:10] crk-aPZJ GAME: blocker loaded at at 132,38,20
+[23:38:10] crk-aPZJ GAME: blocker loaded at at 145,38,20
+[23:38:10] crk-aPZJ GAME: blocker loaded at at 158,38,20
+[23:38:10] crk-aPZJ GAME: blocker loaded at at 184,38,20
+[23:38:10] crk-aPZJ GAME: blocker loaded at at 2,29,20
+[23:38:10] crk-aPZJ GAME: blocker loaded at at 15,29,20
+[23:38:10] crk-aPZJ GAME: blocker loaded at at 28,29,20
+[23:38:10] crk-aPZJ GAME: blocker loaded at at 41,29,20
+[23:38:11] crk-aPZJ GAME: blocker loaded at at 54,29,20
+[23:38:11] crk-aPZJ GAME: blocker loaded at at 67,29,20
+[23:38:11] crk-aPZJ GAME: blocker loaded at at 80,29,20
+[23:38:11] crk-aPZJ GAME: blocker loaded at at 93,29,20
+[23:38:11] crk-aPZJ GAME: blocker loaded at at 106,29,20
+[23:38:11] crk-aPZJ GAME: blocker loaded at at 119,29,20
+[23:38:11] crk-aPZJ GAME: blocker loaded at at 132,29,20
+[23:38:11] crk-aPZJ GAME: blocker loaded at at 145,29,20
+[23:38:11] crk-aPZJ GAME: blocker loaded at at 2,20,20
+[23:38:11] crk-aPZJ GAME: blocker loaded at at 15,20,20
+[23:38:11] crk-aPZJ GAME: blocker loaded at at 28,20,20
+[23:38:11] crk-aPZJ GAME: blocker loaded at at 41,20,20
+[23:38:11] crk-aPZJ GAME: blocker loaded at at 54,20,20
+[23:38:11] crk-aPZJ GAME: blocker loaded at at 67,20,20
+[23:38:11] crk-aPZJ GAME: blocker loaded at at 80,20,20
+[23:38:11] crk-aPZJ GAME: blocker loaded at at 93,20,20
+[23:38:11] crk-aPZJ GAME: blocker loaded at at 106,20,20
+[23:38:11] crk-aPZJ GAME: blocker loaded at at 119,20,20
+[23:38:11] crk-aPZJ GAME: blocker loaded at at 132,20,20
+[23:38:11] crk-aPZJ GAME: blocker loaded at at 145,20,20
+[23:38:12] crk-aPZJ GAME: blocker loaded at at 158,20,20
+[23:38:12] crk-aPZJ GAME: blocker loaded at at 197,20,20
+[23:38:12] crk-aPZJ GAME: blocker loaded at at 2,11,20
+[23:38:12] crk-aPZJ GAME: blocker loaded at at 15,11,20
+[23:38:12] crk-aPZJ GAME: blocker loaded at at 28,11,20
+[23:38:12] crk-aPZJ GAME: blocker loaded at at 41,11,20
+[23:38:12] crk-aPZJ GAME: blocker loaded at at 54,11,20
+[23:38:12] crk-aPZJ GAME: blocker loaded at at 67,11,20
+[23:38:12] crk-aPZJ GAME: blocker loaded at at 80,11,20
+[23:38:12] crk-aPZJ GAME: blocker loaded at at 93,11,20
+[23:38:12] crk-aPZJ GAME: blocker loaded at at 106,11,20
+[23:38:12] crk-aPZJ GAME: blocker loaded at at 119,11,20
+[23:38:12] crk-aPZJ GAME: blocker loaded at at 132,11,20
+[23:38:12] crk-aPZJ GAME: blocker loaded at at 145,11,20
+[23:38:12] crk-aPZJ GAME: blocker loaded at at 2,2,20
+[23:38:12] crk-aPZJ GAME: blocker loaded at at 15,2,20
+[23:38:12] crk-aPZJ GAME: blocker loaded at at 28,2,20
+[23:38:12] crk-aPZJ GAME: blocker loaded at at 41,2,20
+[23:38:12] crk-aPZJ GAME: blocker loaded at at 54,2,20
+[23:38:12] crk-aPZJ GAME: blocker loaded at at 67,2,20
+[23:38:12] crk-aPZJ GAME: blocker loaded at at 80,2,20
+[23:38:13] crk-aPZJ GAME: blocker loaded at at 93,2,20
+[23:38:13] crk-aPZJ GAME: blocker loaded at at 106,2,20
+[23:38:13] crk-aPZJ GAME: blocker loaded at at 119,2,20
+[23:38:13] crk-aPZJ GAME: blocker loaded at at 132,2,20
+[23:50:56] crk-aPZJ ADMIN: EVENT *null* has loaded a character.
+[23:50:56] crk-aPZJ ACCESS: Login: RiotScopez/() from 146.115.147.185-1871707424 || BYOND v514.1585
+[23:50:56] crk-aPZJ ACCESS: Login: RiotScopez/(/(RiotScopez)) from 146.115.147.185-1871707424 || BYOND v514
+[23:50:57] crk-aPZJ DEBUG: Could not find style "ErisStyle" for /mob/new_player.
+[23:50:57] crk-aPZJ ACCESS: Login: RiotScopez/(/(RiotScopez)) from 146.115.147.185-1871707424 || BYOND v514
+[23:51:00] crk-aPZJ VOTE: Storyteller vote started by server.
+[23:51:04] crk-aPZJ ADMIN: RiotScopez/(/(RiotScopez)) removed the delay.
+[23:51:05] crk-aPZJ ADMIN: RiotScopez/(/(RiotScopez)) delayed the game.
+[23:51:13] crk-aPZJ DEBUG: Runtime in inspiration_component.dm,29: undefined variable /obj/item/gun/projectile/revolver/rev10/var/perk <A HREF='?_src_=holder;viewruntime=[0x210e3bf4]'>[view]</A>
+[23:51:27] crk-aPZJ ADMIN: RiotScopez/(/(RiotScopez)) RiotScopez/(/(RiotScopez)) has loaded a character.
+[23:51:40] crk-aPZJ ADMIN: RiotScopez has started the game.
+[23:51:43] crk-aPZJ ACCESS: Logout: *no key*/(/(RiotScopez))
+[23:51:43] crk-aPZJ ACCESS: Login: RiotScopez/(/(Klara Scott)) from 146.115.147.185-1871707424 || BYOND v514
+[23:51:43] crk-aPZJ DEBUG: Could not find style "ErisStyle" for /mob/living/carbon/human.
+[23:51:49] crk-aPZJ DEBUG: Creating records for Klara Scott
+[23:52:03] crk-aPZJ SAY: *no key*/(/(rat (183))) squeals! 
+[23:52:04] crk-aPZJ GAME: Explosion with size (-1, 0, 1) in area Swamp Caves 
+[23:52:04] crk-aPZJ GAME: Explosion with size (-1, 0, 1) in area Swamp Caves 
+[23:52:04] crk-aPZJ GAME: Explosion with size (-1, 0, 1) in area Swamp Caves 
+[23:52:04] crk-aPZJ SAY: *no key*/(/(rat (366))) squeals! 
+[23:52:04] crk-aPZJ SAY: Durable Kraftwerk Roach/ : 10101010011100010101.
+[23:52:04] crk-aPZJ SAY: *no key*/(/(rat (767))) squeals! 
+[23:52:05] crk-aPZJ SAY: *no key*/(/(rat (222))) squeals! 
+[23:52:05] crk-aPZJ SAY: *no key*/(/(rat (676))) squeals! 
+[23:52:17] crk-aPZJ SAY: *no key*/(/(rat (338))) squeals! 
+[23:52:17] crk-aPZJ SAY: *no key*/(/(rat (89))) squeals! 
+[23:52:18] crk-aPZJ GAME: Explosion with size (-1, 1, 2) in area Vault Bunker 
+[23:52:19] crk-aPZJ SAY: *no key*/(/(rat (708))) squeals! 
+[23:53:20] crk-aPZJ SAY: Kraftwerk Roach/ : 10101010011100010101.
+[23:53:21] crk-aPZJ SAY: Durable Kraftwerk Roach/ : 10101010011100010101.
+[23:53:21] crk-aPZJ SAY: *no key*/(/(rat (643))) squeals! 
+[23:53:21] crk-aPZJ SAY: *no key*/(/(rat (205))) squeals! 
+[23:53:21] crk-aPZJ SAY: *no key*/(/(rat (923))) squeals! 
+[23:53:22] crk-aPZJ SAY: *no key*/(/(rat (743))) squeals! 
+[23:53:22] crk-aPZJ SAY: *no key*/(/(rat (888))) squeals! 
+[23:53:22] crk-aPZJ SAY: *no key*/(/(rat (782))) squeals! 
+[23:53:22] crk-aPZJ SAY: *no key*/(/(rat (909))) squeals! 
+[23:53:22] crk-aPZJ SAY: Durable Kraftwerk Roach/ : 10101010011100010101.
+[23:53:22] crk-aPZJ SAY: Durable Kraftwerk Roach/ : 10101010011100010101.
+[23:53:23] crk-aPZJ SAY: *no key*/(/(rat (562))) squeals! 
+[23:53:23] crk-aPZJ SAY: *no key*/(/(rat (350))) squeals! 
+[23:53:23] crk-aPZJ SAY: Lambertian Kraftwerk Roach/ : 10101010011100010101.
+[23:53:23] crk-aPZJ SAY: Durable Kraftwerk Roach/ : 10101010011100010101.
+[23:53:23] crk-aPZJ SAY: *no key*/(/(rat (462))) squeals! 
+[23:53:23] crk-aPZJ SAY: *no key*/(/(rat (323))) squeals! 
+[23:53:23] crk-aPZJ SAY: *no key*/(/(rat (825))) squeals! 
+[23:53:25] crk-aPZJ SAY: *no key*/(/(rat (637))) squeals! 
+[23:53:25] crk-aPZJ SAY: *no key*/(/(rat (465))) squeals! 
+[23:53:27] crk-aPZJ GAME: Explosion with size (-1, 0, 1) in area Deep Maintenance 
+[23:53:34] crk-aPZJ SAY: Quick Kraftwerk Roach/ : 10101010011100010101.
+[23:54:12] crk-aPZJ GAME: Explosion with size (0, 1, 3) in area Greyson Field Offices 
+[23:54:14] crk-aPZJ SAY: Biosilicified Kraftwerk Roach/ : 10101010011100010101.
+[23:54:14] crk-aPZJ SAY: *no key*/(/(rat (262))) squeals! 
+[23:54:14] crk-aPZJ SAY: Lambertian Kraftwerk Roach/ : 10101010011100010101.
+[23:54:15] crk-aPZJ SAY: Durable Kraftwerk Roach/ : 10101010011100010101.
+[23:54:15] crk-aPZJ SAY: Biosilicified Kraftwerk Roach/ : 10101010011100010101.
+[23:54:15] crk-aPZJ SAY: Kraftwerk Roach/ : 10101010011100010101.
+[23:54:16] crk-aPZJ GAME: Explosion with size (-1, 0, 1) in area Swamp Caves 
+[23:54:22] crk-aPZJ DEBUG: Runtime in unsorted.dm,1381: addtimer called with a callback assigned to a qdeleted object. In the future such timers will not be supported and may refuse to run or run with a 0 wait <A HREF='?_src_=holder;viewruntime=[0x2105ea8c]'>[view]</A>
+[23:54:25] crk-aPZJ SAY: Quick Kraftwerk Roach/ : 10101010011100010101.
+[23:54:25] crk-aPZJ SAY: *no key*/(/(rat (5))) squeals! 
+[23:54:57] crk-aPZJ SAY: Biosilicified Kraftwerk Roach/ : 10101010011100010101.
+[23:54:57] crk-aPZJ SAY: Durable Kraftwerk Roach/ : 10101010011100010101.
+[23:54:57] crk-aPZJ SAY: *no key*/(/(rat (904))) squeals! 
+[23:54:59] crk-aPZJ SAY: *no key*/(/(rat (252))) squeals! 
+[23:54:59] crk-aPZJ SAY: Kraftwerk Roach/ : 10101010011100010101.
+[23:54:59] crk-aPZJ SAY: Biosilicified Kraftwerk Roach/ : 10101010011100010101.
+[23:54:59] crk-aPZJ SAY: Durable Kraftwerk Roach/ : 10101010011100010101.
+[23:55:32] crk-aPZJ SAY: *no key*/(/(rat (727))) squeals! 
+[23:55:32] crk-aPZJ GAME: Explosion with size (0, 1, 3) in area Hunting plains underground caves 
+[23:55:33] crk-aPZJ ADMIN: RiotScopez/(/(Klara Scott)) spawned /obj/item/gun/energy/sst/systemcost at (75,108,2) (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=75;Y=108;Z=2'>JMP</a>)
+[23:55:33] crk-aPZJ SAY: Durable Kraftwerk Roach/ : 10101010011100010101.
+[23:55:35] crk-aPZJ SAY: Kraftwerk Roach/ : 10101010011100010101.
+[23:55:36] crk-aPZJ SAY: Kraftwerk Roach/ : 10101010011100010101.
+[23:55:55] crk-aPZJ SAY: Durable Kraftwerk Roach/ : 10101010011100010101.
+[23:55:55] crk-aPZJ SAY: Lambertian Kraftwerk Roach/ : 10101010011100010101.
+[23:55:55] crk-aPZJ SAY: Durable Kraftwerk Roach/ : 10101010011100010101.
+[23:55:56] crk-aPZJ SAY: Biosilicified Kraftwerk Roach/ : 10101010011100010101.
+[23:55:56] crk-aPZJ SAY: Durable Kraftwerk Roach/ : 10101010011100010101.
+[23:55:56] crk-aPZJ SAY: Lambertian Kraftwerk Roach/ : 10101010011100010101.
+[23:56:01] crk-aPZJ DEBUG: Runtime in unsorted.dm,1381: addtimer called with a callback assigned to a qdeleted object. In the future such timers will not be supported and may refuse to run or run with a 0 wait <A HREF='?_src_=holder;viewruntime=[0x210e806b]'>[view]</A>
+[23:56:17] crk-aPZJ SAY: Lambertian Kraftwerk Roach/ : 10101010011100010101.
+[23:56:27] crk-aPZJ GAME: Explosion with size (0, 1, 3) in area Greyson Field Offices 
+[23:56:37] crk-aPZJ GAME: Explosion with size (0, 1, 3) in area Hunting plains underground caves 
+[23:56:40] crk-aPZJ SAY: Lambertian Kraftwerk Roach/ : 10101010011100010101.
+[23:56:40] crk-aPZJ SAY: Durable Kraftwerk Roach/ : 10101010011100010101.
+[23:56:40] crk-aPZJ SAY: *no key*/(/(rat (951))) squeals! 
+[23:56:50] crk-aPZJ EMOTE: Old Smertnik termite/ : <B>Old Smertnik termite</B> splutters!
+[23:56:54] crk-aPZJ SAY: Lambertian Kraftwerk Roach/ : 10101010011100010101.
+[23:56:54] crk-aPZJ SAY: Durable Kraftwerk Roach/ : 10101010011100010101.
+[23:57:22] crk-aPZJ SAY: *no key*/(/(rat (155))) squeals! 
+[23:57:33] crk-aPZJ EMOTE: Old Smertnik termite/ : <B>Old Smertnik termite</B> splutters!
+[23:57:49] crk-aPZJ GAME: Explosion with size (-1, 0, 1) in area Deep Maintenance 
+[23:58:05] crk-aPZJ GAME: Explosion with size (-1, 1, 2) in area Deep Forest 
+[23:58:23] crk-aPZJ SAY: Durable Kraftwerk Roach/ : 10101010011100010101.
+[23:58:48] crk-aPZJ GAME: Explosion with size (-1, 1, 2) in area Deep Maintenance 
+[23:58:49] crk-aPZJ GAME: Explosion with size (-1, 1, 2) in area Swamp Caves 
+[23:59:19] crk-aPZJ GAME: Explosion with size (-1, 0, 1) in area Vault Bunker 
+[23:59:39] crk-aPZJ GAME: Explosion with size (-1, 0, 1) in area Deep Maintenance 
+[00:00:47] crk-aPZJ TGUI: riotscopez (as Klara Scott at 66,120,3)
+Using: /obj/machinery/atmospherics/unary/cryo_cell [0x2007bdd]
+new Cryo fancy Yes
+[00:00:47] crk-aPZJ TGUI: riotscopez in tgui-window-1/initialize
+Using: /obj/machinery/atmospherics/unary/cryo_cell [0x2007bdd]
+[00:00:50] crk-aPZJ TGUI: riotscopez (as Klara Scott at 66,120,3) in tgui-window-1
+Using: /obj/machinery/atmospherics/unary/cryo_cell [0x2007bdd]
+Action: ejectbeaker {}
+[00:00:50] crk-aPZJ TGUI: riotscopez in tgui-window-1/close (suspending)
+[00:00:50] crk-aPZJ TGUI: riotscopez in tgui-window-1/close (suspending)
+[00:00:52] crk-aPZJ TGUI: riotscopez (as Klara Scott at 65,120,3)
+Using: /obj/machinery/atmospherics/unary/cryo_cell [0x2007bdc]
+new Cryo fancy Yes
+[00:00:53] crk-aPZJ TGUI: riotscopez (as Klara Scott at 65,120,3) in tgui-window-1
+Using: /obj/machinery/atmospherics/unary/cryo_cell [0x2007bdc]
+Action: ejectbeaker {}
+[00:00:57] crk-aPZJ TGUI: riotscopez in tgui-window-1/close (suspending)
+[00:00:57] crk-aPZJ TGUI: riotscopez in tgui-window-1/close (suspending)
+[00:01:36] crk-aPZJ ADMIN: RiotScopez/(/(Klara Scott)) created 3 /obj/item/reagent_containers/glass/beaker/cryoxadone (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=65;Y=120;Z=3'>JMP</a>)
+[00:01:43] crk-aPZJ TGUI: riotscopez (as Klara Scott at 66,120,3)
+Using: /obj/machinery/atmospherics/unary/cryo_cell [0x2007bde]
+new Cryo fancy Yes
+[00:01:46] crk-aPZJ TGUI: riotscopez in tgui-window-1/close (suspending)
+[00:01:46] crk-aPZJ TGUI: riotscopez in tgui-window-1/close (suspending)
+[00:02:20] crk-aPZJ SAY: grey baby slime (846)/ : Blop...
+[00:02:34] crk-aPZJ GAME: Explosion with size (0, 1, 3) in area Greyson Field Offices 
+[00:07:36] crk-aPZJ SAY: grey baby slime (350)/ : Blorble...
+[00:09:24] crk-aPZJ SAY: grey baby slime (846)/ : Rawr...
+[00:11:13] crk-aPZJ ADMIN: EVENT Infestation Giant Termite Infestation sending mobs to <A HREF='?_src_=holder;adminplayerobservecoodjump=1;X=91;Y=77;Z=3'>Public Pool | 91, 77, 3</a>
+[00:11:13] crk-aPZJ ADMIN: EVENT Infestation Giant Termite Infestation sending mobs to <A HREF='?_src_=holder;adminplayerobservecoodjump=1;X=87;Y=78;Z=3'>Public Pool | 87, 78, 3</a>
+[00:13:33] crk-aPZJ SAY: Durable Kraftwerk Roach/ : 10101010011100010101.
+[00:13:37] crk-aPZJ SAY: Durable Kraftwerk Roach/ : 10101010011100010101.
+[00:13:55] crk-aPZJ SAY: Durable Kraftwerk Roach/ : 10101010011100010101.
+[00:14:12] crk-aPZJ DEBUG: Event 'Event Manager' has completed at 21:22.
+[00:15:25] crk-aPZJ SAY: grey baby slime (846)/ : Blorble...
+[00:15:32] crk-aPZJ DEBUG: Moved - the combat drone was deleted while still being listened to by /datum/effect/effect/system/trail/ion.
+[00:16:19] crk-aPZJ DEBUG: Moved - the combat drone was deleted while still being listened to by /datum/effect/effect/system/trail/ion.
+[00:17:42] crk-aPZJ SAY: grey baby slime (350)/ : Brother...
+[00:22:22] crk-aPZJ SAY: Durable Kraftwerk Roach/ : 10101010011100010101.
+[00:22:26] crk-aPZJ SAY: Durable Kraftwerk Roach/ : 10101010011100010101.
+[00:22:47] crk-aPZJ SAY: grey baby slime (350)/ : Rawr...
+[00:23:55] crk-aPZJ GAME: Explosion with size (-1, 1, 2) in area Deep Maintenance 
+[00:23:55] crk-aPZJ GAME: Explosion with size (0, 1, 3) in area Deep Maintenance 
+[00:23:55] crk-aPZJ GAME: Explosion with size (0, 1, 3) in area Deep Maintenance 
+[00:24:03] crk-aPZJ SAY: grey baby slime (846)/ : Blorble...
+[00:27:05] crk-aPZJ SAY: Durable Kraftwerk Roach/ : 10101010011100010101.
+[00:27:13] crk-aPZJ SAY: Durable Kraftwerk Roach/ : 10101010011100010101.
+[00:27:27] crk-aPZJ SAY: Durable Kraftwerk Roach/ : 10101010011100010101.
+[00:27:36] crk-aPZJ SAY: Durable Kraftwerk Roach/ : 10101010011100010101.
+[00:27:42] crk-aPZJ DEBUG: Moved - the combat drone was deleted while still being listened to by /datum/effect/effect/system/trail/ion.
+[00:29:34] crk-aPZJ SAY: grey baby slime (846)/ : Blop...
+[00:33:45] crk-aPZJ SAY: Kraftwerk Roach/ : 10101010011100010101.
+[00:39:28] crk-aPZJ SAY: grey baby slime (846)/ : Blorble...
+[00:39:38] crk-aPZJ SAY: Kraftwerk Roach/ : 10101010011100010101.
+[00:40:09] crk-aPZJ SAY: Kraftwerk Roach/ : 10101010011100010101.
+[00:40:14] crk-aPZJ SAY: Kraftwerk Roach/ : 10101010011100010101.
+[00:40:25] crk-aPZJ SAY: Kraftwerk Roach/ : 10101010011100010101.
+[00:44:04] crk-aPZJ SAY: grey baby slime (846)/ : Blorble...
+[00:44:57] crk-aPZJ GAME: Explosion with size (-1, 0, 1) in area Deep Forest 
+[00:46:34] crk-aPZJ GAME: Explosion with size (-1, 1, 2) in area Underground Floor 1 North Maintenance 
+[00:49:41] crk-aPZJ SAY: grey baby slime (846)/ : I want to eat...
+[00:50:12] crk-aPZJ SAY: grey baby slime (350)/ : Blop...
+[00:51:54] crk-aPZJ SAY: grey baby slime (846)/ : I want to eat...
+[00:53:19] crk-aPZJ SAY: grey baby slime (350)/ : Rawr...
+[00:54:15] crk-aPZJ SAY: Biosilicified Kraftwerk Roach/ : 10101010011100010101.
+[00:57:03] crk-aPZJ SAY: grey baby slime (350)/ : Brother...
+[00:58:30] crk-aPZJ SAY: grey baby slime (350)/ : Rawr...
+[00:59:03] crk-aPZJ SAY: Kraftwerk Roach/ : 10101010011100010101.
+[00:59:09] crk-aPZJ SAY: Kraftwerk Roach/ : 10101010011100010101.
+[01:01:13] crk-aPZJ SAY: grey baby slime (350)/ : Blorble...
+[01:02:26] crk-aPZJ SAY: grey baby slime (350)/ : Rawr...
+[01:02:50] crk-aPZJ SAY: grey baby slime (846)/ : Blop...
+[01:04:50] crk-aPZJ GAME: Explosion with size (-1, 1, 2) in area Deep Maintenance 
+[01:06:13] crk-aPZJ EMOTE: Klara Scott/RiotScopez : screams!
+[01:06:13] crk-aPZJ EMOTE: Klara Scott/RiotScopez : <B>Klara Scott</B> screams!
+[01:06:20] crk-aPZJ EMOTE: Klara Scott/RiotScopez : screams!
+[01:06:20] crk-aPZJ EMOTE: Klara Scott/RiotScopez : <B>Klara Scott</B> screams!
+[01:06:29] crk-aPZJ EMOTE: Klara Scott/RiotScopez : screams!
+[01:06:29] crk-aPZJ EMOTE: Klara Scott/RiotScopez : <B>Klara Scott</B> screams!
+[01:06:37] crk-aPZJ EMOTE: Klara Scott/RiotScopez : screams!
+[01:06:37] crk-aPZJ EMOTE: Klara Scott/RiotScopez : <B>Klara Scott</B> screams!
+[01:06:45] crk-aPZJ EMOTE: Klara Scott/RiotScopez : screams!
+[01:06:45] crk-aPZJ EMOTE: Klara Scott/RiotScopez : <B>Klara Scott</B> screams!
+[01:06:50] crk-aPZJ ATTACK: *no key*/(/(Smertnik termite)) shot (/obj/item/projectile/bullet/rock) RiotScopez/(/(Klara Scott)) (INTENT: HARM) (<A HREF='?_src_=holder;adminplayerobservecoodjump=1;X=88;Y=119;Z=3'>JMP</a>)
+[01:06:52] crk-aPZJ ATTACK: *no key*/(/(Smertnik termite)) shot (/obj/item/projectile/bullet/rock) RiotScopez/(/(Klara Scott)) (INTENT: HARM) (<A HREF='?_src_=holder;adminplayerobservecoodjump=1;X=88;Y=119;Z=3'>JMP</a>)
+[01:06:59] crk-aPZJ ATTACK: *no key*/(/(Smertnik termite)) shot (/obj/item/projectile/bullet/rock) RiotScopez/(/(Klara Scott)) (INTENT: HARM) (<A HREF='?_src_=holder;adminplayerobservecoodjump=1;X=88;Y=119;Z=3'>JMP</a>)
+[01:07:00] crk-aPZJ ATTACK: *no key*/(/(Smertnik termite)) shot (/obj/item/projectile/bullet/rock) RiotScopez/(/(Klara Scott)) (INTENT: HARM) (<A HREF='?_src_=holder;adminplayerobservecoodjump=1;X=88;Y=119;Z=3'>JMP</a>)
+[01:07:07] crk-aPZJ ATTACK: *no key*/(/(Smertnik termite)) shot (/obj/item/projectile/bullet/rock) RiotScopez/(/(Klara Scott)) (INTENT: HARM) (<A HREF='?_src_=holder;adminplayerobservecoodjump=1;X=88;Y=119;Z=3'>JMP</a>)
+[01:07:09] crk-aPZJ ATTACK: *no key*/(/(Smertnik termite)) shot (/obj/item/projectile/bullet/rock) RiotScopez/(/(Klara Scott)) (INTENT: HARM) (<A HREF='?_src_=holder;adminplayerobservecoodjump=1;X=88;Y=119;Z=3'>JMP</a>)
+[01:07:14] crk-aPZJ ATTACK: *no key*/(/(Smertnik termite)) shot (/obj/item/projectile/bullet/rock) RiotScopez/(/(Klara Scott)) (INTENT: HARM) (<A HREF='?_src_=holder;adminplayerobservecoodjump=1;X=88;Y=119;Z=3'>JMP</a>)
+[01:07:16] crk-aPZJ ATTACK: *no key*/(/(Smertnik termite)) shot (/obj/item/projectile/bullet/rock) RiotScopez/(/(Klara Scott)) (INTENT: HARM) (<A HREF='?_src_=holder;adminplayerobservecoodjump=1;X=88;Y=119;Z=3'>JMP</a>)
+[01:07:23] crk-aPZJ ATTACK: *no key*/(/(Smertnik termite)) shot (/obj/item/projectile/bullet/rock) RiotScopez/(/(Klara Scott)) (INTENT: HARM) (<A HREF='?_src_=holder;adminplayerobservecoodjump=1;X=88;Y=119;Z=3'>JMP</a>)
+[01:07:25] crk-aPZJ ATTACK: *no key*/(/(Smertnik termite)) shot (/obj/item/projectile/bullet/rock) RiotScopez/(/(Klara Scott)) (INTENT: HARM) (<A HREF='?_src_=holder;adminplayerobservecoodjump=1;X=88;Y=119;Z=3'>JMP</a>)
+[01:07:27] crk-aPZJ DEBUG: Event 'Event Manager' has completed at 22:15.
+[01:07:31] crk-aPZJ ATTACK: *no key*/(/(Smertnik termite)) shot (/obj/item/projectile/bullet/rock) RiotScopez/(/(Klara Scott)) (INTENT: HARM) (<A HREF='?_src_=holder;adminplayerobservecoodjump=1;X=88;Y=119;Z=3'>JMP</a>)
+[01:07:33] crk-aPZJ ATTACK: *no key*/(/(Smertnik termite)) shot (/obj/item/projectile/bullet/rock) RiotScopez/(/(Klara Scott)) (INTENT: HARM) (<A HREF='?_src_=holder;adminplayerobservecoodjump=1;X=88;Y=119;Z=3'>JMP</a>)
+[01:07:39] crk-aPZJ ATTACK: *no key*/(/(Smertnik termite)) shot (/obj/item/projectile/bullet/rock) RiotScopez/(/(Klara Scott)) (INTENT: HARM) (<A HREF='?_src_=holder;adminplayerobservecoodjump=1;X=88;Y=119;Z=3'>JMP</a>)
+[01:07:40] crk-aPZJ ATTACK: *no key*/(/(Smertnik termite)) shot (/obj/item/projectile/bullet/rock) RiotScopez/(/(Klara Scott)) (INTENT: HARM) (<A HREF='?_src_=holder;adminplayerobservecoodjump=1;X=88;Y=119;Z=3'>JMP</a>)
+[01:07:47] crk-aPZJ ATTACK: *no key*/(/(Smertnik termite)) shot (/obj/item/projectile/bullet/rock) RiotScopez/(/(Klara Scott)) (INTENT: HARM) (<A HREF='?_src_=holder;adminplayerobservecoodjump=1;X=88;Y=119;Z=3'>JMP</a>)
+[01:07:48] crk-aPZJ ATTACK: *no key*/(/(Smertnik termite)) shot (/obj/item/projectile/bullet/rock) RiotScopez/(/(Klara Scott)) (INTENT: HARM) (<A HREF='?_src_=holder;adminplayerobservecoodjump=1;X=88;Y=119;Z=3'>JMP</a>)
+[01:07:55] crk-aPZJ ATTACK: *no key*/(/(Smertnik termite)) shot (/obj/item/projectile/bullet/rock) RiotScopez/(/(Klara Scott)) (INTENT: HARM) (<A HREF='?_src_=holder;adminplayerobservecoodjump=1;X=88;Y=119;Z=3'>JMP</a>)
+[01:07:57] crk-aPZJ ATTACK: *no key*/(/(Smertnik termite)) shot (/obj/item/projectile/bullet/rock) RiotScopez/(/(Klara Scott)) (INTENT: HARM) (<A HREF='?_src_=holder;adminplayerobservecoodjump=1;X=88;Y=119;Z=3'>JMP</a>)
+[01:08:03] crk-aPZJ ATTACK: *no key*/(/(Smertnik termite)) shot (/obj/item/projectile/bullet/rock) RiotScopez/(/(Klara Scott)) (INTENT: HARM) (<A HREF='?_src_=holder;adminplayerobservecoodjump=1;X=88;Y=119;Z=3'>JMP</a>)
+[01:08:05] crk-aPZJ ATTACK: *no key*/(/(Smertnik termite)) shot (/obj/item/projectile/bullet/rock) RiotScopez/(/(Klara Scott)) (INTENT: HARM) (<A HREF='?_src_=holder;adminplayerobservecoodjump=1;X=88;Y=119;Z=3'>JMP</a>)
+[01:08:19] crk-aPZJ EMOTE: Klara Scott/RiotScopez : gasps!
+[01:08:19] crk-aPZJ EMOTE: Klara Scott/RiotScopez : <B>Klara Scott</B> gasps!
+[01:08:19] crk-aPZJ EMOTE: Klara Scott/RiotScopez : gasps!
+[01:08:19] crk-aPZJ EMOTE: Klara Scott/RiotScopez : <B>Klara Scott</B> gasps!
+[01:08:19] crk-aPZJ EMOTE: Klara Scott/RiotScopez : gasps!
+[01:08:19] crk-aPZJ EMOTE: Klara Scott/RiotScopez : <B>Klara Scott</B> gasps!
+[01:08:19] crk-aPZJ EMOTE: Klara Scott/RiotScopez : gasps!
+[01:08:19] crk-aPZJ EMOTE: Klara Scott/RiotScopez : <B>Klara Scott</B> gasps!
+[01:08:19] crk-aPZJ EMOTE: Klara Scott/RiotScopez : gasps!
+[01:08:19] crk-aPZJ EMOTE: Klara Scott/RiotScopez : <B>Klara Scott</B> gasps!
+[01:08:35] crk-aPZJ ADMIN: EVENT Klara Scott has died at the floor.
+[01:10:42] crk-aPZJ SAY: *no key*/(/(rat (597))) squeals! 
+[01:12:47] crk-aPZJ ADMIN: EVENT Infestation Unidentified Lifeforms sending mobs to <A HREF='?_src_=holder;adminplayerobservecoodjump=1;X=72;Y=133;Z=2'>Ameridian Lab | 72, 133, 2</a>
+[01:12:47] crk-aPZJ ADMIN: EVENT Infestation Unidentified Lifeforms sending mobs to <A HREF='?_src_=holder;adminplayerobservecoodjump=1;X=137;Y=101;Z=4'>Outdoors - Pad | 137, 101, 4</a>
+[01:12:47] crk-aPZJ ADMIN: EVENT Infestation Unidentified Lifeforms sending mobs to <A HREF='?_src_=holder;adminplayerobservecoodjump=1;X=151;Y=131;Z=4'>Garden | 151, 131, 4</a>
+[01:15:01] crk-aPZJ SAY: Kraftwerk Roach/ : 10101010011100010101.
+[01:15:17] crk-aPZJ SAY: Kraftwerk Roach/ : 10101010011100010101.
+[01:15:46] crk-aPZJ DEBUG: Event 'Event Manager' has completed at 22:23.
+[01:20:22] crk-aPZJ EMOTE: Old Smertnik termite/ : <B>Old Smertnik termite</B> splutters!
+[01:24:07] crk-aPZJ SAY: Durable Kraftwerk Roach/ : 10101010011100010101.
+[01:25:12] crk-aPZJ SAY: grey baby slime (846)/ : Where is the food?
+[01:27:21] crk-aPZJ ADMIN: RiotScopez/(/(Klara Scott)) jumped to the Chemistry
+[01:27:26] crk-aPZJ ADMIN: RiotScopez/(/(Klara Scott)) healed / revived RiotScopez/(/(Klara Scott))
+[01:28:42] crk-aPZJ ADMIN: RiotScopez/(/(Klara Scott)) spawned /obj/item/gun/projectile/automatic/chaingun at (68,134,3) (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=68;Y=134;Z=3'>JMP</a>)
+[01:29:05] crk-aPZJ SAY: grey baby slime (846)/ : Blop...
+[01:29:53] crk-aPZJ ADMIN: RiotScopez/(/(Klara Scott)) created 1 /obj/item/ammo_magazine/heavy_rifle_408_drum/lethal (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=68;Y=134;Z=3'>JMP</a>)
+[01:30:39] crk-aPZJ SAY: Quick Kraftwerk Roach/ : 10101010011100010101.
+[01:31:50] crk-aPZJ EMOTE: Seuche Roach/ : <B>Seuche Roach</B> splutters!
+[01:32:58] crk-aPZJ SAY: grey baby slime (846)/ : Where is the food?
+[01:33:28] crk-aPZJ ADMIN: RiotScopez/(/(Klara Scott)) created 1 /obj/item/ammo_magazine/rifle_75_linked_box/heavy_rifle_408/lethal (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=100;Y=144;Z=3'>JMP</a>)
+[01:34:13] crk-aPZJ ADMIN: RiotScopez/(/(Klara Scott)) created 1 /obj/item/ammo_magazine/rifle_75_linked_box/heavy_rifle_408/lethal (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=101;Y=145;Z=3'>JMP</a>)
+[01:34:17] crk-aPZJ ADMIN: RiotScopez/(/(Klara Scott)) created 1 /obj/item/gun/projectile/automatic/chaingun (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=101;Y=145;Z=3'>JMP</a>)
+[01:37:18] crk-aPZJ ACCESS: Logout: *no key*/(/(Klara Scott))
+[01:37:18] crk-aPZJ ACCESS: Login: riotscopez/(/(Klara Scott)) from 146.115.147.185-1871707424 || BYOND v514
+[01:37:25] crk-aPZJ ACCESS: Logout: *no key*/(/(Klara Scott))
+[01:37:25] crk-aPZJ ACCESS: Login: riotscopez/(/(Enrique Kanaga)) from 146.115.147.185-1871707424 || BYOND v514
+[01:37:25] crk-aPZJ DEBUG: Could not find style "ErisStyle" for /mob/living/carbon/human/bst.
+[01:37:25] crk-aPZJ DEBUG: Runtime in asset_transport.dm,90: Invalid argument: client: `` <A HREF='?_src_=holder;viewruntime=[0x210ece9b]'>[view]</A>
+[01:37:25] crk-aPZJ ADMIN: *no key*/(/(Klara Scott)) has become a Bluespace Technician <A HREF='?_src_=holder;adminplayerobservecoodjump=1;X=100;Y=150;Z=3'>Primary Tool Storage | 100, 150, 3</a> User:RiotScopez (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=100;Y=150;Z=3'>JMP</a>)
+[01:37:25] crk-aPZJ ADMIN: Bluespace Tech Spawned: X:100 Y:150 Z:3 User:RiotScopez
+[01:39:41] crk-aPZJ ACCESS: Logout: RiotScopez/(/(Bluespace Technician))
+[01:39:41] crk-aPZJ ACCESS: Logout: riotscopez[DC]/(/(Bluespace Technician))
+[01:39:52] crk-aPZJ SAY: grey baby slime (350)/ : I want to eat...
+[01:40:17] crk-aPZJ ACCESS: Login: RiotScopez/() from 146.115.147.185-1871707424 || BYOND v514.1585
+[01:40:17] crk-aPZJ ACCESS: Login: RiotScopez/(/(Bluespace Technician)) from 146.115.147.185-1871707424 || BYOND v514
+[01:40:17] crk-aPZJ DEBUG: Could not find style "ErisStyle" for /mob/living/carbon/human/bst.
+[01:40:33] crk-aPZJ ACCESS: Logout: RiotScopez/(/(Bluespace Technician))
+[01:40:33] crk-aPZJ ACCESS: Logout: RiotScopez[DC]/(/(Bluespace Technician))
+[01:40:34] crk-aPZJ ACCESS: Login: RiotScopez/() from 146.115.147.185-1871707424 || BYOND v514.1585
+[01:40:34] crk-aPZJ ACCESS: Login: RiotScopez/(/(Bluespace Technician)) from 146.115.147.185-1871707424 || BYOND v514
+[01:40:34] crk-aPZJ DEBUG: Could not find style "ErisStyle" for /mob/living/carbon/human/bst.
+[01:40:35] crk-aPZJ SAY: Durable Kraftwerk Roach/ : 10101010011100010101.
+[01:41:04] crk-aPZJ GAME: GOONCHAT: RiotScopez/(/(Bluespace Technician)) Failed to fix their goonchat window forcing a start() and forcing a load()
+[01:41:15] crk-aPZJ ADMIN: RiotScopez/(/(Bluespace Technician)) has Bluespace Technician Teleported Out (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=103;Y=148;Z=3'>JMP</a>)
+[01:41:15] crk-aPZJ EMOTE: Bluespace Technician/RiotScopez : <B>Bluespace Technician</B> presses a button on their suit, followed by a polite bow.
+[01:41:15] crk-aPZJ ACCESS: Logout: *no key*/(/(Bluespace Technician))
+[01:41:15] crk-aPZJ ACCESS: Login: riotscopez/(/(Klara Scott)) from 146.115.147.185-1871707424 || BYOND v514
+[01:41:22] crk-aPZJ ACCESS: Logout: *no key*/(/(riotscopez BSTech))
+[01:41:22] crk-aPZJ ACCESS: Login: riotscopez/(/(Zachary Morgan)) from 146.115.147.185-1871707424 || BYOND v514
+[01:41:22] crk-aPZJ DEBUG: Could not find style "ErisStyle" for /mob/living/carbon/human/bst.
+[01:41:22] crk-aPZJ DEBUG: Runtime in asset_transport.dm,90: Invalid argument: client: `` <A HREF='?_src_=holder;viewruntime=[0x210ed053]'>[view]</A>
+[01:41:22] crk-aPZJ ADMIN: *no key*/(/(riotscopez BSTech)) has become a Bluespace Technician <A HREF='?_src_=holder;adminplayerobservecoodjump=1;X=103;Y=148;Z=3'>Primary Tool Storage | 103, 148, 3</a> User:RiotScopez (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=103;Y=148;Z=3'>JMP</a>)
+[01:41:22] crk-aPZJ ADMIN: Bluespace Tech Spawned: X:103 Y:148 Z:3 User:RiotScopez
+[01:42:03] crk-aPZJ SAY: grey baby slime (846)/ : Where is the food?
+[01:42:52] crk-aPZJ EMOTE: Klara Scott/@RiotScopez : snores.
+[01:42:52] crk-aPZJ EMOTE: Klara Scott/@RiotScopez : <B>Klara Scott</B> snores.
+[01:42:54] crk-aPZJ DEBUG: passed list to getStat(), statName without a list: /list
+[01:43:49] crk-aPZJ SAY: grey baby slime (846)/ : Rawr...
+[01:43:52] crk-aPZJ SAY: Kraftwerk Roach/ : 10101010011100010101.
+[01:43:56] crk-aPZJ SAY: Kraftwerk Roach/ : 10101010011100010101.
+[01:45:34] crk-aPZJ SAY: grey baby slime (350)/ : Need... food...
+[01:46:47] crk-aPZJ ADMIN: riotscopez/(/(Bluespace Technician)) spawned /obj/item/ammo_magazine/rifle_75_linked_box/heavy_rifle_408/lethal at (65,110,3) (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=65;Y=110;Z=3'>JMP</a>)
+[01:46:49] crk-aPZJ ATTACK: riotscopez/(/(Bluespace Technician)) has punched riotscopez/(/(Bluespace Technician))
+[01:46:52] crk-aPZJ EMOTE: Klara Scott/@RiotScopez : snores.
+[01:46:52] crk-aPZJ EMOTE: Klara Scott/@RiotScopez : <B>Klara Scott</B> snores.
+[01:47:06] crk-aPZJ EMOTE: Bluespace Technician/riotscopez : <B>Bluespace Technician</B> crosses arms.
+[01:47:26] crk-aPZJ EMOTE: Klara Scott/@RiotScopez : snores.
+[01:47:26] crk-aPZJ EMOTE: Klara Scott/@RiotScopez : <B>Klara Scott</B> snores.
+[01:48:57] crk-aPZJ EMOTE: Klara Scott/@RiotScopez : snores.
+[01:48:57] crk-aPZJ EMOTE: Klara Scott/@RiotScopez : <B>Klara Scott</B> snores.
+[01:49:52] crk-aPZJ ADMIN: riotscopez/(/(Bluespace Technician)) spawned /obj/item/ammo_magazine/rifle_75_linked_box/heavy_rifle_408/lethal at (125,98,3) (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=125;Y=98;Z=3'>JMP</a>)
+[01:50:09] crk-aPZJ EMOTE: Klara Scott/@RiotScopez : snores.
+[01:50:09] crk-aPZJ EMOTE: Klara Scott/@RiotScopez : <B>Klara Scott</B> snores.
+[01:52:08] crk-aPZJ ADMIN: riotscopez/(/(Bluespace Technician)) jumped to the Blackshield - Tactical Equipment
+[01:52:32] crk-aPZJ EMOTE: Klara Scott/@RiotScopez : snores.
+[01:52:32] crk-aPZJ EMOTE: Klara Scott/@RiotScopez : <B>Klara Scott</B> snores.
+[01:52:55] crk-aPZJ EMOTE: Klara Scott/@RiotScopez : snores.
+[01:52:55] crk-aPZJ EMOTE: Klara Scott/@RiotScopez : <B>Klara Scott</B> snores.
+[01:53:10] crk-aPZJ EMOTE: Klara Scott/@RiotScopez : snores.
+[01:53:10] crk-aPZJ EMOTE: Klara Scott/@RiotScopez : <B>Klara Scott</B> snores.
+[01:53:28] crk-aPZJ SAY: Lambertian Kraftwerk Roach/ : 10101010011100010101.
+[01:53:52] crk-aPZJ SAY: grey baby slime (846)/ : Rawr...
+[01:54:06] crk-aPZJ SAY: Kraftwerk Roach/ : 10101010011100010101.
+[01:54:19] crk-aPZJ DEBUG: Event 'Event Manager' has completed at 23:01.
+[01:55:26] crk-aPZJ EMOTE: Klara Scott/@RiotScopez : snores.
+[01:55:26] crk-aPZJ EMOTE: Klara Scott/@RiotScopez : <B>Klara Scott</B> snores.
+[01:55:30] crk-aPZJ EMOTE: Klara Scott/@RiotScopez : snores.
+[01:55:30] crk-aPZJ EMOTE: Klara Scott/@RiotScopez : <B>Klara Scott</B> snores.
+[01:55:46] crk-aPZJ EMOTE: Klara Scott/@RiotScopez : snores.
+[01:55:46] crk-aPZJ EMOTE: Klara Scott/@RiotScopez : <B>Klara Scott</B> snores.
+[01:55:48] crk-aPZJ ADMIN: riotscopez/(/(Bluespace Technician)) spawned /obj/item/ammo_magazine/rifle_75_linked_box/heavy_rifle_408/lethal at (104,178,3) (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=104;Y=178;Z=3'>JMP</a>)
+[01:55:50] crk-aPZJ ATTACK: riotscopez/(/(Bluespace Technician)) has punched riotscopez/(/(Bluespace Technician))
+[01:55:52] crk-aPZJ EMOTE: Klara Scott/@RiotScopez : snores.
+[01:55:52] crk-aPZJ EMOTE: Klara Scott/@RiotScopez : <B>Klara Scott</B> snores.
+[01:56:28] crk-aPZJ EMOTE: Klara Scott/@RiotScopez : snores.
+[01:56:28] crk-aPZJ EMOTE: Klara Scott/@RiotScopez : <B>Klara Scott</B> snores.
+[01:57:41] crk-aPZJ SAY: *no key*/(/(rat (524))) squeals! 
+[01:58:06] crk-aPZJ DEBUG: Event 'Event Manager' has completed at 23:05.
+[01:58:11] crk-aPZJ SAY: Durable Kraftwerk Roach/ : 10101010011100010101.
+[01:58:42] crk-aPZJ SAY: Lambertian Kraftwerk Roach/ : 10101010011100010101.
+[01:58:48] crk-aPZJ EMOTE: Klara Scott/@RiotScopez : snores.
+[01:58:48] crk-aPZJ EMOTE: Klara Scott/@RiotScopez : <B>Klara Scott</B> snores.
+[01:59:05] crk-aPZJ EMOTE: Klara Scott/@RiotScopez : snores.
+[01:59:05] crk-aPZJ EMOTE: Klara Scott/@RiotScopez : <B>Klara Scott</B> snores.
+[02:01:35] crk-aPZJ ADMIN: RiotScopez/(/(Bluespace Technician)) toggled debugging on.
+[02:02:41] crk-aPZJ EMOTE: Klara Scott/@RiotScopez : snores.
+[02:02:41] crk-aPZJ EMOTE: Klara Scott/@RiotScopez : <B>Klara Scott</B> snores.
+[02:03:45] crk-aPZJ ADMIN: riotscopez/(/(Bluespace Technician)) deleted the burrow at (164,134,3)
+[02:04:07] crk-aPZJ EMOTE: Klara Scott/@RiotScopez : snores.
+[02:04:07] crk-aPZJ EMOTE: Klara Scott/@RiotScopez : <B>Klara Scott</B> snores.
+[02:04:15] crk-aPZJ EMOTE: Klara Scott/@RiotScopez : snores.
+[02:04:16] crk-aPZJ EMOTE: Klara Scott/@RiotScopez : <B>Klara Scott</B> snores.
+[02:04:28] crk-aPZJ SAY: Biosilicified Kraftwerk Roach/ : 10101010011100010101.
+[02:04:49] crk-aPZJ SAY: Lambertian Kraftwerk Roach/ : 10101010011100010101.
+[02:05:13] crk-aPZJ ASSET: DEBUG: Skipping send of `asset.5dda40741b9114141ea407894a444964.png` (as `asset.0c0e3f80cb9fc6e8152178170da70fe3.png`) for `RiotScopez` because it already exists in the client's sent_assets list
+[02:05:41] crk-aPZJ EMOTE: Klara Scott/@RiotScopez : snores.
+[02:05:41] crk-aPZJ EMOTE: Klara Scott/@RiotScopez : <B>Klara Scott</B> snores.
+[02:05:50] crk-aPZJ ADMIN: riotscopez/(/(Bluespace Technician)) checked the player panel.
+[02:06:30] crk-aPZJ EMOTE: Klara Scott/@RiotScopez : snores.
+[02:06:30] crk-aPZJ EMOTE: Klara Scott/@RiotScopez : <B>Klara Scott</B> snores.
+[02:06:44] crk-aPZJ ADMIN: riotscopez/(/(Bluespace Technician)) has Bluespace Technician Teleported Out (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=162;Y=130;Z=3'>JMP</a>)
+[02:06:44] crk-aPZJ EMOTE: Bluespace Technician/riotscopez : <B>Bluespace Technician</B> presses a button on their suit, followed by a polite bow.
+[02:06:44] crk-aPZJ ACCESS: Logout: *no key*/(/(Bluespace Technician))
+[02:06:44] crk-aPZJ ACCESS: Login: riotscopez/(/(Klara Scott)) from 146.115.147.185-1871707424 || BYOND v514
+[02:06:58] crk-aPZJ EMOTE: Klara Scott/@RiotScopez : snores.
+[02:06:58] crk-aPZJ EMOTE: Klara Scott/@RiotScopez : <B>Klara Scott</B> snores.
+[02:07:27] crk-aPZJ ASSET: DEBUG: Skipping send of `asset.e416f3f223b6917d3f0ed6ced56bf88d.png` (as `asset.97c930dea01bb18a5a0fec018d0b103d.png`) for `RiotScopez` because it already exists in the client's sent_assets list
+[02:09:33] crk-aPZJ ADMIN: riotscopez/(/(riotscopez BSTech)) deleted Dylan Moore at (174,133,3)
+[02:09:35] crk-aPZJ DEBUG: Runtime in obelisk.dm,117: Cannot execute null.removePerk(). <A HREF='?_src_=holder;viewruntime=[0x2100d8e8]'>[view]</A>
+[02:09:41] crk-aPZJ DEBUG: Runtime in obelisk.dm,117: Cannot execute null.removePerk(). <A HREF='?_src_=holder;viewruntime=[0x21013e70]'>[view]</A>
+[02:09:47] crk-aPZJ DEBUG: Runtime in obelisk.dm,117: Cannot execute null.removePerk(). <A HREF='?_src_=holder;viewruntime=[0x210236b2]'>[view]</A>
+[02:09:53] crk-aPZJ DEBUG: Runtime in obelisk.dm,117: Cannot execute null.removePerk(). <A HREF='?_src_=holder;viewruntime=[0x210160eb]'>[view]</A>
+[02:10:18] crk-aPZJ ADMIN: riotscopez/(/(riotscopez BSTech)) stuffed riotscopez into Bennett Leech.
+[02:10:18] crk-aPZJ ACCESS: Logout: *no key*/(/(riotscopez BSTech))
+[02:10:18] crk-aPZJ ACCESS: Login: riotscopez/(/(Bennett Leech)) from 146.115.147.185-1871707424 || BYOND v514
+[02:10:37] crk-aPZJ DEBUG: Runtime in outfit.dm,172: Cannot execute null.get access(). <A HREF='?_src_=holder;viewruntime=[0x210eccdf]'>[view]</A>
+[02:10:37] crk-aPZJ DEBUG: Runtime in job.dm,21: Cannot modify null.associated_email_login. <A HREF='?_src_=holder;viewruntime=[0x210ecd9e]'>[view]</A>
+[02:10:44] crk-aPZJ ASSET: DEBUG: Skipping send of `libraries-old.min.js` (as `libraries-old.min.js`) for `RiotScopez` because it already exists in the client's sent_assets list
+[02:10:44] crk-aPZJ ASSET: DEBUG: Skipping send of `libraries.min.js` (as `libraries.min.js`) for `RiotScopez` because it already exists in the client's sent_assets list
+[02:10:44] crk-aPZJ ASSET: DEBUG: Skipping send of `nano_base_callbacks.js` (as `nano_base_callbacks.js`) for `RiotScopez` because it already exists in the client's sent_assets list
+[02:10:44] crk-aPZJ ASSET: DEBUG: Skipping send of `nano_base_helpers.js` (as `nano_base_helpers.js`) for `RiotScopez` because it already exists in the client's sent_assets list
+[02:10:44] crk-aPZJ ASSET: DEBUG: Skipping send of `nano_state.js` (as `nano_state.js`) for `RiotScopez` because it already exists in the client's sent_assets list
+[02:10:44] crk-aPZJ ASSET: DEBUG: Skipping send of `nano_state_default.js` (as `nano_state_default.js`) for `RiotScopez` because it already exists in the client's sent_assets list
+[02:10:44] crk-aPZJ ASSET: DEBUG: Skipping send of `nano_state_manager.js` (as `nano_state_manager.js`) for `RiotScopez` because it already exists in the client's sent_assets list
+[02:10:44] crk-aPZJ ASSET: DEBUG: Skipping send of `nano_template.js` (as `nano_template.js`) for `RiotScopez` because it already exists in the client's sent_assets list
+[02:10:44] crk-aPZJ ASSET: DEBUG: Skipping send of `nano_utility.js` (as `nano_utility.js`) for `RiotScopez` because it already exists in the client's sent_assets list
+[02:10:44] crk-aPZJ ASSET: DEBUG: Skipping send of `icons.css` (as `icons.css`) for `RiotScopez` because it already exists in the client's sent_assets list
+[02:10:44] crk-aPZJ ASSET: DEBUG: Skipping send of `layout_basic.css` (as `layout_basic.css`) for `RiotScopez` because it already exists in the client's sent_assets list
+[02:10:44] crk-aPZJ ASSET: DEBUG: Skipping send of `layout_default.css` (as `layout_default.css`) for `RiotScopez` because it already exists in the client's sent_assets list
+[02:10:44] crk-aPZJ ASSET: DEBUG: Skipping send of `shared.css` (as `shared.css`) for `RiotScopez` because it already exists in the client's sent_assets list
+[02:10:44] crk-aPZJ ASSET: DEBUG: Skipping send of `tgui.css` (as `tgui.css`) for `RiotScopez` because it already exists in the client's sent_assets list
+[02:10:44] crk-aPZJ ASSET: DEBUG: Skipping send of `desire.png` (as `desire.png`) for `RiotScopez` because it already exists in the client's sent_assets list
+[02:10:44] crk-aPZJ ASSET: DEBUG: Skipping send of `gangnam_style.png` (as `gangnam_style.png`) for `RiotScopez` because it already exists in the client's sent_assets list
+[02:10:44] crk-aPZJ ASSET: DEBUG: Skipping send of `insight.png` (as `insight.png`) for `RiotScopez` because it already exists in the client's sent_assets list
+[02:10:44] crk-aPZJ ASSET: DEBUG: Skipping send of `moebus_logo.png` (as `moebus_logo.png`) for `RiotScopez` because it already exists in the client's sent_assets list
+[02:10:44] crk-aPZJ ASSET: DEBUG: Skipping send of `nanomapBackground.png` (as `nanomapBackground.png`) for `RiotScopez` because it already exists in the client's sent_assets list
+[02:10:44] crk-aPZJ ASSET: DEBUG: Skipping send of `nanomap_z1.png` (as `nanomap_z1.png`) for `RiotScopez` because it already exists in the client's sent_assets list
+[02:10:44] crk-aPZJ ASSET: DEBUG: Skipping send of `nanomap_z2.png` (as `nanomap_z2.png`) for `RiotScopez` because it already exists in the client's sent_assets list
+[02:10:44] crk-aPZJ ASSET: DEBUG: Skipping send of `nanomap_z3.png` (as `nanomap_z3.png`) for `RiotScopez` because it already exists in the client's sent_assets list
+[02:10:44] crk-aPZJ ASSET: DEBUG: Skipping send of `nanomap_z4.png` (as `nanomap_z4.png`) for `RiotScopez` because it already exists in the client's sent_assets list
+[02:10:44] crk-aPZJ ASSET: DEBUG: Skipping send of `nanomap_z5.png` (as `nanomap_z5.png`) for `RiotScopez` because it already exists in the client's sent_assets list
+[02:10:44] crk-aPZJ ASSET: DEBUG: Skipping send of `overmap.png` (as `overmap.png`) for `RiotScopez` because it already exists in the client's sent_assets list
+[02:10:44] crk-aPZJ ASSET: DEBUG: Skipping send of `sanity.png` (as `sanity.png`) for `RiotScopez` because it already exists in the client's sent_assets list
+[02:10:44] crk-aPZJ ASSET: DEBUG: Skipping send of `science.png` (as `science.png`) for `RiotScopez` because it already exists in the client's sent_assets list
+[02:10:44] crk-aPZJ ASSET: DEBUG: Skipping send of `The_B.png` (as `The_B.png`) for `RiotScopez` because it already exists in the client's sent_assets list
+[02:10:44] crk-aPZJ ASSET: DEBUG: Skipping send of `uiBackground-Carrion.png` (as `uiBackground-Carrion.png`) for `RiotScopez` because it already exists in the client's sent_assets list
+[02:10:44] crk-aPZJ ASSET: DEBUG: Skipping send of `uiBackground-Excelsior.png` (as `uiBackground-Excelsior.png`) for `RiotScopez` because it already exists in the client's sent_assets list
+[02:10:44] crk-aPZJ ASSET: DEBUG: Skipping send of `uiBackground-Meat.png` (as `uiBackground-Meat.png`) for `RiotScopez` because it already exists in the client's sent_assets list
+[02:10:44] crk-aPZJ ASSET: DEBUG: Skipping send of `uiBackground-Syndicate.png` (as `uiBackground-Syndicate.png`) for `RiotScopez` because it already exists in the client's sent_assets list
+[02:10:44] crk-aPZJ ASSET: DEBUG: Skipping send of `uiBackground.png` (as `uiBackground.png`) for `RiotScopez` because it already exists in the client's sent_assets list
+[02:10:44] crk-aPZJ ASSET: DEBUG: Skipping send of `uiBasicBackground.png` (as `uiBasicBackground.png`) for `RiotScopez` because it already exists in the client's sent_assets list
+[02:10:44] crk-aPZJ ASSET: DEBUG: Skipping send of `uiHeaderPattern.png` (as `uiHeaderPattern.png`) for `RiotScopez` because it already exists in the client's sent_assets list
+[02:10:44] crk-aPZJ ASSET: DEBUG: Skipping send of `uiIcons16.png` (as `uiIcons16.png`) for `RiotScopez` because it already exists in the client's sent_assets list
+[02:10:44] crk-aPZJ ASSET: DEBUG: Skipping send of `uiIcons16Green.png` (as `uiIcons16Green.png`) for `RiotScopez` because it already exists in the client's sent_assets list
+[02:10:44] crk-aPZJ ASSET: DEBUG: Skipping send of `uiIcons16Red.png` (as `uiIcons16Red.png`) for `RiotScopez` because it already exists in the client's sent_assets list
+[02:10:44] crk-aPZJ ASSET: DEBUG: Skipping send of `uiIcons24.png` (as `uiIcons24.png`) for `RiotScopez` because it already exists in the client's sent_assets list
+[02:10:44] crk-aPZJ ASSET: DEBUG: Skipping send of `uiLinkPendingIcon.gif` (as `uiLinkPendingIcon.gif`) for `RiotScopez` because it already exists in the client's sent_assets list
+[02:10:44] crk-aPZJ ASSET: DEBUG: Skipping send of `uiMaskBackground.png` (as `uiMaskBackground.png`) for `RiotScopez` because it already exists in the client's sent_assets list
+[02:10:44] crk-aPZJ ASSET: DEBUG: Skipping send of `uiNoticeBackground.jpg` (as `uiNoticeBackground.jpg`) for `RiotScopez` because it already exists in the client's sent_assets list
+[02:10:44] crk-aPZJ ASSET: DEBUG: Skipping send of `uiTitleFluff-Excelsior.png` (as `uiTitleFluff-Excelsior.png`) for `RiotScopez` because it already exists in the client's sent_assets list
+[02:10:44] crk-aPZJ ASSET: DEBUG: Skipping send of `uiTitleFluff-Syndicate.png` (as `uiTitleFluff-Syndicate.png`) for `RiotScopez` because it already exists in the client's sent_assets list
+[02:10:44] crk-aPZJ ASSET: DEBUG: Skipping send of `uiTitleFluff.png` (as `uiTitleFluff.png`) for `RiotScopez` because it already exists in the client's sent_assets list
+[02:10:44] crk-aPZJ ASSET: DEBUG: Skipping send of `accounts_terminal.tmpl` (as `accounts_terminal.tmpl`) for `RiotScopez` because it already exists in the client's sent_assets list
+[02:10:44] crk-aPZJ ASSET: DEBUG: Skipping send of `advanced_airlock_console.tmpl` (as `advanced_airlock_console.tmpl`) for `RiotScopez` because it already exists in the client's sent_assets list
+[02:10:44] crk-aPZJ ASSET: DEBUG: Skipping send of `advanced_grinder.tmpl` (as `advanced_grinder.tmpl`) for `RiotScopez` because it already exists in the client's sent_assets list
+[02:10:44] crk-aPZJ ASSET: DEBUG: Skipping send of `agent_id_card.tmpl` (as `agent_id_card.tmpl`) for `RiotScopez` because it already exists in the client's sent_assets list
+[02:10:44] crk-aPZJ ASSET: DEBUG: Skipping send of `aicard.tmpl` (as `aicard.tmpl`) for `RiotScopez` because it already exists in the client's sent_assets list
+[02:10:44] crk-aPZJ ASSET: DEBUG: Skipping send of `aidiag.tmpl` (as `aidiag.tmpl`) for `RiotScopez` because it already exists in the client's sent_assets list
+[02:10:44] crk-aPZJ ASSET: DEBUG: Skipping send of `airlock_electronics.tmpl` (as `airlock_electronics.tmpl`) for `RiotScopez` because it already exists in the client's sent_assets list
+[02:10:44] crk-aPZJ ASSET: DEBUG: Skipping send of `air_alarm.tmpl` (as `air_alarm.tmpl`) for `RiotScopez` because it already exists in the client's sent_assets list
+[02:10:44] crk-aPZJ ASSET: DEBUG: Skipping send of `alarm_monitor.tmpl` (as `alarm_monitor.tmpl`) for `RiotScopez` because it already exists in the client's sent_assets list
+[02:10:44] crk-aPZJ ASSET: DEBUG: Skipping send of `apc.tmpl` (as `apc.tmpl`) for `RiotScopez` because it already exists in the client's sent_assets list
+[02:10:44] crk-aPZJ ASSET: DEBUG: Skipping send of `appearance_changer.tmpl` (as `appearance_changer.tmpl`) for `RiotScopez` because it already exists in the client's sent_assets list
+[02:10:44] crk-aPZJ ASSET: DEBUG: Skipping send of `arcade_classic.tmpl` (as `arcade_classic.tmpl`) for `RiotScopez` because it already exists in the client's sent_assets list
+[02:10:44] crk-aPZJ ASSET: DEBUG: Skipping send of `artist_bench.tmpl` (as `artist_bench.tmpl`) for `RiotScopez` because it already exists in the client's sent_assets list
+[02:10:44] crk-aPZJ ASSET: DEBUG: Skipping send of `atmos_alert.tmpl` (as `atmos_alert.tmpl`) for `RiotScopez` because it already exists in the client's sent_assets list
+[02:10:44] crk-aPZJ ASSET: DEBUG: Skipping send of `atmos_control.tmpl` (as `atmos_control.tmpl`) for `RiotScopez` because it already exists in the client's sent_assets list
+[02:10:44] crk-aPZJ ASSET: DEBUG: Skipping send of `autodoc.tmpl` (as `autodoc.tmpl`) for `RiotScopez` because it already exists in the client's sent_assets list
+[02:10:44] crk-aPZJ ASSET: DEBUG: Skipping send of `autodoc_capitalism.tmpl` (as `autodoc_capitalism.tmpl`) for `RiotScopez` because it already exists in the client's sent_assets list
+[02:10:44] crk-aPZJ ASSET: DEBUG: Skipping send of `autolathe.tmpl` (as `autolathe.tmpl`) for `RiotScopez` because it already exists in the client's sent_assets list
+[02:10:44] crk-aPZJ ASSET: DEBUG: Skipping send of `autolathe_designs.tmpl` (as `autolathe_designs.tmpl`) for `RiotScopez` because it already exists in the client's sent_assets list
+[02:10:44] crk-aPZJ ASSET: DEBUG: Skipping send of `autolathe_disk_cloner.tmpl` (as `autolathe_disk_cloner.tmpl`) for `RiotScopez` because it already exists in the client's sent_assets list
+[02:10:44] crk-aPZJ ASSET: DEBUG: Skipping send of `autolathe_materials.tmpl` (as `autolathe_materials.tmpl`) for `RiotScopez` because it already exists in the client's sent_assets list
+[02:10:44] crk-aPZJ ASSET: DEBUG: Skipping send of `autolathe_queue.tmpl` (as `autolathe_queue.tmpl`) for `RiotScopez` because it already exists in the client's sent_assets list
+[02:10:44] crk-aPZJ ASSET: DEBUG: Skipping send of `autolathe_reagents.tmpl` (as `autolathe_reagents.tmpl`) for `RiotScopez` because it already exists in the client's sent_assets list
+[02:10:44] crk-aPZJ ASSET: DEBUG: Skipping send of `biogenerator.tmpl` (as `biogenerator.tmpl`) for `RiotScopez` because it already exists in the client's sent_assets list
+[02:10:44] crk-aPZJ ASSET: DEBUG: Skipping send of `bioreactor.tmpl` (as `bioreactor.tmpl`) for `RiotScopez` because it already exists in the client's sent_assets list
+[02:10:44] crk-aPZJ ASSET: DEBUG: Skipping send of `blackshield_teleporter.tmpl` (as `blackshield_teleporter.tmpl`) for `RiotScopez` because it already exists in the client's sent_assets list
+[02:10:44] crk-aPZJ ASSET: DEBUG: Skipping send of `booze_soda_coffee.tmpl` (as `booze_soda_coffee.tmpl`) for `RiotScopez` because it already exists in the client's sent_assets list
+[02:10:44] crk-aPZJ ASSET: DEBUG: Skipping send of `botany_editor.tmpl` (as `botany_editor.tmpl`) for `RiotScopez` because it already exists in the client's sent_assets list
+[02:10:44] crk-aPZJ ASSET: DEBUG: Skipping send of `botany_isolator.tmpl` (as `botany_isolator.tmpl`) for `RiotScopez` because it already exists in the client's sent_assets list
+[02:10:44] crk-aPZJ ASSET: DEBUG: Skipping send of `bounty_board.tmpl` (as `bounty_board.tmpl`) for `RiotScopez` because it already exists in the client's sent_assets list
+[02:10:44] crk-aPZJ ASSET: DEBUG: Skipping send of `bsdm.tmpl` (as `bsdm.tmpl`) for `RiotScopez` because it already exists in the client's sent_assets list
+[02:10:44] crk-aPZJ ASSET: DEBUG: Skipping send of `bs_snare_controller.tmpl` (as `bs_snare_controller.tmpl`) for `RiotScopez` because it already exists in the client's sent_assets list
+[02:10:44] crk-aPZJ ASSET: DEBUG: Skipping send of `bulletfabricator.tmpl` (as `bulletfabricator.tmpl`) for `RiotScopez` because it already exists in the client's sent_assets list
+[02:10:44] crk-aPZJ ASSET: DEBUG: Skipping send of `canister.tmpl` (as `canister.tmpl`) for `RiotScopez` because it already exists in the client's sent_assets list
+[02:10:44] crk-aPZJ ASSET: DEBUG: Skipping send of `carrion_spiders.tmpl` (as `carrion_spiders.tmpl`) for `RiotScopez` because it already exists in the client's sent_assets list
+[02:10:44] crk-aPZJ ASSET: DEBUG: Skipping send of `catalog_entry_cooking.tmpl` (as `catalog_entry_cooking.tmpl`) for `RiotScopez` because it already exists in the client's sent_assets list
+[02:10:44] crk-aPZJ ASSET: DEBUG: Skipping send of `catalog_entry_drink.tmpl` (as `catalog_entry_drink.tmpl`) for `RiotScopez` because it already exists in the client's sent_assets list
+[02:10:44] crk-aPZJ ASSET: DEBUG: Skipping send of `catalog_entry_reagent.tmpl` (as `catalog_entry_reagent.tmpl`) for `RiotScopez` because it already exists in the client's sent_assets list
+[02:10:44] crk-aPZJ ASSET: DEBUG: Skipping send of `catalog_list_cooking.tmpl` (as `catalog_list_cooking.tmpl`) for `RiotScopez` because it already exists in the client's sent_assets list
+[02:10:44] crk-aPZJ ASSET: DEBUG: Skipping send of `catalog_list_drinks.tmpl` (as `catalog_list_drinks.tmpl`) for `RiotScopez` because it already exists in the client's sent_assets list
+[02:10:44] crk-aPZJ ASSET: DEBUG: Skipping send of `catalog_list_general.tmpl` (as `catalog_list_general.tmpl`) for `RiotScopez` because it already exists in the client's sent_assets list
+[02:10:44] crk-aPZJ ASSET: DEBUG: Skipping send of `catalog_list_reagents.tmpl` (as `catalog_list_reagents.tmpl`) for `RiotScopez` because it already exists in the client's sent_assets list
+[02:10:44] crk-aPZJ ASSET: DEBUG: Skipping send of `centrifuge.tmpl` (as `centrifuge.tmpl`) for `RiotScopez` because it already exists in the client's sent_assets list
+[02:10:44] crk-aPZJ ASSET: DEBUG: Skipping send of `chameleon.tmpl` (as `chameleon.tmpl`) for `RiotScopez` because it already exists in the client's sent_assets list
+[02:10:44] crk-aPZJ ASSET: DEBUG: Skipping send of `chemistry_catalog.tmpl` (as `chemistry_catalog.tmpl`) for `RiotScopez` because it already exists in the client's sent_assets list
+[02:10:44] crk-aPZJ ASSET: DEBUG: Skipping send of `chem_dispenser.tmpl` (as `chem_dispenser.tmpl`) for `RiotScopez` because it already exists in the client's sent_assets list
+[02:10:44] crk-aPZJ ASSET: DEBUG: Skipping send of `chem_heater.tmpl` (as `chem_heater.tmpl`) for `RiotScopez` because it already exists in the client's sent_assets list
+[02:10:44] crk-aPZJ ASSET: DEBUG: Skipping send of `clone_console.tmpl` (as `clone_console.tmpl`) for `RiotScopez` because it already exists in the client's sent_assets list
+[02:10:44] crk-aPZJ ASSET: DEBUG: Skipping send of `clothing_stats.tmpl` (as `clothing_stats.tmpl`) for `RiotScopez` because it already exists in the client's sent_assets list
+[02:10:44] crk-aPZJ ASSET: DEBUG: Skipping send of `communication.tmpl` (as `communication.tmpl`) for `RiotScopez` because it already exists in the client's sent_assets list
+[02:10:44] crk-aPZJ ASSET: DEBUG: Skipping send of `computer_fabricator.tmpl` (as `computer_fabricator.tmpl`) for `RiotScopez` because it already exists in the client's sent_assets list
+[02:10:44] crk-aPZJ ASSET: DEBUG: Skipping send of `cooking_catalog.tmpl` (as `cooking_catalog.tmpl`) for `RiotScopez` because it already exists in the client's sent_assets list
+[02:10:44] crk-aPZJ ASSET: DEBUG: Skipping send of `craft.tmpl` (as `craft.tmpl`) for `RiotScopez` because it already exists in the client's sent_assets list
+[02:10:44] crk-aPZJ ASSET: DEBUG: Skipping send of `crew_manifest.tmpl` (as `crew_manifest.tmpl`) for `RiotScopez` because it already exists in the client's sent_assets list
+[02:10:44] crk-aPZJ ASSET: DEBUG: Skipping send of `crew_monitor.tmpl` (as `crew_monitor.tmpl`) for `RiotScopez` because it already exists in the client's sent_assets list
+[02:10:44] crk-aPZJ ASSET: DEBUG: Skipping send of `crew_monitor_map_content.tmpl` (as `crew_monitor_map_content.tmpl`) for `RiotScopez` because it already exists in the client's sent_assets list
+[02:10:44] crk-aPZJ ASSET: DEBUG: Skipping send of `crew_monitor_map_header.tmpl` (as `crew_monitor_map_header.tmpl`) for `RiotScopez` because it already exists in the client's sent_assets list
+[02:10:44] crk-aPZJ ASSET: DEBUG: Skipping send of `crew_records.tmpl` (as `crew_records.tmpl`) for `RiotScopez` because it already exists in the client's sent_assets list
+[02:10:44] crk-aPZJ ASSET: DEBUG: Skipping send of `cryo.tmpl` (as `cryo.tmpl`) for `RiotScopez` because it already exists in the client's sent_assets list
+[02:10:44] crk-aPZJ ASSET: DEBUG: Skipping send of `deck_management.tmpl` (as `deck_management.tmpl`) for `RiotScopez` because it already exists in the client's sent_assets list
+[02:10:44] crk-aPZJ ASSET: DEBUG: Skipping send of `digitalwarrant.tmpl` (as `digitalwarrant.tmpl`) for `RiotScopez` because it already exists in the client's sent_assets list
+[02:10:44] crk-aPZJ ASSET: DEBUG: Skipping send of `disease_splicer.tmpl` (as `disease_splicer.tmpl`) for `RiotScopez` because it already exists in the client's sent_assets list
+[02:10:44] crk-aPZJ ASSET: DEBUG: Skipping send of `dish_incubator.tmpl` (as `dish_incubator.tmpl`) for `RiotScopez` because it already exists in the client's sent_assets list
+[02:10:44] crk-aPZJ ASSET: DEBUG: Skipping send of `dnaforensics.tmpl` (as `dnaforensics.tmpl`) for `RiotScopez` because it already exists in the client's sent_assets list
+[02:10:44] crk-aPZJ ASSET: DEBUG: Skipping send of `dna_modifier.tmpl` (as `dna_modifier.tmpl`) for `RiotScopez` because it already exists in the client's sent_assets list
+[02:10:44] crk-aPZJ ASSET: DEBUG: Skipping send of `docking.tmpl` (as `docking.tmpl`) for `RiotScopez` because it already exists in the client's sent_assets list
+[02:10:44] crk-aPZJ ASSET: DEBUG: Skipping send of `docking_airlock_console.tmpl` (as `docking_airlock_console.tmpl`) for `RiotScopez` because it already exists in the client's sent_assets list
+[02:10:44] crk-aPZJ ASSET: DEBUG: Skipping send of `door_access_console.tmpl` (as `door_access_console.tmpl`) for `RiotScopez` because it already exists in the client's sent_assets list
+[02:10:44] crk-aPZJ ASSET: DEBUG: Skipping send of `door_control.tmpl` (as `door_control.tmpl`) for `RiotScopez` because it already exists in the client's sent_assets list
+[02:10:44] crk-aPZJ ASSET: DEBUG: Skipping send of `drinks_catalog.tmpl` (as `drinks_catalog.tmpl`) for `RiotScopez` because it already exists in the client's sent_assets list
+[02:10:44] crk-aPZJ ASSET: DEBUG: Skipping send of `echo_editor.tmpl` (as `echo_editor.tmpl`) for `RiotScopez` because it already exists in the client's sent_assets list
+[02:10:44] crk-aPZJ ASSET: DEBUG: Skipping send of `electrolyzer.tmpl` (as `electrolyzer.tmpl`) for `RiotScopez` because it already exists in the client's sent_assets list
+[02:10:44] crk-aPZJ ASSET: DEBUG: Skipping send of `email_administration.tmpl` (as `email_administration.tmpl`) for `RiotScopez` because it already exists in the client's sent_assets list
+[02:10:44] crk-aPZJ ASSET: DEBUG: Skipping send of `email_client.tmpl` (as `email_client.tmpl`) for `RiotScopez` because it already exists in the client's sent_assets list
+[02:10:44] crk-aPZJ ASSET: DEBUG: Skipping send of `engines_control.tmpl` (as `engines_control.tmpl`) for `RiotScopez` because it already exists in the client's sent_assets list
+[02:10:44] crk-aPZJ ASSET: DEBUG: Skipping send of `eopt.tmpl` (as `eopt.tmpl`) for `RiotScopez` because it already exists in the client's sent_assets list
+[02:10:44] crk-aPZJ ASSET: DEBUG: Skipping send of `escape_pod_berth_console.tmpl` (as `escape_pod_berth_console.tmpl`) for `RiotScopez` because it already exists in the client's sent_assets list
+[02:10:44] crk-aPZJ ASSET: DEBUG: Skipping send of `escape_pod_console.tmpl` (as `escape_pod_console.tmpl`) for `RiotScopez` because it already exists in the client's sent_assets list
+[02:10:44] crk-aPZJ ASSET: DEBUG: Skipping send of `escape_shuttle_control_console.tmpl` (as `escape_shuttle_control_console.tmpl`) for `RiotScopez` because it already exists in the client's sent_assets list
+[02:10:44] crk-aPZJ ASSET: DEBUG: Skipping send of `excelsior_teleporter.tmpl` (as `excelsior_teleporter.tmpl`) for `RiotScopez` because it already exists in the client's sent_assets list
+[02:10:44] crk-aPZJ ASSET: DEBUG: Skipping send of `fire_alarm.tmpl` (as `fire_alarm.tmpl`) for `RiotScopez` because it already exists in the client's sent_assets list
+[02:10:44] crk-aPZJ ASSET: DEBUG: Skipping send of `forceauthorization.tmpl` (as `forceauthorization.tmpl`) for `RiotScopez` because it already exists in the client's sent_assets list
+[02:10:44] crk-aPZJ ASSET: DEBUG: Skipping send of `freezer.tmpl` (as `freezer.tmpl`) for `RiotScopez` because it already exists in the client's sent_assets list
+[02:10:44] crk-aPZJ ASSET: DEBUG: Skipping send of `gas_pump.tmpl` (as `gas_pump.tmpl`) for `RiotScopez` because it already exists in the client's sent_assets list
+[02:10:44] crk-aPZJ ASSET: DEBUG: Skipping send of `generator.tmpl` (as `generator.tmpl`) for `RiotScopez` because it already exists in the client's sent_assets list
+[02:10:44] crk-aPZJ ASSET: DEBUG: Skipping send of `genetic_analyzer.tmpl` (as `genetic_analyzer.tmpl`) for `RiotScopez` because it already exists in the client's sent_assets list
+[02:10:44] crk-aPZJ ASSET: DEBUG: Skipping send of `geoscanner.tmpl` (as `geoscanner.tmpl`) for `RiotScopez` because it already exists in the client's sent_assets list
+[02:10:44] crk-aPZJ ASSET: DEBUG: Skipping send of `grinder.tmpl` (as `grinder.tmpl`) for `RiotScopez` because it already exists in the client's sent_assets list
+[02:10:44] crk-aPZJ ASSET: DEBUG: Skipping send of `hardsuit.tmpl` (as `hardsuit.tmpl`) for `RiotScopez` because it already exists in the client's sent_assets list
+[02:10:44] crk-aPZJ ASSET: DEBUG: Skipping send of `helm.tmpl` (as `helm.tmpl`) for `RiotScopez` because it already exists in the client's sent_assets list
+[02:10:44] crk-aPZJ ASSET: DEBUG: Skipping send of `hydroelectric.tmpl` (as `hydroelectric.tmpl`) for `RiotScopez` because it already exists in the client's sent_assets list
+[02:10:44] crk-aPZJ ASSET: DEBUG: Skipping send of `identification_computer.tmpl` (as `identification_computer.tmpl`) for `RiotScopez` because it already exists in the client's sent_assets list
+[02:10:44] crk-aPZJ ASSET: DEBUG: Skipping send of `industrial_grinder.tmpl` (as `industrial_grinder.tmpl`) for `RiotScopez` because it already exists in the client's sent_assets list
+[02:10:44] crk-aPZJ ASSET: DEBUG: Skipping send of `isolation_centrifuge.tmpl` (as `isolation_centrifuge.tmpl`) for `RiotScopez` because it already exists in the client's sent_assets list
+[02:10:44] crk-aPZJ ASSET: DEBUG: Skipping send of `janitorcart.tmpl` (as `janitorcart.tmpl`) for `RiotScopez` because it already exists in the client's sent_assets list
+[02:10:44] crk-aPZJ ASSET: DEBUG: Skipping send of `jtb_console.tmpl` (as `jtb_console.tmpl`) for `RiotScopez` because it already exists in the client's sent_assets list
+[02:10:44] crk-aPZJ ASSET: DEBUG: Skipping send of `jukebox.tmpl` (as `jukebox.tmpl`) for `RiotScopez` because it already exists in the client's sent_assets list
+[02:10:44] crk-aPZJ ASSET: DEBUG: Skipping send of `keycard authentication.tmpl` (as `keycard authentication.tmpl`) for `RiotScopez` because it already exists in the client's sent_assets list
+[02:10:44] crk-aPZJ ASSET: DEBUG: Skipping send of `law_manager.tmpl` (as `law_manager.tmpl`) for `RiotScopez` because it already exists in the client's sent_assets list
+[02:10:44] crk-aPZJ ASSET: DEBUG: Skipping send of `layout_basic.tmpl` (as `layout_basic.tmpl`) for `RiotScopez` because it already exists in the client's sent_assets list
+[02:10:44] crk-aPZJ ASSET: DEBUG: Skipping send of `layout_default.tmpl` (as `layout_default.tmpl`) for `RiotScopez` because it already exists in the client's sent_assets list
+[02:10:44] crk-aPZJ ASSET: DEBUG: Skipping send of `layout_default_header.tmpl` (as `layout_default_header.tmpl`) for `RiotScopez` because it already exists in the client's sent_assets list
+[02:10:44] crk-aPZJ ASSET: DEBUG: Skipping send of `library.tmpl` (as `library.tmpl`) for `RiotScopez` because it already exists in the client's sent_assets list
+[02:10:44] crk-aPZJ ASSET: DEBUG: Skipping send of `matterforge_designs.tmpl` (as `matterforge_designs.tmpl`) for `RiotScopez` because it already exists in the client's sent_assets list
+[02:10:44] crk-aPZJ ASSET: DEBUG: Skipping send of `mpc_access_decrypter.tmpl` (as `mpc_access_decrypter.tmpl`) for `RiotScopez` because it already exists in the client's sent_assets list
+[02:10:44] crk-aPZJ ASSET: DEBUG: Skipping send of `mpc_audio_player.tmpl` (as `mpc_audio_player.tmpl`) for `RiotScopez` because it already exists in the client's sent_assets list
+[02:10:44] crk-aPZJ ASSET: DEBUG: Skipping send of `mpc_coin_decrypter.tmpl` (as `mpc_coin_decrypter.tmpl`) for `RiotScopez` because it already exists in the client's sent_assets list
+[02:10:44] crk-aPZJ ASSET: DEBUG: Skipping send of `mpc_configuration.tmpl` (as `mpc_configuration.tmpl`) for `RiotScopez` because it already exists in the client's sent_assets list
+[02:10:44] crk-aPZJ ASSET: DEBUG: Skipping send of `mpc_dos.tmpl` (as `mpc_dos.tmpl`) for `RiotScopez` because it already exists in the client's sent_assets list
+[02:10:44] crk-aPZJ ASSET: DEBUG: Skipping send of `mpc_downloader.tmpl` (as `mpc_downloader.tmpl`) for `RiotScopez` because it already exists in the client's sent_assets list
+[02:10:44] crk-aPZJ ASSET: DEBUG: Skipping send of `mpc_file_manager.tmpl` (as `mpc_file_manager.tmpl`) for `RiotScopez` because it already exists in the client's sent_assets list
+[02:10:44] crk-aPZJ ASSET: DEBUG: Skipping send of `mpc_mainscreen.tmpl` (as `mpc_mainscreen.tmpl`) for `RiotScopez` because it already exists in the client's sent_assets list
+[02:10:44] crk-aPZJ ASSET: DEBUG: Skipping send of `mpc_news_browser.tmpl` (as `mpc_news_browser.tmpl`) for `RiotScopez` because it already exists in the client's sent_assets list
+[02:10:44] crk-aPZJ ASSET: DEBUG: Skipping send of `mpc_point_miner.tmpl` (as `mpc_point_miner.tmpl`) for `RiotScopez` because it already exists in the client's sent_assets list
+[02:10:44] crk-aPZJ ASSET: DEBUG: Skipping send of `mpc_signaller.tmpl` (as `mpc_signaller.tmpl`) for `RiotScopez` because it already exists in the client's sent_assets list
+[02:10:44] crk-aPZJ ASSET: DEBUG: Skipping send of `mpc_transfer.tmpl` (as `mpc_transfer.tmpl`) for `RiotScopez` because it already exists in the client's sent_assets list
+[02:10:44] crk-aPZJ ASSET: DEBUG: Skipping send of `multi_docking_console.tmpl` (as `multi_docking_console.tmpl`) for `RiotScopez` because it already exists in the client's sent_assets list
+[02:10:44] crk-aPZJ ASSET: DEBUG: Skipping send of `nanite_reconstitution_apparatus.tmpl` (as `nanite_reconstitution_apparatus.tmpl`) for `RiotScopez` because it already exists in the client's sent_assets list
+[02:10:44] crk-aPZJ ASSET: DEBUG: Skipping send of `nanite_reconstitution_apparatus_materials.tmpl` (as `nanite_reconstitution_apparatus_materials.tmpl`) for `RiotScopez` because it already exists in the client's sent_assets list
+[02:10:44] crk-aPZJ ASSET: DEBUG: Skipping send of `nanite_reconstitution_apparatus_reagents.tmpl` (as `nanite_reconstitution_apparatus_reagents.tmpl`) for `RiotScopez` because it already exists in the client's sent_assets list
+[02:10:44] crk-aPZJ ASSET: DEBUG: Skipping send of `nav.tmpl` (as `nav.tmpl`) for `RiotScopez` because it already exists in the client's sent_assets list
+[02:10:44] crk-aPZJ ASSET: DEBUG: Skipping send of `ntnet_chat.tmpl` (as `ntnet_chat.tmpl`) for `RiotScopez` because it already exists in the client's sent_assets list
+[02:10:44] crk-aPZJ ASSET: DEBUG: Skipping send of `ntnet_monitor.tmpl` (as `ntnet_monitor.tmpl`) for `RiotScopez` because it already exists in the client's sent_assets list
+[02:10:44] crk-aPZJ ASSET: DEBUG: Skipping send of `ntnet_relay.tmpl` (as `ntnet_relay.tmpl`) for `RiotScopez` because it already exists in the client's sent_assets list
+[02:10:44] crk-aPZJ ASSET: DEBUG: Skipping send of `nt_biogen.tmpl` (as `nt_biogen.tmpl`) for `RiotScopez` because it already exists in the client's sent_assets list
+[02:10:44] crk-aPZJ ASSET: DEBUG: Skipping send of `nuclear_bomb.tmpl` (as `nuclear_bomb.tmpl`) for `RiotScopez` because it already exists in the client's sent_assets list
+[02:10:44] crk-aPZJ ASSET: DEBUG: Skipping send of `omni_filter.tmpl` (as `omni_filter.tmpl`) for `RiotScopez` because it already exists in the client's sent_assets list
+[02:10:44] crk-aPZJ ASSET: DEBUG: Skipping send of `omni_mixer.tmpl` (as `omni_mixer.tmpl`) for `RiotScopez` because it already exists in the client's sent_assets list
+[02:10:44] crk-aPZJ ASSET: DEBUG: Skipping send of `os_generator.tmpl` (as `os_generator.tmpl`) for `RiotScopez` because it already exists in the client's sent_assets list
+[02:10:44] crk-aPZJ ASSET: DEBUG: Skipping send of `pacman.tmpl` (as `pacman.tmpl`) for `RiotScopez` because it already exists in the client's sent_assets list
+[02:10:44] crk-aPZJ ASSET: DEBUG: Skipping send of `pai_atmosphere.tmpl` (as `pai_atmosphere.tmpl`) for `RiotScopez` because it already exists in the client's sent_assets list
+[02:10:44] crk-aPZJ ASSET: DEBUG: Skipping send of `pai_directives.tmpl` (as `pai_directives.tmpl`) for `RiotScopez` because it already exists in the client's sent_assets list
+[02:10:44] crk-aPZJ ASSET: DEBUG: Skipping send of `pai_doorjack.tmpl` (as `pai_doorjack.tmpl`) for `RiotScopez` because it already exists in the client's sent_assets list
+[02:10:44] crk-aPZJ ASSET: DEBUG: Skipping send of `pai_interface.tmpl` (as `pai_interface.tmpl`) for `RiotScopez` because it already exists in the client's sent_assets list
+[02:10:44] crk-aPZJ ASSET: DEBUG: Skipping send of `pai_manifest.tmpl` (as `pai_manifest.tmpl`) for `RiotScopez` because it already exists in the client's sent_assets list
+[02:10:44] crk-aPZJ ASSET: DEBUG: Skipping send of `pai_medrecords.tmpl` (as `pai_medrecords.tmpl`) for `RiotScopez` because it already exists in the client's sent_assets list
+[02:10:44] crk-aPZJ ASSET: DEBUG: Skipping send of `pai_messenger.tmpl` (as `pai_messenger.tmpl`) for `RiotScopez` because it already exists in the client's sent_assets list
+[02:10:44] crk-aPZJ ASSET: DEBUG: Skipping send of `pai_radio.tmpl` (as `pai_radio.tmpl`) for `RiotScopez` because it already exists in the client's sent_assets list
+[02:10:44] crk-aPZJ ASSET: DEBUG: Skipping send of `pai_secrecords.tmpl` (as `pai_secrecords.tmpl`) for `RiotScopez` because it already exists in the client's sent_assets list
+[02:10:44] crk-aPZJ ASSET: DEBUG: Skipping send of `pai_signaller.tmpl` (as `pai_signaller.tmpl`) for `RiotScopez` because it already exists in the client's sent_assets list
+[02:10:44] crk-aPZJ ASSET: DEBUG: Skipping send of `pathogenic_isolator.tmpl` (as `pathogenic_isolator.tmpl`) for `RiotScopez` because it already exists in the client's sent_assets list
+[02:10:44] crk-aPZJ ASSET: DEBUG: Skipping send of `pda.tmpl` (as `pda.tmpl`) for `RiotScopez` because it already exists in the client's sent_assets list
+[02:10:44] crk-aPZJ ASSET: DEBUG: Skipping send of `portpump.tmpl` (as `portpump.tmpl`) for `RiotScopez` because it already exists in the client's sent_assets list
+[02:10:44] crk-aPZJ ASSET: DEBUG: Skipping send of `portscrubber.tmpl` (as `portscrubber.tmpl`) for `RiotScopez` because it already exists in the client's sent_assets list
+[02:10:44] crk-aPZJ ASSET: DEBUG: Skipping send of `power_monitor.tmpl` (as `power_monitor.tmpl`) for `RiotScopez` because it already exists in the client's sent_assets list
+[02:10:44] crk-aPZJ ASSET: DEBUG: Skipping send of `pressure_regulator.tmpl` (as `pressure_regulator.tmpl`) for `RiotScopez` because it already exists in the client's sent_assets list
+[02:10:44] crk-aPZJ ASSET: DEBUG: Skipping send of `radio_basic.tmpl` (as `radio_basic.tmpl`) for `RiotScopez` because it already exists in the client's sent_assets list
+[02:10:44] crk-aPZJ ASSET: DEBUG: Skipping send of `rcon.tmpl` (as `rcon.tmpl`) for `RiotScopez` because it already exists in the client's sent_assets list
+[02:10:44] crk-aPZJ ASSET: DEBUG: Skipping send of `rdconsole.tmpl` (as `rdconsole.tmpl`) for `RiotScopez` because it already exists in the client's sent_assets list
+[02:10:44] crk-aPZJ ASSET: DEBUG: Skipping send of `recycle_vendor.tmpl` (as `recycle_vendor.tmpl`) for `RiotScopez` because it already exists in the client's sent_assets list
+[02:10:44] crk-aPZJ ASSET: DEBUG: Skipping send of `reports.tmpl` (as `reports.tmpl`) for `RiotScopez` because it already exists in the client's sent_assets list
+[02:10:44] crk-aPZJ ASSET: DEBUG: Skipping send of `request_console.tmpl` (as `request_console.tmpl`) for `RiotScopez` because it already exists in the client's sent_assets list
+[02:10:44] crk-aPZJ ASSET: DEBUG: Skipping send of `revelation.tmpl` (as `revelation.tmpl`) for `RiotScopez` because it already exists in the client's sent_assets list
+[02:10:44] crk-aPZJ ASSET: DEBUG: Skipping send of `ritual_book.tmpl` (as `ritual_book.tmpl`) for `RiotScopez` because it already exists in the client's sent_assets list
+[02:10:44] crk-aPZJ ASSET: DEBUG: Skipping send of `robot_control.tmpl` (as `robot_control.tmpl`) for `RiotScopez` because it already exists in the client's sent_assets list
+[02:10:44] crk-aPZJ ASSET: DEBUG: Skipping send of `sanity.tmpl` (as `sanity.tmpl`) for `RiotScopez` because it already exists in the client's sent_assets list
+[02:10:44] crk-aPZJ ASSET: DEBUG: Skipping send of `scanner.tmpl` (as `scanner.tmpl`) for `RiotScopez` because it already exists in the client's sent_assets list
+[02:10:44] crk-aPZJ ASSET: DEBUG: Skipping send of `sec_camera.tmpl` (as `sec_camera.tmpl`) for `RiotScopez` because it already exists in the client's sent_assets list
+[02:10:44] crk-aPZJ ASSET: DEBUG: Skipping send of `sec_camera_map_content.tmpl` (as `sec_camera_map_content.tmpl`) for `RiotScopez` because it already exists in the client's sent_assets list
+[02:10:44] crk-aPZJ ASSET: DEBUG: Skipping send of `sec_camera_map_header.tmpl` (as `sec_camera_map_header.tmpl`) for `RiotScopez` because it already exists in the client's sent_assets list
+[02:10:44] crk-aPZJ ASSET: DEBUG: Skipping send of `shieldgen.tmpl` (as `shieldgen.tmpl`) for `RiotScopez` because it already exists in the client's sent_assets list
+[02:10:44] crk-aPZJ ASSET: DEBUG: Skipping send of `shields_monitor.tmpl` (as `shields_monitor.tmpl`) for `RiotScopez` because it already exists in the client's sent_assets list
+[02:10:44] crk-aPZJ ASSET: DEBUG: Skipping send of `shipsensors.tmpl` (as `shipsensors.tmpl`) for `RiotScopez` because it already exists in the client's sent_assets list
+[02:10:44] crk-aPZJ ASSET: DEBUG: Skipping send of `shuttle_control_console.tmpl` (as `shuttle_control_console.tmpl`) for `RiotScopez` because it already exists in the client's sent_assets list
+[02:10:44] crk-aPZJ ASSET: DEBUG: Skipping send of `shuttle_control_console_antag.tmpl` (as `shuttle_control_console_antag.tmpl`) for `RiotScopez` because it already exists in the client's sent_assets list
+[02:10:44] crk-aPZJ ASSET: DEBUG: Skipping send of `shuttle_control_console_exploration.tmpl` (as `shuttle_control_console_exploration.tmpl`) for `RiotScopez` because it already exists in the client's sent_assets list
+[02:10:44] crk-aPZJ ASSET: DEBUG: Skipping send of `shuttle_control_console_lift.tmpl` (as `shuttle_control_console_lift.tmpl`) for `RiotScopez` because it already exists in the client's sent_assets list
+[02:10:44] crk-aPZJ ASSET: DEBUG: Skipping send of `shuttle_control_console_multi.tmpl` (as `shuttle_control_console_multi.tmpl`) for `RiotScopez` because it already exists in the client's sent_assets list
+[02:10:44] crk-aPZJ ASSET: DEBUG: Skipping send of `simple_airlock_console.tmpl` (as `simple_airlock_console.tmpl`) for `RiotScopez` because it already exists in the client's sent_assets list
+[02:10:44] crk-aPZJ ASSET: DEBUG: Skipping send of `simple_docking_console.tmpl` (as `simple_docking_console.tmpl`) for `RiotScopez` because it already exists in the client's sent_assets list
+[02:10:44] crk-aPZJ ASSET: DEBUG: Skipping send of `simple_docking_console_pod.tmpl` (as `simple_docking_console_pod.tmpl`) for `RiotScopez` because it already exists in the client's sent_assets list
+[02:10:44] crk-aPZJ ASSET: DEBUG: Skipping send of `sleeper.tmpl` (as `sleeper.tmpl`) for `RiotScopez` because it already exists in the client's sent_assets list
+[02:10:44] crk-aPZJ ASSET: DEBUG: Skipping send of `smartfridge.tmpl` (as `smartfridge.tmpl`) for `RiotScopez` because it already exists in the client's sent_assets list
+[02:10:44] crk-aPZJ ASSET: DEBUG: Skipping send of `smelter.tmpl` (as `smelter.tmpl`) for `RiotScopez` because it already exists in the client's sent_assets list
+[02:10:44] crk-aPZJ ASSET: DEBUG: Skipping send of `smes.tmpl` (as `smes.tmpl`) for `RiotScopez` because it already exists in the client's sent_assets list
+[02:10:44] crk-aPZJ ASSET: DEBUG: Skipping send of `song_editor.tmpl` (as `song_editor.tmpl`) for `RiotScopez` because it already exists in the client's sent_assets list
+[02:10:44] crk-aPZJ ASSET: DEBUG: Skipping send of `song_usage_info.tmpl` (as `song_usage_info.tmpl`) for `RiotScopez` because it already exists in the client's sent_assets list
+[02:10:44] crk-aPZJ ASSET: DEBUG: Skipping send of `sorter.tmpl` (as `sorter.tmpl`) for `RiotScopez` because it already exists in the client's sent_assets list
+[02:10:44] crk-aPZJ ASSET: DEBUG: Skipping send of `supermatter_crystal.tmpl` (as `supermatter_crystal.tmpl`) for `RiotScopez` because it already exists in the client's sent_assets list
+[02:10:44] crk-aPZJ ASSET: DEBUG: Skipping send of `supermatter_monitor.tmpl` (as `supermatter_monitor.tmpl`) for `RiotScopez` because it already exists in the client's sent_assets list
+[02:10:44] crk-aPZJ ASSET: DEBUG: Skipping send of `supply.tmpl` (as `supply.tmpl`) for `RiotScopez` because it already exists in the client's sent_assets list
+[02:10:44] crk-aPZJ ASSET: DEBUG: Skipping send of `surgery_internal.tmpl` (as `surgery_internal.tmpl`) for `RiotScopez` because it already exists in the client's sent_assets list
+[02:10:44] crk-aPZJ ASSET: DEBUG: Skipping send of `surgery_organ.tmpl` (as `surgery_organ.tmpl`) for `RiotScopez` because it already exists in the client's sent_assets list
+[02:10:44] crk-aPZJ ASSET: DEBUG: Skipping send of `synthesizer.tmpl` (as `synthesizer.tmpl`) for `RiotScopez` because it already exists in the client's sent_assets list
+[02:10:44] crk-aPZJ ASSET: DEBUG: Skipping send of `tanks.tmpl` (as `tanks.tmpl`) for `RiotScopez` because it already exists in the client's sent_assets list
+[02:10:44] crk-aPZJ ASSET: DEBUG: Skipping send of `tasks.tmpl` (as `tasks.tmpl`) for `RiotScopez` because it already exists in the client's sent_assets list
+[02:10:44] crk-aPZJ ASSET: DEBUG: Skipping send of `taxquickly.tmpl` (as `taxquickly.tmpl`) for `RiotScopez` because it already exists in the client's sent_assets list
+[02:10:44] crk-aPZJ ASSET: DEBUG: Skipping send of `tax_app.tmpl` (as `tax_app.tmpl`) for `RiotScopez` because it already exists in the client's sent_assets list
+[02:10:44] crk-aPZJ ASSET: DEBUG: Skipping send of `telescience_console.tmpl` (as `telescience_console.tmpl`) for `RiotScopez` because it already exists in the client's sent_assets list
+[02:10:44] crk-aPZJ ASSET: DEBUG: Skipping send of `telesci_console.tmpl` (as `telesci_console.tmpl`) for `RiotScopez` because it already exists in the client's sent_assets list
+[02:10:44] crk-aPZJ ASSET: DEBUG: Skipping send of `TemplatesGuide.txt` (as `TemplatesGuide.txt`) for `RiotScopez` because it already exists in the client's sent_assets list
+[02:10:44] crk-aPZJ ASSET: DEBUG: Skipping send of `tesla_turret_control.tmpl` (as `tesla_turret_control.tmpl`) for `RiotScopez` because it already exists in the client's sent_assets list
+[02:10:44] crk-aPZJ ASSET: DEBUG: Skipping send of `tool_stats.tmpl` (as `tool_stats.tmpl`) for `RiotScopez` because it already exists in the client's sent_assets list
+[02:10:44] crk-aPZJ ASSET: DEBUG: Skipping send of `trade.tmpl` (as `trade.tmpl`) for `RiotScopez` because it already exists in the client's sent_assets list
+[02:10:44] crk-aPZJ ASSET: DEBUG: Skipping send of `trade_cart.tmpl` (as `trade_cart.tmpl`) for `RiotScopez` because it already exists in the client's sent_assets list
+[02:10:44] crk-aPZJ ASSET: DEBUG: Skipping send of `trade_catalog.tmpl` (as `trade_catalog.tmpl`) for `RiotScopez` because it already exists in the client's sent_assets list
+[02:10:44] crk-aPZJ ASSET: DEBUG: Skipping send of `trade_goods.tmpl` (as `trade_goods.tmpl`) for `RiotScopez` because it already exists in the client's sent_assets list
+[02:10:44] crk-aPZJ ASSET: DEBUG: Skipping send of `trade_log.tmpl` (as `trade_log.tmpl`) for `RiotScopez` because it already exists in the client's sent_assets list
+[02:10:44] crk-aPZJ ASSET: DEBUG: Skipping send of `trade_offers.tmpl` (as `trade_offers.tmpl`) for `RiotScopez` because it already exists in the client's sent_assets list
+[02:10:44] crk-aPZJ ASSET: DEBUG: Skipping send of `trade_orders.tmpl` (as `trade_orders.tmpl`) for `RiotScopez` because it already exists in the client's sent_assets list
+[02:10:44] crk-aPZJ ASSET: DEBUG: Skipping send of `trade_saved.tmpl` (as `trade_saved.tmpl`) for `RiotScopez` because it already exists in the client's sent_assets list
+[02:10:44] crk-aPZJ ASSET: DEBUG: Skipping send of `transfer_valve.tmpl` (as `transfer_valve.tmpl`) for `RiotScopez` because it already exists in the client's sent_assets list
+[02:10:44] crk-aPZJ ASSET: DEBUG: Skipping send of `turret_control.tmpl` (as `turret_control.tmpl`) for `RiotScopez` because it already exists in the client's sent_assets list
+[02:10:44] crk-aPZJ ASSET: DEBUG: Skipping send of `turret_control_artificer.tmpl` (as `turret_control_artificer.tmpl`) for `RiotScopez` because it already exists in the client's sent_assets list
+[02:10:44] crk-aPZJ ASSET: DEBUG: Skipping send of `t_ray.tmpl` (as `t_ray.tmpl`) for `RiotScopez` because it already exists in the client's sent_assets list
+[02:10:44] crk-aPZJ ASSET: DEBUG: Skipping send of `uplink.tmpl` (as `uplink.tmpl`) for `RiotScopez` because it already exists in the client's sent_assets list
+[02:10:44] crk-aPZJ ASSET: DEBUG: Skipping send of `vending_machine.tmpl` (as `vending_machine.tmpl`) for `RiotScopez` because it already exists in the client's sent_assets list
+[02:10:44] crk-aPZJ ASSET: DEBUG: Skipping send of `weapon_stats.tmpl` (as `weapon_stats.tmpl`) for `RiotScopez` because it already exists in the client's sent_assets list
+[02:10:44] crk-aPZJ ASSET: DEBUG: Skipping send of `word_processor.tmpl` (as `word_processor.tmpl`) for `RiotScopez` because it already exists in the client's sent_assets list
+[02:10:44] crk-aPZJ ASSET: DEBUG: Skipping send of `c_charging.gif` (as `c_charging.gif`) for `RiotScopez` because it already exists in the client's sent_assets list
+[02:10:44] crk-aPZJ ASSET: DEBUG: Skipping send of `c_discharging.gif` (as `c_discharging.gif`) for `RiotScopez` because it already exists in the client's sent_assets list
+[02:10:44] crk-aPZJ ASSET: DEBUG: Skipping send of `c_max.gif` (as `c_max.gif`) for `RiotScopez` because it already exists in the client's sent_assets list
+[02:10:44] crk-aPZJ ASSET: DEBUG: Skipping send of `alarm_green.gif` (as `alarm_green.gif`) for `RiotScopez` because it already exists in the client's sent_assets list
+[02:10:44] crk-aPZJ ASSET: DEBUG: Skipping send of `alarm_red.gif` (as `alarm_red.gif`) for `RiotScopez` because it already exists in the client's sent_assets list
+[02:10:44] crk-aPZJ ASSET: DEBUG: Skipping send of `batt_100.gif` (as `batt_100.gif`) for `RiotScopez` because it already exists in the client's sent_assets list
+[02:10:44] crk-aPZJ ASSET: DEBUG: Skipping send of `batt_20.gif` (as `batt_20.gif`) for `RiotScopez` because it already exists in the client's sent_assets list
+[02:10:44] crk-aPZJ ASSET: DEBUG: Skipping send of `batt_40.gif` (as `batt_40.gif`) for `RiotScopez` because it already exists in the client's sent_assets list
+[02:10:44] crk-aPZJ ASSET: DEBUG: Skipping send of `batt_5.gif` (as `batt_5.gif`) for `RiotScopez` because it already exists in the client's sent_assets list
+[02:10:44] crk-aPZJ ASSET: DEBUG: Skipping send of `batt_60.gif` (as `batt_60.gif`) for `RiotScopez` because it already exists in the client's sent_assets list
+[02:10:44] crk-aPZJ ASSET: DEBUG: Skipping send of `batt_80.gif` (as `batt_80.gif`) for `RiotScopez` because it already exists in the client's sent_assets list
+[02:10:44] crk-aPZJ ASSET: DEBUG: Skipping send of `charging.gif` (as `charging.gif`) for `RiotScopez` because it already exists in the client's sent_assets list
+[02:10:44] crk-aPZJ ASSET: DEBUG: Skipping send of `crew_green.gif` (as `crew_green.gif`) for `RiotScopez` because it already exists in the client's sent_assets list
+[02:10:44] crk-aPZJ ASSET: DEBUG: Skipping send of `crew_red.gif` (as `crew_red.gif`) for `RiotScopez` because it already exists in the client's sent_assets list
+[02:10:44] crk-aPZJ ASSET: DEBUG: Skipping send of `downloader_finished.gif` (as `downloader_finished.gif`) for `RiotScopez` because it already exists in the client's sent_assets list
+[02:10:44] crk-aPZJ ASSET: DEBUG: Skipping send of `downloader_paused.gif` (as `downloader_paused.gif`) for `RiotScopez` because it already exists in the client's sent_assets list
+[02:10:44] crk-aPZJ ASSET: DEBUG: Skipping send of `downloader_running.gif` (as `downloader_running.gif`) for `RiotScopez` because it already exists in the client's sent_assets list
+[02:10:44] crk-aPZJ ASSET: DEBUG: Skipping send of `ntnrc_idle.gif` (as `ntnrc_idle.gif`) for `RiotScopez` because it already exists in the client's sent_assets list
+[02:10:44] crk-aPZJ ASSET: DEBUG: Skipping send of `ntnrc_new.gif` (as `ntnrc_new.gif`) for `RiotScopez` because it already exists in the client's sent_assets list
+[02:10:44] crk-aPZJ ASSET: DEBUG: Skipping send of `power_norm.gif` (as `power_norm.gif`) for `RiotScopez` because it already exists in the client's sent_assets list
+[02:10:44] crk-aPZJ ASSET: DEBUG: Skipping send of `power_warn.gif` (as `power_warn.gif`) for `RiotScopez` because it already exists in the client's sent_assets list
+[02:10:44] crk-aPZJ ASSET: DEBUG: Skipping send of `satelite_off.gif` (as `satelite_off.gif`) for `RiotScopez` because it already exists in the client's sent_assets list
+[02:10:44] crk-aPZJ ASSET: DEBUG: Skipping send of `satelite_on.gif` (as `satelite_on.gif`) for `RiotScopez` because it already exists in the client's sent_assets list
+[02:10:44] crk-aPZJ ASSET: DEBUG: Skipping send of `shield.gif` (as `shield.gif`) for `RiotScopez` because it already exists in the client's sent_assets list
+[02:10:44] crk-aPZJ ASSET: DEBUG: Skipping send of `sig_high.gif` (as `sig_high.gif`) for `RiotScopez` because it already exists in the client's sent_assets list
+[02:10:44] crk-aPZJ ASSET: DEBUG: Skipping send of `sig_lan.gif` (as `sig_lan.gif`) for `RiotScopez` because it already exists in the client's sent_assets list
+[02:10:44] crk-aPZJ ASSET: DEBUG: Skipping send of `sig_low.gif` (as `sig_low.gif`) for `RiotScopez` because it already exists in the client's sent_assets list
+[02:10:44] crk-aPZJ ASSET: DEBUG: Skipping send of `sig_none.gif` (as `sig_none.gif`) for `RiotScopez` because it already exists in the client's sent_assets list
+[02:10:44] crk-aPZJ ASSET: DEBUG: Skipping send of `sig_warning.gif` (as `sig_warning.gif`) for `RiotScopez` because it already exists in the client's sent_assets list
+[02:10:44] crk-aPZJ ASSET: DEBUG: Skipping send of `smmon_0.gif` (as `smmon_0.gif`) for `RiotScopez` because it already exists in the client's sent_assets list
+[02:10:44] crk-aPZJ ASSET: DEBUG: Skipping send of `smmon_1.gif` (as `smmon_1.gif`) for `RiotScopez` because it already exists in the client's sent_assets list
+[02:10:44] crk-aPZJ ASSET: DEBUG: Skipping send of `smmon_2.gif` (as `smmon_2.gif`) for `RiotScopez` because it already exists in the client's sent_assets list
+[02:10:44] crk-aPZJ ASSET: DEBUG: Skipping send of `smmon_3.gif` (as `smmon_3.gif`) for `RiotScopez` because it already exists in the client's sent_assets list
+[02:10:44] crk-aPZJ ASSET: DEBUG: Skipping send of `smmon_4.gif` (as `smmon_4.gif`) for `RiotScopez` because it already exists in the client's sent_assets list
+[02:10:44] crk-aPZJ ASSET: DEBUG: Skipping send of `smmon_5.gif` (as `smmon_5.gif`) for `RiotScopez` because it already exists in the client's sent_assets list
+[02:10:44] crk-aPZJ ASSET: DEBUG: Skipping send of `smmon_6.gif` (as `smmon_6.gif`) for `RiotScopez` because it already exists in the client's sent_assets list
+[02:10:57] crk-aPZJ SAY: Bennett Leech/riotscopez : Dixitque Deus: Fiat lux. Et facta est lux.  Et lux in tenebris lucet, et renebrae eam non comprehenderunt.
+[02:11:07] crk-aPZJ SAY: Bennett Leech/riotscopez : Constituit quoque ianitores in portis domus Domini ut non ingrederetur eam inmundus in omni.
+[02:11:10] crk-aPZJ SAY: Bennett Leech/riotscopez : Constituit quoque ianitores in portis domus Domini ut non ingrederetur eam inmundus in omni.
+[02:11:10] crk-aPZJ ASSET: DEBUG: Skipping send of `asset.9a19545ef02b9976f3394592e4eba971.png` (as `asset.2a83bb8c4a6d7f07ede9aa77ee0c8906.png`) for `RiotScopez` because it already exists in the client's sent_assets list
+[02:11:16] crk-aPZJ ACCESS: Logout: *no key*/(/(Bennett Leech))
+[02:11:16] crk-aPZJ ACCESS: Login: riotscopez/(/(Bennett Leech)) from 146.115.147.185-1871707424 || BYOND v514
+[02:11:18] crk-aPZJ ASSET: DEBUG: Skipping send of `asset.c980b63b35d514139ca64b09aaadd63c.png` (as `asset.e830652933c5102fab99c42248fc75ab.png`) for `RiotScopez` because it already exists in the client's sent_assets list
+[02:11:29] crk-aPZJ ADMIN: riotscopez/(/(Bennett Leech)) teleported *no key*/(/(Durable Fuhrer Roach))
+[02:11:39] crk-aPZJ ADMIN: riotscopez/(/(Bennett Leech)) teleported *no key*/(/(Biosilicified Smertnik termite))
+[02:11:55] crk-aPZJ ACCESS: Logout: RiotScopez/(/(Bennett Leech))
+[02:11:55] crk-aPZJ ACCESS: Logout: riotscopez[DC]/(/(Bennett Leech))

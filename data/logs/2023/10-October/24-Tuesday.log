@@ -1,0 +1,1039 @@
+
+
+Starting up. (ID: cqr-c9st) 15:41.04
+---------------------
+[15:41:04] cqr-c9st MISC: Saved storyteller is 'healer'
+[15:41:04] cqr-c9st ADMIN: Loading jobban_rank
+[15:41:04] cqr-c9st ADMIN: jobban_keylist was empty
+[15:41:04] cqr-c9st ADMIN: Loading Banlist
+[15:42:07] cqr-c9st ACCESS: Login: RiotScopez/() from 64.238.138.250-1871707424 || BYOND v514.1582
+[15:42:07] cqr-c9st ACCESS: Login: RiotScopez/(/(RiotScopez)) from 64.238.138.250-1871707424 || BYOND v514
+[15:42:08] cqr-c9st DEBUG: Could not find style "ErisStyle" for /mob/new_player.
+[15:42:08] cqr-c9st ACCESS: Login: RiotScopez/(/(RiotScopez)) from 64.238.138.250-1871707424 || BYOND v514
+[15:42:49] cqr-c9st ADMIN: EVENT *null* has loaded a character.
+[15:42:57] cqr-c9st ADMIN: Weston Stephenson try find_inv_position a 14, but not have that slot!
+[15:42:57] cqr-c9st ADMIN: Weston Stephenson try find_inv_position a 11, but not have that slot!
+[15:42:57] cqr-c9st ADMIN: Weston Stephenson try find_inv_position a 13, but not have that slot!
+[15:42:57] cqr-c9st ADMIN: Weston Stephenson try find_inv_position a 12, but not have that slot!
+[15:42:57] cqr-c9st ADMIN: Keziah Greenwood try find_inv_position a 14, but not have that slot!
+[15:42:57] cqr-c9st ADMIN: Keziah Greenwood try find_inv_position a 11, but not have that slot!
+[15:42:57] cqr-c9st ADMIN: Keziah Greenwood try find_inv_position a 13, but not have that slot!
+[15:42:57] cqr-c9st ADMIN: Keziah Greenwood try find_inv_position a 12, but not have that slot!
+[15:42:57] cqr-c9st ADMIN: Jimmy Hirleman try find_inv_position a 14, but not have that slot!
+[15:42:57] cqr-c9st ADMIN: Jimmy Hirleman try find_inv_position a 11, but not have that slot!
+[15:42:57] cqr-c9st ADMIN: Jimmy Hirleman try find_inv_position a 13, but not have that slot!
+[15:42:57] cqr-c9st ADMIN: Jimmy Hirleman try find_inv_position a 12, but not have that slot!
+[15:42:57] cqr-c9st ADMIN: Christian Reid try find_inv_position a 14, but not have that slot!
+[15:42:57] cqr-c9st ADMIN: Christian Reid try find_inv_position a 11, but not have that slot!
+[15:42:57] cqr-c9st ADMIN: Christian Reid try find_inv_position a 13, but not have that slot!
+[15:42:57] cqr-c9st ADMIN: Christian Reid try find_inv_position a 12, but not have that slot!
+[15:42:57] cqr-c9st ADMIN: Moses Harrow try find_inv_position a 14, but not have that slot!
+[15:42:57] cqr-c9st ADMIN: Moses Harrow try find_inv_position a 11, but not have that slot!
+[15:42:57] cqr-c9st ADMIN: Moses Harrow try find_inv_position a 13, but not have that slot!
+[15:42:57] cqr-c9st ADMIN: Moses Harrow try find_inv_position a 12, but not have that slot!
+[15:42:58] cqr-c9st ADMIN: Jeremiah Lowstetter try find_inv_position a 14, but not have that slot!
+[15:42:58] cqr-c9st ADMIN: Jeremiah Lowstetter try find_inv_position a 11, but not have that slot!
+[15:42:58] cqr-c9st ADMIN: Jeremiah Lowstetter try find_inv_position a 13, but not have that slot!
+[15:42:58] cqr-c9st ADMIN: Jeremiah Lowstetter try find_inv_position a 12, but not have that slot!
+[15:45:23] cqr-c9st GAME: neutral 2 loaded at at 86,61,19
+[15:45:23] cqr-c9st GAME: neutral 2 loaded at at 51,26,19
+[15:45:24] cqr-c9st GAME: neutral 3 loaded at at 36,76,19
+[15:45:25] cqr-c9st GAME: neutral 3 loaded at at 86,31,19
+[15:45:25] cqr-c9st GAME: neutral 1 loaded at at 86,56,19
+[15:45:25] cqr-c9st GAME: neutral 8 loaded at at 16,51,19
+[15:45:25] cqr-c9st GAME: neutral 3 loaded at at 76,96,19
+[15:45:25] cqr-c9st GAME: neutral 9 loaded at at 36,21,19
+[15:45:25] cqr-c9st GAME: neutral 11 loaded at at 31,81,19
+[15:45:25] cqr-c9st GAME: neutral 5 loaded at at 11,96,19
+[15:45:25] cqr-c9st GAME: neutral 6 loaded at at 51,26,19
+[15:45:25] cqr-c9st GAME: neutral 6 loaded at at 56,21,19
+[15:45:25] cqr-c9st GAME: neutral 7 loaded at at 81,101,19
+[15:45:25] cqr-c9st GAME: neutral 5 loaded at at 71,96,19
+[15:45:25] cqr-c9st GAME: neutral 10 loaded at at 106,16,19
+[15:45:25] cqr-c9st GAME: neutral 4 loaded at at 96,96,19
+[15:45:25] cqr-c9st GAME: neutral 11 loaded at at 101,66,19
+[15:45:25] cqr-c9st GAME: neutral 1 loaded at at 81,61,19
+[15:45:26] cqr-c9st GAME: neutral 5 loaded at at 86,101,19
+[15:45:26] cqr-c9st GAME: neutral 3 loaded at at 36,106,19
+[15:45:26] cqr-c9st GAME: neutral 1 loaded at at 86,106,19
+[15:45:26] cqr-c9st GAME: neutral 7 loaded at at 86,31,19
+[15:45:26] cqr-c9st GAME: neutral 5 loaded at at 61,26,19
+[15:45:26] cqr-c9st GAME: neutral 4 loaded at at 101,101,19
+[15:45:26] cqr-c9st GAME: neutral 11 loaded at at 86,106,19
+[15:45:26] cqr-c9st GAME: neutral 5 loaded at at 101,11,19
+[15:45:26] cqr-c9st GAME: neutral 2 loaded at at 36,26,19
+[15:45:26] cqr-c9st GAME: neutral 9 loaded at at 11,81,19
+[15:45:26] cqr-c9st GAME: neutral 8 loaded at at 11,66,19
+[15:45:26] cqr-c9st GAME: neutral 9 loaded at at 86,71,19
+[15:45:26] cqr-c9st GAME: neutral 10 loaded at at 86,26,19
+[15:45:26] cqr-c9st GAME: neutral 5 loaded at at 66,91,19
+[15:45:26] cqr-c9st GAME: neutral 11 loaded at at 16,26,19
+[15:45:26] cqr-c9st GAME: neutral 10 loaded at at 91,96,19
+[15:45:26] cqr-c9st GAME: neutral 11 loaded at at 51,11,19
+[15:45:26] cqr-c9st GAME: neutral 7 loaded at at 91,21,19
+[15:45:26] cqr-c9st GAME: neutral 9 loaded at at 91,26,19
+[15:45:26] cqr-c9st GAME: neutral 5 loaded at at 21,101,19
+[15:45:26] cqr-c9st GAME: neutral 2 loaded at at 81,36,19
+[15:45:39] cqr-c9st GAME: Emitter deleted at (0,0,0)
+[15:46:39] cqr-c9st ASSET: ERROR: Invalid asset: /datum/asset/simple/craft:obj_item_stack_cable_coil.png:1
+[15:46:43] cqr-c9st ASSET: ERROR: Invalid asset: /datum/asset/simple/craft:obj_item_clothing_glasses_powered_meson.png:1
+[15:46:44] cqr-c9st ASSET: ERROR: Invalid asset: /datum/asset/simple/craft:obj_item_gun_projectile_boltgun_lever.png:1
+[15:46:44] cqr-c9st ASSET: ERROR: Invalid asset: /datum/asset/simple/craft:obj_item_gun_projectile_automatic_sts_rifle.png:1
+[15:46:46] cqr-c9st ASSET: ERROR: Invalid asset: /datum/asset/simple/craft:obj_item_modular_computer_laptop.png:1
+[15:47:32] cqr-c9st VOTE: Storyteller vote started by server.
+[15:47:38] cqr-c9st ADMIN: RiotScopez/(/(RiotScopez)) removed the delay.
+[15:47:40] cqr-c9st ADMIN: RiotScopez/(/(RiotScopez)) delayed the game.
+[15:47:43] cqr-c9st GAME: Entrance - 1 loaded at at 145,137,20
+[15:47:44] cqr-c9st GAME: Escape_Pod_West-East loaded at at 158,137,20
+[15:47:44] cqr-c9st GAME: penitentiary loaded at at 171,137,20
+[15:47:46] cqr-c9st GAME: Escape_Pod_West-East loaded at at 184,137,20
+[15:47:47] cqr-c9st GAME: checkpoint_vertical loaded at at 184,128,20
+[15:47:47] cqr-c9st GAME: Escape_Pod_West-East loaded at at 184,119,20
+[15:47:49] cqr-c9st GAME: Escape_Pod_West-East loaded at at 197,119,20
+[15:47:50] cqr-c9st GAME: garden loaded at at 197,110,20
+[15:47:50] cqr-c9st GAME: secure_storage_horizontal loaded at at 184,110,20
+[15:47:51] cqr-c9st GAME: penitentiary loaded at at 171,110,20
+[15:47:51] cqr-c9st GAME: Escape_Pod_West-East loaded at at 158,110,20
+[15:47:52] cqr-c9st GAME: crematorium loaded at at 145,110,20
+[15:47:52] cqr-c9st GAME: showers loaded at at 132,110,20
+[15:47:52] cqr-c9st GAME: Hallway_4way loaded at at 119,110,20
+[15:47:53] cqr-c9st GAME: Hallway_4way loaded at at 106,110,20
+[15:47:53] cqr-c9st GAME: Hallway_4way loaded at at 93,110,20
+[15:47:54] cqr-c9st GAME: telecoms loaded at at 43,109,21
+[15:47:54] cqr-c9st GAME: maintenance asteroid loaded at at 51,39,21
+[15:47:55] cqr-c9st GAME: Lab2 loaded at at 74,116,21
+[15:47:56] cqr-c9st GAME: over run loaded at at 88,81,21
+[15:47:56] cqr-c9st GAME: vault loaded at at 56,72,21
+[15:47:57] cqr-c9st GAME: vault loaded at at 111,38,21
+[15:47:57] cqr-c9st GAME: garden loaded at at 80,110,20
+[15:47:58] cqr-c9st GAME: garden loaded at at 67,110,20
+[15:47:58] cqr-c9st GAME: Hallway_4way loaded at at 54,110,20
+[15:47:58] cqr-c9st GAME: secure_storage_horizontal loaded at at 41,110,20
+[15:47:59] cqr-c9st GAME: secure_storage_horizontal loaded at at 28,110,20
+[15:47:59] cqr-c9st GAME: Escape_Pod_West-East loaded at at 15,110,20
+[15:48:00] cqr-c9st GAME: autolathe_South-East loaded at at 2,110,20
+[15:48:00] cqr-c9st GAME: Escape_Pod_West-East loaded at at 2,101,20
+[15:48:00] cqr-c9st GAME: secure_storage_horizontal loaded at at 15,101,20
+[15:48:01] cqr-c9st GAME: Escape_Pod_West-East loaded at at 28,101,20
+[15:48:03] cqr-c9st GAME: Escape_Pod_West-East loaded at at 41,101,20
+[15:48:04] cqr-c9st GAME: Escape_Pod_West-East loaded at at 41,92,20
+[15:48:04] cqr-c9st GAME: Escape_Pod_West-East loaded at at 28,92,20
+[15:48:04] cqr-c9st GAME: showers loaded at at 15,92,20
+[15:48:05] cqr-c9st GAME: crematorium loaded at at 2,92,20
+[15:48:11] cqr-c9st GAME: Escape_Pod_West-East loaded at at 2,83,20
+[15:48:11] cqr-c9st GAME: Escape_Pod_West-East loaded at at 15,83,20
+[15:48:12] cqr-c9st GAME: hallwayatmos_west-east loaded at at 28,83,20
+[15:48:12] cqr-c9st GAME: garden loaded at at 41,83,20
+[15:48:14] cqr-c9st GAME: checkpoint_horizontal loaded at at 54,83,20
+[15:48:14] cqr-c9st GAME: crematorium loaded at at 67,83,20
+[15:48:14] cqr-c9st GAME: secure_storage_horizontal loaded at at 80,83,20
+[15:48:15] cqr-c9st GAME: Hallway_4way loaded at at 93,83,20
+[15:48:15] cqr-c9st ADMIN: RiotScopez/(/(RiotScopez)) RiotScopez/(/(RiotScopez)) has loaded a character.
+[15:48:17] cqr-c9st GAME: garden loaded at at 93,74,20
+[15:48:17] cqr-c9st GAME: Hallway_4way loaded at at 106,74,20
+[15:48:17] cqr-c9st GAME: Escape_Pod_West-East loaded at at 119,74,20
+[15:48:18] cqr-c9st GAME: garden loaded at at 132,74,20
+[15:48:18] cqr-c9st GAME: Hallway_4way loaded at at 145,74,20
+[15:48:18] cqr-c9st GAME: crematorium loaded at at 158,74,20
+[15:48:19] cqr-c9st GAME: garden loaded at at 171,74,20
+[15:48:20] cqr-c9st GAME: showers loaded at at 184,74,20
+[15:48:24] cqr-c9st GAME: Escape_Pod_West-East loaded at at 197,74,20
+[15:48:26] cqr-c9st GAME: garden loaded at at 197,65,20
+[15:48:26] cqr-c9st GAME: garden loaded at at 184,65,20
+[15:48:27] cqr-c9st GAME: Hallway_4way loaded at at 171,65,20
+[15:48:27] cqr-c9st GAME: Hallway_4way loaded at at 158,65,20
+[15:48:28] cqr-c9st GAME: garden loaded at at 158,56,20
+[15:48:28] cqr-c9st GAME: crematorium loaded at at 145,56,20
+[15:48:29] cqr-c9st GAME: garden loaded at at 132,56,20
+[15:48:29] cqr-c9st GAME: Hallway_4way loaded at at 119,56,20
+[15:48:29] cqr-c9st GAME: autolathe_South-East loaded at at 106,56,20
+[15:48:31] cqr-c9st GAME: Escape_Pod_West-East loaded at at 106,47,20
+[15:48:31] cqr-c9st GAME: Hallway_4way loaded at at 93,47,20
+[15:48:32] cqr-c9st GAME: checkpoint_vertical loaded at at 93,38,20
+[15:48:33] cqr-c9st GAME: Hallway_4way loaded at at 93,29,20
+[15:48:33] cqr-c9st GAME: Hallway_4way loaded at at 80,29,20
+[15:48:34] cqr-c9st GAME: Hallway_4way loaded at at 67,29,20
+[15:48:34] cqr-c9st GAME: garden loaded at at 54,29,20
+[15:48:35] cqr-c9st GAME: penitentiary loaded at at 41,29,20
+[15:48:35] cqr-c9st GAME: autolathe_South-East loaded at at 28,29,20
+[15:48:36] cqr-c9st GAME: garden loaded at at 28,20,20
+[15:48:36] cqr-c9st GAME: crematorium loaded at at 41,20,20
+[15:48:37] cqr-c9st GAME: showers loaded at at 54,20,20
+[15:48:37] cqr-c9st GAME: penitentiary loaded at at 67,20,20
+[15:48:37] cqr-c9st GAME: crematorium loaded at at 80,20,20
+[15:48:38] cqr-c9st GAME: Hallway_4way loaded at at 93,20,20
+[15:48:38] cqr-c9st GAME: checkpoint_horizontal loaded at at 106,20,20
+[15:48:38] cqr-c9st GAME: Escape_Pod_West-East loaded at at 119,20,20
+[15:48:39] cqr-c9st GAME: garden loaded at at 132,20,20
+[15:48:39] cqr-c9st GAME: Escape_Pod_West-East loaded at at 145,20,20
+[15:48:40] cqr-c9st GAME: crematorium loaded at at 158,20,20
+[15:48:40] cqr-c9st GAME: Hallway_4way loaded at at 171,20,20
+[15:48:40] cqr-c9st ADMIN: RiotScopez/(/(RiotScopez)) RiotScopez/(/(RiotScopez)) has loaded a character.
+[15:48:41] cqr-c9st GAME: Escape_Pod_West-East loaded at at 184,20,20
+[15:48:42] cqr-c9st GAME: crematorium loaded at at 197,20,20
+[15:48:42] cqr-c9st GAME: Hallway_4way loaded at at 197,11,20
+[15:48:42] cqr-c9st GAME: garden loaded at at 184,11,20
+[15:48:43] cqr-c9st GAME: hallwayatmos_west-east loaded at at 171,11,20
+[15:48:43] cqr-c9st GAME: Escape_Pod_West-East loaded at at 158,11,20
+[15:48:44] cqr-c9st GAME: Hallway_4way loaded at at 158,2,20
+[15:48:44] cqr-c9st GAME: garden loaded at at 171,2,20
+[15:48:45] cqr-c9st GAME: garden loaded at at 184,2,20
+[15:48:45] cqr-c9st GAME: Exit - 1 loaded at at 197,2,20
+[15:49:09] cqr-c9st GAME: office loaded at at 80,47,20
+[15:49:11] cqr-c9st GAME: surgery loaded at at 106,38,20
+[15:49:11] cqr-c9st GAME: anomaly loaded at at 197,101,20
+[15:49:12] cqr-c9st GAME: shooting_range loaded at at 132,11,20
+[15:49:12] cqr-c9st GAME: armory loaded at at 158,128,20
+[15:49:14] cqr-c9st GAME: surgery loaded at at 197,83,20
+[15:49:14] cqr-c9st GAME: mechbay loaded at at 171,119,20
+[15:49:14] cqr-c9st GAME: armory loaded at at 93,101,20
+[15:49:18] cqr-c9st GAME: cargo_vertical loaded at at 80,38,20
+[15:49:20] cqr-c9st GAME: surgery loaded at at 132,65,20
+[15:49:21] cqr-c9st GAME: armory loaded at at 145,65,20
+[15:49:21] cqr-c9st GAME: armory loaded at at 54,101,20
+[15:49:23] cqr-c9st GAME: shooting_range loaded at at 2,74,20
+[15:49:24] cqr-c9st GAME: shooting_range loaded at at 119,119,20
+[15:49:25] cqr-c9st GAME: cargo_horizontal loaded at at 119,47,20
+[15:49:25] cqr-c9st GAME: shooting_range loaded at at 197,128,20
+[15:49:26] cqr-c9st GAME: mechbay loaded at at 145,2,20
+[15:49:27] cqr-c9st GAME: armory loaded at at 145,47,20
+[15:49:29] cqr-c9st GAME: office loaded at at 76,28,21
+[15:49:29] cqr-c9st GAME: storage loaded at at 135,99,21
+[15:49:30] cqr-c9st GAME: Medical supplies loaded at at 14,20,21
+[15:49:30] cqr-c9st GAME: cryo loaded at at 29,26,21
+[15:49:30] cqr-c9st GAME: office loaded at at 94,22,21
+[15:49:30] cqr-c9st GAME: sm_core loaded at at 140,125,21
+[15:49:30] cqr-c9st GAME: Medical supplies loaded at at 114,152,21
+[15:49:30] cqr-c9st GAME: toilet loaded at at 74,147,21
+[15:49:30] cqr-c9st GAME: anomalysci loaded at at 101,121,21
+[15:49:31] cqr-c9st GAME: mechbay loaded at at 15,128,21
+[15:49:31] cqr-c9st GAME: storage loaded at at 54,152,21
+[15:49:31] cqr-c9st GAME: office loaded at at 136,31,21
+[15:49:31] cqr-c9st GAME: barricades loaded at at 29,153,21
+[15:49:31] cqr-c9st GAME: sm_core loaded at at 130,143,21
+[15:49:32] cqr-c9st GAME: morgue loaded at at 14,34,21
+[15:49:32] cqr-c9st GAME: Trash loaded at at 114,118,21
+[15:49:32] cqr-c9st GAME: mechbay loaded at at 139,112,21
+[15:49:32] cqr-c9st GAME: office loaded at at 118,80,21
+[15:49:32] cqr-c9st GAME: office loaded at at 31,40,21
+[15:49:32] cqr-c9st GAME: storage loaded at at 17,101,21
+[15:49:32] cqr-c9st GAME: mechbay loaded at at 127,120,21
+[15:49:33] cqr-c9st GAME: office loaded at at 40,136,21
+[15:49:33] cqr-c9st GAME: anomalysci loaded at at 114,66,21
+[15:49:33] cqr-c9st GAME: office loaded at at 153,37,21
+[15:49:33] cqr-c9st GAME: toilet loaded at at 118,93,21
+[15:49:33] cqr-c9st GAME: barricades loaded at at 152,86,21
+[15:49:33] cqr-c9st GAME: cryo loaded at at 89,40,21
+[15:49:33] cqr-c9st GAME: a lost roach loaded at at 138,64,21
+[15:49:33] cqr-c9st GAME: office loaded at at 30,55,21
+[15:49:33] cqr-c9st GAME: library loaded at at 113,24,21
+[15:49:34] cqr-c9st GAME: cargo_vertical loaded at at 93,119,20
+[15:49:36] cqr-c9st GAME: cargo_vertical loaded at at 145,83,20
+[15:49:47] cqr-c9st GAME: surgery loaded at at 119,101,20
+[15:49:48] cqr-c9st GAME: shooting_range loaded at at 197,56,20
+[15:49:53] cqr-c9st GAME: anomaly loaded at at 41,74,20
+[15:49:55] cqr-c9st GAME: shooting_range loaded at at 132,2,20
+[15:49:56] cqr-c9st GAME: armory loaded at at 106,29,20
+[15:49:58] cqr-c9st GAME: anomaly loaded at at 93,11,20
+[15:50:00] cqr-c9st VOTE: <b>Votes:</b><br>	The Guide - 0 vote.<br><b>	The Healer - 1 vote.<br></b>	The Mime - 0 vote.<br>	Ghost Town - 0 vote.<br>	The Warrior - 0 vote.<br>	The Sleeper - 0 vote.<br>	The Jester - 0 vote.<br>	The Chronicler - 0 vote.<br>	Did not vote - 0<br>
+[15:50:01] cqr-c9st GAME: anomaly loaded at at 15,74,20
+[15:50:11] cqr-c9st GAME: office loaded at at 119,2,20
+[15:50:16] cqr-c9st GAME: cargo_vertical loaded at at 106,119,20
+[15:50:17] cqr-c9st GAME: anomaly loaded at at 197,47,20
+[15:50:19] cqr-c9st GAME: shooting_range loaded at at 119,65,20
+[15:50:19] cqr-c9st GAME: surgery loaded at at 145,11,20
+[15:50:20] cqr-c9st GAME: surgery loaded at at 132,83,20
+[15:50:22] cqr-c9st GAME: shooting_range loaded at at 106,65,20
+[15:50:23] cqr-c9st GAME: blocker loaded at at 2,137,20
+[15:50:23] cqr-c9st GAME: blocker loaded at at 15,137,20
+[15:50:23] cqr-c9st GAME: blocker loaded at at 28,137,20
+[15:50:23] cqr-c9st GAME: blocker loaded at at 41,137,20
+[15:50:24] cqr-c9st GAME: blocker loaded at at 54,137,20
+[15:50:24] cqr-c9st GAME: blocker loaded at at 67,137,20
+[15:50:24] cqr-c9st GAME: blocker loaded at at 80,137,20
+[15:50:24] cqr-c9st GAME: blocker loaded at at 93,137,20
+[15:50:24] cqr-c9st GAME: blocker loaded at at 106,137,20
+[15:50:24] cqr-c9st GAME: blocker loaded at at 119,137,20
+[15:50:24] cqr-c9st GAME: blocker loaded at at 132,137,20
+[15:50:24] cqr-c9st GAME: blocker loaded at at 197,137,20
+[15:50:24] cqr-c9st GAME: blocker loaded at at 2,128,20
+[15:50:24] cqr-c9st GAME: blocker loaded at at 15,128,20
+[15:50:24] cqr-c9st GAME: blocker loaded at at 28,128,20
+[15:50:24] cqr-c9st GAME: blocker loaded at at 41,128,20
+[15:50:24] cqr-c9st GAME: blocker loaded at at 54,128,20
+[15:50:24] cqr-c9st GAME: blocker loaded at at 67,128,20
+[15:50:24] cqr-c9st GAME: blocker loaded at at 80,128,20
+[15:50:24] cqr-c9st GAME: blocker loaded at at 93,128,20
+[15:50:24] cqr-c9st GAME: blocker loaded at at 106,128,20
+[15:50:24] cqr-c9st GAME: blocker loaded at at 119,128,20
+[15:50:24] cqr-c9st GAME: blocker loaded at at 132,128,20
+[15:50:24] cqr-c9st GAME: blocker loaded at at 145,128,20
+[15:50:25] cqr-c9st GAME: blocker loaded at at 171,128,20
+[15:50:25] cqr-c9st GAME: blocker loaded at at 2,119,20
+[15:50:25] cqr-c9st GAME: blocker loaded at at 15,119,20
+[15:50:25] cqr-c9st GAME: blocker loaded at at 28,119,20
+[15:50:25] cqr-c9st GAME: blocker loaded at at 41,119,20
+[15:50:25] cqr-c9st GAME: blocker loaded at at 54,119,20
+[15:50:25] cqr-c9st GAME: blocker loaded at at 67,119,20
+[15:50:25] cqr-c9st GAME: blocker loaded at at 80,119,20
+[15:50:25] cqr-c9st GAME: blocker loaded at at 132,119,20
+[15:50:25] cqr-c9st GAME: blocker loaded at at 145,119,20
+[15:50:25] cqr-c9st GAME: blocker loaded at at 158,119,20
+[15:50:25] cqr-c9st GAME: blocker loaded at at 67,101,20
+[15:50:25] cqr-c9st GAME: blocker loaded at at 80,101,20
+[15:50:25] cqr-c9st GAME: blocker loaded at at 106,101,20
+[15:50:25] cqr-c9st GAME: blocker loaded at at 132,101,20
+[15:50:26] cqr-c9st GAME: blocker loaded at at 145,101,20
+[15:50:26] cqr-c9st GAME: blocker loaded at at 158,101,20
+[15:50:26] cqr-c9st GAME: blocker loaded at at 171,101,20
+[15:50:26] cqr-c9st GAME: blocker loaded at at 184,101,20
+[15:50:26] cqr-c9st GAME: blocker loaded at at 54,92,20
+[15:50:26] cqr-c9st GAME: blocker loaded at at 67,92,20
+[15:50:26] cqr-c9st GAME: blocker loaded at at 80,92,20
+[15:50:26] cqr-c9st GAME: blocker loaded at at 93,92,20
+[15:50:26] cqr-c9st GAME: blocker loaded at at 106,92,20
+[15:50:26] cqr-c9st GAME: blocker loaded at at 119,92,20
+[15:50:26] cqr-c9st GAME: blocker loaded at at 132,92,20
+[15:50:26] cqr-c9st GAME: blocker loaded at at 145,92,20
+[15:50:26] cqr-c9st GAME: blocker loaded at at 158,92,20
+[15:50:26] cqr-c9st GAME: blocker loaded at at 171,92,20
+[15:50:26] cqr-c9st GAME: blocker loaded at at 184,92,20
+[15:50:26] cqr-c9st GAME: blocker loaded at at 197,92,20
+[15:50:26] cqr-c9st GAME: blocker loaded at at 106,83,20
+[15:50:27] cqr-c9st GAME: blocker loaded at at 119,83,20
+[15:50:27] cqr-c9st GAME: blocker loaded at at 158,83,20
+[15:50:27] cqr-c9st GAME: blocker loaded at at 171,83,20
+[15:50:27] cqr-c9st GAME: blocker loaded at at 184,83,20
+[15:50:27] cqr-c9st GAME: blocker loaded at at 28,74,20
+[15:50:27] cqr-c9st GAME: blocker loaded at at 54,74,20
+[15:50:27] cqr-c9st GAME: blocker loaded at at 67,74,20
+[15:50:27] cqr-c9st GAME: blocker loaded at at 80,74,20
+[15:50:27] cqr-c9st GAME: blocker loaded at at 2,65,20
+[15:50:27] cqr-c9st GAME: blocker loaded at at 15,65,20
+[15:50:27] cqr-c9st GAME: blocker loaded at at 28,65,20
+[15:50:27] cqr-c9st GAME: blocker loaded at at 41,65,20
+[15:50:27] cqr-c9st GAME: blocker loaded at at 54,65,20
+[15:50:27] cqr-c9st GAME: blocker loaded at at 67,65,20
+[15:50:27] cqr-c9st GAME: blocker loaded at at 80,65,20
+[15:50:27] cqr-c9st GAME: blocker loaded at at 93,65,20
+[15:50:27] cqr-c9st GAME: blocker loaded at at 2,56,20
+[15:50:27] cqr-c9st GAME: blocker loaded at at 15,56,20
+[15:50:27] cqr-c9st GAME: blocker loaded at at 28,56,20
+[15:50:28] cqr-c9st GAME: blocker loaded at at 41,56,20
+[15:50:28] cqr-c9st GAME: blocker loaded at at 54,56,20
+[15:50:28] cqr-c9st GAME: blocker loaded at at 67,56,20
+[15:50:28] cqr-c9st GAME: blocker loaded at at 80,56,20
+[15:50:28] cqr-c9st GAME: blocker loaded at at 93,56,20
+[15:50:28] cqr-c9st GAME: blocker loaded at at 171,56,20
+[15:50:28] cqr-c9st GAME: blocker loaded at at 184,56,20
+[15:50:28] cqr-c9st GAME: blocker loaded at at 2,47,20
+[15:50:28] cqr-c9st GAME: blocker loaded at at 15,47,20
+[15:50:28] cqr-c9st GAME: blocker loaded at at 28,47,20
+[15:50:28] cqr-c9st GAME: blocker loaded at at 41,47,20
+[15:50:28] cqr-c9st GAME: blocker loaded at at 54,47,20
+[15:50:28] cqr-c9st GAME: blocker loaded at at 67,47,20
+[15:50:28] cqr-c9st GAME: blocker loaded at at 132,47,20
+[15:50:28] cqr-c9st GAME: blocker loaded at at 158,47,20
+[15:50:28] cqr-c9st GAME: blocker loaded at at 171,47,20
+[15:50:28] cqr-c9st GAME: blocker loaded at at 184,47,20
+[15:50:28] cqr-c9st GAME: blocker loaded at at 2,38,20
+[15:50:28] cqr-c9st GAME: blocker loaded at at 15,38,20
+[15:50:29] cqr-c9st GAME: blocker loaded at at 28,38,20
+[15:50:29] cqr-c9st GAME: blocker loaded at at 41,38,20
+[15:50:29] cqr-c9st GAME: blocker loaded at at 54,38,20
+[15:50:29] cqr-c9st GAME: blocker loaded at at 67,38,20
+[15:50:29] cqr-c9st GAME: blocker loaded at at 119,38,20
+[15:50:29] cqr-c9st GAME: blocker loaded at at 132,38,20
+[15:50:29] cqr-c9st GAME: blocker loaded at at 145,38,20
+[15:50:29] cqr-c9st GAME: blocker loaded at at 158,38,20
+[15:50:29] cqr-c9st GAME: blocker loaded at at 171,38,20
+[15:50:29] cqr-c9st GAME: blocker loaded at at 184,38,20
+[15:50:29] cqr-c9st GAME: blocker loaded at at 197,38,20
+[15:50:29] cqr-c9st GAME: blocker loaded at at 2,29,20
+[15:50:29] cqr-c9st GAME: blocker loaded at at 15,29,20
+[15:50:29] cqr-c9st GAME: blocker loaded at at 119,29,20
+[15:50:29] cqr-c9st GAME: blocker loaded at at 132,29,20
+[15:50:29] cqr-c9st GAME: blocker loaded at at 145,29,20
+[15:50:29] cqr-c9st GAME: blocker loaded at at 158,29,20
+[15:50:29] cqr-c9st GAME: blocker loaded at at 171,29,20
+[15:50:30] cqr-c9st GAME: blocker loaded at at 184,29,20
+[15:50:30] cqr-c9st GAME: blocker loaded at at 197,29,20
+[15:50:30] cqr-c9st GAME: blocker loaded at at 2,20,20
+[15:50:30] cqr-c9st GAME: blocker loaded at at 15,20,20
+[15:50:30] cqr-c9st GAME: blocker loaded at at 2,11,20
+[15:50:30] cqr-c9st GAME: blocker loaded at at 15,11,20
+[15:50:30] cqr-c9st GAME: blocker loaded at at 28,11,20
+[15:50:30] cqr-c9st GAME: blocker loaded at at 41,11,20
+[15:50:30] cqr-c9st GAME: blocker loaded at at 54,11,20
+[15:50:30] cqr-c9st GAME: blocker loaded at at 67,11,20
+[15:50:30] cqr-c9st GAME: blocker loaded at at 80,11,20
+[15:50:30] cqr-c9st GAME: blocker loaded at at 106,11,20
+[15:50:30] cqr-c9st GAME: blocker loaded at at 119,11,20
+[15:50:30] cqr-c9st GAME: blocker loaded at at 2,2,20
+[15:50:30] cqr-c9st GAME: blocker loaded at at 15,2,20
+[15:50:30] cqr-c9st GAME: blocker loaded at at 28,2,20
+[15:50:30] cqr-c9st GAME: blocker loaded at at 41,2,20
+[15:50:30] cqr-c9st GAME: blocker loaded at at 54,2,20
+[15:50:30] cqr-c9st GAME: blocker loaded at at 67,2,20
+[15:50:31] cqr-c9st GAME: blocker loaded at at 80,2,20
+[15:50:31] cqr-c9st GAME: blocker loaded at at 93,2,20
+[15:50:31] cqr-c9st GAME: blocker loaded at at 106,2,20
+[15:55:07] cqr-c9st SAY: Kraftwerk Roach/ : 10101010011100010101.
+[15:55:07] cqr-c9st GAME: Explosion with size (-1, 0, 1) in area Vault Bunker 
+[15:55:09] cqr-c9st SAY: *no key*/(/(rat (995))) squeals! 
+[15:55:16] cqr-c9st ADMIN: RiotScopez/(/(RiotScopez)) RiotScopez/(/(RiotScopez)) has saved their preferences.
+[15:55:17] cqr-c9st ADMIN: RiotScopez/(/(RiotScopez)) RiotScopez/(/(RiotScopez)) has saved a character.
+[15:55:18] cqr-c9st ADMIN: RiotScopez/(/(RiotScopez)) RiotScopez/(/(RiotScopez)) has saved their preferences.
+[15:55:18] cqr-c9st ADMIN: RiotScopez/(/(RiotScopez)) RiotScopez/(/(RiotScopez)) has saved a character.
+[15:55:19] cqr-c9st ADMIN: RiotScopez/(/(RiotScopez)) RiotScopez/(/(RiotScopez)) has saved their preferences.
+[15:55:19] cqr-c9st ADMIN: RiotScopez/(/(RiotScopez)) RiotScopez/(/(RiotScopez)) has saved a character.
+[15:55:23] cqr-c9st SAY: *no key*/(/(rat (318))) squeals! 
+[15:55:25] cqr-c9st GAME: Explosion with size (0, 1, 3) in area Vault Bunker 
+[15:55:25] cqr-c9st GAME: Explosion with size (0, 1, 3) in area Vault Bunker 
+[15:55:28] cqr-c9st SAY: *no key*/(/(rat (883))) squeals! 
+[15:55:28] cqr-c9st SAY: *no key*/(/(rat (125))) squeals! 
+[15:56:31] cqr-c9st GAME: Explosion with size (-1, 0, 1) in area Junk Field 
+[15:56:32] cqr-c9st SAY: *no key*/(/(rat (9))) squeals! 
+[15:56:33] cqr-c9st SAY: *no key*/(/(rat (480))) squeals! 
+[15:56:33] cqr-c9st SAY: *no key*/(/(rat (31))) squeals! 
+[15:56:33] cqr-c9st SAY: *no key*/(/(rat (564))) squeals! 
+[15:56:34] cqr-c9st SAY: *no key*/(/(rat (677))) squeals! 
+[15:56:34] cqr-c9st SAY: *no key*/(/(rat (748))) squeals! 
+[15:56:34] cqr-c9st SAY: *no key*/(/(rat (212))) squeals! 
+[15:56:34] cqr-c9st SAY: Kraftwerk Roach/ : 10101010011100010101.
+[15:56:34] cqr-c9st SAY: Biosilicified Kraftwerk Roach/ : 10101010011100010101.
+[15:56:34] cqr-c9st SAY: *no key*/(/(rat (705))) squeals! 
+[15:56:35] cqr-c9st SAY: Kraftwerk Roach/ : 10101010011100010101.
+[15:56:35] cqr-c9st SAY: Durable Kraftwerk Roach/ : 10101010011100010101.
+[15:56:35] cqr-c9st SAY: *no key*/(/(rat (865))) squeals! 
+[15:56:38] cqr-c9st GAME: Explosion with size (0, 1, 3) in area Hunting plains underground caves 
+[15:57:35] cqr-c9st GAME: Explosion with size (-1, 0, 1) in area Vault Bunker 
+[15:57:35] cqr-c9st SAY: Kraftwerk Roach/ : 10101010011100010101.
+[15:57:36] cqr-c9st ADMIN: RiotScopez/(/(RiotScopez)) RiotScopez/(/(RiotScopez)) has saved their preferences.
+[15:57:36] cqr-c9st ADMIN: RiotScopez/(/(RiotScopez)) RiotScopez/(/(RiotScopez)) has saved a character.
+[15:57:36] cqr-c9st ADMIN: RiotScopez/(/(RiotScopez)) RiotScopez/(/(RiotScopez)) has saved their preferences.
+[15:57:36] cqr-c9st ADMIN: RiotScopez/(/(RiotScopez)) RiotScopez/(/(RiotScopez)) has saved a character.
+[15:57:42] cqr-c9st GAME: Explosion with size (-1, 0, 1) in area Deep Maintenance 
+[15:57:48] cqr-c9st SAY: *no key*/(/(rat (731))) squeals! 
+[15:57:48] cqr-c9st SAY: *no key*/(/(rat (643))) squeals! 
+[15:57:51] cqr-c9st SAY: *no key*/(/(rat (514))) squeals! 
+[15:58:30] cqr-c9st GAME: Explosion with size (0, 1, 3) in area Hunting plains underground caves 
+[15:58:32] cqr-c9st DEBUG: Runtime in unsorted.dm,1381: addtimer called with a callback assigned to a qdeleted object. In the future such timers will not be supported and may refuse to run or run with a 0 wait <A HREF='?_src_=holder;viewruntime=[0x210f721d]'>[view]</A>
+[15:58:33] cqr-c9st SAY: Kraftwerk Roach/ : 10101010011100010101.
+[15:58:34] cqr-c9st SAY: Kraftwerk Roach/ : 10101010011100010101.
+[15:58:34] cqr-c9st SAY: Kraftwerk Roach/ : 10101010011100010101.
+[15:58:35] cqr-c9st SAY: Durable Kraftwerk Roach/ : 10101010011100010101.
+[15:58:35] cqr-c9st SAY: *no key*/(/(rat (249))) squeals! 
+[15:58:49] cqr-c9st SAY: *no key*/(/(rat (98))) squeals! 
+[15:58:50] cqr-c9st SAY: *no key*/(/(rat (394))) squeals! 
+[15:59:16] cqr-c9st SAY: Kraftwerk Roach/ : 10101010011100010101.
+[15:59:17] cqr-c9st GAME: Explosion with size (0, 1, 3) in area Greyson Field Offices 
+[15:59:26] cqr-c9st GAME: Explosion with size (-1, 0, 1) in area Deep Maintenance 
+[15:59:45] cqr-c9st DEBUG: Runtime in unsorted.dm,1381: addtimer called with a callback assigned to a qdeleted object. In the future such timers will not be supported and may refuse to run or run with a 0 wait <A HREF='?_src_=holder;viewruntime=[0x2100bcd6]'>[view]</A>
+[15:59:45] cqr-c9st SAY: Kraftwerk Roach/ : 10101010011100010101.
+[15:59:46] cqr-c9st SAY: Quick Kraftwerk Roach/ : 10101010011100010101.
+[15:59:46] cqr-c9st SAY: Kraftwerk Roach/ : 10101010011100010101.
+[15:59:47] cqr-c9st SAY: *no key*/(/(rat (844))) squeals! 
+[15:59:55] cqr-c9st SAY: *no key*/(/(rat (570))) squeals! 
+[16:00:05] cqr-c9st SAY: Kraftwerk Roach/ : 10101010011100010101.
+[16:00:05] cqr-c9st SAY: Kraftwerk Roach/ : 10101010011100010101.
+[16:00:05] cqr-c9st SAY: Kraftwerk Roach/ : 10101010011100010101.
+[16:00:06] cqr-c9st SAY: Lambertian Kraftwerk Roach/ : 10101010011100010101.
+[16:00:09] cqr-c9st DEBUG: Moved - the combat drone was deleted while still being listened to by /datum/effect/effect/system/trail/ion.
+[16:00:20] cqr-c9st GAME: Explosion with size (-1, 0, 1) in area Swamp Caves 
+[16:00:20] cqr-c9st SAY: Lambertian Kraftwerk Roach/ : 10101010011100010101.
+[16:00:21] cqr-c9st SAY: Durable Kraftwerk Roach/ : 10101010011100010101.
+[16:00:22] cqr-c9st SAY: Durable Kraftwerk Roach/ : 10101010011100010101.
+[16:00:24] cqr-c9st GAME: Explosion with size (-1, 0, 1) in area Swamp Caves 
+[16:00:39] cqr-c9st SAY: Lambertian Kraftwerk Roach/ : 10101010011100010101.
+[16:00:40] cqr-c9st SAY: Kraftwerk Roach/ : 10101010011100010101.
+[16:01:01] cqr-c9st SAY: Durable Kraftwerk Roach/ : 10101010011100010101.
+[16:01:11] cqr-c9st DEBUG: Moved - the combat drone was deleted while still being listened to by /datum/effect/effect/system/trail/ion.
+[16:01:13] cqr-c9st EMOTE: Kampfer Roach/ : <B>Kampfer Roach</B> coughs hysterically!
+[16:01:19] cqr-c9st SAY: Kraftwerk Roach/ : 10101010011100010101.
+[16:01:20] cqr-c9st SAY: Durable Kraftwerk Roach/ : 10101010011100010101.
+[16:01:37] cqr-c9st SAY: Durable Kraftwerk Roach/ : 10101010011100010101.
+[16:01:38] cqr-c9st SAY: Biosilicified Kraftwerk Roach/ : 10101010011100010101.
+[16:01:54] cqr-c9st SAY: Kraftwerk Roach/ : 10101010011100010101.
+[16:02:04] cqr-c9st SAY: Kraftwerk Roach/ : 10101010011100010101.
+[16:02:28] cqr-c9st SAY: Lambertian Kraftwerk Roach/ : 10101010011100010101.
+[16:02:28] cqr-c9st SAY: Durable Kraftwerk Roach/ : 10101010011100010101.
+[16:02:34] cqr-c9st GAME: Explosion with size (-1, 0, 1) in area Deep Maintenance 
+[16:03:06] cqr-c9st SAY: Durable Kraftwerk Roach/ : 10101010011100010101.
+[16:03:06] cqr-c9st SAY: Durable Kraftwerk Roach/ : 10101010011100010101.
+[16:03:23] cqr-c9st SAY: Durable Kraftwerk Roach/ : 10101010011100010101.
+[16:03:23] cqr-c9st SAY: Durable Kraftwerk Roach/ : 10101010011100010101.
+[16:03:36] cqr-c9st SAY: Kraftwerk Roach/ : 10101010011100010101.
+[16:03:51] cqr-c9st SAY: Kraftwerk Roach/ : 10101010011100010101.
+[16:04:06] cqr-c9st SAY: Durable Kraftwerk Roach/ : 10101010011100010101.
+[16:04:17] cqr-c9st GAME: Explosion with size (-1, 0, 1) in area Deep Maintenance 
+[16:04:32] cqr-c9st ADMIN: RiotScopez/(/(RiotScopez)) RiotScopez/(/(RiotScopez)) has saved their preferences.
+[16:04:32] cqr-c9st ADMIN: RiotScopez/(/(RiotScopez)) RiotScopez/(/(RiotScopez)) has saved a character.
+[16:04:33] cqr-c9st ADMIN: RiotScopez/(/(RiotScopez)) RiotScopez/(/(RiotScopez)) has saved their preferences.
+[16:04:33] cqr-c9st ADMIN: RiotScopez/(/(RiotScopez)) RiotScopez/(/(RiotScopez)) has saved a character.
+[16:04:33] cqr-c9st ADMIN: RiotScopez/(/(RiotScopez)) RiotScopez/(/(RiotScopez)) has saved their preferences.
+[16:04:34] cqr-c9st ADMIN: RiotScopez/(/(RiotScopez)) RiotScopez/(/(RiotScopez)) has saved a character.
+[16:04:34] cqr-c9st ADMIN: RiotScopez/(/(RiotScopez)) RiotScopez/(/(RiotScopez)) has saved their preferences.
+[16:04:34] cqr-c9st ADMIN: RiotScopez/(/(RiotScopez)) RiotScopez/(/(RiotScopez)) has saved a character.
+[16:04:35] cqr-c9st ADMIN: RiotScopez/(/(RiotScopez)) RiotScopez/(/(RiotScopez)) has saved their preferences.
+[16:04:35] cqr-c9st ADMIN: RiotScopez/(/(RiotScopez)) RiotScopez/(/(RiotScopez)) has saved a character.
+[16:04:35] cqr-c9st ADMIN: RiotScopez/(/(RiotScopez)) RiotScopez/(/(RiotScopez)) has saved their preferences.
+[16:04:35] cqr-c9st ADMIN: RiotScopez/(/(RiotScopez)) RiotScopez/(/(RiotScopez)) has saved a character.
+[16:04:36] cqr-c9st ADMIN: RiotScopez/(/(RiotScopez)) RiotScopez/(/(RiotScopez)) has saved their preferences.
+[16:04:36] cqr-c9st ADMIN: RiotScopez/(/(RiotScopez)) RiotScopez/(/(RiotScopez)) has saved a character.
+[16:04:36] cqr-c9st ADMIN: RiotScopez/(/(RiotScopez)) RiotScopez/(/(RiotScopez)) has saved their preferences.
+[16:04:37] cqr-c9st ADMIN: RiotScopez/(/(RiotScopez)) RiotScopez/(/(RiotScopez)) has saved a character.
+[16:04:55] cqr-c9st SAY: Durable Kraftwerk Roach/ : 10101010011100010101.
+[16:05:28] cqr-c9st GAME: Explosion with size (-1, 0, 1) in area Prepper Base 
+[16:05:41] cqr-c9st GAME: Explosion with size (-1, 1, 2) in area Swamp Caves 
+[16:05:41] cqr-c9st GAME: Explosion with size (0, 1, 3) in area Swamp Caves 
+[16:05:41] cqr-c9st SAY: *no key*/(/(rat (591))) squeals! 
+[16:05:44] cqr-c9st DEBUG: Moved - the combat drone was deleted while still being listened to by /datum/effect/effect/system/trail/ion.
+[16:05:54] cqr-c9st SAY: *no key*/(/(rat (934))) squeals! 
+[16:05:56] cqr-c9st GAME: Explosion with size (-1, 1, 2) in area Deep Maintenance 
+[16:06:08] cqr-c9st SAY: *no key*/(/(rat (85))) squeals! 
+[16:06:10] cqr-c9st SAY: Kraftwerk Roach/ : 10101010011100010101.
+[16:06:23] cqr-c9st SAY: grey baby slime (321)/ : Rawr...
+[16:06:25] cqr-c9st SAY: Biosilicified Kraftwerk Roach/ : 10101010011100010101.
+[16:06:25] cqr-c9st SAY: Biosilicified Kraftwerk Roach/ : 10101010011100010101.
+[16:06:29] cqr-c9st SAY: Biosilicified Kraftwerk Roach/ : 10101010011100010101.
+[16:06:42] cqr-c9st SAY: Lambertian Kraftwerk Roach/ : 10101010011100010101.
+[16:06:48] cqr-c9st SAY: Lambertian Kraftwerk Roach/ : 10101010011100010101.
+[16:07:10] cqr-c9st SAY: Biosilicified Kraftwerk Roach/ : 10101010011100010101.
+[16:07:19] cqr-c9st SAY: Biosilicified Kraftwerk Roach/ : 10101010011100010101.
+[16:07:19] cqr-c9st SAY: Biosilicified Kraftwerk Roach/ : 10101010011100010101.
+[16:07:19] cqr-c9st SAY: Biosilicified Kraftwerk Roach/ : 10101010011100010101.
+[16:08:03] cqr-c9st SAY: grey baby slime (529)/ : Brother...
+[16:08:42] cqr-c9st GAME: Explosion with size (-1, 0, 1) in area Prepper Base 
+[16:09:01] cqr-c9st ACCESS: Logout: RiotScopez/(/(RiotScopez))
+[16:09:01] cqr-c9st ACCESS: Logout: RiotScopez[DC]/(/(RiotScopez))
+
+
+Starting up. (ID: cqs-agdy) 20:39.09
+---------------------
+[20:39:09] cqs-agdy MISC: Saved storyteller is 'healer'
+[20:39:10] cqs-agdy ADMIN: Loading jobban_rank
+[20:39:10] cqs-agdy ADMIN: jobban_keylist was empty
+[20:39:10] cqs-agdy ADMIN: Loading Banlist
+[20:39:47] cqs-agdy ACCESS: Login: RiotScopez/() from 146.115.147.185-1871707424 || BYOND v514.1582
+[20:39:47] cqs-agdy ACCESS: Login: RiotScopez/(/(RiotScopez)) from 146.115.147.185-1871707424 || BYOND v514
+[20:39:47] cqs-agdy DEBUG: Could not find style "ErisStyle" for /mob/new_player.
+[20:39:48] cqs-agdy ACCESS: Login: RiotScopez/(/(RiotScopez)) from 146.115.147.185-1871707424 || BYOND v514
+[20:40:57] cqs-agdy ADMIN: EVENT *null* has loaded a character.
+[20:41:05] cqs-agdy ADMIN: Bennett Mull try find_inv_position a 14, but not have that slot!
+[20:41:05] cqs-agdy ADMIN: Bennett Mull try find_inv_position a 11, but not have that slot!
+[20:41:05] cqs-agdy ADMIN: Bennett Mull try find_inv_position a 13, but not have that slot!
+[20:41:05] cqs-agdy ADMIN: Bennett Mull try find_inv_position a 12, but not have that slot!
+[20:41:05] cqs-agdy ADMIN: Danny Whittier try find_inv_position a 14, but not have that slot!
+[20:41:05] cqs-agdy ADMIN: Danny Whittier try find_inv_position a 11, but not have that slot!
+[20:41:05] cqs-agdy ADMIN: Danny Whittier try find_inv_position a 13, but not have that slot!
+[20:41:05] cqs-agdy ADMIN: Danny Whittier try find_inv_position a 12, but not have that slot!
+[20:41:05] cqs-agdy ADMIN: Steven Aultman try find_inv_position a 14, but not have that slot!
+[20:41:05] cqs-agdy ADMIN: Steven Aultman try find_inv_position a 11, but not have that slot!
+[20:41:05] cqs-agdy ADMIN: Steven Aultman try find_inv_position a 13, but not have that slot!
+[20:41:05] cqs-agdy ADMIN: Steven Aultman try find_inv_position a 12, but not have that slot!
+[20:41:06] cqs-agdy ADMIN: Tim Kifer try find_inv_position a 14, but not have that slot!
+[20:41:06] cqs-agdy ADMIN: Tim Kifer try find_inv_position a 11, but not have that slot!
+[20:41:06] cqs-agdy ADMIN: Tim Kifer try find_inv_position a 13, but not have that slot!
+[20:41:06] cqs-agdy ADMIN: Tim Kifer try find_inv_position a 12, but not have that slot!
+[20:41:06] cqs-agdy ADMIN: Zachary Mathews try find_inv_position a 14, but not have that slot!
+[20:41:06] cqs-agdy ADMIN: Zachary Mathews try find_inv_position a 11, but not have that slot!
+[20:41:06] cqs-agdy ADMIN: Zachary Mathews try find_inv_position a 13, but not have that slot!
+[20:41:06] cqs-agdy ADMIN: Zachary Mathews try find_inv_position a 12, but not have that slot!
+[20:41:06] cqs-agdy ADMIN: Reid Christopher try find_inv_position a 14, but not have that slot!
+[20:41:06] cqs-agdy ADMIN: Reid Christopher try find_inv_position a 11, but not have that slot!
+[20:41:06] cqs-agdy ADMIN: Reid Christopher try find_inv_position a 13, but not have that slot!
+[20:41:06] cqs-agdy ADMIN: Reid Christopher try find_inv_position a 12, but not have that slot!
+[20:43:40] cqs-agdy GAME: onestar 1 loaded at at 66,66,19
+[20:43:41] cqs-agdy GAME: onestar 3 loaded at at 16,21,19
+[20:43:42] cqs-agdy GAME: onestar 1 loaded at at 51,36,19
+[20:43:43] cqs-agdy GAME: onestar 2 loaded at at 86,36,19
+[20:43:43] cqs-agdy GAME: onestar 3 loaded at at 21,76,19
+[20:43:44] cqs-agdy GAME: onestar 1 loaded at at 21,41,19
+[20:43:45] cqs-agdy GAME: onestar 3 loaded at at 11,81,19
+[20:43:45] cqs-agdy GAME: onestar 4 loaded at at 11,51,19
+[20:43:45] cqs-agdy GAME: neutral 1 loaded at at 71,36,19
+[20:43:45] cqs-agdy GAME: neutral 5 loaded at at 31,46,19
+[20:43:45] cqs-agdy GAME: neutral 3 loaded at at 36,106,19
+[20:43:45] cqs-agdy GAME: neutral 11 loaded at at 106,66,19
+[20:43:45] cqs-agdy GAME: neutral 8 loaded at at 66,46,19
+[20:43:46] cqs-agdy GAME: neutral 4 loaded at at 66,101,19
+[20:43:46] cqs-agdy GAME: neutral 11 loaded at at 91,71,19
+[20:43:46] cqs-agdy GAME: neutral 4 loaded at at 46,16,19
+[20:43:46] cqs-agdy GAME: neutral 8 loaded at at 106,41,19
+[20:43:46] cqs-agdy GAME: neutral 9 loaded at at 16,106,19
+[20:43:46] cqs-agdy GAME: neutral 11 loaded at at 71,11,19
+[20:43:46] cqs-agdy GAME: neutral 5 loaded at at 61,16,19
+[20:43:46] cqs-agdy GAME: neutral 5 loaded at at 21,11,19
+[20:43:46] cqs-agdy GAME: neutral 9 loaded at at 101,66,19
+[20:43:46] cqs-agdy GAME: neutral 6 loaded at at 96,86,19
+[20:43:46] cqs-agdy GAME: neutral 2 loaded at at 26,16,19
+[20:43:46] cqs-agdy GAME: neutral 3 loaded at at 101,81,19
+[20:43:46] cqs-agdy GAME: neutral 1 loaded at at 106,96,19
+[20:43:46] cqs-agdy GAME: neutral 2 loaded at at 76,101,19
+[20:43:46] cqs-agdy GAME: neutral 4 loaded at at 101,101,19
+[20:43:46] cqs-agdy GAME: neutral 4 loaded at at 101,46,19
+[20:43:46] cqs-agdy GAME: neutral 11 loaded at at 106,106,19
+[20:43:46] cqs-agdy GAME: neutral 4 loaded at at 66,31,19
+[20:43:46] cqs-agdy GAME: neutral 5 loaded at at 66,16,19
+[20:43:46] cqs-agdy GAME: neutral 5 loaded at at 61,11,19
+[20:43:46] cqs-agdy GAME: neutral 8 loaded at at 46,76,19
+[20:43:46] cqs-agdy GAME: neutral 8 loaded at at 76,51,19
+[20:43:46] cqs-agdy GAME: neutral 6 loaded at at 71,21,19
+[20:43:46] cqs-agdy GAME: neutral 10 loaded at at 11,11,19
+[20:43:46] cqs-agdy GAME: neutral 8 loaded at at 101,106,19
+[20:43:46] cqs-agdy GAME: neutral 11 loaded at at 76,51,19
+[20:43:46] cqs-agdy GAME: neutral 10 loaded at at 16,106,19
+[20:43:47] cqs-agdy GAME: neutral 8 loaded at at 101,76,19
+[20:43:47] cqs-agdy GAME: neutral 1 loaded at at 101,21,19
+[20:43:47] cqs-agdy GAME: neutral 10 loaded at at 81,96,19
+[20:43:47] cqs-agdy GAME: neutral 4 loaded at at 101,11,19
+[20:43:47] cqs-agdy GAME: neutral 1 loaded at at 71,61,19
+[20:43:47] cqs-agdy GAME: neutral 7 loaded at at 51,81,19
+[20:43:47] cqs-agdy GAME: neutral 6 loaded at at 96,56,19
+[20:43:47] cqs-agdy GAME: neutral 8 loaded at at 61,106,19
+[20:43:47] cqs-agdy GAME: neutral 5 loaded at at 86,56,19
+[20:43:47] cqs-agdy GAME: neutral 9 loaded at at 76,56,19
+[20:43:47] cqs-agdy GAME: neutral 9 loaded at at 96,11,19
+[20:43:47] cqs-agdy GAME: neutral 4 loaded at at 61,51,19
+[20:43:47] cqs-agdy GAME: neutral 9 loaded at at 16,11,19
+[20:43:47] cqs-agdy GAME: neutral 5 loaded at at 51,71,19
+[20:43:47] cqs-agdy GAME: neutral 5 loaded at at 11,41,19
+[20:43:47] cqs-agdy GAME: neutral 8 loaded at at 46,46,19
+[20:43:47] cqs-agdy GAME: neutral 2 loaded at at 106,31,19
+[20:43:47] cqs-agdy GAME: neutral 3 loaded at at 26,11,19
+[20:43:47] cqs-agdy GAME: neutral 4 loaded at at 106,101,19
+[20:43:47] cqs-agdy GAME: neutral 6 loaded at at 71,56,19
+[20:43:47] cqs-agdy GAME: neutral 10 loaded at at 61,106,19
+[20:43:47] cqs-agdy GAME: neutral 4 loaded at at 66,91,19
+[20:43:47] cqs-agdy GAME: neutral 4 loaded at at 56,61,19
+[20:43:47] cqs-agdy GAME: neutral 8 loaded at at 71,96,19
+[20:43:47] cqs-agdy GAME: neutral 1 loaded at at 106,26,19
+[20:43:47] cqs-agdy GAME: neutral 3 loaded at at 91,106,19
+[20:43:48] cqs-agdy GAME: neutral 3 loaded at at 46,56,19
+[20:43:48] cqs-agdy GAME: neutral 3 loaded at at 36,101,19
+[20:44:01] cqs-agdy GAME: Emitter deleted at (0,0,0)
+[20:45:08] cqs-agdy ASSET: ERROR: Invalid asset: /datum/asset/simple/craft:obj_item_stack_cable_coil.png:1
+[20:45:13] cqs-agdy ASSET: ERROR: Invalid asset: /datum/asset/simple/craft:obj_item_clothing_glasses_powered_meson.png:1
+[20:45:14] cqs-agdy ASSET: ERROR: Invalid asset: /datum/asset/simple/craft:obj_item_gun_projectile_boltgun_lever.png:1
+[20:45:14] cqs-agdy ASSET: ERROR: Invalid asset: /datum/asset/simple/craft:obj_item_gun_projectile_automatic_sts_rifle.png:1
+[20:45:16] cqs-agdy ASSET: ERROR: Invalid asset: /datum/asset/simple/craft:obj_item_modular_computer_laptop.png:1
+[20:45:35] cqs-agdy ADMIN: RiotScopez/(/(RiotScopez)) delayed the game.
+[20:46:03] cqs-agdy ADMIN: RiotScopez/(/(RiotScopez)) removed the delay.
+[20:46:04] cqs-agdy VOTE: Storyteller vote started by server.
+[20:46:05] cqs-agdy ADMIN: RiotScopez/(/(RiotScopez)) removed the delay.
+[20:46:07] cqs-agdy ADMIN: RiotScopez/(/(RiotScopez)) delayed the game.
+[20:46:19] cqs-agdy GAME: AI core loaded at at 86,91,21
+[20:46:20] cqs-agdy MISC: a the gibber didn't find an input plate.
+[20:46:20] cqs-agdy GAME: xenostudy loaded at at 112,103,21
+[20:46:21] cqs-agdy GAME: lab5 loaded at at 34,91,21
+[20:46:21] cqs-agdy GAME: dinner loaded at at 31,62,21
+[20:46:22] cqs-agdy GAME: medbay loaded at at 61,70,21
+[20:46:22] cqs-agdy GAME: pod bay loaded at at 37,31,21
+[20:46:22] cqs-agdy GAME: Entrance - 1 loaded at at 93,137,20
+[20:46:23] cqs-agdy GAME: Hallway_4way loaded at at 80,137,20
+[20:46:23] cqs-agdy GAME: penitentiary loaded at at 67,137,20
+[20:46:24] cqs-agdy GAME: crematorium loaded at at 54,137,20
+[20:46:24] cqs-agdy GAME: penitentiary loaded at at 41,137,20
+[20:46:25] cqs-agdy GAME: crematorium loaded at at 28,137,20
+[20:46:25] cqs-agdy GAME: crematorium loaded at at 15,137,20
+[20:46:28] cqs-agdy GAME: Hallway_4way loaded at at 2,137,20
+[20:46:28] cqs-agdy GAME: garden loaded at at 2,128,20
+[20:46:29] cqs-agdy GAME: crematorium loaded at at 15,128,20
+[20:46:29] cqs-agdy GAME: Hallway_4way loaded at at 15,119,20
+[20:46:30] cqs-agdy GAME: autolathe_South-East loaded at at 2,119,20
+[20:46:30] cqs-agdy GAME: Escape_Pod_West-East loaded at at 2,110,20
+[20:46:31] cqs-agdy GAME: secure_storage_horizontal loaded at at 15,110,20
+[20:46:32] cqs-agdy GAME: garden loaded at at 28,110,20
+[20:46:33] cqs-agdy GAME: hallwayatmos_west-east loaded at at 41,110,20
+[20:46:33] cqs-agdy GAME: checkpoint_horizontal loaded at at 54,110,20
+[20:46:33] cqs-agdy GAME: Hallway_4way loaded at at 67,110,20
+[20:46:34] cqs-agdy GAME: crematorium loaded at at 80,110,20
+[20:46:34] cqs-agdy GAME: Hallway_4way loaded at at 80,101,20
+[20:46:35] cqs-agdy GAME: checkpoint_horizontal loaded at at 67,101,20
+[20:46:35] cqs-agdy GAME: secure_storage_horizontal loaded at at 54,101,20
+[20:46:35] cqs-agdy GAME: garden loaded at at 41,101,20
+[20:46:36] cqs-agdy GAME: showers loaded at at 28,101,20
+[20:46:37] cqs-agdy GAME: Hallway_4way loaded at at 15,101,20
+[20:46:38] cqs-agdy GAME: crematorium loaded at at 2,101,20
+[20:46:39] cqs-agdy ADMIN: RiotScopez/(/(RiotScopez)) RiotScopez/(/(RiotScopez)) has saved their preferences.
+[20:46:39] cqs-agdy ADMIN: RiotScopez/(/(RiotScopez)) RiotScopez/(/(RiotScopez)) has saved a character.
+[20:46:39] cqs-agdy GAME: Hallway_4way loaded at at 2,92,20
+[20:46:40] cqs-agdy GAME: checkpoint_horizontal loaded at at 15,92,20
+[20:46:41] cqs-agdy GAME: Hallway_4way loaded at at 28,92,20
+[20:46:43] cqs-agdy GAME: showers loaded at at 41,92,20
+[20:46:44] cqs-agdy GAME: showers loaded at at 54,92,20
+[20:46:45] cqs-agdy GAME: garden loaded at at 67,92,20
+[20:46:46] cqs-agdy GAME: Hallway_4way loaded at at 80,92,20
+[20:46:46] cqs-agdy GAME: Hallway_4way loaded at at 93,92,20
+[20:46:47] cqs-agdy GAME: garden loaded at at 93,83,20
+[20:46:47] cqs-agdy GAME: Escape_Pod_West-East loaded at at 80,83,20
+[20:46:48] cqs-agdy GAME: garden loaded at at 67,83,20
+[20:46:48] cqs-agdy GAME: checkpoint_vertical loaded at at 67,74,20
+[20:46:48] cqs-agdy GAME: garden loaded at at 67,65,20
+[20:46:49] cqs-agdy GAME: Escape_Pod_West-East loaded at at 80,65,20
+[20:46:49] cqs-agdy GAME: hallwayatmos_west-east loaded at at 93,65,20
+[20:46:50] cqs-agdy GAME: penitentiary loaded at at 106,65,20
+[20:46:50] cqs-agdy GAME: showers loaded at at 119,65,20
+[20:46:51] cqs-agdy GAME: Escape_Pod_West-East loaded at at 132,65,20
+[20:46:51] cqs-agdy GAME: crematorium loaded at at 145,65,20
+[20:46:51] cqs-agdy GAME: checkpoint_horizontal loaded at at 158,65,20
+[20:46:52] cqs-agdy GAME: checkpoint_horizontal loaded at at 171,65,20
+[20:46:52] cqs-agdy GAME: garden loaded at at 184,65,20
+[20:46:53] cqs-agdy GAME: Hallway_4way loaded at at 184,56,20
+[20:46:54] cqs-agdy GAME: Hallway_4way loaded at at 197,56,20
+[20:46:54] cqs-agdy GAME: Escape_Pod_West-East loaded at at 197,47,20
+[20:46:56] cqs-agdy GAME: secure_storage_horizontal loaded at at 184,47,20
+[20:46:56] cqs-agdy GAME: crematorium loaded at at 171,47,20
+[20:46:57] cqs-agdy GAME: crematorium loaded at at 158,47,20
+[20:46:57] cqs-agdy GAME: crematorium loaded at at 145,47,20
+[20:46:57] cqs-agdy GAME: Escape_Pod_West-East loaded at at 132,47,20
+[20:46:58] cqs-agdy GAME: garden loaded at at 119,47,20
+[20:46:58] cqs-agdy GAME: Hallway_4way loaded at at 119,38,20
+[20:46:58] cqs-agdy GAME: Hallway_4way loaded at at 106,38,20
+[20:46:59] cqs-agdy GAME: crematorium loaded at at 93,38,20
+[20:46:59] cqs-agdy GAME: hallwayatmos_west-east loaded at at 80,38,20
+[20:47:00] cqs-agdy GAME: garden loaded at at 67,38,20
+[20:47:00] cqs-agdy GAME: checkpoint_horizontal loaded at at 54,38,20
+[20:47:01] cqs-agdy GAME: hallwayatmos_west-east loaded at at 41,38,20
+[20:47:01] cqs-agdy GAME: Escape_Pod_West-East loaded at at 28,38,20
+[20:47:02] cqs-agdy GAME: Escape_Pod_West-East loaded at at 15,38,20
+[20:47:03] cqs-agdy GAME: Hallway_4way loaded at at 15,29,20
+[20:47:04] cqs-agdy GAME: crematorium loaded at at 2,29,20
+[20:47:04] cqs-agdy GAME: Hallway_4way loaded at at 2,20,20
+[20:47:05] cqs-agdy GAME: secure_storage_horizontal loaded at at 15,20,20
+[20:47:05] cqs-agdy GAME: crematorium loaded at at 28,20,20
+[20:47:06] cqs-agdy GAME: garden loaded at at 41,20,20
+[20:47:06] cqs-agdy GAME: Hallway_4way loaded at at 54,20,20
+[20:47:07] cqs-agdy GAME: checkpoint_horizontal loaded at at 67,20,20
+[20:47:07] cqs-agdy GAME: Hallway_4way loaded at at 80,20,20
+[20:47:07] cqs-agdy GAME: Hallway_4way loaded at at 93,20,20
+[20:47:08] cqs-agdy GAME: hallwayatmos_west-east loaded at at 106,20,20
+[20:47:08] cqs-agdy GAME: garden loaded at at 119,20,20
+[20:47:10] cqs-agdy GAME: Escape_Pod_West-East loaded at at 119,11,20
+[20:47:10] cqs-agdy GAME: crematorium loaded at at 106,11,20
+[20:47:10] cqs-agdy GAME: garden loaded at at 106,2,20
+[20:47:11] cqs-agdy GAME: Exit - 1 loaded at at 93,2,20
+[20:47:19] cqs-agdy ADMIN: RiotScopez/(/(RiotScopez)) RiotScopez/(/(RiotScopez)) has saved their preferences.
+[20:47:19] cqs-agdy ADMIN: RiotScopez/(/(RiotScopez)) RiotScopez/(/(RiotScopez)) has saved a character.
+[20:47:19] cqs-agdy ADMIN: RiotScopez/(/(RiotScopez)) RiotScopez/(/(RiotScopez)) has saved their preferences.
+[20:47:19] cqs-agdy ADMIN: RiotScopez/(/(RiotScopez)) RiotScopez/(/(RiotScopez)) has saved a character.
+[20:47:34] cqs-agdy GAME: office loaded at at 54,83,20
+[20:47:37] cqs-agdy GAME: anomaly loaded at at 145,56,20
+[20:47:38] cqs-agdy ADMIN: RiotScopez has started the game.
+[20:47:51] cqs-agdy GAME: armory_secure loaded at at 106,83,20
+[20:47:53] cqs-agdy GAME: armory_secure loaded at at 132,11,20
+[20:47:55] cqs-agdy SAY: *no key*/(/(rat (591))) squeals! 
+[20:47:55] cqs-agdy SAY: Durable Kraftwerk Roach/ : 10101010011100010101.
+[20:47:55] cqs-agdy SAY: Kraftwerk Roach/ : 10101010011100010101.
+[20:47:56] cqs-agdy ACCESS: Logout: *no key*/(/(RiotScopez))
+[20:47:56] cqs-agdy ACCESS: Login: RiotScopez/(/(Karly Graham)) from 146.115.147.185-1871707424 || BYOND v514
+[20:47:56] cqs-agdy DEBUG: Could not find style "ErisStyle" for /mob/living/carbon/human.
+[20:47:58] cqs-agdy DEBUG: Creating records for Karly Graham
+[20:48:00] cqs-agdy GAME: shooting_range loaded at at 28,83,20
+[20:48:03] cqs-agdy GAME: surgery loaded at at 28,128,20
+[20:48:05] cqs-agdy GAME: armory loaded at at 28,119,20
+[20:48:07] cqs-agdy GAME: cargo_vertical loaded at at 119,29,20
+[20:48:08] cqs-agdy GAME: armory loaded at at 93,74,20
+[20:48:10] cqs-agdy GAME: Explosion with size (-1, 0, 1) in area Swamp Caves 
+[20:48:13] cqs-agdy GAME: surgery loaded at at 67,119,20
+[20:48:20] cqs-agdy GAME: Explosion with size (-1, 0, 1) in area Underground Floor 1 South Maintenance 
+[20:48:22] cqs-agdy GAME: mechbay loaded at at 54,65,20
+[20:48:23] cqs-agdy SAY: *no key*/(/(rat (910))) squeals! 
+[20:48:24] cqs-agdy GAME: surgery loaded at at 15,47,20
+[20:48:27] cqs-agdy GAME: anomaly loaded at at 80,74,20
+[20:48:27] cqs-agdy SAY: *no key*/(/(rat (551))) squeals! 
+[20:48:28] cqs-agdy SAY: *no key*/(/(rat (915))) squeals! 
+[20:48:31] cqs-agdy SAY: *no key*/(/(rat (548))) squeals! 
+[20:48:32] cqs-agdy GAME: surgery loaded at at 93,11,20
+[20:48:37] cqs-agdy GAME: anomaly loaded at at 67,56,20
+[20:48:38] cqs-agdy GAME: refinery loaded at at 171,56,20
+[20:48:40] cqs-agdy GAME: armory loaded at at 158,38,20
+[20:48:46] cqs-agdy GAME: refinery loaded at at 2,38,20
+[20:49:01] cqs-agdy GAME: cargo_horizontal loaded at at 93,101,20
+[20:49:04] cqs-agdy GAME: shooting_range loaded at at 132,38,20
+[20:49:06] cqs-agdy GAME: surgery loaded at at 145,38,20
+[20:49:08] cqs-agdy GAME: armory_secure loaded at at 197,65,20
+[20:49:08] cqs-agdy SAY: Kraftwerk Roach/ : 10101010011100010101.
+[20:49:09] cqs-agdy GAME: blocker loaded at at 106,137,20
+[20:49:09] cqs-agdy GAME: blocker loaded at at 119,137,20
+[20:49:09] cqs-agdy GAME: blocker loaded at at 132,137,20
+[20:49:09] cqs-agdy GAME: blocker loaded at at 145,137,20
+[20:49:09] cqs-agdy SAY: *no key*/(/(rat (749))) squeals! 
+[20:49:10] cqs-agdy GAME: blocker loaded at at 158,137,20
+[20:49:10] cqs-agdy SAY: Kraftwerk Roach/ : 10101010011100010101.
+[20:49:10] cqs-agdy GAME: blocker loaded at at 171,137,20
+[20:49:10] cqs-agdy GAME: blocker loaded at at 184,137,20
+[20:49:10] cqs-agdy GAME: blocker loaded at at 197,137,20
+[20:49:11] cqs-agdy GAME: blocker loaded at at 41,128,20
+[20:49:11] cqs-agdy GAME: blocker loaded at at 54,128,20
+[20:49:12] cqs-agdy GAME: blocker loaded at at 67,128,20
+[20:49:12] cqs-agdy GAME: blocker loaded at at 80,128,20
+[20:49:13] cqs-agdy GAME: blocker loaded at at 93,128,20
+[20:49:13] cqs-agdy SAY: *no key*/(/(rat (404))) squeals! 
+[20:49:13] cqs-agdy SAY: *no key*/(/(rat (654))) squeals! 
+[20:49:13] cqs-agdy GAME: blocker loaded at at 106,128,20
+[20:49:13] cqs-agdy GAME: blocker loaded at at 119,128,20
+[20:49:13] cqs-agdy GAME: blocker loaded at at 132,128,20
+[20:49:14] cqs-agdy GAME: blocker loaded at at 145,128,20
+[20:49:14] cqs-agdy GAME: blocker loaded at at 158,128,20
+[20:49:14] cqs-agdy GAME: blocker loaded at at 171,128,20
+[20:49:15] cqs-agdy GAME: blocker loaded at at 184,128,20
+[20:49:15] cqs-agdy GAME: blocker loaded at at 197,128,20
+[20:49:15] cqs-agdy SAY: *no key*/(/(rat (373))) squeals! 
+[20:49:15] cqs-agdy GAME: blocker loaded at at 41,119,20
+[20:49:15] cqs-agdy SAY: Kraftwerk Roach/ : 10101010011100010101.
+[20:49:15] cqs-agdy GAME: blocker loaded at at 54,119,20
+[20:49:16] cqs-agdy SAY: *no key*/(/(rat (446))) squeals! 
+[20:49:16] cqs-agdy GAME: blocker loaded at at 80,119,20
+[20:49:16] cqs-agdy GAME: blocker loaded at at 93,119,20
+[20:49:16] cqs-agdy SAY: *no key*/(/(rat (291))) squeals! 
+[20:49:16] cqs-agdy SAY: *no key*/(/(rat (660))) squeals! 
+[20:49:16] cqs-agdy GAME: blocker loaded at at 106,119,20
+[20:49:16] cqs-agdy GAME: blocker loaded at at 119,119,20
+[20:49:16] cqs-agdy GAME: blocker loaded at at 132,119,20
+[20:49:17] cqs-agdy SAY: *no key*/(/(rat (325))) squeals! 
+[20:49:17] cqs-agdy GAME: blocker loaded at at 145,119,20
+[20:49:17] cqs-agdy GAME: blocker loaded at at 158,119,20
+[20:49:17] cqs-agdy SAY: *no key*/(/(rat (91))) squeals! 
+[20:49:17] cqs-agdy GAME: blocker loaded at at 171,119,20
+[20:49:18] cqs-agdy SAY: *no key*/(/(rat (877))) squeals! 
+[20:49:18] cqs-agdy GAME: blocker loaded at at 184,119,20
+[20:49:18] cqs-agdy SAY: *no key*/(/(rat (637))) squeals! 
+[20:49:19] cqs-agdy GAME: blocker loaded at at 197,119,20
+[20:49:19] cqs-agdy GAME: blocker loaded at at 93,110,20
+[20:49:19] cqs-agdy GAME: blocker loaded at at 106,110,20
+[20:49:19] cqs-agdy GAME: blocker loaded at at 119,110,20
+[20:49:20] cqs-agdy SAY: *no key*/(/(rat (213))) squeals! 
+[20:49:20] cqs-agdy GAME: blocker loaded at at 132,110,20
+[20:49:20] cqs-agdy GAME: blocker loaded at at 145,110,20
+[20:49:20] cqs-agdy GAME: blocker loaded at at 158,110,20
+[20:49:20] cqs-agdy GAME: blocker loaded at at 171,110,20
+[20:49:21] cqs-agdy GAME: blocker loaded at at 184,110,20
+[20:49:21] cqs-agdy GAME: blocker loaded at at 197,110,20
+[20:49:22] cqs-agdy GAME: blocker loaded at at 106,101,20
+[20:49:22] cqs-agdy GAME: blocker loaded at at 119,101,20
+[20:49:22] cqs-agdy SAY: Biosilicified Kraftwerk Roach/ : 10101010011100010101.
+[20:49:22] cqs-agdy SAY: Durable Kraftwerk Roach/ : 10101010011100010101.
+[20:49:22] cqs-agdy GAME: blocker loaded at at 132,101,20
+[20:49:23] cqs-agdy GAME: blocker loaded at at 145,101,20
+[20:49:23] cqs-agdy GAME: blocker loaded at at 158,101,20
+[20:49:23] cqs-agdy GAME: blocker loaded at at 171,101,20
+[20:49:24] cqs-agdy GAME: blocker loaded at at 184,101,20
+[20:49:24] cqs-agdy GAME: blocker loaded at at 197,101,20
+[20:49:24] cqs-agdy SAY: Quick Kraftwerk Roach/ : 10101010011100010101.
+[20:49:24] cqs-agdy GAME: blocker loaded at at 106,92,20
+[20:49:24] cqs-agdy GAME: blocker loaded at at 119,92,20
+[20:49:25] cqs-agdy GAME: blocker loaded at at 132,92,20
+[20:49:25] cqs-agdy GAME: blocker loaded at at 145,92,20
+[20:49:25] cqs-agdy GAME: blocker loaded at at 158,92,20
+[20:49:26] cqs-agdy GAME: blocker loaded at at 171,92,20
+[20:49:26] cqs-agdy GAME: blocker loaded at at 184,92,20
+[20:49:26] cqs-agdy GAME: blocker loaded at at 197,92,20
+[20:49:27] cqs-agdy GAME: blocker loaded at at 2,83,20
+[20:49:27] cqs-agdy GAME: blocker loaded at at 15,83,20
+[20:49:27] cqs-agdy GAME: blocker loaded at at 41,83,20
+[20:49:28] cqs-agdy GAME: blocker loaded at at 119,83,20
+[20:49:28] cqs-agdy GAME: blocker loaded at at 132,83,20
+[20:49:28] cqs-agdy GAME: blocker loaded at at 145,83,20
+[20:49:29] cqs-agdy GAME: blocker loaded at at 158,83,20
+[20:49:29] cqs-agdy GAME: blocker loaded at at 171,83,20
+[20:49:29] cqs-agdy GAME: blocker loaded at at 184,83,20
+[20:49:29] cqs-agdy GAME: blocker loaded at at 197,83,20
+[20:49:30] cqs-agdy GAME: blocker loaded at at 2,74,20
+[20:49:30] cqs-agdy GAME: blocker loaded at at 15,74,20
+[20:49:30] cqs-agdy GAME: blocker loaded at at 28,74,20
+[20:49:30] cqs-agdy GAME: blocker loaded at at 41,74,20
+[20:49:31] cqs-agdy GAME: blocker loaded at at 54,74,20
+[20:49:31] cqs-agdy GAME: blocker loaded at at 106,74,20
+[20:49:32] cqs-agdy GAME: blocker loaded at at 119,74,20
+[20:49:32] cqs-agdy SAY: *no key*/(/(rat (582))) squeals! 
+[20:49:32] cqs-agdy GAME: blocker loaded at at 132,74,20
+[20:49:32] cqs-agdy GAME: blocker loaded at at 145,74,20
+[20:49:32] cqs-agdy GAME: blocker loaded at at 158,74,20
+[20:49:33] cqs-agdy GAME: blocker loaded at at 171,74,20
+[20:49:33] cqs-agdy GAME: blocker loaded at at 184,74,20
+[20:49:34] cqs-agdy GAME: blocker loaded at at 197,74,20
+[20:49:34] cqs-agdy SAY: *no key*/(/(rat (882))) squeals! 
+[20:49:34] cqs-agdy GAME: blocker loaded at at 2,65,20
+[20:49:34] cqs-agdy SAY: *no key*/(/(rat (277))) squeals! 
+[20:49:34] cqs-agdy GAME: blocker loaded at at 15,65,20
+[20:49:34] cqs-agdy GAME: blocker loaded at at 28,65,20
+[20:49:35] cqs-agdy GAME: blocker loaded at at 41,65,20
+[20:49:35] cqs-agdy GAME: blocker loaded at at 2,56,20
+[20:49:36] cqs-agdy GAME: blocker loaded at at 15,56,20
+[20:49:36] cqs-agdy GAME: blocker loaded at at 28,56,20
+[20:49:36] cqs-agdy GAME: blocker loaded at at 41,56,20
+[20:49:36] cqs-agdy GAME: blocker loaded at at 54,56,20
+[20:49:37] cqs-agdy GAME: blocker loaded at at 80,56,20
+[20:49:37] cqs-agdy GAME: blocker loaded at at 93,56,20
+[20:49:37] cqs-agdy GAME: blocker loaded at at 106,56,20
+[20:49:38] cqs-agdy GAME: blocker loaded at at 119,56,20
+[20:49:38] cqs-agdy GAME: blocker loaded at at 132,56,20
+[20:49:39] cqs-agdy GAME: blocker loaded at at 158,56,20
+[20:49:39] cqs-agdy GAME: blocker loaded at at 2,47,20
+[20:49:39] cqs-agdy GAME: blocker loaded at at 28,47,20
+[20:49:40] cqs-agdy GAME: blocker loaded at at 41,47,20
+[20:49:40] cqs-agdy GAME: blocker loaded at at 54,47,20
+[20:49:41] cqs-agdy GAME: blocker loaded at at 67,47,20
+[20:49:41] cqs-agdy GAME: blocker loaded at at 80,47,20
+[20:49:41] cqs-agdy GAME: blocker loaded at at 93,47,20
+[20:49:42] cqs-agdy GAME: blocker loaded at at 106,47,20
+[20:49:42] cqs-agdy GAME: blocker loaded at at 171,38,20
+[20:49:42] cqs-agdy GAME: blocker loaded at at 184,38,20
+[20:49:43] cqs-agdy GAME: blocker loaded at at 197,38,20
+[20:49:43] cqs-agdy GAME: blocker loaded at at 28,29,20
+[20:49:44] cqs-agdy GAME: blocker loaded at at 41,29,20
+[20:49:44] cqs-agdy GAME: blocker loaded at at 54,29,20
+[20:49:45] cqs-agdy GAME: blocker loaded at at 67,29,20
+[20:49:45] cqs-agdy GAME: blocker loaded at at 80,29,20
+[20:49:46] cqs-agdy GAME: blocker loaded at at 93,29,20
+[20:49:46] cqs-agdy GAME: blocker loaded at at 106,29,20
+[20:49:46] cqs-agdy GAME: blocker loaded at at 132,29,20
+[20:49:47] cqs-agdy GAME: blocker loaded at at 145,29,20
+[20:49:47] cqs-agdy GAME: blocker loaded at at 158,29,20
+[20:49:47] cqs-agdy GAME: blocker loaded at at 171,29,20
+[20:49:47] cqs-agdy GAME: blocker loaded at at 184,29,20
+[20:49:47] cqs-agdy GAME: blocker loaded at at 197,29,20
+[20:49:48] cqs-agdy GAME: blocker loaded at at 132,20,20
+[20:49:48] cqs-agdy GAME: blocker loaded at at 145,20,20
+[20:49:48] cqs-agdy GAME: blocker loaded at at 158,20,20
+[20:49:48] cqs-agdy GAME: blocker loaded at at 171,20,20
+[20:49:49] cqs-agdy GAME: blocker loaded at at 184,20,20
+[20:49:49] cqs-agdy GAME: blocker loaded at at 197,20,20
+[20:49:49] cqs-agdy GAME: blocker loaded at at 2,11,20
+[20:49:49] cqs-agdy GAME: blocker loaded at at 15,11,20
+[20:49:50] cqs-agdy GAME: blocker loaded at at 28,11,20
+[20:49:50] cqs-agdy GAME: blocker loaded at at 41,11,20
+[20:49:51] cqs-agdy GAME: blocker loaded at at 54,11,20
+[20:49:51] cqs-agdy GAME: blocker loaded at at 67,11,20
+[20:49:52] cqs-agdy GAME: blocker loaded at at 80,11,20
+[20:49:52] cqs-agdy GAME: blocker loaded at at 145,11,20
+[20:49:52] cqs-agdy GAME: blocker loaded at at 158,11,20
+[20:49:52] cqs-agdy GAME: blocker loaded at at 171,11,20
+[20:49:53] cqs-agdy GAME: blocker loaded at at 184,11,20
+[20:49:54] cqs-agdy GAME: blocker loaded at at 197,11,20
+[20:49:54] cqs-agdy GAME: blocker loaded at at 2,2,20
+[20:49:54] cqs-agdy GAME: blocker loaded at at 15,2,20
+[20:49:55] cqs-agdy GAME: blocker loaded at at 28,2,20
+[20:49:55] cqs-agdy GAME: blocker loaded at at 41,2,20
+[20:49:55] cqs-agdy GAME: blocker loaded at at 54,2,20
+[20:49:55] cqs-agdy GAME: blocker loaded at at 67,2,20
+[20:49:56] cqs-agdy GAME: blocker loaded at at 80,2,20
+[20:49:56] cqs-agdy GAME: blocker loaded at at 119,2,20
+[20:49:56] cqs-agdy GAME: blocker loaded at at 132,2,20
+[20:49:56] cqs-agdy GAME: blocker loaded at at 145,2,20
+[20:49:57] cqs-agdy GAME: blocker loaded at at 158,2,20
+[20:49:57] cqs-agdy GAME: blocker loaded at at 171,2,20
+[20:49:57] cqs-agdy GAME: blocker loaded at at 184,2,20
+[20:49:57] cqs-agdy GAME: blocker loaded at at 197,2,20
+[20:50:05] cqs-agdy SAY: Durable Kraftwerk Roach/ : 10101010011100010101.
+[20:50:46] cqs-agdy SAY: Kraftwerk Roach/ : 10101010011100010101.
+[20:50:47] cqs-agdy SAY: Kraftwerk Roach/ : 10101010011100010101.
+[20:50:48] cqs-agdy SAY: Durable Kraftwerk Roach/ : 10101010011100010101.
+[20:50:59] cqs-agdy GAME: Explosion with size (-1, 0, 1) in area Swamp Caves 
+[20:51:03] cqs-agdy SAY: *no key*/(/(rat (244))) squeals! 
+[20:51:09] cqs-agdy SAY: Durable Kraftwerk Roach/ : 10101010011100010101.
+[20:51:09] cqs-agdy SAY: Kraftwerk Roach/ : 10101010011100010101.
+[20:51:11] cqs-agdy SAY: Lambertian Kraftwerk Roach/ : 10101010011100010101.
+[20:51:12] cqs-agdy SAY: Durable Kraftwerk Roach/ : 10101010011100010101.
+[20:51:18] cqs-agdy DEBUG: Runtime in unsorted.dm,1381: addtimer called with a callback assigned to a qdeleted object. In the future such timers will not be supported and may refuse to run or run with a 0 wait <A HREF='?_src_=holder;viewruntime=[0x2104dcdc]'>[view]</A>
+[20:51:29] cqs-agdy SAY: Durable Kraftwerk Roach/ : 10101010011100010101.
+[20:51:31] cqs-agdy GAME: Explosion with size (-1, 0, 1) in area Vault Bunker 
+[20:51:32] cqs-agdy SAY: Durable Kraftwerk Roach/ : 10101010011100010101.
+[20:51:33] cqs-agdy SAY: *no key*/(/(rat (170))) squeals! 
+[20:51:33] cqs-agdy SAY: *no key*/(/(rat (243))) squeals! 
+[20:51:35] cqs-agdy GAME: cryo loaded at at 86,47,21
+[20:51:36] cqs-agdy GAME: catwalks loaded at at 70,23,21
+[20:51:36] cqs-agdy GAME: mechbay loaded at at 121,60,21
+[20:51:36] cqs-agdy GAME: catwalks loaded at at 138,27,21
+[20:51:36] cqs-agdy GAME: office loaded at at 146,85,21
+[20:51:37] cqs-agdy GAME: catwalks loaded at at 150,25,21
+[20:51:37] cqs-agdy GAME: mechbay loaded at at 114,136,21
+[20:51:38] cqs-agdy GAME: office loaded at at 65,117,21
+[20:51:38] cqs-agdy GAME: freezer loaded at at 119,37,21
+[20:51:39] cqs-agdy GAME: library loaded at at 81,142,21
+[20:51:39] cqs-agdy GAME: cryo loaded at at 97,125,21
+[20:51:40] cqs-agdy GAME: morgue loaded at at 67,41,21
+[20:51:40] cqs-agdy GAME: toilet loaded at at 11,146,21
+[20:51:41] cqs-agdy GAME: mechbay loaded at at 59,129,21
+[20:51:42] cqs-agdy GAME: hydro loaded at at 106,59,21
+[20:51:42] cqs-agdy GAME: Trash loaded at at 149,60,21
+[20:51:43] cqs-agdy GAME: anomalysci loaded at at 51,146,21
+[20:51:43] cqs-agdy GAME: mechbay loaded at at 121,80,21
+[20:51:44] cqs-agdy GAME: Trash loaded at at 141,127,21
+[20:51:44] cqs-agdy GAME: sm_core loaded at at 14,24,21
+[20:51:45] cqs-agdy GAME: Trash loaded at at 15,95,21
+[20:51:45] cqs-agdy GAME: Trash loaded at at 43,125,21
+[20:51:46] cqs-agdy GAME: barricades loaded at at 14,115,21
+[20:51:46] cqs-agdy GAME: mechbay loaded at at 84,32,21
+[20:51:47] cqs-agdy GAME: freezer loaded at at 150,43,21
+[20:51:47] cqs-agdy GAME: morgue loaded at at 12,73,21
+[20:51:48] cqs-agdy GAME: toilet loaded at at 27,132,21
+[20:51:49] cqs-agdy GAME: a lost roach loaded at at 90,77,21
+[20:51:50] cqs-agdy GAME: freezer loaded at at 126,25,21
+[20:51:51] cqs-agdy GAME: morgue loaded at at 98,144,21
+[20:51:54] cqs-agdy SAY: Durable Kraftwerk Roach/ : 10101010011100010101.
+[20:52:02] cqs-agdy SAY: Quick Kraftwerk Roach/ : 10101010011100010101.
+[20:52:16] cqs-agdy SAY: *no key*/(/(rat (35))) squeals! 
+[20:52:19] cqs-agdy SAY: Durable Kraftwerk Roach/ : 10101010011100010101.
+[20:52:19] cqs-agdy SAY: Biosilicified Kraftwerk Roach/ : 10101010011100010101.
+[20:52:19] cqs-agdy SAY: Quick Kraftwerk Roach/ : 10101010011100010101.
+[20:52:21] cqs-agdy SAY: Durable Kraftwerk Roach/ : 10101010011100010101.
+[20:52:31] cqs-agdy SAY: Kraftwerk Roach/ : 10101010011100010101.
+[20:52:31] cqs-agdy SAY: Quick Kraftwerk Roach/ : 10101010011100010101.
+[20:52:33] cqs-agdy SAY: Durable Kraftwerk Roach/ : 10101010011100010101.
+[20:52:44] cqs-agdy SAY: Durable Kraftwerk Roach/ : 10101010011100010101.
+[20:52:44] cqs-agdy SAY: Kraftwerk Roach/ : 10101010011100010101.
+[20:52:44] cqs-agdy SAY: Biosilicified Kraftwerk Roach/ : 10101010011100010101.
+[20:52:52] cqs-agdy SAY: *no key*/(/(rat (172))) squeals! 
+[20:52:57] cqs-agdy SAY: Quick Kraftwerk Roach/ : 10101010011100010101.
+[20:52:59] cqs-agdy SAY: Durable Kraftwerk Roach/ : 10101010011100010101.
+[20:53:02] cqs-agdy SAY: Kraftwerk Roach/ : 10101010011100010101.
+[20:53:10] cqs-agdy SAY: Lambertian Kraftwerk Roach/ : 10101010011100010101.
+[20:53:11] cqs-agdy SAY: Biosilicified Kraftwerk Roach/ : 10101010011100010101.
+[20:53:15] cqs-agdy SAY: Durable Kraftwerk Roach/ : 10101010011100010101.
+[20:53:15] cqs-agdy SAY: Biosilicified Kraftwerk Roach/ : 10101010011100010101.
+[20:53:29] cqs-agdy GAME: Explosion with size (-1, 0, 1) in area Vault Bunker 
+[20:53:30] cqs-agdy SAY: grey baby slime (878)/ : Brother...
+[20:53:30] cqs-agdy SAY: *no key*/(/(rat (441))) squeals! 
+[20:53:42] cqs-agdy GAME: Explosion with size (-1, 0, 1) in area Prepper Base 
+[20:53:53] cqs-agdy GAME: Explosion with size (-1, 1, 2) in area Deep Maintenance 
+[20:54:00] cqs-agdy SAY: Durable Kraftwerk Roach/ : 10101010011100010101.
+[20:54:00] cqs-agdy SAY: Lambertian Kraftwerk Roach/ : 10101010011100010101.
+[20:54:01] cqs-agdy SAY: *no key*/(/(rat (525))) squeals! 
+[20:54:12] cqs-agdy SAY: Durable Kraftwerk Roach/ : 10101010011100010101.
+[20:54:21] cqs-agdy SAY: Lambertian Kraftwerk Roach/ : 10101010011100010101.
+[20:54:22] cqs-agdy SAY: *no key*/(/(rat (336))) squeals! 
+[20:54:28] cqs-agdy GAME: Explosion with size (-1, 1, 2) in area Deep Maintenance 
+[20:54:31] cqs-agdy SAY: Lambertian Kraftwerk Roach/ : 10101010011100010101.
+[20:54:31] cqs-agdy SAY: Durable Kraftwerk Roach/ : 10101010011100010101.
+[20:54:50] cqs-agdy SAY: Durable Kraftwerk Roach/ : 10101010011100010101.
+[20:54:59] cqs-agdy GAME: Explosion with size (-1, 0, 1) in area Deep Maintenance 
+[20:55:01] cqs-agdy SAY: Lambertian Kraftwerk Roach/ : 10101010011100010101.
+[20:55:05] cqs-agdy SAY: Lambertian Kraftwerk Roach/ : 10101010011100010101.
+[20:55:15] cqs-agdy SAY: Durable Kraftwerk Roach/ : 10101010011100010101.
+[20:55:41] cqs-agdy SAY: Biosilicified Kraftwerk Roach/ : 10101010011100010101.
+[20:55:51] cqs-agdy DEBUG: /obj/structure/multiz/stairs/active at 193, 23, 8 have non-existant target
+[20:55:57] cqs-agdy DEBUG: /obj/structure/multiz/stairs/active at 193, 23, 8 have non-existant target
+[20:55:58] cqs-agdy SAY: Durable Kraftwerk Roach/ : 10101010011100010101.
+[20:56:07] cqs-agdy SAY: Biosilicified Kraftwerk Roach/ : 10101010011100010101.
+[20:56:08] cqs-agdy DEBUG: Moved - the combat drone was deleted while still being listened to by /datum/effect/effect/system/trail/ion.
+[20:56:24] cqs-agdy DEBUG: Moved - the combat drone was deleted while still being listened to by /datum/effect/effect/system/trail/ion.
+[20:56:42] cqs-agdy GAME: Explosion with size (-1, 1, 2) in area Swamp Caves 
+[20:56:53] cqs-agdy GAME: Explosion with size (0, 1, 3) in area Greyson Field Offices 
+[20:56:58] cqs-agdy GAME: Explosion with size (-1, 1, 2) in area Deep Maintenance 
+[20:57:16] cqs-agdy GAME: Explosion with size (0, 1, 3) in area Greyson Field Offices 
+[20:58:04] cqs-agdy ADMIN: RiotScopez/(/(Karly Graham)) spawned /obj/item/ammo_casing/pistol_35/rubber/pepperball at (63,176,4) (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=63;Y=176;Z=4'>JMP</a>)
+[20:58:31] cqs-agdy DEBUG: Runtime in unsorted.dm,1381: addtimer called with a callback assigned to a qdeleted object. In the future such timers will not be supported and may refuse to run or run with a 0 wait <A HREF='?_src_=holder;viewruntime=[0x2104e550]'>[view]</A>
+[21:01:08] cqs-agdy DEBUG: passed list to getStat(), statName without a list: /list
+[21:01:11] cqs-agdy DEBUG: passed list to getStat(), statName without a list: /list
+[21:01:14] cqs-agdy DEBUG: passed list to getStat(), statName without a list: /list
+[21:01:16] cqs-agdy DEBUG: passed list to getStat(), statName without a list: /list
+[21:01:20] cqs-agdy DEBUG: passed list to getStat(), statName without a list: /list
+[21:02:02] cqs-agdy ADMIN: Officer Graham(riotscopez) has forced open an emergency shutter.
+[21:03:03] cqs-agdy GAME: Error: /datum/radio_frequency([0x2105f2af]) took longer than 0.5 seconds to delete (took 0.5 seconds to delete)
+[21:03:44] cqs-agdy ATTACK: RiotScopez/(/(Karly Graham)) attacked *no key*/(/(Mr Snuggles)) with Seinemetall Defense "Ironhammer" Breaching Hammer (Wielded) (INTENT: HELP) (DAMTYE: BRUTE)
+[21:03:51] cqs-agdy SAY: grey baby slime (166)/ : Blorble...
+[21:04:34] cqs-agdy ACCESS: Logout: RiotScopez/(/(Karly Graham))
+[21:04:34] cqs-agdy ACCESS: Logout: RiotScopez[DC]/(/(Karly Graham))

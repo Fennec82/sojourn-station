@@ -1,0 +1,1094 @@
+
+
+Starting up. (ID: cqc-baPC) 02:41.50
+---------------------
+[02:41:50] cqc-baPC MISC: Saved storyteller is 'healer'
+[02:41:50] cqc-baPC ADMIN: Loading jobban_rank
+[02:41:50] cqc-baPC ADMIN: jobban_keylist was empty
+[02:41:50] cqc-baPC ADMIN: Loading Banlist
+[02:43:40] cqc-baPC ADMIN: Woodrow Jewell try find_inv_position a 14, but not have that slot!
+[02:43:40] cqc-baPC ADMIN: Woodrow Jewell try find_inv_position a 11, but not have that slot!
+[02:43:40] cqc-baPC ADMIN: Woodrow Jewell try find_inv_position a 13, but not have that slot!
+[02:43:40] cqc-baPC ADMIN: Woodrow Jewell try find_inv_position a 12, but not have that slot!
+[02:43:40] cqc-baPC EMOTE: Alex Kemerer/ : screams!
+[02:43:40] cqc-baPC EMOTE: Alex Kemerer/ : <B>Alex Kemerer</B> screams!
+[02:43:40] cqc-baPC EMOTE: Alex Kemerer/ : screams!
+[02:43:40] cqc-baPC EMOTE: Alex Kemerer/ : <B>Alex Kemerer</B> screams!
+[02:43:40] cqc-baPC ADMIN: Alex Kemerer try find_inv_position a 14, but not have that slot!
+[02:43:40] cqc-baPC ADMIN: Alex Kemerer try find_inv_position a 11, but not have that slot!
+[02:43:40] cqc-baPC ADMIN: Alex Kemerer try find_inv_position a 13, but not have that slot!
+[02:43:40] cqc-baPC ADMIN: Alex Kemerer try find_inv_position a 12, but not have that slot!
+[02:43:41] cqc-baPC ADMIN: Carlos Sauter try find_inv_position a 14, but not have that slot!
+[02:43:41] cqc-baPC ADMIN: Carlos Sauter try find_inv_position a 11, but not have that slot!
+[02:43:41] cqc-baPC ADMIN: Carlos Sauter try find_inv_position a 13, but not have that slot!
+[02:43:41] cqc-baPC ADMIN: Carlos Sauter try find_inv_position a 12, but not have that slot!
+[02:43:41] cqc-baPC ADMIN: Uriel Bennett try find_inv_position a 14, but not have that slot!
+[02:43:41] cqc-baPC ADMIN: Uriel Bennett try find_inv_position a 11, but not have that slot!
+[02:43:41] cqc-baPC ADMIN: Uriel Bennett try find_inv_position a 13, but not have that slot!
+[02:43:41] cqc-baPC ADMIN: Uriel Bennett try find_inv_position a 12, but not have that slot!
+[02:43:41] cqc-baPC ADMIN: Keziah Elderson try find_inv_position a 14, but not have that slot!
+[02:43:41] cqc-baPC ADMIN: Keziah Elderson try find_inv_position a 11, but not have that slot!
+[02:43:41] cqc-baPC ADMIN: Keziah Elderson try find_inv_position a 13, but not have that slot!
+[02:43:41] cqc-baPC ADMIN: Keziah Elderson try find_inv_position a 12, but not have that slot!
+[02:43:41] cqc-baPC ADMIN: Jackson Russell try find_inv_position a 14, but not have that slot!
+[02:43:41] cqc-baPC ADMIN: Jackson Russell try find_inv_position a 11, but not have that slot!
+[02:43:41] cqc-baPC ADMIN: Jackson Russell try find_inv_position a 13, but not have that slot!
+[02:43:41] cqc-baPC ADMIN: Jackson Russell try find_inv_position a 12, but not have that slot!
+[02:44:26] cqc-baPC SAY: *no key*/(/(rat (663))) squeals! 
+[02:46:02] cqc-baPC GAME: neutral 3 loaded at at 81,11,19
+[02:46:02] cqc-baPC GAME: neutral 2 loaded at at 26,11,19
+[02:46:02] cqc-baPC GAME: neutral 2 loaded at at 81,51,19
+[02:46:03] cqc-baPC GAME: neutral 2 loaded at at 41,56,19
+[02:46:03] cqc-baPC GAME: neutral 5 loaded at at 56,36,19
+[02:46:03] cqc-baPC GAME: neutral 8 loaded at at 21,11,19
+[02:46:03] cqc-baPC GAME: neutral 8 loaded at at 11,76,19
+[02:46:03] cqc-baPC GAME: neutral 11 loaded at at 71,36,19
+[02:46:03] cqc-baPC GAME: neutral 5 loaded at at 16,66,19
+[02:46:03] cqc-baPC GAME: neutral 8 loaded at at 61,26,19
+[02:46:03] cqc-baPC GAME: neutral 10 loaded at at 31,41,19
+[02:46:03] cqc-baPC GAME: neutral 1 loaded at at 71,26,19
+[02:46:03] cqc-baPC GAME: neutral 10 loaded at at 46,106,19
+[02:46:03] cqc-baPC GAME: neutral 1 loaded at at 101,101,19
+[02:46:03] cqc-baPC GAME: neutral 4 loaded at at 66,31,19
+[02:46:03] cqc-baPC GAME: neutral 3 loaded at at 71,31,19
+[02:46:03] cqc-baPC GAME: neutral 5 loaded at at 96,66,19
+[02:46:03] cqc-baPC GAME: neutral 9 loaded at at 66,66,19
+[02:46:03] cqc-baPC GAME: neutral 10 loaded at at 26,46,19
+[02:46:03] cqc-baPC GAME: neutral 2 loaded at at 106,76,19
+[02:46:03] cqc-baPC GAME: neutral 5 loaded at at 36,101,19
+[02:46:03] cqc-baPC GAME: neutral 7 loaded at at 61,41,19
+[02:46:03] cqc-baPC GAME: neutral 1 loaded at at 81,76,19
+[02:46:03] cqc-baPC GAME: neutral 11 loaded at at 96,81,19
+[02:46:03] cqc-baPC GAME: neutral 10 loaded at at 36,76,19
+[02:46:03] cqc-baPC GAME: neutral 11 loaded at at 101,86,19
+[02:46:03] cqc-baPC GAME: neutral 1 loaded at at 11,16,19
+[02:46:04] cqc-baPC GAME: neutral 1 loaded at at 101,86,19
+[02:46:04] cqc-baPC GAME: neutral 1 loaded at at 91,101,19
+[02:46:04] cqc-baPC GAME: neutral 1 loaded at at 31,56,19
+[02:46:04] cqc-baPC GAME: neutral 9 loaded at at 41,96,19
+[02:46:04] cqc-baPC GAME: neutral 6 loaded at at 106,41,19
+[02:46:04] cqc-baPC GAME: neutral 6 loaded at at 21,71,19
+[02:46:04] cqc-baPC GAME: neutral 4 loaded at at 71,56,19
+[02:46:04] cqc-baPC GAME: neutral 10 loaded at at 51,61,19
+[02:46:04] cqc-baPC GAME: neutral 9 loaded at at 96,16,19
+[02:46:04] cqc-baPC GAME: neutral 7 loaded at at 31,96,19
+[02:46:04] cqc-baPC GAME: neutral 2 loaded at at 41,46,19
+[02:46:04] cqc-baPC GAME: neutral 1 loaded at at 66,71,19
+[02:46:16] cqc-baPC GAME: Emitter deleted at (0,0,0)
+[02:47:14] cqc-baPC ASSET: ERROR: Invalid asset: /datum/asset/simple/craft:obj_item_stack_cable_coil.png:1
+[02:47:19] cqc-baPC ASSET: ERROR: Invalid asset: /datum/asset/simple/craft:obj_item_clothing_glasses_powered_meson.png:1
+[02:47:20] cqc-baPC ASSET: ERROR: Invalid asset: /datum/asset/simple/craft:obj_item_gun_projectile_boltgun_lever.png:1
+[02:47:20] cqc-baPC ASSET: ERROR: Invalid asset: /datum/asset/simple/craft:obj_item_gun_projectile_automatic_sts_rifle.png:1
+[02:47:21] cqc-baPC ASSET: ERROR: Invalid asset: /datum/asset/simple/craft:obj_item_modular_computer_laptop.png:1
+[02:48:12] cqc-baPC GAME: Entrance - 1 loaded at at 28,137,20
+[02:48:13] cqc-baPC GAME: garden loaded at at 15,137,20
+[02:48:13] cqc-baPC GAME: crematorium loaded at at 2,137,20
+[02:48:16] cqc-baPC GAME: garden loaded at at 2,128,20
+[02:48:16] cqc-baPC GAME: showers loaded at at 15,128,20
+[02:48:16] cqc-baPC GAME: Escape_Pod_West-East loaded at at 28,128,20
+[02:48:17] cqc-baPC GAME: crematorium loaded at at 41,128,20
+[02:48:17] cqc-baPC GAME: garden loaded at at 54,128,20
+[02:48:17] cqc-baPC GAME: garden loaded at at 67,128,20
+[02:48:18] cqc-baPC GAME: penitentiary loaded at at 80,128,20
+[02:48:18] cqc-baPC GAME: Hallway_4way loaded at at 93,128,20
+[02:48:18] cqc-baPC GAME: Hallway_4way loaded at at 106,128,20
+[02:48:19] cqc-baPC GAME: showers loaded at at 119,128,20
+[02:48:19] cqc-baPC GAME: penitentiary loaded at at 132,128,20
+[02:48:20] cqc-baPC GAME: Escape_Pod_West-East loaded at at 145,128,20
+[02:48:20] cqc-baPC GAME: Escape_Pod_West-East loaded at at 158,128,20
+[02:48:20] cqc-baPC GAME: secure_storage_horizontal loaded at at 171,128,20
+[02:48:21] cqc-baPC GAME: Escape_Pod_West-East loaded at at 184,128,20
+[02:48:21] cqc-baPC GAME: garden loaded at at 197,128,20
+[02:48:22] cqc-baPC GAME: Hallway_4way loaded at at 197,119,20
+[02:48:22] cqc-baPC GAME: garden loaded at at 184,119,20
+[02:48:22] cqc-baPC GAME: showers loaded at at 171,119,20
+[02:48:23] cqc-baPC GAME: Escape_Pod_West-East loaded at at 158,119,20
+[02:48:23] cqc-baPC GAME: Hallway_4way loaded at at 145,119,20
+[02:48:23] cqc-baPC GAME: Hallway_4way loaded at at 132,119,20
+[02:48:24] cqc-baPC GAME: showers loaded at at 119,119,20
+[02:48:24] cqc-baPC GAME: penitentiary loaded at at 106,119,20
+[02:48:25] cqc-baPC GAME: crematorium loaded at at 93,119,20
+[02:48:25] cqc-baPC GAME: Hallway_4way loaded at at 80,119,20
+[02:48:26] cqc-baPC GAME: Hallway_4way loaded at at 67,119,20
+[02:48:26] cqc-baPC GAME: Escape_Pod_West-East loaded at at 67,110,20
+[02:48:27] cqc-baPC GAME: Hallway_4way loaded at at 54,110,20
+[02:48:27] cqc-baPC GAME: secure_storage_horizontal loaded at at 41,110,20
+[02:48:27] cqc-baPC GAME: penitentiary loaded at at 28,110,20
+[02:48:28] cqc-baPC GAME: telecoms loaded at at 45,47,21
+[02:48:29] cqc-baPC GAME: maintenance asteroid loaded at at 31,109,21
+[02:48:29] cqc-baPC GAME: archive loaded at at 116,66,21
+[02:48:30] cqc-baPC GAME: over run loaded at at 84,72,21
+[02:48:30] cqc-baPC GAME: telecoms loaded at at 93,114,21
+[02:48:31] cqc-baPC GAME: pod bay loaded at at 103,43,21
+[02:48:31] cqc-baPC GAME: Hallway_4way loaded at at 15,110,20
+[02:48:31] cqc-baPC GAME: Escape_Pod_West-East loaded at at 15,101,20
+[02:48:32] cqc-baPC GAME: garden loaded at at 2,101,20
+[02:48:32] cqc-baPC GAME: Hallway_4way loaded at at 2,92,20
+[02:48:32] cqc-baPC GAME: crematorium loaded at at 15,92,20
+[02:48:33] cqc-baPC GAME: Hallway_4way loaded at at 28,92,20
+[02:48:33] cqc-baPC GAME: showers loaded at at 41,92,20
+[02:48:34] cqc-baPC GAME: garden loaded at at 54,92,20
+[02:48:36] cqc-baPC GAME: garden loaded at at 67,92,20
+[02:48:36] cqc-baPC GAME: Escape_Pod_West-East loaded at at 67,83,20
+[02:48:36] cqc-baPC GAME: Hallway_4way loaded at at 80,83,20
+[02:48:37] cqc-baPC GAME: crematorium loaded at at 93,83,20
+[02:48:37] cqc-baPC GAME: Hallway_4way loaded at at 93,74,20
+[02:48:38] cqc-baPC GAME: garden loaded at at 80,74,20
+[02:48:38] cqc-baPC GAME: crematorium loaded at at 67,74,20
+[02:48:38] cqc-baPC GAME: showers loaded at at 54,74,20
+[02:48:39] cqc-baPC GAME: crematorium loaded at at 41,74,20
+[02:48:39] cqc-baPC GAME: crematorium loaded at at 28,74,20
+[02:48:39] cqc-baPC GAME: Hallway_4way loaded at at 28,65,20
+[02:48:40] cqc-baPC GAME: showers loaded at at 15,65,20
+[02:48:40] cqc-baPC GAME: autolathe_South-East loaded at at 2,65,20
+[02:48:41] cqc-baPC GAME: Hallway_4way loaded at at 2,56,20
+[02:48:41] cqc-baPC GAME: secure_storage_horizontal loaded at at 15,56,20
+[02:48:42] cqc-baPC GAME: showers loaded at at 28,56,20
+[02:48:43] cqc-baPC GAME: Hallway_4way loaded at at 41,56,20
+[02:48:43] cqc-baPC GAME: garden loaded at at 41,47,20
+[02:48:43] cqc-baPC GAME: Hallway_4way loaded at at 41,38,20
+[02:48:44] cqc-baPC GAME: Escape_Pod_West-East loaded at at 54,38,20
+[02:48:44] cqc-baPC GAME: secure_storage_horizontal loaded at at 67,38,20
+[02:48:45] cqc-baPC GAME: showers loaded at at 80,38,20
+[02:48:46] cqc-baPC GAME: showers loaded at at 93,38,20
+[02:48:47] cqc-baPC GAME: garden loaded at at 106,38,20
+[02:48:48] cqc-baPC GAME: Escape_Pod_West-East loaded at at 119,38,20
+[02:48:48] cqc-baPC GAME: crematorium loaded at at 132,38,20
+[02:48:49] cqc-baPC GAME: Hallway_4way loaded at at 145,38,20
+[02:48:50] cqc-baPC GAME: showers loaded at at 158,38,20
+[02:48:51] cqc-baPC GAME: Hallway_4way loaded at at 171,38,20
+[02:48:51] cqc-baPC GAME: Escape_Pod_West-East loaded at at 184,38,20
+[02:48:52] cqc-baPC GAME: Hallway_4way loaded at at 197,38,20
+[02:48:53] cqc-baPC GAME: Escape_Pod_West-East loaded at at 197,29,20
+[02:48:53] cqc-baPC GAME: Hallway_4way loaded at at 184,29,20
+[02:48:54] cqc-baPC GAME: crematorium loaded at at 171,29,20
+[02:48:54] cqc-baPC GAME: Hallway_4way loaded at at 158,29,20
+[02:48:54] cqc-baPC GAME: Escape_Pod_West-East loaded at at 145,29,20
+[02:48:55] cqc-baPC GAME: Hallway_4way loaded at at 132,29,20
+[02:48:55] cqc-baPC GAME: garden loaded at at 132,20,20
+[02:48:56] cqc-baPC GAME: crematorium loaded at at 145,20,20
+[02:48:56] cqc-baPC GAME: garden loaded at at 158,20,20
+[02:48:57] cqc-baPC GAME: Escape_Pod_West-East loaded at at 171,20,20
+[02:48:58] cqc-baPC GAME: garden loaded at at 171,11,20
+[02:48:58] cqc-baPC GAME: Hallway_4way loaded at at 158,11,20
+[02:48:58] cqc-baPC GAME: Escape_Pod_West-East loaded at at 145,11,20
+[02:48:59] cqc-baPC GAME: crematorium loaded at at 132,11,20
+[02:48:59] cqc-baPC GAME: garden loaded at at 119,11,20
+[02:49:00] cqc-baPC GAME: Hallway_4way loaded at at 106,11,20
+[02:49:00] cqc-baPC GAME: crematorium loaded at at 93,11,20
+[02:49:00] cqc-baPC GAME: crematorium loaded at at 80,11,20
+[02:49:01] cqc-baPC GAME: penitentiary loaded at at 67,11,20
+[02:49:01] cqc-baPC GAME: Hallway_4way loaded at at 54,11,20
+[02:49:01] cqc-baPC GAME: checkpoint_horizontal loaded at at 41,11,20
+[02:49:02] cqc-baPC GAME: Escape_Pod_West-East loaded at at 28,11,20
+[02:49:02] cqc-baPC GAME: garden loaded at at 15,11,20
+[02:49:03] cqc-baPC GAME: crematorium loaded at at 2,11,20
+[02:49:04] cqc-baPC GAME: Hallway_4way loaded at at 2,2,20
+[02:49:05] cqc-baPC GAME: garden loaded at at 15,2,20
+[02:49:05] cqc-baPC GAME: Hallway_4way loaded at at 28,2,20
+[02:49:05] cqc-baPC GAME: garden loaded at at 41,2,20
+[02:49:06] cqc-baPC GAME: Exit - 1 loaded at at 54,2,20
+[02:49:29] cqc-baPC GAME: cargo_horizontal loaded at at 41,65,20
+[02:49:29] cqc-baPC GAME: commanderoffice loaded at at 54,119,20
+[02:49:32] cqc-baPC GAME: shooting_range loaded at at 93,137,20
+[02:49:32] cqc-baPC GAME: commanderoffice loaded at at 119,20,20
+[02:49:33] cqc-baPC GAME: armory loaded at at 145,110,20
+[02:49:35] cqc-baPC GAME: commanderoffice loaded at at 15,74,20
+[02:49:36] cqc-baPC GAME: cargo_vertical loaded at at 54,47,20
+[02:49:36] cqc-baPC GAME: shooting_range loaded at at 184,47,20
+[02:49:37] cqc-baPC GAME: refinery loaded at at 28,47,20
+[02:49:37] cqc-baPC GAME: blocker loaded at at 41,137,20
+[02:49:37] cqc-baPC GAME: blocker loaded at at 54,137,20
+[02:49:37] cqc-baPC GAME: blocker loaded at at 67,137,20
+[02:49:37] cqc-baPC GAME: blocker loaded at at 80,137,20
+[02:49:37] cqc-baPC GAME: blocker loaded at at 106,137,20
+[02:49:37] cqc-baPC GAME: blocker loaded at at 119,137,20
+[02:49:37] cqc-baPC GAME: blocker loaded at at 132,137,20
+[02:49:37] cqc-baPC GAME: blocker loaded at at 145,137,20
+[02:49:37] cqc-baPC GAME: blocker loaded at at 158,137,20
+[02:49:37] cqc-baPC GAME: blocker loaded at at 171,137,20
+[02:49:37] cqc-baPC GAME: blocker loaded at at 184,137,20
+[02:49:38] cqc-baPC GAME: blocker loaded at at 197,137,20
+[02:49:38] cqc-baPC GAME: blocker loaded at at 2,119,20
+[02:49:38] cqc-baPC GAME: blocker loaded at at 15,119,20
+[02:49:38] cqc-baPC GAME: blocker loaded at at 28,119,20
+[02:49:38] cqc-baPC GAME: blocker loaded at at 41,119,20
+[02:49:38] cqc-baPC GAME: blocker loaded at at 2,110,20
+[02:49:38] cqc-baPC GAME: blocker loaded at at 80,110,20
+[02:49:38] cqc-baPC GAME: blocker loaded at at 93,110,20
+[02:49:38] cqc-baPC GAME: blocker loaded at at 106,110,20
+[02:49:38] cqc-baPC GAME: blocker loaded at at 119,110,20
+[02:49:38] cqc-baPC GAME: blocker loaded at at 132,110,20
+[02:49:38] cqc-baPC GAME: blocker loaded at at 158,110,20
+[02:49:38] cqc-baPC GAME: blocker loaded at at 171,110,20
+[02:49:38] cqc-baPC GAME: blocker loaded at at 184,110,20
+[02:49:38] cqc-baPC GAME: blocker loaded at at 197,110,20
+[02:49:39] cqc-baPC GAME: blocker loaded at at 28,101,20
+[02:49:39] cqc-baPC GAME: blocker loaded at at 41,101,20
+[02:49:39] cqc-baPC GAME: blocker loaded at at 54,101,20
+[02:49:39] cqc-baPC GAME: blocker loaded at at 67,101,20
+[02:49:39] cqc-baPC GAME: blocker loaded at at 80,101,20
+[02:49:39] cqc-baPC GAME: blocker loaded at at 93,101,20
+[02:49:39] cqc-baPC GAME: blocker loaded at at 106,101,20
+[02:49:39] cqc-baPC GAME: blocker loaded at at 119,101,20
+[02:49:39] cqc-baPC GAME: blocker loaded at at 132,101,20
+[02:49:39] cqc-baPC GAME: blocker loaded at at 145,101,20
+[02:49:39] cqc-baPC GAME: blocker loaded at at 158,101,20
+[02:49:39] cqc-baPC GAME: blocker loaded at at 171,101,20
+[02:49:39] cqc-baPC GAME: blocker loaded at at 184,101,20
+[02:49:39] cqc-baPC GAME: blocker loaded at at 197,101,20
+[02:49:39] cqc-baPC GAME: blocker loaded at at 80,92,20
+[02:49:39] cqc-baPC GAME: blocker loaded at at 93,92,20
+[02:49:39] cqc-baPC GAME: blocker loaded at at 106,92,20
+[02:49:39] cqc-baPC GAME: blocker loaded at at 119,92,20
+[02:49:39] cqc-baPC GAME: blocker loaded at at 132,92,20
+[02:49:39] cqc-baPC GAME: blocker loaded at at 145,92,20
+[02:49:40] cqc-baPC GAME: blocker loaded at at 158,92,20
+[02:49:40] cqc-baPC GAME: blocker loaded at at 171,92,20
+[02:49:40] cqc-baPC GAME: blocker loaded at at 184,92,20
+[02:49:40] cqc-baPC GAME: blocker loaded at at 197,92,20
+[02:49:40] cqc-baPC GAME: blocker loaded at at 2,83,20
+[02:49:40] cqc-baPC GAME: blocker loaded at at 15,83,20
+[02:49:40] cqc-baPC GAME: blocker loaded at at 28,83,20
+[02:49:40] cqc-baPC GAME: blocker loaded at at 41,83,20
+[02:49:40] cqc-baPC GAME: blocker loaded at at 54,83,20
+[02:49:40] cqc-baPC GAME: blocker loaded at at 106,83,20
+[02:49:40] cqc-baPC GAME: blocker loaded at at 119,83,20
+[02:49:40] cqc-baPC GAME: blocker loaded at at 132,83,20
+[02:49:40] cqc-baPC GAME: blocker loaded at at 145,83,20
+[02:49:40] cqc-baPC GAME: blocker loaded at at 158,83,20
+[02:49:40] cqc-baPC GAME: blocker loaded at at 171,83,20
+[02:49:40] cqc-baPC GAME: blocker loaded at at 184,83,20
+[02:49:40] cqc-baPC GAME: blocker loaded at at 197,83,20
+[02:49:40] cqc-baPC GAME: blocker loaded at at 2,74,20
+[02:49:40] cqc-baPC GAME: blocker loaded at at 106,74,20
+[02:49:41] cqc-baPC GAME: blocker loaded at at 119,74,20
+[02:49:41] cqc-baPC GAME: blocker loaded at at 132,74,20
+[02:49:41] cqc-baPC GAME: blocker loaded at at 145,74,20
+[02:49:41] cqc-baPC GAME: blocker loaded at at 158,74,20
+[02:49:41] cqc-baPC GAME: blocker loaded at at 171,74,20
+[02:49:41] cqc-baPC GAME: blocker loaded at at 184,74,20
+[02:49:41] cqc-baPC GAME: blocker loaded at at 197,74,20
+[02:49:41] cqc-baPC GAME: blocker loaded at at 54,65,20
+[02:49:41] cqc-baPC GAME: blocker loaded at at 67,65,20
+[02:49:41] cqc-baPC GAME: blocker loaded at at 80,65,20
+[02:49:41] cqc-baPC GAME: blocker loaded at at 93,65,20
+[02:49:41] cqc-baPC GAME: blocker loaded at at 106,65,20
+[02:49:41] cqc-baPC GAME: blocker loaded at at 119,65,20
+[02:49:41] cqc-baPC GAME: blocker loaded at at 132,65,20
+[02:49:41] cqc-baPC GAME: blocker loaded at at 145,65,20
+[02:49:41] cqc-baPC GAME: blocker loaded at at 158,65,20
+[02:49:41] cqc-baPC GAME: blocker loaded at at 171,65,20
+[02:49:41] cqc-baPC GAME: blocker loaded at at 184,65,20
+[02:49:41] cqc-baPC GAME: blocker loaded at at 197,65,20
+[02:49:41] cqc-baPC GAME: blocker loaded at at 54,56,20
+[02:49:42] cqc-baPC GAME: blocker loaded at at 67,56,20
+[02:49:42] cqc-baPC GAME: blocker loaded at at 80,56,20
+[02:49:42] cqc-baPC GAME: blocker loaded at at 93,56,20
+[02:49:42] cqc-baPC GAME: blocker loaded at at 106,56,20
+[02:49:42] cqc-baPC GAME: blocker loaded at at 119,56,20
+[02:49:42] cqc-baPC GAME: blocker loaded at at 132,56,20
+[02:49:42] cqc-baPC GAME: blocker loaded at at 145,56,20
+[02:49:42] cqc-baPC GAME: blocker loaded at at 158,56,20
+[02:49:42] cqc-baPC GAME: blocker loaded at at 171,56,20
+[02:49:42] cqc-baPC GAME: blocker loaded at at 184,56,20
+[02:49:42] cqc-baPC GAME: blocker loaded at at 197,56,20
+[02:49:42] cqc-baPC GAME: blocker loaded at at 2,47,20
+[02:49:42] cqc-baPC GAME: blocker loaded at at 15,47,20
+[02:49:42] cqc-baPC GAME: blocker loaded at at 67,47,20
+[02:49:42] cqc-baPC GAME: blocker loaded at at 80,47,20
+[02:49:42] cqc-baPC GAME: blocker loaded at at 93,47,20
+[02:49:42] cqc-baPC GAME: blocker loaded at at 106,47,20
+[02:49:42] cqc-baPC GAME: blocker loaded at at 119,47,20
+[02:49:42] cqc-baPC GAME: blocker loaded at at 132,47,20
+[02:49:43] cqc-baPC GAME: blocker loaded at at 145,47,20
+[02:49:43] cqc-baPC GAME: blocker loaded at at 158,47,20
+[02:49:43] cqc-baPC GAME: blocker loaded at at 171,47,20
+[02:49:43] cqc-baPC GAME: blocker loaded at at 197,47,20
+[02:49:43] cqc-baPC GAME: blocker loaded at at 2,38,20
+[02:49:43] cqc-baPC GAME: blocker loaded at at 15,38,20
+[02:49:43] cqc-baPC GAME: blocker loaded at at 28,38,20
+[02:49:43] cqc-baPC GAME: blocker loaded at at 2,29,20
+[02:49:43] cqc-baPC GAME: blocker loaded at at 15,29,20
+[02:49:43] cqc-baPC GAME: blocker loaded at at 28,29,20
+[02:49:43] cqc-baPC GAME: blocker loaded at at 41,29,20
+[02:49:43] cqc-baPC GAME: blocker loaded at at 54,29,20
+[02:49:43] cqc-baPC GAME: blocker loaded at at 67,29,20
+[02:49:43] cqc-baPC GAME: blocker loaded at at 80,29,20
+[02:49:43] cqc-baPC GAME: blocker loaded at at 93,29,20
+[02:49:43] cqc-baPC GAME: blocker loaded at at 106,29,20
+[02:49:43] cqc-baPC GAME: blocker loaded at at 119,29,20
+[02:49:43] cqc-baPC GAME: blocker loaded at at 2,20,20
+[02:49:44] cqc-baPC GAME: blocker loaded at at 15,20,20
+[02:49:44] cqc-baPC GAME: blocker loaded at at 28,20,20
+[02:49:44] cqc-baPC GAME: blocker loaded at at 41,20,20
+[02:49:44] cqc-baPC GAME: blocker loaded at at 54,20,20
+[02:49:44] cqc-baPC GAME: blocker loaded at at 67,20,20
+[02:49:44] cqc-baPC GAME: blocker loaded at at 80,20,20
+[02:49:44] cqc-baPC GAME: blocker loaded at at 93,20,20
+[02:49:44] cqc-baPC GAME: blocker loaded at at 106,20,20
+[02:49:44] cqc-baPC GAME: blocker loaded at at 184,20,20
+[02:49:44] cqc-baPC GAME: blocker loaded at at 197,20,20
+[02:49:44] cqc-baPC GAME: blocker loaded at at 184,11,20
+[02:49:44] cqc-baPC GAME: blocker loaded at at 197,11,20
+[02:49:44] cqc-baPC GAME: blocker loaded at at 67,2,20
+[02:49:44] cqc-baPC GAME: blocker loaded at at 80,2,20
+[02:49:44] cqc-baPC GAME: blocker loaded at at 93,2,20
+[02:49:44] cqc-baPC GAME: blocker loaded at at 106,2,20
+[02:49:44] cqc-baPC GAME: blocker loaded at at 119,2,20
+[02:49:45] cqc-baPC GAME: blocker loaded at at 132,2,20
+[02:49:45] cqc-baPC GAME: blocker loaded at at 145,2,20
+[02:49:45] cqc-baPC GAME: blocker loaded at at 158,2,20
+[02:49:45] cqc-baPC GAME: blocker loaded at at 171,2,20
+[02:49:45] cqc-baPC GAME: blocker loaded at at 184,2,20
+[02:49:45] cqc-baPC GAME: blocker loaded at at 197,2,20
+[02:50:06] cqc-baPC GAME: anomalysci loaded at at 91,27,21
+[02:50:06] cqc-baPC GAME: cryo loaded at at 152,121,21
+[02:50:07] cqc-baPC GAME: hydro loaded at at 153,86,21
+[02:50:07] cqc-baPC GAME: toilet loaded at at 20,60,21
+[02:50:07] cqc-baPC GAME: catwalks loaded at at 128,145,21
+[02:50:07] cqc-baPC GAME: mechbay loaded at at 106,95,21
+[02:50:07] cqc-baPC GAME: Trash loaded at at 139,37,21
+[02:50:07] cqc-baPC GAME: library loaded at at 125,100,21
+[02:50:07] cqc-baPC GAME: catwalks loaded at at 26,24,21
+[02:50:07] cqc-baPC GAME: catwalks loaded at at 72,118,21
+[02:50:07] cqc-baPC GAME: catwalks loaded at at 54,142,21
+[02:50:08] cqc-baPC GAME: hydro loaded at at 30,74,21
+[02:50:08] cqc-baPC GAME: office loaded at at 86,151,21
+[02:50:08] cqc-baPC GAME: mechbay loaded at at 11,130,21
+[02:50:08] cqc-baPC GAME: Trash loaded at at 78,104,21
+[02:50:08] cqc-baPC GAME: mechbay loaded at at 63,97,21
+[02:50:08] cqc-baPC GAME: storage loaded at at 77,139,21
+[02:50:08] cqc-baPC GAME: catwalks loaded at at 70,46,21
+[02:50:08] cqc-baPC GAME: toilet loaded at at 154,149,21
+[02:50:09] cqc-baPC GAME: barricades loaded at at 151,39,21
+[02:50:09] cqc-baPC GAME: hydro loaded at at 31,152,21
+[02:50:09] cqc-baPC GAME: office loaded at at 16,115,21
+[02:50:09] cqc-baPC GAME: sm_core loaded at at 87,48,21
+[02:50:09] cqc-baPC GAME: barricades loaded at at 74,30,21
+[02:50:09] cqc-baPC GAME: Medical supplies loaded at at 17,46,21
+[02:50:09] cqc-baPC GAME: Trash loaded at at 104,138,21
+[02:50:09] cqc-baPC GAME: Medical supplies loaded at at 23,137,21
+[02:50:09] cqc-baPC GAME: mechbay loaded at at 107,30,21
+[02:50:10] cqc-baPC GAME: morgue loaded at at 150,69,21
+[02:50:10] cqc-baPC GAME: barricades loaded at at 153,137,21
+
+
+Starting up. (ID: cqd-aFl9) 23:20.12
+---------------------
+[23:20:12] cqd-aFl9 MISC: Saved storyteller is 'healer'
+[23:20:12] cqd-aFl9 ADMIN: Loading jobban_rank
+[23:20:12] cqd-aFl9 ADMIN: jobban_keylist was empty
+[23:20:12] cqd-aFl9 ADMIN: Loading Banlist
+[23:20:45] cqd-aFl9 ACCESS: Login: RiotScopez/() from 146.115.147.185-1871707424 || BYOND v514.1582
+[23:20:45] cqd-aFl9 ACCESS: Login: RiotScopez/(/(RiotScopez)) from 146.115.147.185-1871707424 || BYOND v514
+[23:20:46] cqd-aFl9 DEBUG: Could not find style "ErisStyle" for /mob/new_player.
+[23:20:46] cqd-aFl9 ACCESS: Login: RiotScopez/(/(RiotScopez)) from 146.115.147.185-1871707424 || BYOND v514
+[23:21:55] cqd-aFl9 ADMIN: EVENT *null* has loaded a character.
+[23:21:57] cqd-aFl9 DEBUG: Runtime in beaker.dm,28: Cannot read null.total_volume <A HREF='?_src_=holder;viewruntime=[0x21010739]'>[view]</A>
+[23:22:02] cqd-aFl9 ADMIN: Walter Christman try find_inv_position a 14, but not have that slot!
+[23:22:02] cqd-aFl9 ADMIN: Walter Christman try find_inv_position a 11, but not have that slot!
+[23:22:02] cqd-aFl9 ADMIN: Walter Christman try find_inv_position a 13, but not have that slot!
+[23:22:02] cqd-aFl9 ADMIN: Walter Christman try find_inv_position a 12, but not have that slot!
+[23:22:03] cqd-aFl9 EMOTE: Titus Joyce/ : screams!
+[23:22:03] cqd-aFl9 EMOTE: Titus Joyce/ : <B>Titus Joyce</B> screams!
+[23:22:03] cqd-aFl9 ADMIN: Titus Joyce try find_inv_position a 14, but not have that slot!
+[23:22:03] cqd-aFl9 ADMIN: Titus Joyce try find_inv_position a 11, but not have that slot!
+[23:22:03] cqd-aFl9 ADMIN: Titus Joyce try find_inv_position a 13, but not have that slot!
+[23:22:03] cqd-aFl9 ADMIN: Titus Joyce try find_inv_position a 12, but not have that slot!
+[23:22:03] cqd-aFl9 ADMIN: Kingston Batten try find_inv_position a 14, but not have that slot!
+[23:22:03] cqd-aFl9 ADMIN: Kingston Batten try find_inv_position a 11, but not have that slot!
+[23:22:03] cqd-aFl9 ADMIN: Kingston Batten try find_inv_position a 13, but not have that slot!
+[23:22:03] cqd-aFl9 ADMIN: Kingston Batten try find_inv_position a 12, but not have that slot!
+[23:22:03] cqd-aFl9 ADMIN: Cameron Seelig try find_inv_position a 14, but not have that slot!
+[23:22:03] cqd-aFl9 ADMIN: Cameron Seelig try find_inv_position a 11, but not have that slot!
+[23:22:03] cqd-aFl9 ADMIN: Cameron Seelig try find_inv_position a 13, but not have that slot!
+[23:22:03] cqd-aFl9 ADMIN: Cameron Seelig try find_inv_position a 12, but not have that slot!
+[23:22:03] cqd-aFl9 ADMIN: Jamie Bash try find_inv_position a 14, but not have that slot!
+[23:22:03] cqd-aFl9 ADMIN: Jamie Bash try find_inv_position a 11, but not have that slot!
+[23:22:03] cqd-aFl9 ADMIN: Jamie Bash try find_inv_position a 13, but not have that slot!
+[23:22:03] cqd-aFl9 ADMIN: Jamie Bash try find_inv_position a 12, but not have that slot!
+[23:22:03] cqd-aFl9 ADMIN: Grant Kiefer try find_inv_position a 14, but not have that slot!
+[23:22:03] cqd-aFl9 ADMIN: Grant Kiefer try find_inv_position a 11, but not have that slot!
+[23:22:03] cqd-aFl9 ADMIN: Grant Kiefer try find_inv_position a 13, but not have that slot!
+[23:22:03] cqd-aFl9 ADMIN: Grant Kiefer try find_inv_position a 12, but not have that slot!
+[23:22:08] cqd-aFl9 ADMIN: EVENT *null* has loaded a character.
+[23:22:08] cqd-aFl9 ACCESS: Login: Athirson/() from 189.113.253.210-1848351067 || BYOND v514.1585
+[23:22:08] cqd-aFl9 ACCESS: Login: Athirson/(/(Athirson)) from 189.113.253.210-1848351067 || BYOND v514
+[23:22:08] cqd-aFl9 DEBUG: Could not find style "ErisStyle" for /mob/new_player.
+[23:22:08] cqd-aFl9 ACCESS: Login: Athirson/(/(Athirson)) from 189.113.253.210-1848351067 || BYOND v514
+[23:22:49] cqd-aFl9 OOC: Athirson/Athirson : I invited my frien :3
+[23:24:20] cqd-aFl9 ADMIN: Athirson/(/(Athirson)) Athirson/(/(Athirson)) has loaded a character.
+[23:24:20] cqd-aFl9 ADMIN: Athirson/(/(Athirson)) Athirson/(/(Athirson)) has loaded a character.
+[23:24:20] cqd-aFl9 ADMIN: Athirson/(/(Athirson)) Athirson/(/(Athirson)) has loaded a character.
+[23:24:20] cqd-aFl9 ADMIN: Athirson/(/(Athirson)) Athirson/(/(Athirson)) has loaded a character.
+[23:24:26] cqd-aFl9 GAME: neutral 2 loaded at at 66,46,19
+[23:24:26] cqd-aFl9 GAME: neutral 2 loaded at at 31,51,19
+[23:24:27] cqd-aFl9 GAME: neutral 3 loaded at at 86,76,19
+[23:24:27] cqd-aFl9 GAME: neutral 2 loaded at at 11,11,19
+[23:24:28] cqd-aFl9 GAME: neutral 1 loaded at at 46,86,19
+[23:24:28] cqd-aFl9 GAME: neutral 3 loaded at at 86,11,19
+[23:24:28] cqd-aFl9 GAME: neutral 5 loaded at at 86,71,19
+[23:24:28] cqd-aFl9 GAME: neutral 4 loaded at at 101,31,19
+[23:24:28] cqd-aFl9 GAME: neutral 3 loaded at at 66,91,19
+[23:24:28] cqd-aFl9 GAME: neutral 2 loaded at at 46,101,19
+[23:24:28] cqd-aFl9 GAME: neutral 1 loaded at at 11,46,19
+[23:24:28] cqd-aFl9 GAME: neutral 7 loaded at at 51,16,19
+[23:24:28] cqd-aFl9 GAME: neutral 3 loaded at at 76,76,19
+[23:24:28] cqd-aFl9 GAME: neutral 11 loaded at at 36,11,19
+[23:24:28] cqd-aFl9 GAME: neutral 5 loaded at at 26,36,19
+[23:24:28] cqd-aFl9 GAME: neutral 9 loaded at at 76,86,19
+[23:24:28] cqd-aFl9 GAME: neutral 7 loaded at at 81,26,19
+[23:24:28] cqd-aFl9 GAME: neutral 4 loaded at at 41,76,19
+[23:24:28] cqd-aFl9 GAME: neutral 9 loaded at at 51,11,19
+[23:24:28] cqd-aFl9 GAME: neutral 1 loaded at at 46,91,19
+[23:24:28] cqd-aFl9 GAME: neutral 1 loaded at at 76,36,19
+[23:24:28] cqd-aFl9 GAME: neutral 6 loaded at at 76,81,19
+[23:24:28] cqd-aFl9 GAME: neutral 5 loaded at at 96,101,19
+[23:24:28] cqd-aFl9 GAME: neutral 4 loaded at at 21,96,19
+[23:24:28] cqd-aFl9 GAME: neutral 2 loaded at at 71,16,19
+[23:24:28] cqd-aFl9 GAME: neutral 8 loaded at at 11,106,19
+[23:24:28] cqd-aFl9 GAME: neutral 11 loaded at at 46,96,19
+[23:24:28] cqd-aFl9 ADMIN: Athirson/(/(Athirson)) Athirson/(/(Athirson)) has loaded a character.
+[23:24:28] cqd-aFl9 GAME: neutral 9 loaded at at 56,106,19
+[23:24:29] cqd-aFl9 GAME: neutral 5 loaded at at 41,66,19
+[23:24:29] cqd-aFl9 GAME: neutral 8 loaded at at 66,76,19
+[23:24:29] cqd-aFl9 GAME: neutral 9 loaded at at 101,46,19
+[23:24:29] cqd-aFl9 GAME: neutral 6 loaded at at 36,101,19
+[23:24:29] cqd-aFl9 GAME: neutral 1 loaded at at 106,61,19
+[23:24:29] cqd-aFl9 GAME: neutral 2 loaded at at 36,11,19
+[23:24:29] cqd-aFl9 GAME: neutral 9 loaded at at 101,21,19
+[23:24:29] cqd-aFl9 GAME: neutral 5 loaded at at 51,56,19
+[23:24:29] cqd-aFl9 GAME: neutral 3 loaded at at 106,26,19
+[23:24:29] cqd-aFl9 GAME: neutral 6 loaded at at 36,91,19
+[23:24:29] cqd-aFl9 GAME: neutral 5 loaded at at 21,56,19
+[23:24:41] cqd-aFl9 GAME: Emitter deleted at (0,0,0)
+[23:25:43] cqd-aFl9 ASSET: ERROR: Invalid asset: /datum/asset/simple/craft:obj_item_stack_cable_coil.png:1
+[23:25:48] cqd-aFl9 ASSET: ERROR: Invalid asset: /datum/asset/simple/craft:obj_item_clothing_glasses_powered_meson.png:1
+[23:25:49] cqd-aFl9 ASSET: ERROR: Invalid asset: /datum/asset/simple/craft:obj_item_gun_projectile_boltgun_lever.png:1
+[23:25:49] cqd-aFl9 ASSET: ERROR: Invalid asset: /datum/asset/simple/craft:obj_item_gun_projectile_automatic_sts_rifle.png:1
+[23:25:51] cqd-aFl9 ASSET: ERROR: Invalid asset: /datum/asset/simple/craft:obj_item_modular_computer_laptop.png:1
+[23:26:33] cqd-aFl9 VOTE: Storyteller vote started by server.
+[23:26:40] cqd-aFl9 GAME: medbay loaded at at 69,71,21
+[23:26:41] cqd-aFl9 GAME: archive loaded at at 71,117,21
+[23:26:41] cqd-aFl9 GAME: dinner loaded at at 115,34,21
+[23:26:41] cqd-aFl9 MISC: a the gibber didn't find an input plate.
+[23:26:42] cqd-aFl9 GAME: xenostudy loaded at at 44,41,21
+[23:26:42] cqd-aFl9 GAME: over run loaded at at 47,108,21
+[23:26:42] cqd-aFl9 GAME: over run loaded at at 39,66,21
+[23:26:49] cqd-aFl9 GAME: Entrance - 1 loaded at at 119,137,20
+[23:26:50] cqd-aFl9 GAME: crematorium loaded at at 132,137,20
+[23:26:50] cqd-aFl9 GAME: garden loaded at at 132,128,20
+[23:26:50] cqd-aFl9 GAME: checkpoint_horizontal loaded at at 145,128,20
+[23:26:51] cqd-aFl9 GAME: secure_storage_horizontal loaded at at 158,128,20
+[23:26:51] cqd-aFl9 GAME: crematorium loaded at at 171,128,20
+[23:26:52] cqd-aFl9 GAME: secure_storage_horizontal loaded at at 184,128,20
+[23:26:52] cqd-aFl9 GAME: garden loaded at at 197,128,20
+[23:26:52] cqd-aFl9 GAME: Hallway_4way loaded at at 197,119,20
+[23:26:53] cqd-aFl9 GAME: garden loaded at at 184,119,20
+[23:26:53] cqd-aFl9 GAME: crematorium loaded at at 171,119,20
+[23:26:53] cqd-aFl9 GAME: Hallway_4way loaded at at 158,119,20
+[23:26:54] cqd-aFl9 GAME: secure_storage_horizontal loaded at at 145,119,20
+[23:26:54] cqd-aFl9 GAME: Escape_Pod_West-East loaded at at 132,119,20
+[23:26:54] cqd-aFl9 GAME: hallwayatmos_west-east loaded at at 119,119,20
+[23:26:55] cqd-aFl9 GAME: Escape_Pod_West-East loaded at at 106,119,20
+[23:26:56] cqd-aFl9 GAME: crematorium loaded at at 93,119,20
+[23:26:57] cqd-aFl9 GAME: Hallway_4way loaded at at 80,119,20
+[23:26:58] cqd-aFl9 GAME: penitentiary loaded at at 67,119,20
+[23:26:58] cqd-aFl9 GAME: Hallway_4way loaded at at 54,119,20
+[23:26:59] cqd-aFl9 GAME: crematorium loaded at at 41,119,20
+[23:27:00] cqd-aFl9 GAME: Escape_Pod_West-East loaded at at 28,119,20
+[23:27:01] cqd-aFl9 GAME: Escape_Pod_West-East loaded at at 15,119,20
+[23:27:01] cqd-aFl9 GAME: Escape_Pod_West-East loaded at at 15,110,20
+[23:27:02] cqd-aFl9 GAME: autolathe_South-East loaded at at 2,110,20
+[23:27:02] cqd-aFl9 GAME: garden loaded at at 2,101,20
+[23:27:02] cqd-aFl9 GAME: Escape_Pod_West-East loaded at at 15,101,20
+[23:27:03] cqd-aFl9 GAME: crematorium loaded at at 28,101,20
+[23:27:03] cqd-aFl9 GAME: Hallway_4way loaded at at 41,101,20
+[23:27:03] cqd-aFl9 GAME: checkpoint_horizontal loaded at at 54,101,20
+[23:27:04] cqd-aFl9 GAME: Hallway_4way loaded at at 67,101,20
+[23:27:04] cqd-aFl9 GAME: garden loaded at at 80,101,20
+[23:27:05] cqd-aFl9 GAME: Escape_Pod_West-East loaded at at 80,92,20
+[23:27:05] cqd-aFl9 GAME: crematorium loaded at at 67,92,20
+[23:27:05] cqd-aFl9 GAME: Hallway_4way loaded at at 54,92,20
+[23:27:06] cqd-aFl9 GAME: crematorium loaded at at 41,92,20
+[23:27:07] cqd-aFl9 GAME: garden loaded at at 41,83,20
+[23:27:07] cqd-aFl9 GAME: garden loaded at at 54,83,20
+[23:27:08] cqd-aFl9 GAME: penitentiary loaded at at 67,83,20
+[23:27:08] cqd-aFl9 GAME: showers loaded at at 80,83,20
+[23:27:09] cqd-aFl9 GAME: Hallway_4way loaded at at 93,83,20
+[23:27:09] cqd-aFl9 GAME: Escape_Pod_West-East loaded at at 106,83,20
+[23:27:09] cqd-aFl9 GAME: Escape_Pod_West-East loaded at at 119,83,20
+[23:27:10] cqd-aFl9 GAME: Hallway_4way loaded at at 132,83,20
+[23:27:10] cqd-aFl9 GAME: crematorium loaded at at 145,83,20
+[23:27:12] cqd-aFl9 GAME: garden loaded at at 145,74,20
+[23:27:12] cqd-aFl9 GAME: garden loaded at at 158,74,20
+[23:27:13] cqd-aFl9 GAME: checkpoint_horizontal loaded at at 171,74,20
+[23:27:13] cqd-aFl9 GAME: Escape_Pod_West-East loaded at at 184,74,20
+[23:27:13] cqd-aFl9 GAME: hallway_storage loaded at at 184,65,20
+[23:27:15] cqd-aFl9 GAME: garden loaded at at 184,56,20
+[23:27:15] cqd-aFl9 GAME: checkpoint_horizontal loaded at at 171,56,20
+[23:27:15] cqd-aFl9 GAME: garden loaded at at 158,56,20
+[23:27:16] cqd-aFl9 GAME: Escape_Pod_West-East loaded at at 145,56,20
+[23:27:16] cqd-aFl9 GAME: hallwayatmos_west-east loaded at at 132,56,20
+[23:27:17] cqd-aFl9 GAME: Hallway_4way loaded at at 119,56,20
+[23:27:17] cqd-aFl9 GAME: hallwayatmos_west-east loaded at at 106,56,20
+[23:27:17] cqd-aFl9 GAME: Hallway_4way loaded at at 93,56,20
+[23:27:18] cqd-aFl9 GAME: checkpoint_horizontal loaded at at 80,56,20
+[23:27:18] cqd-aFl9 GAME: hallwayatmos_west-east loaded at at 67,56,20
+[23:27:18] cqd-aFl9 GAME: Hallway_4way loaded at at 54,56,20
+[23:27:19] cqd-aFl9 GAME: hallway_storage loaded at at 54,47,20
+[23:27:20] cqd-aFl9 GAME: Hallway_4way loaded at at 54,38,20
+[23:27:20] cqd-aFl9 GAME: Escape_Pod_West-East loaded at at 41,38,20
+[23:27:20] cqd-aFl9 GAME: Hallway_4way loaded at at 28,38,20
+[23:27:21] cqd-aFl9 GAME: autolathe_South-East loaded at at 15,38,20
+[23:27:22] cqd-aFl9 GAME: garden loaded at at 15,29,20
+[23:27:22] cqd-aFl9 GAME: garden loaded at at 2,29,20
+[23:27:23] cqd-aFl9 GAME: garden loaded at at 2,20,20
+[23:27:23] cqd-aFl9 GAME: showers loaded at at 15,20,20
+[23:27:24] cqd-aFl9 GAME: crematorium loaded at at 28,20,20
+[23:27:24] cqd-aFl9 GAME: Hallway_4way loaded at at 41,20,20
+[23:27:24] cqd-aFl9 GAME: Escape_Pod_West-East loaded at at 54,20,20
+[23:27:25] cqd-aFl9 GAME: crematorium loaded at at 67,20,20
+[23:27:25] cqd-aFl9 GAME: Escape_Pod_West-East loaded at at 80,20,20
+[23:27:26] cqd-aFl9 GAME: Hallway_4way loaded at at 80,11,20
+[23:27:26] cqd-aFl9 GAME: Hallway_4way loaded at at 80,2,20
+[23:27:27] cqd-aFl9 GAME: hallwayatmos_west-east loaded at at 67,2,20
+[23:27:27] cqd-aFl9 GAME: Exit - 1 loaded at at 54,2,20
+[23:27:51] cqd-aFl9 GAME: surgery loaded at at 28,47,20
+[23:27:52] cqd-aFl9 GAME: armory loaded at at 132,110,20
+[23:27:53] cqd-aFl9 GAME: shooting_range loaded at at 80,110,20
+[23:27:53] cqd-aFl9 GAME: surgery loaded at at 184,47,20
+[23:27:55] cqd-aFl9 GAME: surgery loaded at at 2,11,20
+[23:27:57] cqd-aFl9 GAME: surgery loaded at at 41,29,20
+[23:27:59] cqd-aFl9 GAME: commanderoffice loaded at at 119,128,20
+[23:27:59] cqd-aFl9 GAME: armory loaded at at 106,110,20
+[23:28:00] cqd-aFl9 GAME: anomaly loaded at at 54,11,20
+[23:28:01] cqd-aFl9 GAME: armory_secure loaded at at 197,74,20
+[23:28:06] cqd-aFl9 GAME: cargo_horizontal loaded at at 93,101,20
+[23:28:08] cqd-aFl9 GAME: refinery loaded at at 67,11,20
+[23:28:09] cqd-aFl9 GAME: shooting_range loaded at at 93,20,20
+[23:28:10] cqd-aFl9 GAME: shooting_range loaded at at 184,83,20
+[23:28:11] cqd-aFl9 GAME: anomaly loaded at at 184,110,20
+[23:28:11] cqd-aFl9 GAME: surgery loaded at at 197,110,20
+[23:28:13] cqd-aFl9 GAME: surgery loaded at at 41,11,20
+[23:28:14] cqd-aFl9 GAME: anomaly loaded at at 119,47,20
+[23:28:15] cqd-aFl9 GAME: shooting_range loaded at at 28,110,20
+[23:28:17] cqd-aFl9 GAME: refinery loaded at at 28,92,20
+[23:28:18] cqd-aFl9 GAME: shooting_range loaded at at 54,29,20
+[23:28:24] cqd-aFl9 GAME: surgery loaded at at 106,92,20
+[23:28:31] cqd-aFl9 GAME: anomaly loaded at at 158,47,20
+[23:28:33] cqd-aFl9 GAME: shooting_range loaded at at 158,83,20
+[23:28:35] cqd-aFl9 GAME: shooting_range loaded at at 2,38,20
+[23:28:36] cqd-aFl9 GAME: shooting_range loaded at at 106,128,20
+[23:28:39] cqd-aFl9 GAME: surgery loaded at at 158,65,20
+[23:28:41] cqd-aFl9 GAME: office loaded at at 67,110,20
+[23:28:42] cqd-aFl9 GAME: morgue loaded at at 153,73,21
+[23:28:42] cqd-aFl9 GAME: catwalks loaded at at 17,112,21
+[23:28:42] cqd-aFl9 GAME: Trash loaded at at 111,105,21
+[23:28:43] cqd-aFl9 GAME: mechbay loaded at at 83,47,21
+[23:28:43] cqd-aFl9 GAME: storage loaded at at 31,100,21
+[23:28:43] cqd-aFl9 GAME: freezer loaded at at 23,82,21
+[23:28:43] cqd-aFl9 GAME: catwalks loaded at at 74,95,21
+[23:28:43] cqd-aFl9 GAME: catwalks loaded at at 28,27,21
+[23:28:43] cqd-aFl9 GAME: storage loaded at at 117,123,21
+[23:28:43] cqd-aFl9 GAME: hydro loaded at at 124,96,21
+[23:28:43] cqd-aFl9 GAME: hydro loaded at at 116,60,21
+[23:28:44] cqd-aFl9 GAME: hydro loaded at at 68,151,21
+[23:28:44] cqd-aFl9 GAME: a lost roach loaded at at 94,32,21
+[23:28:44] cqd-aFl9 GAME: Medical supplies loaded at at 92,20,21
+[23:28:44] cqd-aFl9 GAME: cryo loaded at at 120,84,21
+[23:28:44] cqd-aFl9 GAME: anomalysci loaded at at 99,117,21
+[23:28:44] cqd-aFl9 GAME: Medical supplies loaded at at 153,131,21
+[23:28:44] cqd-aFl9 GAME: storage loaded at at 141,142,21
+[23:28:45] cqd-aFl9 GAME: mechbay loaded at at 47,149,21
+[23:28:45] cqd-aFl9 GAME: office loaded at at 136,71,21
+[23:28:45] cqd-aFl9 GAME: hydro loaded at at 19,151,21
+[23:28:45] cqd-aFl9 GAME: mechbay loaded at at 148,114,21
+[23:28:45] cqd-aFl9 GAME: catwalks loaded at at 33,128,21
+[23:28:45] cqd-aFl9 GAME: mechbay loaded at at 138,48,21
+[23:28:45] cqd-aFl9 GAME: Medical supplies loaded at at 43,95,21
+[23:28:45] cqd-aFl9 GAME: Medical supplies loaded at at 87,145,21
+[23:28:46] cqd-aFl9 GAME: barricades loaded at at 150,59,21
+[23:28:46] cqd-aFl9 GAME: anomalysci loaded at at 149,27,21
+[23:28:46] cqd-aFl9 VOTE: <b>Votes:</b><br>	The Guide - 0 vote.<br>	The Jester - 0 vote.<br><b>	The Healer - 1 vote.<br></b>	Ghost Town - 0 vote.<br>	The Sleeper - 0 vote.<br>	The Warrior - 0 vote.<br>	The Mime - 0 vote.<br>	The Chronicler - 0 vote.<br>	Did not vote - 1<br>
+[23:28:46] cqd-aFl9 GAME: mechbay loaded at at 34,141,21
+[23:28:46] cqd-aFl9 GAME: anomalysci loaded at at 12,132,21
+[23:28:46] cqd-aFl9 GAME: cargo_vertical loaded at at 106,137,20
+[23:28:47] cqd-aFl9 ADMIN: RiotScopez/(/(RiotScopez)) delayed the game.
+[23:28:47] cqd-aFl9 GAME: shooting_range loaded at at 93,11,20
+[23:28:48] cqd-aFl9 GAME: surgery loaded at at 119,74,20
+[23:28:54] cqd-aFl9 GAME: shooting_range loaded at at 28,11,20
+[23:29:00] cqd-aFl9 GAME: surgery loaded at at 54,110,20
+[23:29:02] cqd-aFl9 ADMIN: Athirson/(/(Athirson)) Athirson/(/(Athirson)) has saved their preferences.
+[23:29:02] cqd-aFl9 ADMIN: Athirson/(/(Athirson)) Athirson/(/(Athirson)) has saved a character.
+[23:29:06] cqd-aFl9 GAME: surgery loaded at at 2,47,20
+[23:29:11] cqd-aFl9 GAME: shooting_range loaded at at 80,128,20
+[23:29:12] cqd-aFl9 GAME: anomaly loaded at at 197,101,20
+[23:29:13] cqd-aFl9 GAME: mechbay loaded at at 41,2,20
+[23:29:13] cqd-aFl9 GAME: shooting_range loaded at at 93,92,20
+[23:29:15] cqd-aFl9 GAME: armory loaded at at 28,29,20
+[23:29:16] cqd-aFl9 GAME: armory_secure loaded at at 67,38,20
+[23:29:17] cqd-aFl9 ADMIN: RiotScopez/(/(RiotScopez)) removed the delay.
+[23:29:19] cqd-aFl9 ADMIN: RiotScopez/(/(RiotScopez)) delayed the game.
+[23:29:19] cqd-aFl9 GAME: cargo_vertical loaded at at 93,29,20
+[23:29:20] cqd-aFl9 GAME: shooting_range loaded at at 197,137,20
+[23:29:20] cqd-aFl9 GAME: shooting_range loaded at at 28,128,20
+[23:29:21] cqd-aFl9 GAME: anomaly loaded at at 119,65,20
+[23:29:21] cqd-aFl9 GAME: blocker loaded at at 2,137,20
+[23:29:21] cqd-aFl9 GAME: blocker loaded at at 15,137,20
+[23:29:21] cqd-aFl9 GAME: blocker loaded at at 28,137,20
+[23:29:21] cqd-aFl9 GAME: blocker loaded at at 41,137,20
+[23:29:21] cqd-aFl9 GAME: blocker loaded at at 54,137,20
+[23:29:21] cqd-aFl9 GAME: blocker loaded at at 67,137,20
+[23:29:21] cqd-aFl9 GAME: blocker loaded at at 80,137,20
+[23:29:21] cqd-aFl9 GAME: blocker loaded at at 93,137,20
+[23:29:21] cqd-aFl9 GAME: blocker loaded at at 145,137,20
+[23:29:21] cqd-aFl9 GAME: blocker loaded at at 158,137,20
+[23:29:21] cqd-aFl9 GAME: blocker loaded at at 171,137,20
+[23:29:21] cqd-aFl9 GAME: blocker loaded at at 184,137,20
+[23:29:21] cqd-aFl9 GAME: blocker loaded at at 2,128,20
+[23:29:21] cqd-aFl9 GAME: blocker loaded at at 15,128,20
+[23:29:21] cqd-aFl9 GAME: blocker loaded at at 41,128,20
+[23:29:22] cqd-aFl9 GAME: blocker loaded at at 54,128,20
+[23:29:22] cqd-aFl9 GAME: blocker loaded at at 67,128,20
+[23:29:22] cqd-aFl9 GAME: blocker loaded at at 93,128,20
+[23:29:22] cqd-aFl9 GAME: blocker loaded at at 2,119,20
+[23:29:22] cqd-aFl9 GAME: blocker loaded at at 41,110,20
+[23:29:22] cqd-aFl9 GAME: blocker loaded at at 93,110,20
+[23:29:22] cqd-aFl9 GAME: blocker loaded at at 119,110,20
+[23:29:22] cqd-aFl9 GAME: blocker loaded at at 145,110,20
+[23:29:22] cqd-aFl9 GAME: blocker loaded at at 158,110,20
+[23:29:22] cqd-aFl9 GAME: blocker loaded at at 171,110,20
+[23:29:22] cqd-aFl9 GAME: blocker loaded at at 106,101,20
+[23:29:22] cqd-aFl9 GAME: blocker loaded at at 119,101,20
+[23:29:22] cqd-aFl9 GAME: blocker loaded at at 132,101,20
+[23:29:22] cqd-aFl9 GAME: blocker loaded at at 145,101,20
+[23:29:22] cqd-aFl9 GAME: blocker loaded at at 158,101,20
+[23:29:22] cqd-aFl9 GAME: blocker loaded at at 171,101,20
+[23:29:23] cqd-aFl9 GAME: blocker loaded at at 184,101,20
+[23:29:23] cqd-aFl9 GAME: blocker loaded at at 2,92,20
+[23:29:23] cqd-aFl9 GAME: blocker loaded at at 15,92,20
+[23:29:23] cqd-aFl9 GAME: blocker loaded at at 119,92,20
+[23:29:23] cqd-aFl9 GAME: blocker loaded at at 132,92,20
+[23:29:23] cqd-aFl9 GAME: blocker loaded at at 145,92,20
+[23:29:23] cqd-aFl9 GAME: blocker loaded at at 158,92,20
+[23:29:23] cqd-aFl9 GAME: blocker loaded at at 171,92,20
+[23:29:23] cqd-aFl9 GAME: blocker loaded at at 184,92,20
+[23:29:23] cqd-aFl9 GAME: blocker loaded at at 197,92,20
+[23:29:23] cqd-aFl9 GAME: blocker loaded at at 2,83,20
+[23:29:23] cqd-aFl9 GAME: blocker loaded at at 15,83,20
+[23:29:23] cqd-aFl9 GAME: blocker loaded at at 28,83,20
+[23:29:23] cqd-aFl9 GAME: blocker loaded at at 171,83,20
+[23:29:23] cqd-aFl9 GAME: blocker loaded at at 197,83,20
+[23:29:23] cqd-aFl9 GAME: blocker loaded at at 2,74,20
+[23:29:23] cqd-aFl9 GAME: blocker loaded at at 15,74,20
+[23:29:23] cqd-aFl9 GAME: blocker loaded at at 28,74,20
+[23:29:24] cqd-aFl9 GAME: blocker loaded at at 41,74,20
+[23:29:24] cqd-aFl9 GAME: blocker loaded at at 54,74,20
+[23:29:24] cqd-aFl9 GAME: blocker loaded at at 67,74,20
+[23:29:24] cqd-aFl9 GAME: blocker loaded at at 80,74,20
+[23:29:24] cqd-aFl9 GAME: blocker loaded at at 93,74,20
+[23:29:24] cqd-aFl9 GAME: blocker loaded at at 106,74,20
+[23:29:24] cqd-aFl9 GAME: blocker loaded at at 132,74,20
+[23:29:24] cqd-aFl9 GAME: blocker loaded at at 2,65,20
+[23:29:24] cqd-aFl9 GAME: blocker loaded at at 15,65,20
+[23:29:24] cqd-aFl9 GAME: blocker loaded at at 28,65,20
+[23:29:24] cqd-aFl9 GAME: blocker loaded at at 41,65,20
+[23:29:24] cqd-aFl9 GAME: blocker loaded at at 54,65,20
+[23:29:24] cqd-aFl9 GAME: blocker loaded at at 67,65,20
+[23:29:24] cqd-aFl9 GAME: blocker loaded at at 80,65,20
+[23:29:24] cqd-aFl9 GAME: blocker loaded at at 93,65,20
+[23:29:24] cqd-aFl9 GAME: blocker loaded at at 106,65,20
+[23:29:24] cqd-aFl9 GAME: blocker loaded at at 132,65,20
+[23:29:24] cqd-aFl9 GAME: blocker loaded at at 145,65,20
+[23:29:25] cqd-aFl9 GAME: blocker loaded at at 171,65,20
+[23:29:25] cqd-aFl9 GAME: blocker loaded at at 197,65,20
+[23:29:25] cqd-aFl9 GAME: blocker loaded at at 2,56,20
+[23:29:25] cqd-aFl9 GAME: blocker loaded at at 15,56,20
+[23:29:25] cqd-aFl9 GAME: blocker loaded at at 28,56,20
+[23:29:25] cqd-aFl9 GAME: blocker loaded at at 41,56,20
+[23:29:25] cqd-aFl9 GAME: blocker loaded at at 197,56,20
+[23:29:25] cqd-aFl9 GAME: blocker loaded at at 15,47,20
+[23:29:25] cqd-aFl9 GAME: blocker loaded at at 41,47,20
+[23:29:25] cqd-aFl9 GAME: blocker loaded at at 67,47,20
+[23:29:25] cqd-aFl9 GAME: blocker loaded at at 80,47,20
+[23:29:25] cqd-aFl9 GAME: blocker loaded at at 93,47,20
+[23:29:25] cqd-aFl9 GAME: blocker loaded at at 106,47,20
+[23:29:25] cqd-aFl9 GAME: blocker loaded at at 132,47,20
+[23:29:25] cqd-aFl9 GAME: blocker loaded at at 145,47,20
+[23:29:25] cqd-aFl9 GAME: blocker loaded at at 171,47,20
+[23:29:26] cqd-aFl9 GAME: blocker loaded at at 197,47,20
+[23:29:26] cqd-aFl9 GAME: blocker loaded at at 80,38,20
+[23:29:26] cqd-aFl9 GAME: blocker loaded at at 93,38,20
+[23:29:26] cqd-aFl9 GAME: blocker loaded at at 106,38,20
+[23:29:26] cqd-aFl9 GAME: blocker loaded at at 119,38,20
+[23:29:26] cqd-aFl9 GAME: blocker loaded at at 132,38,20
+[23:29:26] cqd-aFl9 GAME: blocker loaded at at 145,38,20
+[23:29:26] cqd-aFl9 GAME: blocker loaded at at 158,38,20
+[23:29:26] cqd-aFl9 GAME: blocker loaded at at 171,38,20
+[23:29:26] cqd-aFl9 GAME: blocker loaded at at 184,38,20
+[23:29:26] cqd-aFl9 GAME: blocker loaded at at 197,38,20
+[23:29:26] cqd-aFl9 GAME: blocker loaded at at 67,29,20
+[23:29:26] cqd-aFl9 GAME: blocker loaded at at 80,29,20
+[23:29:26] cqd-aFl9 GAME: blocker loaded at at 106,29,20
+[23:29:26] cqd-aFl9 GAME: blocker loaded at at 119,29,20
+[23:29:27] cqd-aFl9 GAME: blocker loaded at at 132,29,20
+[23:29:27] cqd-aFl9 GAME: blocker loaded at at 145,29,20
+[23:29:27] cqd-aFl9 GAME: blocker loaded at at 158,29,20
+[23:29:27] cqd-aFl9 GAME: blocker loaded at at 171,29,20
+[23:29:27] cqd-aFl9 GAME: blocker loaded at at 184,29,20
+[23:29:27] cqd-aFl9 GAME: blocker loaded at at 197,29,20
+[23:29:27] cqd-aFl9 GAME: blocker loaded at at 106,20,20
+[23:29:27] cqd-aFl9 GAME: blocker loaded at at 119,20,20
+[23:29:27] cqd-aFl9 GAME: blocker loaded at at 132,20,20
+[23:29:27] cqd-aFl9 GAME: blocker loaded at at 145,20,20
+[23:29:27] cqd-aFl9 GAME: blocker loaded at at 158,20,20
+[23:29:27] cqd-aFl9 GAME: blocker loaded at at 171,20,20
+[23:29:27] cqd-aFl9 GAME: blocker loaded at at 184,20,20
+[23:29:27] cqd-aFl9 GAME: blocker loaded at at 197,20,20
+[23:29:27] cqd-aFl9 GAME: blocker loaded at at 15,11,20
+[23:29:27] cqd-aFl9 GAME: blocker loaded at at 106,11,20
+[23:29:27] cqd-aFl9 GAME: blocker loaded at at 119,11,20
+[23:29:27] cqd-aFl9 GAME: blocker loaded at at 132,11,20
+[23:29:27] cqd-aFl9 GAME: blocker loaded at at 145,11,20
+[23:29:27] cqd-aFl9 GAME: blocker loaded at at 158,11,20
+[23:29:27] cqd-aFl9 GAME: blocker loaded at at 171,11,20
+[23:29:27] cqd-aFl9 GAME: blocker loaded at at 184,11,20
+[23:29:28] cqd-aFl9 GAME: blocker loaded at at 197,11,20
+[23:29:28] cqd-aFl9 GAME: blocker loaded at at 2,2,20
+[23:29:28] cqd-aFl9 GAME: blocker loaded at at 15,2,20
+[23:29:28] cqd-aFl9 GAME: blocker loaded at at 28,2,20
+[23:29:28] cqd-aFl9 GAME: blocker loaded at at 93,2,20
+[23:29:28] cqd-aFl9 GAME: blocker loaded at at 106,2,20
+[23:29:28] cqd-aFl9 GAME: blocker loaded at at 119,2,20
+[23:29:28] cqd-aFl9 GAME: blocker loaded at at 132,2,20
+[23:29:28] cqd-aFl9 GAME: blocker loaded at at 145,2,20
+[23:29:28] cqd-aFl9 GAME: blocker loaded at at 158,2,20
+[23:29:28] cqd-aFl9 GAME: blocker loaded at at 171,2,20
+[23:29:28] cqd-aFl9 GAME: blocker loaded at at 184,2,20
+[23:29:28] cqd-aFl9 GAME: blocker loaded at at 197,2,20
+[23:29:37] cqd-aFl9 OOC: RiotScopez/RiotScopez : Cat Explotano
+[23:30:34] cqd-aFl9 OOC: Athirson/Athirson : I explotano!
+[23:31:36] cqd-aFl9 OOC: Athirson/Athirson : I would vote the sleeper, because cat a mimir
+[23:32:21] cqd-aFl9 OOC: Athirson/Athirson : also I&#39;m curious to know if stats save trough rounds
+[23:33:50] cqd-aFl9 ACCESS: Login: Hiresz/() from 177.145.12.132-734227428 || BYOND v514.1589
+[23:33:50] cqd-aFl9 ACCESS: Login: Hiresz/(/(Hiresz)) from 177.145.12.132-734227428 || BYOND v514
+[23:33:50] cqd-aFl9 DEBUG: Could not find style "ErisStyle" for /mob/new_player.
+[23:33:50] cqd-aFl9 ACCESS: Login: Hiresz/(/(Hiresz)) from 177.145.12.132-734227428 || BYOND v514
+[23:34:22] cqd-aFl9 ADMIN: RiotScopez/(/(RiotScopez)) removed the delay.
+[23:34:28] cqd-aFl9 ACCESS: Logout: *no key*/(/(RiotScopez))
+[23:34:28] cqd-aFl9 ACCESS: Login: riotscopez/(/(Amaya Paynter)) from 146.115.147.185-1871707424 || BYOND v514
+[23:37:25] cqd-aFl9 ADMIN: Athirson/(/(Athirson)) Athirson/(/(Athirson)) has saved their preferences.
+[23:37:26] cqd-aFl9 ADMIN: Athirson/(/(Athirson)) Athirson/(/(Athirson)) has saved a character.
+[23:39:42] cqd-aFl9 ACCESS: Logout: *no key*/(/(Athirson))
+[23:39:42] cqd-aFl9 ACCESS: Login: Athirson/(/(Robin Blessig)) from 189.113.253.210-1848351067 || BYOND v514
+[23:39:42] cqd-aFl9 DEBUG: Could not find style "ErisStyle" for /mob/living/carbon/human.
+[23:39:45] cqd-aFl9 DEBUG: Creating records for Robin Blessig
+[23:39:54] cqd-aFl9 SAY: *no key*/(/(rat (456))) squeals! 
+[23:39:54] cqd-aFl9 SAY: *no key*/(/(rat (108))) squeals! 
+[23:39:56] cqd-aFl9 SAY: *no key*/(/(rat (421))) squeals! 
+[23:39:56] cqd-aFl9 SAY: *no key*/(/(rat (822))) squeals! 
+[23:39:56] cqd-aFl9 SAY: *no key*/(/(rat (737))) squeals! 
+[23:39:57] cqd-aFl9 SAY: *no key*/(/(rat (609))) squeals! 
+[23:39:58] cqd-aFl9 SAY: *no key*/(/(rat (950))) squeals! 
+[23:39:58] cqd-aFl9 SAY: /Athirson : TIME TO CLEAN!
+[23:39:59] cqd-aFl9 SAY: Durable Kraftwerk Roach/ : 10101010011100010101.
+[23:40:05] cqd-aFl9 SAY: *no key*/(/(rat (642))) squeals! 
+[23:40:07] cqd-aFl9 SAY: *no key*/(/(rat (386))) squeals! 
+[23:40:07] cqd-aFl9 GAME: Explosion with size (-1, 1, 2) in area Vault Bunker 
+[23:40:07] cqd-aFl9 GAME: Explosion with size (0, 1, 3) in area Vault Bunker 
+[23:40:07] cqd-aFl9 GAME: Explosion with size (0, 1, 3) in area Vault Bunker 
+[23:40:12] cqd-aFl9 SAY: Durable Kraftwerk Roach/ : 10101010011100010101.
+[23:40:16] cqd-aFl9 SAY: *no key*/(/(rat (473))) squeals! 
+[23:41:09] cqd-aFl9 SAY: *no key*/(/(rat (687))) squeals! 
+[23:41:09] cqd-aFl9 SAY: *no key*/(/(rat (674))) squeals! 
+[23:41:09] cqd-aFl9 SAY: *no key*/(/(rat (411))) squeals! 
+[23:41:10] cqd-aFl9 SAY: *no key*/(/(rat (402))) squeals! 
+[23:41:10] cqd-aFl9 SAY: Quick Kraftwerk Roach/ : 10101010011100010101.
+[23:41:10] cqd-aFl9 SAY: Quick Kraftwerk Roach/ : 10101010011100010101.
+[23:41:10] cqd-aFl9 SAY: *no key*/(/(rat (388))) squeals! 
+[23:41:11] cqd-aFl9 SAY: *no key*/(/(rat (802))) squeals! 
+[23:41:11] cqd-aFl9 SAY: *no key*/(/(rat (786))) squeals! 
+[23:41:11] cqd-aFl9 SAY: *no key*/(/(rat (92))) squeals! 
+[23:41:11] cqd-aFl9 SAY: *no key*/(/(rat (374))) squeals! 
+[23:41:13] cqd-aFl9 SAY: Durable Kraftwerk Roach/ : 10101010011100010101.
+[23:41:13] cqd-aFl9 SAY: Durable Kraftwerk Roach/ : 10101010011100010101.
+[23:41:13] cqd-aFl9 SAY: Durable Kraftwerk Roach/ : 10101010011100010101.
+[23:41:13] cqd-aFl9 SAY: Biosilicified Kraftwerk Roach/ : 10101010011100010101.
+[23:41:17] cqd-aFl9 SAY: *no key*/(/(rat (907))) squeals! 
+[23:41:20] cqd-aFl9 GAME: Explosion with size (0, 1, 3) in area Greyson Field Offices 
+[23:41:21] cqd-aFl9 GAME: Explosion with size (0, 1, 3) in area Greyson Field Offices 
+[23:41:52] cqd-aFl9 GAME: Explosion with size (0, 1, 3) in area Hunting plains underground caves 
+[23:41:52] cqd-aFl9 SAY: Lambertian Kraftwerk Roach/ : 10101010011100010101.
+[23:41:54] cqd-aFl9 GAME: Explosion with size (-1, 0, 1) in area Vault Bunker 
+[23:41:55] cqd-aFl9 SAY: Durable Kraftwerk Roach/ : 10101010011100010101.
+[23:41:55] cqd-aFl9 SAY: Durable Kraftwerk Roach/ : 10101010011100010101.
+[23:42:11] cqd-aFl9 GAME: Explosion with size (-1, 0, 1) in area Deep Maintenance 
+[23:42:13] cqd-aFl9 GAME: Explosion with size (0, 1, 3) in area Greyson Field Offices 
+[23:42:22] cqd-aFl9 ACCESS: Logout: Hiresz/(/(Hiresz))
+[23:42:22] cqd-aFl9 ACCESS: Logout: Hiresz[DC]/(/(Hiresz))
+[23:42:31] cqd-aFl9 SAY: Quick Kraftwerk Roach/ : 10101010011100010101.
+[23:43:02] cqd-aFl9 SAY: Durable Kraftwerk Roach/ : 10101010011100010101.
+[23:43:02] cqd-aFl9 SAY: Biosilicified Kraftwerk Roach/ : 10101010011100010101.
+[23:43:07] cqd-aFl9 EMOTE: Weak Pushka termite/ : <B>Weak Pushka termite</B> coughs!
+[23:43:14] cqd-aFl9 OOC: Robin Blessig/Athirson : I&#39;m gonna explotano irl
+[23:43:19] cqd-aFl9 OOC: Robin Blessig/Athirson : she left
+[23:43:35] cqd-aFl9 SAY: Quick Kraftwerk Roach/ : 10101010011100010101.
+[23:43:37] cqd-aFl9 SAY: Durable Kraftwerk Roach/ : 10101010011100010101.
+[23:43:49] cqd-aFl9 SAY: Durable Kraftwerk Roach/ : 10101010011100010101.
+[23:43:59] cqd-aFl9 SAY: Durable Kraftwerk Roach/ : 10101010011100010101.
+[23:44:16] cqd-aFl9 SAY: *no key*/(/(rat (948))) squeals! 
+[23:44:16] cqd-aFl9 SAY: *no key*/(/(rat (952))) squeals! 
+[23:44:34] cqd-aFl9 GAME: Explosion with size (-1, 0, 1) in area Deep Maintenance 
+[23:44:39] cqd-aFl9 GAME: Explosion with size (-1, 1, 2) in area Swamp Caves 
+[23:45:17] cqd-aFl9 GAME: Explosion with size (-1, 1, 2) in area Deep Maintenance 
+[23:45:32] cqd-aFl9 GAME: Explosion with size (-1, 0, 1) in area Junk Field 
+[23:45:36] cqd-aFl9 SAY: Biosilicified Kraftwerk Roach/ : 10101010011100010101.
+[23:45:40] cqd-aFl9 GAME: Explosion with size (-1, 0, 1) in area Underground Floor 1 South Maintenance 
+[23:46:09] cqd-aFl9 SAY: Kraftwerk Roach/ : 10101010011100010101.
+[23:46:19] cqd-aFl9 SAY: Kraftwerk Roach/ : 10101010011100010101.
+[23:46:32] cqd-aFl9 OOC: Amaya Paynter/RiotScopez : The die
+[23:46:41] cqd-aFl9 SAY: Ghost/riotscopez : That&#39;s sad
+[23:46:51] cqd-aFl9 OOC: Amaya Paynter/RiotScopez : Thats sad
+[23:46:59] cqd-aFl9 GAME: Explosion with size (-1, 0, 1) in area Deep Maintenance 
+[23:47:10] cqd-aFl9 SAY: grey baby slime (208)/ : Blop...
+[23:47:29] cqd-aFl9 GAME: Explosion with size (-1, 0, 1) in area Deep Maintenance 
+[23:47:30] cqd-aFl9 GAME: Explosion with size (-1, 0, 1) in area Vault Bunker 
+[23:48:10] cqd-aFl9 SAY: Biosilicified Kraftwerk Roach/ : 10101010011100010101.
+[23:48:17] cqd-aFl9 SAY: Durable Kraftwerk Roach/ : 10101010011100010101.
+[23:49:44] cqd-aFl9 GAME: Explosion with size (-1, 0, 1) in area Deep Maintenance 
+[23:51:26] cqd-aFl9 SAY: grey baby slime (206)/ : Blop...
+[23:51:26] cqd-aFl9 ATTACK: Athirson/(/(Robin Blessig)) attacked *no key*/(/(Biosilicified Jager Roach)) with mop (Wielded) (INTENT: HELP) (DAMTYE: BRUTE)
+[23:51:27] cqd-aFl9 ATTACK: Athirson/(/(Robin Blessig)) attacked *no key*/(/(Biosilicified Jager Roach)) with mop (Wielded) (INTENT: HELP) (DAMTYE: BRUTE)
+[23:51:28] cqd-aFl9 SAY: grey baby slime (399)/ : Brother...
+[23:51:28] cqd-aFl9 ATTACK: Athirson/(/(Robin Blessig)) attacked *no key*/(/(Biosilicified Jager Roach)) with mop (Wielded) (INTENT: HELP) (DAMTYE: BRUTE)
+[23:51:29] cqd-aFl9 ATTACK: Athirson/(/(Robin Blessig)) attacked *no key*/(/(Biosilicified Jager Roach)) with mop (Wielded) (INTENT: HELP) (DAMTYE: BRUTE)
+[23:51:30] cqd-aFl9 ATTACK: Athirson/(/(Robin Blessig)) attacked *no key*/(/(Biosilicified Jager Roach)) with mop (Wielded) (INTENT: HELP) (DAMTYE: BRUTE)
+[23:51:31] cqd-aFl9 ATTACK: Athirson/(/(Robin Blessig)) attacked *no key*/(/(Durable Kampfer Roach)) with mop (Wielded) (INTENT: HELP) (DAMTYE: BRUTE)
+[23:51:32] cqd-aFl9 ATTACK: Athirson/(/(Robin Blessig)) attacked *no key*/(/(Durable Kampfer Roach)) with mop (Wielded) (INTENT: HELP) (DAMTYE: BRUTE)
+[23:51:33] cqd-aFl9 ATTACK: Athirson/(/(Robin Blessig)) attacked *no key*/(/(Durable Kampfer Roach)) with mop (Wielded) (INTENT: HELP) (DAMTYE: BRUTE)
+[23:51:34] cqd-aFl9 ATTACK: Athirson/(/(Robin Blessig)) attacked *no key*/(/(Durable Kampfer Roach)) with mop (Wielded) (INTENT: HELP) (DAMTYE: BRUTE)
+[23:51:43] cqd-aFl9 SAY: Durable Kraftwerk Roach/ : 10101010011100010101.
+[23:51:47] cqd-aFl9 SAY: Quick Kraftwerk Roach/ : 10101010011100010101.
+[23:51:57] cqd-aFl9 SAY: grey baby slime (399)/ : Brother...
+[23:53:06] cqd-aFl9 ADMIN: Athirson/(/(Robin Blessig)) used their Smuggled Tools perk. (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=95;Y=105;Z=3'>JMP</a>)
+[23:53:30] cqd-aFl9 DEBUG: passed list to getStat(), statName without a list: /list
+[23:57:03] cqd-aFl9 ACCESS: Logout: *no key*/(/(Amaya Paynter))
+[23:57:03] cqd-aFl9 ACCESS: Login: riotscopez/(/(Arnie Matthews)) from 146.115.147.185-1871707424 || BYOND v514
+[23:57:03] cqd-aFl9 DEBUG: Runtime in asset_transport.dm,90: Invalid argument: client: `` <A HREF='?_src_=holder;viewruntime=[0x210f6c4f]'>[view]</A>
+[23:57:03] cqd-aFl9 ADMIN: *no key*/(/(Amaya Paynter)) has become a Bluespace Technician <A HREF='?_src_=holder;adminplayerobservecoodjump=1;X=130;Y=152;Z=3'>Floor Two Hallway One | 130, 152, 3</a> User:RiotScopez (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=130;Y=152;Z=3'>JMP</a>)
+[23:57:03] cqd-aFl9 ADMIN: Bluespace Tech Spawned: X:130 Y:152 Z:3 User:RiotScopez
+[23:57:15] cqd-aFl9 ADMIN: riotscopez/(/(Bluespace Technician)) has Bluespace Technician raised stats by 5 (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=130;Y=127;Z=3'>JMP</a>)
+[23:57:15] cqd-aFl9 ADMIN: riotscopez/(/(Bluespace Technician)) has Bluespace Technician raised stats by 5 (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=130;Y=127;Z=3'>JMP</a>)
+[23:57:16] cqd-aFl9 ADMIN: riotscopez/(/(Bluespace Technician)) has Bluespace Technician raised stats by 5 (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=130;Y=127;Z=3'>JMP</a>)
+[23:57:16] cqd-aFl9 ADMIN: riotscopez/(/(Bluespace Technician)) has Bluespace Technician raised stats by 5 (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=130;Y=127;Z=3'>JMP</a>)
+[23:57:35] cqd-aFl9 SAY: grey baby slime (208)/ : Blop...
+[23:57:45] cqd-aFl9 SAY: Robin Blessig/Athirson : Wuh.
+[23:57:57] cqd-aFl9 SAY: Bluespace Technician/riotscopez : Am a spess god.
+[00:00:24] cqd-aFl9 GAME: Explosion with size (-1, 0, 1) in area Prepper Base 
+[00:00:48] cqd-aFl9 GAME: Explosion with size (-1, 1, 2) in area Prepper Base 
+[00:00:51] cqd-aFl9 SAY: Robin Blessig/Athirson : I pray for my food not to burn.
+[00:00:53] cqd-aFl9 GAME: Explosion with size (-1, 0, 1) in area Deep Maintenance 
+[00:01:11] cqd-aFl9 ATTACK: riotscopez/(/(Bluespace Technician)) attacked Athirson/(/(Robin Blessig)) with shock maul (INTENT: HELP) (DAMTYE: BRUTE)
+[00:01:17] cqd-aFl9 ATTACK: riotscopez/(/(Bluespace Technician)) attacked Athirson/(/(Robin Blessig)) with shock maul (INTENT: HELP) (DAMTYE: BRUTE)
+[00:01:17] cqd-aFl9 ATTACK: riotscopez/(/(Bluespace Technician)) stunned Athirson/(/(Robin Blessig)) with the the shock maul.
+[00:01:20] cqd-aFl9 ATTACK: riotscopez/(/(Bluespace Technician)) attacked Athirson/(/(Robin Blessig)) with shock maul (INTENT: HELP) (DAMTYE: BRUTE)
+[00:01:20] cqd-aFl9 ATTACK: riotscopez/(/(Bluespace Technician)) stunned Athirson/(/(Robin Blessig)) with the the shock maul.
+[00:01:21] cqd-aFl9 SAY: Robin Blessig/Athirson : G-Guh.
+[00:01:35] cqd-aFl9 SAY: grey baby slime (206)/ : Blorble...
+[00:01:36] cqd-aFl9 SAY: Robin Blessig/Athirson : I-I-I will fight god th-then!
+[00:01:39] cqd-aFl9 ATTACK: Athirson/(/(Robin Blessig)) attacked riotscopez/(/(Bluespace Technician)) with dagger (INTENT: HELP) (DAMTYE: BRUTE)
+[00:01:39] cqd-aFl9 DEBUG: Runtime in update_icons.dm,1103: undefined variable /obj/item/clothing/accessory/job/cape/service/var/blood_overlay_type <A HREF='?_src_=holder;viewruntime=[0x210f6d38]'>[view]</A>
+[00:01:40] cqd-aFl9 ATTACK: Athirson/(/(Robin Blessig)) attacked riotscopez/(/(Bluespace Technician)) with dagger (INTENT: HELP) (DAMTYE: BRUTE)
+[00:01:41] cqd-aFl9 ATTACK: Athirson/(/(Robin Blessig)) attacked riotscopez/(/(Bluespace Technician)) with dagger (INTENT: HELP) (DAMTYE: BRUTE)
+[00:01:41] cqd-aFl9 DEBUG: Comparimg timerstamp() of 21780.3 to old_timerstamp 21297
+[00:01:46] cqd-aFl9 SAY: Biosilicified Kraftwerk Roach/ : 10101010011100010101.
+[00:01:46] cqd-aFl9 ADMIN: riotscopez/(/(Bluespace Technician)) has Bluespace Technician raised stats by 5 (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=125;Y=136;Z=3'>JMP</a>)
+[00:01:48] cqd-aFl9 SAY: Kraftwerk Roach/ : 10101010011100010101.
+[00:01:51] cqd-aFl9 ATTACK: Athirson/(/(Robin Blessig)) attacked riotscopez/(/(Bluespace Technician)) with dagger (INTENT: HELP) (DAMTYE: BRUTE)
+[00:01:51] cqd-aFl9 DEBUG: Runtime in update_icons.dm,1103: undefined variable /obj/item/clothing/accessory/job/cape/service/var/blood_overlay_type <A HREF='?_src_=holder;viewruntime=[0x210f8984]'>[view]</A>
+[00:01:52] cqd-aFl9 ATTACK: Athirson/(/(Robin Blessig)) attacked riotscopez/(/(Bluespace Technician)) with dagger (INTENT: HELP) (DAMTYE: BRUTE)
+[00:01:52] cqd-aFl9 ATTACK: riotscopez/(/(Bluespace Technician)) attacked Athirson/(/(Robin Blessig)) with shock maul (INTENT: HELP) (DAMTYE: BRUTE)
+[00:01:52] cqd-aFl9 EMOTE: Robin Blessig/Athirson : <span class='danger'>screams in agony!</span>
+[00:01:52] cqd-aFl9 EMOTE: Robin Blessig/Athirson : <B>Robin Blessig</B> <span class='danger'>screams in agony!</span>
+[00:01:52] cqd-aFl9 ATTACK: riotscopez/(/(Bluespace Technician)) stunned Athirson/(/(Robin Blessig)) with the the shock maul.
+[00:01:52] cqd-aFl9 ATTACK: Athirson/(/(Robin Blessig)) attacked riotscopez/(/(Bluespace Technician)) with dagger (INTENT: HELP) (DAMTYE: BRUTE)
+[00:01:53] cqd-aFl9 ATTACK: Athirson/(/(Robin Blessig)) attacked riotscopez/(/(Bluespace Technician)) with dagger (INTENT: HELP) (DAMTYE: BRUTE)
+[00:01:54] cqd-aFl9 ATTACK: Athirson/(/(Robin Blessig)) attacked riotscopez/(/(Bluespace Technician)) with dagger (INTENT: HELP) (DAMTYE: BRUTE)
+[00:01:55] cqd-aFl9 ATTACK: Athirson/(/(Robin Blessig)) attacked riotscopez/(/(Bluespace Technician)) with dagger (INTENT: HELP) (DAMTYE: BRUTE)
+[00:01:56] cqd-aFl9 ATTACK: Athirson/(/(Robin Blessig)) attacked riotscopez/(/(Bluespace Technician)) with dagger (INTENT: HELP) (DAMTYE: BRUTE)
+[00:01:57] cqd-aFl9 ATTACK: Athirson/(/(Robin Blessig)) attacked riotscopez/(/(Bluespace Technician)) with dagger (INTENT: HELP) (DAMTYE: BRUTE)
+[00:01:58] cqd-aFl9 ATTACK: riotscopez/(/(Bluespace Technician)) attacked Athirson/(/(Robin Blessig)) with shock maul (INTENT: HARM) (DAMTYE: BRUTE)
+[00:01:59] cqd-aFl9 SAY: Biosilicified Kraftwerk Roach/ : 10101010011100010101.
+[00:02:00] cqd-aFl9 ATTACK: riotscopez/(/(Bluespace Technician)) attacked Athirson/(/(Robin Blessig)) with shock maul (INTENT: HARM) (DAMTYE: BRUTE)
+[00:02:02] cqd-aFl9 ATTACK: Athirson/(/(Robin Blessig)) attacked riotscopez/(/(Bluespace Technician)) with dagger (INTENT: HELP) (DAMTYE: BRUTE)
+[00:02:02] cqd-aFl9 DEBUG: Runtime in update_icons.dm,1103: undefined variable /obj/item/clothing/accessory/job/cape/service/var/blood_overlay_type <A HREF='?_src_=holder;viewruntime=[0x210f8985]'>[view]</A>
+[00:02:02] cqd-aFl9 ATTACK: riotscopez/(/(Bluespace Technician)) attacked Athirson/(/(Robin Blessig)) with shock maul (INTENT: HARM) (DAMTYE: BRUTE)
+[00:02:03] cqd-aFl9 ATTACK: Athirson/(/(Robin Blessig)) attacked riotscopez/(/(Bluespace Technician)) with dagger (INTENT: HELP) (DAMTYE: BRUTE)
+[00:02:04] cqd-aFl9 ATTACK: Athirson/(/(Robin Blessig)) attacked riotscopez/(/(Bluespace Technician)) with dagger (INTENT: HELP) (DAMTYE: BRUTE)
+[00:02:04] cqd-aFl9 ATTACK: riotscopez/(/(Bluespace Technician)) attacked Athirson/(/(Robin Blessig)) with shock maul (INTENT: HARM) (DAMTYE: BRUTE)
+[00:02:04] cqd-aFl9 EMOTE: Robin Blessig/Athirson : screams!
+[00:02:04] cqd-aFl9 EMOTE: Robin Blessig/Athirson : <B>Robin Blessig</B> screams!
+[00:02:04] cqd-aFl9 EMOTE: Robin Blessig/Athirson : screams!
+[00:02:04] cqd-aFl9 EMOTE: Robin Blessig/Athirson : <B>Robin Blessig</B> screams!
+[00:02:05] cqd-aFl9 ATTACK: Athirson/(/(Robin Blessig)) attacked riotscopez/(/(Bluespace Technician)) with dagger (INTENT: HELP) (DAMTYE: BRUTE)
+[00:02:10] cqd-aFl9 SAY: Durable Kraftwerk Roach/ : 10101010011100010101.
+[00:02:11] cqd-aFl9 SAY: Biosilicified Kraftwerk Roach/ : 10101010011100010101.
+[00:02:12] cqd-aFl9 ATTACK: riotscopez/(/(Bluespace Technician)) attacked Athirson/(/(Robin Blessig)) with shock maul (INTENT: HARM) (DAMTYE: BRUTE)
+[00:02:12] cqd-aFl9 EMOTE: Robin Blessig/Athirson : screams!
+[00:02:21] cqd-aFl9 ATTACK: riotscopez/(/(Bluespace Technician)) attempted to remove a service radio headset from Athirson/(/(Robin Blessig)) (INTENT: HARM) (<A HREF='?_src_=holder;adminplayerobservecoodjump=1;X=123;Y=137;Z=3'>JMP</a>)
+[00:02:22] cqd-aFl9 ATTACK: riotscopez/(/(Bluespace Technician)) attempted to remove a purple beret from Athirson/(/(Robin Blessig)) (INTENT: HARM) (<A HREF='?_src_=holder;adminplayerobservecoodjump=1;X=123;Y=137;Z=3'>JMP</a>)
+[00:02:23] cqd-aFl9 ATTACK: riotscopez/(/(Bluespace Technician)) attempted to remove a purple beret from Athirson/(/(Robin Blessig)) (INTENT: HARM) (<A HREF='?_src_=holder;adminplayerobservecoodjump=1;X=123;Y=137;Z=3'>JMP</a>)
+[00:02:23] cqd-aFl9 ATTACK: riotscopez/(/(Bluespace Technician)) attempted to remove some custodian's jackboots from Athirson/(/(Robin Blessig)) (INTENT: HARM) (<A HREF='?_src_=holder;adminplayerobservecoodjump=1;X=123;Y=137;Z=3'>JMP</a>)
+[00:02:24] cqd-aFl9 ATTACK: riotscopez/(/(Bluespace Technician)) attempted to remove a grey satchel from Athirson/(/(Robin Blessig)) (INTENT: HARM) (<A HREF='?_src_=holder;adminplayerobservecoodjump=1;X=123;Y=137;Z=3'>JMP</a>)
+[00:02:24] cqd-aFl9 ATTACK: riotscopez/(/(Bluespace Technician)) attempted to remove PDA-Robin Blessig (Janitor) from Athirson/(/(Robin Blessig)) (INTENT: HARM) (<A HREF='?_src_=holder;adminplayerobservecoodjump=1;X=123;Y=137;Z=3'>JMP</a>)
+[00:02:25] cqd-aFl9 ATTACK: riotscopez/(/(Bluespace Technician)) attempted to remove an opifex black tool webbing from Athirson/(/(Robin Blessig)) (INTENT: HARM) (<A HREF='?_src_=holder;adminplayerobservecoodjump=1;X=123;Y=137;Z=3'>JMP</a>)
+[00:02:26] cqd-aFl9 ATTACK: riotscopez/(/(Bluespace Technician)) attempted to remove some thick gloves from Athirson/(/(Robin Blessig)) (INTENT: HARM) (<A HREF='?_src_=holder;adminplayerobservecoodjump=1;X=123;Y=137;Z=3'>JMP</a>)
+[00:02:27] cqd-aFl9 ATTACK: riotscopez/(/(Bluespace Technician)) attempted to remove a service cloak from Athirson/(/(Robin Blessig)) (INTENT: HARM) (<A HREF='?_src_=holder;adminplayerobservecoodjump=1;X=123;Y=137;Z=3'>JMP</a>)
+[00:02:28] cqd-aFl9 ATTACK: riotscopez/(/(Bluespace Technician)) attempted to remove a janitor's jumpsuit from Athirson/(/(Robin Blessig)) (INTENT: HARM) (<A HREF='?_src_=holder;adminplayerobservecoodjump=1;X=123;Y=137;Z=3'>JMP</a>)
+[00:02:53] cqd-aFl9 SAY: Durable Kraftwerk Roach/ : 10101010011100010101.
+[00:03:09] cqd-aFl9 SAY: Durable Kraftwerk Roach/ : 10101010011100010101.
+[00:03:09] cqd-aFl9 ADMIN: riotscopez/(/(Bluespace Technician)) healed / revived Athirson/(/(Robin Blessig))
+[00:03:15] cqd-aFl9 ATTACK: riotscopez/(/(Bluespace Technician)) has punched riotscopez/(/(Bluespace Technician))
+[00:03:20] cqd-aFl9 ADMIN: riotscopez/(/(Bluespace Technician)) has Bluespace Technician Teleported Out (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=125;Y=137;Z=3'>JMP</a>)
+[00:03:20] cqd-aFl9 EMOTE: Bluespace Technician/riotscopez : <B>Bluespace Technician</B> presses a button on their suit, followed by a polite bow.
+[00:03:20] cqd-aFl9 ACCESS: Logout: *no key*/(/(Bluespace Technician))
+[00:03:20] cqd-aFl9 ACCESS: Login: riotscopez/(/(Arnie Matthews)) from 146.115.147.185-1871707424 || BYOND v514
+[00:03:20] cqd-aFl9 SAY: Robin Blessig/Athirson : Guh.
+[00:03:35] cqd-aFl9 SAY: Robin Blessig/Athirson : I&#39;m a.. FREE BIRD!
+[00:03:43] cqd-aFl9 ADMIN: SubtlePM: riotscopez/(/(riotscopez BSTech)) -> Athirson/(/(Robin Blessig)) : Explotano
+[00:04:24] cqd-aFl9 DEBUG: Moved - the combat drone was deleted while still being listened to by /datum/effect/effect/system/trail/ion.
+[00:04:57] cqd-aFl9 DEBUG: Moved - the combat drone was deleted while still being listened to by /datum/effect/effect/system/trail/ion.
+[00:05:52] cqd-aFl9 ADMIN: Athirson/(/(Robin Blessig)) used their Smuggled Patch Kit perk. (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=84;Y=113;Z=4'>JMP</a>)
+[00:06:02] cqd-aFl9 ACCESS: Logout: *no key*/(/(riotscopez BSTech))
+[00:06:02] cqd-aFl9 ACCESS: Login: riotscopez/(/(Malachi McDonohugh)) from 146.115.147.185-1871707424 || BYOND v514
+[00:06:02] cqd-aFl9 DEBUG: Could not find style "ErisStyle" for /mob/living/carbon/human/bst.
+[00:06:02] cqd-aFl9 DEBUG: Runtime in asset_transport.dm,90: Invalid argument: client: `` <A HREF='?_src_=holder;viewruntime=[0x210f88d3]'>[view]</A>
+[00:06:02] cqd-aFl9 ADMIN: *no key*/(/(riotscopez BSTech)) has become a Bluespace Technician <A HREF='?_src_=holder;adminplayerobservecoodjump=1;X=124;Y=150;Z=4'>Colony Meadow | 124, 150, 4</a> User:RiotScopez (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=124;Y=150;Z=4'>JMP</a>)
+[00:06:02] cqd-aFl9 ADMIN: Bluespace Tech Spawned: X:124 Y:150 Z:4 User:RiotScopez
+[00:06:32] cqd-aFl9 SAY: Bluespace Technician/riotscopez : Explotano.
+[00:06:34] cqd-aFl9 ADMIN: riotscopez/(/(Bluespace Technician)) Bluespace Technician has died at the reinforced floor. (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=83;Y=114;Z=4'>JMP</a>)
+[00:06:35] cqd-aFl9 ADMIN: riotscopez/(/(Bluespace Technician)) Bluespace Technician has died at the reinforced floor. (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=83;Y=114;Z=4'>JMP</a>)
+[00:06:35] cqd-aFl9 ADMIN: riotscopez/(/(Bluespace Technician)) used gibself.
+[00:06:36] cqd-aFl9 ACCESS: Logout: *no key*/(/(Bluespace Technician))
+[00:06:36] cqd-aFl9 ACCESS: Login: riotscopez/(/(Bluespace Technician)) from 146.115.147.185-1871707424 || BYOND v514
+[00:06:41] cqd-aFl9 SAY: Robin Blessig/Athirson : Holy fuck.
+[00:06:47] cqd-aFl9 SAY: Robin Blessig/Athirson : I am one sturdy birb.
+[00:06:54] cqd-aFl9 ADMIN: riotscopez/(/(Bluespace Technician)) deleted Bluespace Technician at (86,114,4)
+[00:06:59] cqd-aFl9 ADMIN: riotscopez/(/(Bluespace Technician)) deleted the stablized bag of holding at (84,114,4)
+[00:07:10] cqd-aFl9 OOC: Bluespace Technician/RiotScopez : I have Explotano
+[00:07:16] cqd-aFl9 ADMIN: Athirson/(/(Robin Blessig)) used their Smuggled Circuit perk. (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=70;Y=126;Z=4'>JMP</a>)
+[00:07:36] cqd-aFl9 OOC: Robin Blessig/Athirson : you did
+[00:07:54] cqd-aFl9 OOC: Robin Blessig/Athirson : I survive as a free birb!
+[00:08:41] cqd-aFl9 SAY: Kraftwerk Roach/ : 10101010011100010101.
+[00:09:05] cqd-aFl9 ADMIN: riotscopez/(/(Bluespace Technician)) spawned /mob/living/simple_animal/hostile/dino at (175,88,9) (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=175;Y=88;Z=9'>JMP</a>)
+[00:09:25] cqd-aFl9 ADMIN: riotscopez/(/(Bluespace Technician)) spawned /obj/random/mob/render at (175,88,9) (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=175;Y=88;Z=9'>JMP</a>)
+[00:09:30] cqd-aFl9 ADMIN: riotscopez/(/(Bluespace Technician)) deleted the primal render at (176,86,9)
+[00:10:23] cqd-aFl9 ADMIN: riotscopez/(/(Bluespace Technician)) spawned /obj/item/tool/multitool/advanced/onestar at (175,88,9) (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=175;Y=88;Z=9'>JMP</a>)
+[00:10:45] cqd-aFl9 DEBUG: passed list to getStat(), statName without a list: /list
+[00:10:52] cqd-aFl9 ADMIN: riotscopez/(/(Bluespace Technician)) spawned /obj/item/tool/robotic_omni_surgery at (175,88,9) (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=175;Y=88;Z=9'>JMP</a>)
+[00:10:56] cqd-aFl9 SAY: grey baby slime (931)/ : Brother...
+[00:11:54] cqd-aFl9 DEBUG: passed list to getStat(), statName without a list: /list
+[00:11:56] cqd-aFl9 GAME: Explosion with size (0, 1, 2) in area Underground Floor 1 West Maintenance 
+[00:11:56] cqd-aFl9 DEBUG: Runtime in benzin.dm,43: Cannot execute null.get reagent amount(). <A HREF='?_src_=holder;viewruntime=[0x210f8c65]'>[view]</A>
+[00:12:16] cqd-aFl9 ATTACK: Athirson/(/(Robin Blessig)) attacked *no key*/(/(Old Pomoshchnik termite)) with junk shovel (INTENT: HELP) (DAMTYE: BRUTE)
+[00:12:17] cqd-aFl9 ATTACK: Athirson/(/(Robin Blessig)) attacked *no key*/(/(Old Pomoshchnik termite)) with junk shovel (INTENT: HELP) (DAMTYE: BRUTE)
+[00:12:18] cqd-aFl9 ATTACK: Athirson/(/(Robin Blessig)) attacked *no key*/(/(Old Pomoshchnik termite)) with junk shovel (INTENT: HELP) (DAMTYE: BRUTE)
+[00:12:19] cqd-aFl9 ATTACK: Athirson/(/(Robin Blessig)) attacked *no key*/(/(Pushka termite)) with junk shovel (INTENT: HELP) (DAMTYE: BRUTE)
+[00:12:19] cqd-aFl9 ATTACK: Athirson/(/(Robin Blessig)) attacked *no key*/(/(Pushka termite)) with junk shovel (INTENT: HELP) (DAMTYE: BRUTE)
+[00:12:20] cqd-aFl9 ATTACK: Athirson/(/(Robin Blessig)) attacked *no key*/(/(Pushka termite)) with junk shovel (INTENT: HELP) (DAMTYE: BRUTE)
+[00:12:21] cqd-aFl9 ATTACK: Athirson/(/(Robin Blessig)) attacked *no key*/(/(Pushka termite)) with junk shovel (INTENT: HELP) (DAMTYE: BRUTE)
+[00:12:23] cqd-aFl9 ATTACK: Athirson/(/(Robin Blessig)) attacked *no key*/(/(Pushka termite)) with junk shovel (INTENT: HELP) (DAMTYE: BRUTE)
+[00:12:23] cqd-aFl9 ATTACK: Athirson/(/(Robin Blessig)) attacked *no key*/(/(Pushka termite)) with junk shovel (INTENT: HELP) (DAMTYE: BRUTE)
+[00:12:31] cqd-aFl9 SAY: Robin Blessig/Athirson : Amen.
+[00:13:39] cqd-aFl9 GAME: Bluespace Technician/riotscopez used abandon mob.
+[00:13:39] cqd-aFl9 ACCESS: Logout: *no key*/(/(Bluespace Technician))
+[00:13:39] cqd-aFl9 ACCESS: Login: riotscopez/(/(new player)) from 146.115.147.185-1871707424 || BYOND v514
+[00:13:40] cqd-aFl9 ACCESS: Login: riotscopez/(/(new player)) from 146.115.147.185-1871707424 || BYOND v514
+[00:13:40] cqd-aFl9 DEBUG: Could not find style "ErisStyle" for /mob/new_player.
+[00:13:43] cqd-aFl9 ADMIN: riotscopez/(/(new player)) riotscopez/(/(new player)) has loaded a character.
+[00:13:49] cqd-aFl9 GAME: Explosion with size (-1, 0, 1) in area Deep Maintenance 
+[00:14:01] cqd-aFl9 ACCESS: Logout: *no key*/(/(new player))
+[00:14:01] cqd-aFl9 ACCESS: Login: riotscopez/(/(Karina Isaman)) from 146.115.147.185-1871707424 || BYOND v514
+[00:14:01] cqd-aFl9 DEBUG: Could not find style "ErisStyle" for /mob/living/carbon/human.
+[00:14:02] cqd-aFl9 DEBUG: Creating records for Karina Isaman
+[00:14:47] cqd-aFl9 ADMIN: riotscopez/(/(Karina Isaman)) deleted the grey duffel bag at (0,0,0)
+[00:14:53] cqd-aFl9 SAY: Robin Blessig/Athirson : No explotano?
+[00:15:02] cqd-aFl9 EMOTE: Robin Blessig/Athirson : shrugs.
+[00:15:02] cqd-aFl9 EMOTE: Robin Blessig/Athirson : <B>Robin Blessig</B> shrugs.
+[00:15:41] cqd-aFl9 ADMIN: RiotScopez/(/(Karina Isaman)) modified Karina Isaman's ID Card ()'s name to Karina Isaman's ID Card (Void Wolves Operator)
+[00:16:51] cqd-aFl9 ADMIN: riotscopez/(/(Karina Isaman)) jumped to the Outdoors - Pad
+[00:17:01] cqd-aFl9 ADMIN: riotscopez/(/(Karina Isaman)) jumped to 164,95,4 in Forest
+[00:18:15] cqd-aFl9 ADMIN: riotscopez/(/(Karina Isaman)) jumped to 99,103,4 in the Outdoors - Pad
+[00:18:19] cqd-aFl9 ATTACK: Athirson/(/(Robin Blessig)) attacked Athirson/(/(Robin Blessig)) with "Havelock" revolver (INTENT: HELP) (DAMTYE: BRUTE)
+[00:19:05] cqd-aFl9 ATTACK: riotscopez/(/(Karina Isaman)) attacked *no key*/(/(Durable Fuhrer Roach)) with "Cog" laser carbine (Wielded) (INTENT: HELP) (DAMTYE: BRUTE)
+[00:19:06] cqd-aFl9 GAME: Explosion with size (-1, 1, 2) in area Deep Maintenance 
+[00:19:27] cqd-aFl9 ADMIN: EVENT APC damage triggered at <A HREF='?_src_=holder;adminplayerobservecoodjump=1;X=70;Y=129;Z=2'>Ameridian Lab | 70, 129, 2</a>,
+[00:19:27] cqd-aFl9 DEBUG: Event 'Event Manager' has completed at 22:38.
+[00:19:32] cqd-aFl9 ACCESS: Logout: *no key*/(/(Karina Isaman))
+[00:19:32] cqd-aFl9 ACCESS: Login: riotscopez/(/(Karina Isaman)) from 146.115.147.185-1871707424 || BYOND v514
+[00:19:39] cqd-aFl9 ADMIN: riotscopez/(/(Karina Isaman)) deleted Karina Isaman at (101,151,4)
+[00:19:44] cqd-aFl9 ADMIN: riotscopez/(/(Karina Isaman)) deleted Karina Isaman's ID Card (Void Wolves Operator) at (101,151,4)
+[00:20:03] cqd-aFl9 SAY: grey baby slime (399)/ : Brother...
+[00:20:29] cqd-aFl9 ADMIN: riotscopez/(/(Karina Isaman)) jumped to the Raider Base
+[00:20:44] cqd-aFl9 DEBUG: passed list to getStat(), statName without a list: /list
+[00:20:56] cqd-aFl9 ATTACK: Athirson/(/(Robin Blessig)) attacked Athirson/(/(Robin Blessig)) with pile of credits (INTENT: HELP) (DAMTYE: BRUTE)
+[00:21:01] cqd-aFl9 SAY: Robin Blessig/Athirson : Wowie I&#39;m rich.
+[00:21:08] cqd-aFl9 ADMIN: riotscopez/(/(Karina Isaman)) jumped to HuT Cell 1
+[00:21:44] cqd-aFl9 SAY: *no key*/(/(rat (3))) squeals! 
+[00:22:36] cqd-aFl9 SAY: Kraftwerk Roach/ : 10101010011100010101.
+[00:22:39] cqd-aFl9 ACCESS: Logout: RiotScopez/(/(Karina Isaman))
+[00:22:39] cqd-aFl9 ACCESS: Logout: riotscopez[DC]/(/(Karina Isaman))
+[00:22:56] cqd-aFl9 SAY: *no key*/(/(rat (14))) squeals! 
+[00:23:16] cqd-aFl9 ATTACK: Athirson/(/(Robin Blessig)) attacked *no key*/(/(Lustrous cloaker spider)) with junk shovel (INTENT: HELP) (DAMTYE: BRUTE)
+[00:23:17] cqd-aFl9 ATTACK: Athirson/(/(Robin Blessig)) attacked *no key*/(/(Lustrous cloaker spider)) with junk shovel (INTENT: HELP) (DAMTYE: BRUTE)
+[00:23:19] cqd-aFl9 ATTACK: Athirson/(/(Robin Blessig)) attacked *no key*/(/(Lustrous cloaker spider)) with junk shovel (INTENT: HELP) (DAMTYE: BRUTE)
+[00:24:17] cqd-aFl9 ATTACK: Athirson/(/(Robin Blessig)) attacked *no key*/(/(giant frog)) with junk shovel (INTENT: HELP) (DAMTYE: BRUTE)
+[00:24:18] cqd-aFl9 ATTACK: Athirson/(/(Robin Blessig)) attacked *no key*/(/(giant frog)) with junk shovel (INTENT: HELP) (DAMTYE: BRUTE)
+[00:24:23] cqd-aFl9 ATTACK: Athirson/(/(Robin Blessig)) attacked *no key*/(/(giant frog)) with junk shovel (INTENT: HELP) (DAMTYE: BRUTE)
+[00:24:31] cqd-aFl9 ATTACK: Athirson/(/(Robin Blessig)) attacked *no key*/(/(giant frog)) with junk shovel (INTENT: HELP) (DAMTYE: BRUTE)
+[00:24:32] cqd-aFl9 ATTACK: Athirson/(/(Robin Blessig)) attacked *no key*/(/(giant frog)) with junk shovel (INTENT: HELP) (DAMTYE: BRUTE)
+[00:24:40] cqd-aFl9 ATTACK: Athirson/(/(Robin Blessig)) attacked *no key*/(/(giant frog)) with junk shovel (INTENT: HELP) (DAMTYE: BRUTE)
+[00:24:41] cqd-aFl9 ATTACK: Athirson/(/(Robin Blessig)) attacked *no key*/(/(giant frog)) with junk shovel (INTENT: HELP) (DAMTYE: BRUTE)
+[00:24:50] cqd-aFl9 ATTACK: Athirson/(/(Robin Blessig)) used the autoinjector (inaprovaline) to inject inaprovaline (5u) (5u transferred) into Athirson/(/(Robin Blessig)) (INTENT: HELP) (<A HREF='?_src_=holder;adminplayerobservecoodjump=1;X=71;Y=16;Z=4'>JMP</a>)
+[00:25:02] cqd-aFl9 ATTACK: Athirson/(/(Robin Blessig)) attacked *no key*/(/(Biosilicified Pushka termite)) with junk shovel (INTENT: HELP) (DAMTYE: BRUTE)
+[00:25:04] cqd-aFl9 ATTACK: Athirson/(/(Robin Blessig)) attacked *no key*/(/(Biosilicified Pushka termite)) with junk shovel (INTENT: HELP) (DAMTYE: BRUTE)
+[00:25:06] cqd-aFl9 ATTACK: Athirson/(/(Robin Blessig)) attacked *no key*/(/(Biosilicified Pushka termite)) with junk shovel (INTENT: HELP) (DAMTYE: BRUTE)
+[00:25:06] cqd-aFl9 ATTACK: Athirson/(/(Robin Blessig)) attacked *no key*/(/(Biosilicified Pushka termite)) with junk shovel (INTENT: HELP) (DAMTYE: BRUTE)
+[00:25:07] cqd-aFl9 ATTACK: Athirson/(/(Robin Blessig)) attacked *no key*/(/(Biosilicified Pushka termite)) with junk shovel (INTENT: HELP) (DAMTYE: BRUTE)
+[00:25:45] cqd-aFl9 GAME: Explosion with size (-1, 1, 2) in area Deep Maintenance 
+[00:25:51] cqd-aFl9 SAY: grey baby slime (208)/ : Brother...
+[00:26:42] cqd-aFl9 ADMIN: EVENT Robin Blessig is affected by breakdown Desire for Chrome with duration 1800 seconds.
+[00:28:51] cqd-aFl9 EMOTE: Unknown/Athirson : gasps!
+[00:28:51] cqd-aFl9 EMOTE: Unknown/Athirson : <B>Unknown</B> gasps!
+[00:28:58] cqd-aFl9 EMOTE: Unknown/Athirson : gasps!
+[00:28:58] cqd-aFl9 EMOTE: Unknown/Athirson : <B>Unknown</B> gasps!
+[00:29:03] cqd-aFl9 ADMIN: EVENT Unknown has died at the wooden floor.
+[00:29:06] cqd-aFl9 ADMIN: Athirson/(/(Robin Blessig)) Unknown is no longer affected by Desire for Chrome (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=55;Y=25;Z=4'>JMP</a>)
+[00:29:06] cqd-aFl9 ACCESS: Logout: *no key*/(/(Robin Blessig))
+[00:29:06] cqd-aFl9 ACCESS: Login: athirson/(/(Robin Blessig)) from 189.113.253.210-1848351067 || BYOND v514
+[00:29:10] cqd-aFl9 SAY: grey baby slime (206)/ : Rawr...
+[00:30:14] cqd-aFl9 ACCESS: Logout: Athirson/(/(Robin Blessig))
+[00:30:14] cqd-aFl9 ACCESS: Logout: athirson[DC]/(/(Robin Blessig))
+[00:36:15] cqd-aFl9 SAY: grey baby slime (206)/ : I want to eat...
+[00:37:18] cqd-aFl9 SAY: grey baby slime (399)/ : Rawr...
+[00:37:42] cqd-aFl9 SAY: grey baby slime (208)/ : I want to eat...
+[00:39:06] cqd-aFl9 SAY: grey baby slime (208)/ : I want to eat...
+[00:39:58] cqd-aFl9 SAY: grey baby slime (399)/ : Blop...
+[00:43:29] cqd-aFl9 SAY: grey baby slime (931)/ : Brother...
+[00:43:49] cqd-aFl9 SAY: grey baby slime (399)/ : Where is the food?
+[00:44:45] cqd-aFl9 SAY: grey baby slime (399)/ : Blop...
+[00:47:10] cqd-aFl9 SAY: grey baby slime (208)/ : Rawr...
+[00:48:28] cqd-aFl9 SAY: *no key*/(/(rat (130))) squeals! 
+[00:51:36] cqd-aFl9 SAY: grey baby slime (206)/ : I want to eat...
+[00:53:20] cqd-aFl9 SAY: grey baby slime (208)/ : I want to eat...
+[00:54:07] cqd-aFl9 SAY: grey baby slime (399)/ : Brother...
+[00:56:00] cqd-aFl9 SAY: grey baby slime (931)/ : I want to eat...
+[00:56:25] cqd-aFl9 SAY: *no key*/(/(rat (234))) squeals! 
+[00:57:12] cqd-aFl9 ADMIN: EVENT Infestation Spiderling Infestation sending mobs to <A HREF='?_src_=holder;adminplayerobservecoodjump=1;X=118;Y=101;Z=4'>Outdoors - Pad | 118, 101, 4</a>
+[00:57:12] cqd-aFl9 ADMIN: EVENT Infestation Spiderling Infestation sending mobs to <A HREF='?_src_=holder;adminplayerobservecoodjump=1;X=96;Y=183;Z=3'>Blackshield - Armory | 96, 183, 3</a>
+[00:57:53] cqd-aFl9 SAY: Kraftwerk Roach/ : 10101010011100010101.
+[01:00:11] cqd-aFl9 DEBUG: Event 'Event Manager' has completed at 23:19.
+[01:00:19] cqd-aFl9 GAME: [Server] No players were on a server last 30 minutes, restarting server...
+[01:00:20] cqd-aFl9 GAME: MC crashed or runtimed, restarting
