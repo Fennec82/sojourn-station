@@ -7342,7 +7342,7 @@
 /obj/machinery/door/airlock/glass{
 	id_tag = "psychcell1";
 	name = "Cell 1";
-	req_access = list(64)
+	req_one_access = list(5,45)
 	},
 /obj/machinery/atmospherics/pipe/simple/hidden/supply,
 /obj/machinery/atmospherics/pipe/simple/hidden/scrubbers,
@@ -28119,6 +28119,9 @@
 "fpe" = (
 /obj/item/modular_computer/console/preset/trade{
 	dir = 8
+	},
+/obj/machinery/light_switch{
+	pixel_y = 30
 	},
 /turf/simulated/floor/tiled/dark/gray_platform,
 /area/nadezhda/crew_quarters/hydroponics)
@@ -57299,14 +57302,12 @@
 /turf/simulated/wall,
 /area/colony)
 "kUJ" = (
-/obj/machinery/light_switch{
-	dir = 8;
-	pixel_x = 32
+/obj/effect/decal/cleanable/dirt,
+/obj/structure/celler{
+	pixel_y = 32
 	},
-/obj/effect/decal/cleanable/dirt,
-/obj/effect/decal/cleanable/dirt,
-/turf/simulated/floor/tiled/dark/gray_platform,
-/area/nadezhda/crew_quarters/hydroponics)
+/turf/simulated/floor/tiled/cafe,
+/area/nadezhda/crew_quarters/kitchen)
 "kUL" = (
 /obj/effect/decal/cleanable/dirt,
 /turf/simulated/floor/tiled/white/brown_perforated,
@@ -88548,7 +88549,7 @@
 /obj/machinery/door/airlock/glass{
 	id_tag = "psychcell2";
 	name = "Cell 2";
-	req_access = list(64)
+	req_one_access = list(5,45)
 	},
 /obj/machinery/atmospherics/pipe/simple/hidden/scrubbers,
 /obj/machinery/atmospherics/pipe/simple/hidden/supply,
@@ -111454,7 +111455,7 @@
 /obj/machinery/door/airlock/glass{
 	id_tag = "psychcell3";
 	name = "Cell 3";
-	req_access = list(64)
+	req_one_access = list(5,45)
 	},
 /obj/machinery/atmospherics/pipe/simple/hidden/scrubbers,
 /obj/machinery/atmospherics/pipe/simple/hidden/supply,
@@ -111527,6 +111528,10 @@
 /obj/structure/table/rack/shelf,
 /obj/item/reagent_containers/glass/bucket,
 /obj/item/mop,
+/obj/structure/celler{
+	pixel_x = -32
+	},
+/obj/item/stamp/denied,
 /turf/simulated/floor/tiled/cafe,
 /area/nadezhda/crew_quarters/kitchen)
 "veX" = (
@@ -190132,7 +190137,7 @@ xmy
 fpe
 kjI
 mFN
-kUJ
+mFN
 riD
 rss
 cuH
@@ -191336,7 +191341,7 @@ bbM
 tSY
 tNQ
 bCN
-uEj
+kUJ
 spn
 gmt
 dnw
