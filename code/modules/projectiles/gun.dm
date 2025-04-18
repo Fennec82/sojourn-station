@@ -145,6 +145,8 @@ For the sake of consistency, I suggest always rounding up on even values when ap
 	var/serial_type = "INDEX" // Index will be used for detective scanners, if there is a serial type , the gun will add a number onto its final , if none , it won;'t show on examine
 	var/serial_shown = TRUE
 
+	var/pickup_recoil = 20
+
 	var/overcharge_timer //Holds ref to the timer used for overcharging
 	var/overcharge_timer_step = 1 SECOND
 	var/overcharge_rate = 1 //Base overcharge additive rate for the gun
@@ -585,7 +587,8 @@ For the sake of consistency, I suggest always rounding up on even values when ap
 		if(istype(projectile, /obj/item/projectile))
 			var/obj/item/projectile/P = projectile
 			P.adjust_damages(proj_damage_adjust)
-			P.serial_type_index_bullet = serial_type
+			if(!P.serial_type_index_bullet == "")
+				P.serial_type_index_bullet = serial_type
 
 		if(pointblank)
 			process_point_blank(projectile, user, target)
@@ -686,14 +689,18 @@ For the sake of consistency, I suggest always rounding up on even values when ap
 		if(muzzle_flash)
 			set_light(muzzle_flash)
 
-	kickback(user, P)
+	kickback(user, P, 0)
 	user.handle_recoil(src)
 	update_icon()
 
-/obj/item/gun/proc/kickback(mob/living/user, obj/item/projectile/P)
+/obj/item/gun/proc/kickback(mob/living/user, obj/item/projectile/P, hard_recoil = 0)
 	var/base_recoil = recoil.getRating(RECOIL_BASE)
 	var/brace_recoil = 0
 	var/unwielded_recoil = 0
+	var/proj_recoil = 0
+
+	if(P)
+		proj_recoil = P.recoil
 
 	if(!braced)
 		brace_recoil = recoil.getRating(RECOIL_TWOHAND)
@@ -729,7 +736,7 @@ For the sake of consistency, I suggest always rounding up on even values when ap
 			if(1.2 to INFINITY)
 				to_chat(user, SPAN_WARNING("You struggle to keep \the [src] on target while carrying it!"))
 */
-	user.handle_recoil(src, (base_recoil + brace_recoil + unwielded_recoil) * P.recoil)
+	user.handle_recoil(src, (base_recoil + brace_recoil + unwielded_recoil + hard_recoil) * proj_recoil)
 
 /obj/item/gun/proc/process_point_blank(var/obj/item/projectile/P, mob/user, atom/target)
 	if(!istype(P))
@@ -1128,6 +1135,15 @@ For the sake of consistency, I suggest always rounding up on even values when ap
 /obj/item/gun/pickup(mob/user)
 	. = ..()
 	update_firemode()
+	if(isliving(user))
+		var/mob/living/L = user
+		L.external_recoil(pickup_recoil) //Picking up guns gives you a lot of recoil
+
+/obj/item/gun/equipped(mob/user)
+	..()
+	if(isliving(user))
+		var/mob/living/L = user
+		L.external_recoil(pickup_recoil) //Picking up guns gives you a lot of recoil
 
 /obj/item/gun/dropped(mob/user)
 	// I really fucking hate this but this is how this is going to work.
@@ -1363,6 +1379,8 @@ For the sake of consistency, I suggest always rounding up on even values when ap
 	extra_bulk = initial(extra_bulk)
 
 	recoil = getRecoil(init_recoil[1], init_recoil[2], init_recoil[3])
+
+	pickup_recoil = initial(pickup_recoil)
 
 	braced = initial(braced)
 
