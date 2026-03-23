@@ -131,6 +131,7 @@
 	var/predetermed = null //Used for NPCs to sudo rng, uses define zones directly
 
 	var/steel_rain = 0
+	var/entanglement_level = 0
 
 /obj/item/projectile/New()
 
@@ -215,6 +216,7 @@
 			L.IgniteMob()
 			src.visible_message(SPAN_WARNING("\The [src] sets [target] on fire!"))
 		L.apply_effects(stun, weaken, paralyze, irradiate, stutter, eyeblur, drowsy)
+		L.entanglement += entanglement_level
 	return TRUE
 
 // generate impact effect
@@ -241,9 +243,9 @@
 */
 /obj/item/projectile/proc/get_structure_damage(var/injury_type)
 	if(!injury_type) // Assume homogenous
-		return (damage_types[BRUTE] + damage_types[BURN]) * wound_check(INJURY_TYPE_HOMOGENOUS, wounding_mult, edge, sharp) * 2
+		return (damage_types[BRUTE] + damage_types[BURN]) * wound_check(INJURY_TYPE_HOMOGENOUS, wounding_mult, edge, sharp) * structure_damage_factor
 	else
-		return (damage_types[BRUTE] + damage_types[BURN]) * wound_check(injury_type, wounding_mult, edge, sharp) * 2
+		return (damage_types[BRUTE] + damage_types[BURN]) * wound_check(injury_type, wounding_mult, edge, sharp) * structure_damage_factor
 
 //return 1 if the projectile should be allowed to pass through after all, 0 if not.
 /obj/item/projectile/proc/check_penetrate(atom/A)
@@ -1032,6 +1034,10 @@
 	current = startloc
 	yo = targloc.y - startloc.y + y_offset
 	xo = targloc.x - startloc.x + x_offset
+
+	//Used for cover mechanics
+	//This also ensures that are bullet direction is legitment with redirected bullets from walls
+	dir = get_dir(startloc, targloc)
 
 	// plot the initial trajectory
 	trajectory = new()

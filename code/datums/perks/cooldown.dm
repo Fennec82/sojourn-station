@@ -108,7 +108,7 @@
 		if(H.mob_ablative_armor <= 0)
 			H.mob_ablative_armor = 0
 
-	if(isanimal(holder))
+	if(istype(holder, /mob/living/simple/hostile))
 		var/mob/living/simple/A = L
 		A.melee_damage_lower += 5
 		A.melee_damage_upper += 5
@@ -146,7 +146,7 @@
 			H.mob_ablative_armor = 0
 
 
-	if(isanimal(holder))
+	if(istype(holder, /mob/living/simple/hostile))
 		var/mob/living/simple/A = holder
 		A.melee_damage_lower -= 5
 		A.melee_damage_upper -= 5
@@ -292,6 +292,17 @@
 	active = FALSE
 	passivePerk = FALSE
 
+	var/backupcall_parrent = FALSE
+
+//We override parrent do to always ticking down even on death.
+/datum/perk/cooldown/bluespace_bellclock/on_process()
+	SHOULD_CALL_PARENT(TRUE)
+
+	if((timestamp_start + perk_lifetime) < world.time)
+		holder.stats.removePerk(type)
+
+	if(backupcall_parrent)
+		..()
 
 /datum/perk/cooldown/bluespace_bellclock/assign(mob/living/carbon/human/H)
 	..()
@@ -300,6 +311,9 @@
 	linked_x = holder.x
 	linked_y = holder.y
 	linked_z = holder.z
+
+	if(holder.stats.getPerk(PERK_NO_OBFUSCATION))
+		to_chat(holder, "Going back is easy, the timer is just a suggestion, activating again to teleport early.")
 
 	if(!isturf(linked))
 		message_admins("bluespace_bellclock was unable to get a turf, this is bad!")
@@ -321,6 +335,17 @@
 		linked_z = 1
 
 /datum/perk/cooldown/bluespace_bellclock/remove()
+	//Prevents teleportation issues that are quite "common"
+	if(istype(holder.loc, /obj/machinery/sleeper))
+		var/obj/machinery/sleeper/S = holder.loc
+		S.go_out()
+	if(istype(holder.loc, /obj/structure/closet))
+		var/obj/structure/closet/C = holder.loc
+		C.break_open()
+	if(istype(holder.loc, /obj/machinery/bodyscanner))
+		var/obj/machinery/bodyscanner/BS = holder.loc
+		BS.go_out()
+
 	if(isturf(linked))
 		go_to_bluespace(holder.loc, 6, TRUE, holder, linked)
 	else
@@ -334,4 +359,64 @@
 
 	linked = null //Avoids hard del
 
+	..()
+
+/datum/perk/cooldown/bluespace_bellclock/activate()
+	var/mob/living/user = usr
+	if(!istype(user))
+		return
+
+	if(user.stats.getPerk(PERK_NO_OBFUSCATION))
+		to_chat(user, "A set time? Nonsence, you can just pull that tiny string linking yourself to that spot a few times to go back on demand!")
+		perk_lifetime -= perk_lifetime - 1
+		return TRUE
+	//We do this second for logical reasoning is weaker then authority
+	if(user.stats.getStat(STAT_COG) >= STAT_LEVEL_MASTER)
+		to_chat(user, "With some understanding on how the Telebell system works or general bluespace tracking comes easy to you, the way to force a pull back is as easy as pulling an invisible string.")
+		perk_lifetime -= perk_lifetime - 1
+		return TRUE
+
+/datum/perk/cooldown/contempt_gaze
+	name = "Contempt Gaze"
+	desc = "A gaze of malice, hatred and blood lust mixed together."
+	icon_state = "gaze"
+	perk_lifetime = 1 MINUTES //Gives enuff time for folks to make a last stand
+	gain_text = "The eyes, the blood lust, and the unrelenting contempt tords you have shaken your core."
+	lose_text = null //No need to tell the player a short debuff is gone
+
+/datum/perk/cooldown/contempt_gaze/on_process()
+	if(ishuman(holder))
+		var/mob/living/carbon/human/H = holder
+		H.recoil += 0.25
+		H.sanity.changeLevel(-0.5)
+	..()
+
+/datum/perk/cooldown/contempt_gaze/assign()
+	..()
+	if(isanimal(holder))
+		var/mob/living/simple/A = holder
+		A.melee_damage_lower -= 2
+		A.melee_damage_upper -= 2
+		A.adjustBruteLoss(5)
+
+	if(issuperioranimal(holder))
+		var/mob/living/carbon/superior/S = holder
+		S.melee_damage_lower -= 2
+		S.melee_damage_upper -= 2
+		S.blocking_slowdown += 1
+		S.adjustBruteLoss(5)
+
+/datum/perk/cooldown/contempt_gaze/remove(mob/living/L)
+	if(isanimal(holder))
+		var/mob/living/simple/A = L
+		A.melee_damage_lower += 2
+		A.melee_damage_upper += 2
+		A.adjustBruteLoss(5)
+
+	if(issuperioranimal(holder))
+		var/mob/living/carbon/superior/S = L
+		S.melee_damage_lower += 2
+		S.melee_damage_upper += 2
+		S.blocking_slowdown -= 1
+		S.adjustBruteLoss(5)
 	..()
