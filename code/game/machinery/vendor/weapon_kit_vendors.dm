@@ -83,6 +83,8 @@
 					"Watchtower Kit" = /obj/item/storage/box/bs_kit/watchtower,
 					"Duty Kit" = /obj/item/storage/box/bs_kit/duty,
 					"Cog Kit" = /obj/item/storage/box/bs_kit/cog,
+					"Warthog Omni Kit" = /obj/item/storage/box/bs_kit/rds_omnicarbine, //Chaosstation addition
+					"Vintorez DMR Kit" = /obj/item/storage/box/bs_kit/vintorez, //Chaosstation addition
 					"Ekaterina SMG Kit" = /obj/item/storage/box/bs_kit/ekaterina,
 					"Bounty Kit" = /obj/item/storage/box/bs_kit/bounty,
 					"Second Secondary" = /obj/item/voucher/blackshield/secondary)
@@ -99,6 +101,7 @@
 					"Mosin Kit" = /obj/item/storage/box/bs_kit/mosin,
 					"Duty Kit" = /obj/item/storage/box/bs_kit/duty,
 					"Cog Kit" = /obj/item/storage/box/bs_kit/cog,
+					"Vintorez DMR Kit" = /obj/item/storage/box/bs_kit/vintorez, //Chaosstation addition
 					"Lascore kit" = /obj/item/storage/box/bs_kit/lascore,
 					"Triage Kit" = /obj/item/storage/box/bs_kit/triage,
 					"Ekaterina SMG Kit" = /obj/item/storage/box/bs_kit/ekaterina,
