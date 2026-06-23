@@ -134,3 +134,10 @@
 
 	icon_state = iconstring
 	set_item_state(itemstring)
+
+/obj/item/gun/energy/sst/systemcost/preloaded
+
+/obj/item/gun/energy/sst/systemcost/preloaded/New()
+	cell = new /obj/item/cell/medium/moebius/super(src)
+	. = ..()
+	update_icon()
