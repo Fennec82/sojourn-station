@@ -138,6 +138,6 @@
 /obj/item/gun/energy/sst/systemcost/preloaded
 
 /obj/item/gun/energy/sst/systemcost/preloaded/New()
-	cell = new /obj/item/cell/medium/moebius/super(src)
+	cell = new /obj/item/cell/large/moebius/super(src)
 	. = ..()
 	update_icon()
